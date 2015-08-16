@@ -16,6 +16,26 @@
             "instructor": "Staff"
           }
         ]
+      },
+      {
+        "id": "14872",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "22/09/2015 - 01/12/2015",
+            "times": "Tu  09:00 - 10:00",
+            "room": "CTT JAMES WATT STH:354 STEVESN",
+            "instructor": "Stewart Houston, Matteo Ceriotti"
+          },
+          {
+            "period": "21/09/2015 - 30/11/2015",
+            "times": "Mo  10:00 - 11:00",
+            "room": "CTT JAMES WATT STH:354 STEVESN",
+            "instructor": "Stewart Houston, Matteo Ceriotti"
+          }
+        ]
       }
     ]
   },
@@ -280,6 +300,26 @@
             "instructor": "Scott Roy"
           }
         ]
+      },
+      {
+        "id": "14988",
+        "type": "Lecture",
+        "name": "LC02",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "24/09/2015 - 03/12/2015",
+            "times": "Th  16:00 - 17:00",
+            "room": "CTT JAMES WATT STH:354 STEVESN",
+            "instructor": "Scott Roy"
+          },
+          {
+            "period": "22/09/2015 - 01/12/2015",
+            "times": "Tu  16:00 - 17:00",
+            "room": "CTT JAMES WATT STH:354 STEVESN",
+            "instructor": "Scott Roy"
+          }
+        ]
       }
     ]
   },
@@ -296,6 +336,26 @@
           {
             "period": "TBA",
             "times": "TBA",
+            "room": "TBA",
+            "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "15418",
+        "type": "Project",
+        "name": "PJ01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "12/01/2016 - 22/03/2016",
+            "times": "Tu  13:00 - 17:00",
+            "room": "TBA",
+            "instructor": "Staff"
+          },
+          {
+            "period": "22/09/2015 - 01/12/2015",
+            "times": "Tu  13:00 - 17:00",
             "room": "TBA",
             "instructor": "Staff"
           }
@@ -390,6 +450,20 @@
             "instructor": "Staff"
           }
         ]
+      },
+      {
+        "id": "14881",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "11/01/2016 - 21/03/2016",
+            "times": "Mo  10:00 - 12:00",
+            "room": "CTT SIR ALEXANDER STONE:208 LT",
+            "instructor": "Safa Hashim"
+          }
+        ]
       }
     ]
   },
@@ -439,6 +513,26 @@
           },
           {
             "period": "18/01/2016 - 18/01/2016",
+            "times": "Mo  15:00 - 17:00",
+            "room": "JAMES WATT SOUTH:427B STUDIO",
+            "instructor": "Nicholas Andrew Ahrens"
+          }
+        ]
+      },
+      {
+        "id": "15215",
+        "type": "Tutorial",
+        "name": "TU02",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "08/02/2016 - 08/02/2016",
+            "times": "Mo  15:00 - 17:00",
+            "room": "JAMES WATT SOUTH:427B STUDIO",
+            "instructor": "Nicholas Andrew Ahrens"
+          },
+          {
+            "period": "25/01/2016 - 25/01/2016",
             "times": "Mo  15:00 - 17:00",
             "room": "JAMES WATT SOUTH:427B STUDIO",
             "instructor": "Nicholas Andrew Ahrens"
@@ -504,6 +598,38 @@
             "times": "Th  14:00 - 17:00",
             "room": "RANKINE:709 LAB",
             "instructor": "Timothy Drysdale, Scott Roy"
+          }
+        ]
+      },
+      {
+        "id": "15318",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "21/09/2015 - 30/11/2015",
+            "times": "Mo  10:00 - 11:00",
+            "room": "CTT RANKINE:408  LT",
+            "instructor": "Scott Roy"
+          },
+          {
+            "period": "23/09/2015 - 02/12/2015",
+            "times": "We  10:00 - 11:00",
+            "room": "CTT BOYD ORR:203 LEC THEATRE 1",
+            "instructor": "Scott Roy"
+          },
+          {
+            "period": "25/09/2015 - 04/12/2015",
+            "times": "Fr  10:00 - 11:00",
+            "room": "CTT BOYD ORR:222 LEC THEATRE 2",
+            "instructor": "Scott Roy"
+          },
+          {
+            "period": "22/09/2015 - 01/12/2015",
+            "times": "Tu  10:00 - 11:00",
+            "room": "CTT BOYD ORR:513 (LT D)",
+            "instructor": "Scott Roy"
           }
         ]
       }
@@ -578,6 +704,38 @@
             "times": "Th  14:00 - 17:00",
             "room": "RANKINE:709 LAB",
             "instructor": "Jonathan Weaver, Iain Thayne"
+          }
+        ]
+      },
+      {
+        "id": "14784",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "15/01/2016 - 25/03/2016",
+            "times": "Fr  10:00 - 11:00",
+            "room": "CTT JAMES WATT SOUTH:375 (J15)",
+            "instructor": "Jonathan Weaver, Iain Thayne"
+          },
+          {
+            "period": "12/01/2016 - 22/03/2016",
+            "times": "Tu  10:00 - 11:00",
+            "room": "CTT JAMES WATT SOUTH:375 (J15)",
+            "instructor": "Jonathan Weaver, Iain Thayne"
+          },
+          {
+            "period": "13/01/2016 - 23/03/2016",
+            "times": "We  10:00 - 11:00",
+            "room": "CTT MATHS BLDG:326 (2B)",
+            "instructor": "Iain Thayne, Jonathan Weaver"
+          },
+          {
+            "period": "11/01/2016 - 21/03/2016",
+            "times": "Mo  10:00 - 11:00",
+            "room": "CTT MATHS BLDG:326 (2B)",
+            "instructor": "Iain Thayne, Jonathan Weaver"
           }
         ]
       }
@@ -1176,6 +1334,26 @@
             "instructor": "Donald Ballance"
           }
         ]
+      },
+      {
+        "id": "15400",
+        "type": "Lecture",
+        "name": "LC02",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "07/10/2015 - 14/10/2015",
+            "times": "We  14:00 - 16:00",
+            "room": "CTT JAMES WATT STH:354 STEVESN",
+            "instructor": "Staff"
+          },
+          {
+            "period": "23/09/2015 - 02/12/2015",
+            "times": "We  11:00 - 12:00",
+            "room": "CTT MAIN BLD:226 EAST QUAD LT",
+            "instructor": "Aleksandra Vuckovic, Donald Ballance"
+          }
+        ]
       }
     ]
   },
@@ -1221,6 +1399,26 @@
             "period": "03/02/2016 - 23/03/2016",
             "times": "We  14:00 - 17:00",
             "room": "RANKINE:601 DRWG OFFICE",
+            "instructor": "William Sloan"
+          }
+        ]
+      },
+      {
+        "id": "14834",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "15/01/2016 - 25/03/2016",
+            "times": "Fr  10:00 - 11:00",
+            "room": "RANKINE:629 DRWG OFFICE",
+            "instructor": "William Sloan"
+          },
+          {
+            "period": "12/01/2016 - 22/03/2016",
+            "times": "Tu  10:00 - 11:00",
+            "room": "RANKINE:629 DRWG OFFICE",
             "instructor": "William Sloan"
           }
         ]
@@ -1276,6 +1474,44 @@
             "times": "Mo  09:00 - 10:00",
             "room": "JAMES WATT SOUTH:427B STUDIO",
             "instructor": "Helen Mulvana, Julien Reboud, Thomas Franke"
+          }
+        ]
+      },
+      {
+        "id": "14846",
+        "type": "Seminar",
+        "name": "SM01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "23/11/2015 - 23/11/2015",
+            "times": "Mo  13:00 - 14:00",
+            "room": "CTT RANKINE:106 LT",
+            "instructor": "Helen Mulvana, Julien Reboud, Thomas Franke"
+          },
+          {
+            "period": "09/11/2015 - 09/11/2015",
+            "times": "Mo  13:00 - 14:00",
+            "room": "CTT RANKINE:106 LT",
+            "instructor": "Julien Reboud, Thomas Franke, Helen Mulvana"
+          },
+          {
+            "period": "26/10/2015 - 26/10/2015",
+            "times": "Mo  13:00 - 14:00",
+            "room": "CTT RANKINE:106 LT",
+            "instructor": "Thomas Franke, Julien Reboud, Helen Mulvana"
+          },
+          {
+            "period": "12/10/2015 - 12/10/2015",
+            "times": "Mo  13:00 - 14:00",
+            "room": "CTT RANKINE:106 LT",
+            "instructor": "Thomas Franke, Helen Mulvana, Julien Reboud"
+          },
+          {
+            "period": "28/09/2015 - 28/09/2015",
+            "times": "Mo  13:00 - 14:00",
+            "room": "CTT RANKINE:106 LT",
+            "instructor": "Thomas Franke, Julien Reboud, Helen Mulvana"
           }
         ]
       }
@@ -1720,6 +1956,32 @@
             "instructor": "Vihar Georgiev, K Tanner"
           }
         ]
+      },
+      {
+        "id": "15365",
+        "type": "Tutorial",
+        "name": "TU08",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "26/11/2015 - 26/11/2015",
+            "times": "Th  13:00 - 14:00",
+            "room": "JAMES WATT SOUTH:427A STUDIO",
+            "instructor": "Vihar Georgiev, K Tanner"
+          },
+          {
+            "period": "05/11/2015 - 05/11/2015",
+            "times": "Th  13:00 - 14:00",
+            "room": "JAMES WATT SOUTH:427A STUDIO",
+            "instructor": "Vihar Georgiev, K Tanner"
+          },
+          {
+            "period": "15/10/2015 - 15/10/2015",
+            "times": "Th  13:00 - 14:00",
+            "room": "JAMES WATT SOUTH:427A STUDIO",
+            "instructor": "Vihar Georgiev, K Tanner"
+          }
+        ]
       }
     ]
   },
@@ -1839,6 +2101,26 @@
             "period": "12/02/2016 - 11/03/2016",
             "times": "Fr  14:00 - 17:00",
             "room": "RANKINE:739 LAB",
+            "instructor": "Peter Grassl"
+          }
+        ]
+      },
+      {
+        "id": "15396",
+        "type": "Tutorial",
+        "name": "TU01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "28/09/2015 - 28/09/2015",
+            "times": "Mo  16:00 - 17:00",
+            "room": "RANKINE:739 LAB",
+            "instructor": "William Stewart"
+          },
+          {
+            "period": "25/11/2015 - 25/11/2015",
+            "times": "We  14:00 - 15:00",
+            "room": "RANKINE:630 DRWG OFFICE",
             "instructor": "Peter Grassl"
           }
         ]
@@ -2434,6 +2716,38 @@
             "instructor": "Trevor Davies, Stewart Houston"
           }
         ]
+      },
+      {
+        "id": "15333",
+        "type": "Tutorial",
+        "name": "TU08",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "17/03/2016 - 17/03/2016",
+            "times": "Th  13:00 - 14:00",
+            "room": "JAMES WATT SOUTH:427A STUDIO",
+            "instructor": "Trevor Davies, Stewart Houston"
+          },
+          {
+            "period": "03/03/2016 - 03/03/2016",
+            "times": "Th  13:00 - 14:00",
+            "room": "JAMES WATT SOUTH:427A STUDIO",
+            "instructor": "Trevor Davies, Stewart Houston"
+          },
+          {
+            "period": "18/02/2016 - 18/02/2016",
+            "times": "Th  13:00 - 14:00",
+            "room": "JAMES WATT SOUTH:427A STUDIO",
+            "instructor": "Trevor Davies, Stewart Houston"
+          },
+          {
+            "period": "04/02/2016 - 04/02/2016",
+            "times": "Th  13:00 - 14:00",
+            "room": "JAMES WATT SOUTH:427A STUDIO",
+            "instructor": "Trevor Davies, Stewart Houston"
+          }
+        ]
       }
     ]
   },
@@ -2712,6 +3026,32 @@
             "instructor": "John Williamson"
           }
         ]
+      },
+      {
+        "id": "14763",
+        "type": "Tutorial",
+        "name": "TU05",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "11/01/2016 - 21/03/2016",
+            "times": "Mo  12:00 - 13:00",
+            "room": "RANKINE:601 DRWG OFFICE",
+            "instructor": "John Williamson"
+          },
+          {
+            "period": "02/10/2015 - 04/12/2015",
+            "times": "Fr  13:00 - 14:00",
+            "room": "RANKINE:601 DRWG OFFICE",
+            "instructor": "Donald Ballance"
+          },
+          {
+            "period": "28/09/2015 - 30/11/2015",
+            "times": "Mo  12:00 - 13:00",
+            "room": "RANKINE:601 DRWG OFFICE",
+            "instructor": "John Williamson"
+          }
+        ]
       }
     ]
   },
@@ -2762,6 +3102,26 @@
             "times": "Mo  14:00 - 17:00",
             "room": "RANKINE:709 LAB",
             "instructor": "Iain Thayne, Jonathan Weaver"
+          }
+        ]
+      },
+      {
+        "id": "15304",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "15/01/2016 - 25/03/2016",
+            "times": "Fr  10:00 - 11:00",
+            "room": "CTT JAMES WATT SOUTH:375 (J15)",
+            "instructor": "Iain Thayne, Jonathan Weaver"
+          },
+          {
+            "period": "12/01/2016 - 22/03/2016",
+            "times": "Tu  10:00 - 11:00",
+            "room": "CTT JAMES WATT SOUTH:375 (J15)",
+            "instructor": "Jonathan Weaver, Iain Thayne"
           }
         ]
       }
@@ -3092,6 +3452,32 @@
             "times": "Mo  13:00 - 14:00",
             "room": "JAMES WATT SOUTH:427A STUDIO",
             "instructor": "Margaret Lucas"
+          }
+        ]
+      },
+      {
+        "id": "14831",
+        "type": "Tutorial",
+        "name": "TU06",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "19/11/2015 - 19/11/2015",
+            "times": "Th  13:00 - 14:00",
+            "room": "JAMES WATT SOUTH:427A STUDIO",
+            "instructor": "Christopher Pearce, Margaret Lucas"
+          },
+          {
+            "period": "29/10/2015 - 29/10/2015",
+            "times": "Th  13:00 - 14:00",
+            "room": "JAMES WATT SOUTH:427A STUDIO",
+            "instructor": "Margaret Lucas, Christopher Pearce"
+          },
+          {
+            "period": "08/10/2015 - 08/10/2015",
+            "times": "Th  13:00 - 14:00",
+            "room": "JAMES WATT SOUTH:427A STUDIO",
+            "instructor": "Margaret Lucas, Christopher Pearce"
           }
         ]
       }
@@ -3576,6 +3962,32 @@
             "instructor": "Manosh Paul, Nader Karimi"
           }
         ]
+      },
+      {
+        "id": "15052",
+        "type": "Tutorial",
+        "name": "TU08",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "17/03/2016 - 17/03/2016",
+            "times": "Th  13:00 - 14:00",
+            "room": "JAMES WATT SOUTH:427B STUDIO",
+            "instructor": "Nader Karimi, Manosh Paul"
+          },
+          {
+            "period": "18/02/2016 - 18/02/2016",
+            "times": "Th  13:00 - 14:00",
+            "room": "JAMES WATT SOUTH:427B STUDIO",
+            "instructor": "Manosh Paul, Nader Karimi"
+          },
+          {
+            "period": "04/02/2016 - 04/02/2016",
+            "times": "Th  13:00 - 14:00",
+            "room": "JAMES WATT SOUTH:427B STUDIO",
+            "instructor": "Manosh Paul, Nader Karimi"
+          }
+        ]
       }
     ]
   },
@@ -3607,6 +4019,38 @@
             "period": "TBA",
             "times": "TBA",
             "room": "TBA",
+            "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "15435",
+        "type": "Tutorial",
+        "name": "TU01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "18/11/2015 - 18/11/2015",
+            "times": "We  10:00 - 11:00",
+            "room": "CTT MATHS BLDG:325 (2A)",
+            "instructor": "Staff"
+          },
+          {
+            "period": "14/01/2016 - 28/01/2016",
+            "times": "Th  11:00 - 12:00",
+            "room": "CTT MATHS BLDG:325 (2A)",
+            "instructor": "Andreas Borggrafe"
+          },
+          {
+            "period": "04/11/2015 - 04/11/2015",
+            "times": "We  10:00 - 11:00",
+            "room": "CTT MATHS BLDG:325 (2A)",
+            "instructor": "Staff"
+          },
+          {
+            "period": "28/01/2016 - 28/01/2016",
+            "times": "Th  09:00 - 10:00",
+            "room": "CTT SIR ALEXANDER STONE:208 LT",
             "instructor": "Staff"
           }
         ]
@@ -3734,6 +4178,26 @@
             "instructor": "John Williamson"
           }
         ]
+      },
+      {
+        "id": "15299",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "15/01/2016 - 25/03/2016",
+            "times": "Fr  09:00 - 10:00",
+            "room": "CTT MATHS BLDG:515 (4B)",
+            "instructor": "John Williamson"
+          },
+          {
+            "period": "12/01/2016 - 22/03/2016",
+            "times": "Tu  09:00 - 10:00",
+            "room": "CTT MATHS BLDG:515 (4B)",
+            "instructor": "John Williamson"
+          }
+        ]
       }
     ]
   },
@@ -3770,6 +4234,26 @@
           {
             "period": "23/09/2015 - 02/12/2015",
             "times": "We  13:00 - 17:00",
+            "room": "TBA",
+            "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "14923",
+        "type": "Project",
+        "name": "PJ02",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "04/02/2016 - 24/03/2016",
+            "times": "Th  13:00 - 17:00",
+            "room": "TBA",
+            "instructor": "Staff"
+          },
+          {
+            "period": "24/09/2015 - 03/12/2015",
+            "times": "Th  13:00 - 17:00",
             "room": "TBA",
             "instructor": "Staff"
           }
@@ -3820,6 +4304,26 @@
             "times": "Mo  14:00 - 16:00",
             "room": "JAMES WATT SOUTH:438 TUCK LAB",
             "instructor": "Manuel Salmeron-Sanchez, K Tanner"
+          }
+        ]
+      },
+      {
+        "id": "15151",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "15/01/2016 - 25/03/2016",
+            "times": "Fr  10:00 - 11:00",
+            "room": "CTT JAMES WATT SOUTH:355 (J10)",
+            "instructor": "K Tanner, Manuel Salmeron-Sanchez"
+          },
+          {
+            "period": "11/01/2016 - 21/03/2016",
+            "times": "Mo  11:00 - 12:00",
+            "room": "CTT RANKINE:106 LT",
+            "instructor": "K Tanner, Manuel Salmeron-Sanchez"
           }
         ]
       }
@@ -3916,6 +4420,20 @@
             "times": "Tu  10:00 - 12:00",
             "room": "JAMES WATT SOUTH:712 LAB",
             "instructor": "Manlio Tassieri"
+          }
+        ]
+      },
+      {
+        "id": "15464",
+        "type": "Tutorial",
+        "name": "TU01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "15/01/2016 - 15/01/2016",
+            "times": "Fr  12:00 - 13:00",
+            "room": "JAMES WATT SOUTH:427B STUDIO",
+            "instructor": "Ewan Russell"
           }
         ]
       }
@@ -4042,6 +4560,20 @@
             "instructor": "Staff"
           }
         ]
+      },
+      {
+        "id": "15002",
+        "type": "Tutorial",
+        "name": "TU03",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "TBA",
+            "times": "TBA",
+            "room": "TBA",
+            "instructor": "Staff"
+          }
+        ]
       }
     ]
   },
@@ -4074,6 +4606,20 @@
             "times": "Tu  14:00 - 15:00",
             "room": "CTT KELVIN:312 LT",
             "instructor": "Philip Harrison, Nicholas Andrew Ahrens"
+          }
+        ]
+      },
+      {
+        "id": "15580",
+        "type": "Tutorial",
+        "name": "TU01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "12/01/2016 - 08/03/2016",
+            "times": "Tu  15:00 - 17:00",
+            "room": "CTT KELVIN: 222 LT",
+            "instructor": "Nicholas Andrew Ahrens, Philip Harrison"
           }
         ]
       }
@@ -4139,6 +4685,26 @@
             "period": "22/10/2015 - 22/10/2015",
             "times": "Th  14:00 - 17:00",
             "room": "RANKINE:317 LAB",
+            "instructor": "David Muir"
+          }
+        ]
+      },
+      {
+        "id": "15284",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "23/09/2015 - 02/12/2015",
+            "times": "We  10:00 - 11:00",
+            "room": "CTT RANKINE:107 LT",
+            "instructor": "David Muir"
+          },
+          {
+            "period": "21/09/2015 - 30/11/2015",
+            "times": "Mo  10:00 - 11:00",
+            "room": "CTT RANKINE:108 LT",
             "instructor": "David Muir"
           }
         ]
@@ -4237,6 +4803,26 @@
             "period": "19/10/2015 - 19/10/2015",
             "times": "Mo  14:00 - 17:00",
             "room": "RANKINE:709 LAB",
+            "instructor": "John Davies"
+          }
+        ]
+      },
+      {
+        "id": "15489",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "25/09/2015 - 04/12/2015",
+            "times": "Fr  09:00 - 10:00",
+            "room": "CTT MATHS BLDG:325 (2A)",
+            "instructor": "John Davies"
+          },
+          {
+            "period": "22/09/2015 - 01/12/2015",
+            "times": "Tu  12:00 - 13:00",
+            "room": "CTT MATHS BLDG:325 (2A)",
             "instructor": "John Davies"
           }
         ]
@@ -4348,6 +4934,20 @@
             "instructor": "David Muir"
           }
         ]
+      },
+      {
+        "id": "15389",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "14/01/2016 - 24/03/2016",
+            "times": "Th  09:00 - 10:00",
+            "room": "CTT RANKINE:108 LT",
+            "instructor": "David Muir"
+          }
+        ]
       }
     ]
   },
@@ -4379,6 +4979,26 @@
             "period": "27/10/2015 - 10/11/2015",
             "times": "Tu  14:00 - 17:00",
             "room": "RANKINE:605 LAB",
+            "instructor": "Steven Neale, Huabing Yin"
+          }
+        ]
+      },
+      {
+        "id": "15445",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "24/09/2015 - 03/12/2015",
+            "times": "Th  11:00 - 12:00",
+            "room": "CTT RANKINE:107 LT",
+            "instructor": "Steven Neale, Huabing Yin"
+          },
+          {
+            "period": "23/09/2015 - 02/12/2015",
+            "times": "We  11:00 - 12:00",
+            "room": "CTT RANKINE:107 LT",
             "instructor": "Steven Neale, Huabing Yin"
           }
         ]
@@ -4451,6 +5071,26 @@
             "period": "21/03/2016 - 21/03/2016",
             "times": "Mo  14:00 - 17:00",
             "room": "RANKINE:317 LAB",
+            "instructor": "Martin Macauley"
+          }
+        ]
+      },
+      {
+        "id": "15497",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "15/01/2016 - 25/03/2016",
+            "times": "Fr  10:00 - 11:00",
+            "room": "CTT RANKINE:408  LT",
+            "instructor": "Martin Macauley"
+          },
+          {
+            "period": "12/01/2016 - 22/03/2016",
+            "times": "Tu  12:00 - 13:00",
+            "room": "CTT RANKINE:408  LT",
             "instructor": "Martin Macauley"
           }
         ]
@@ -4594,6 +5234,26 @@
             "times": "TBA",
             "room": "TBA",
             "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "14858",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "15/01/2016 - 25/03/2016",
+            "times": "Fr  11:00 - 12:00",
+            "room": "CTT RANKINE:108 LT",
+            "instructor": "David Hutchings"
+          },
+          {
+            "period": "11/01/2016 - 21/03/2016",
+            "times": "Mo  12:00 - 13:00",
+            "room": "CTT RANKINE:108 LT",
+            "instructor": "David Hutchings"
           }
         ]
       }
@@ -4896,6 +5556,26 @@
             "instructor": "Hossein Zare-Behtash"
           }
         ]
+      },
+      {
+        "id": "15228",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "11/01/2016 - 21/03/2016",
+            "times": "Mo  11:00 - 12:00",
+            "room": "CTT JAMES WATT STH:354 STEVESN",
+            "instructor": "Hossein Zare-Behtash, Craig White"
+          },
+          {
+            "period": "12/01/2016 - 22/03/2016",
+            "times": "Tu  09:00 - 10:00",
+            "room": "CTT JAMES WATT SOUTH:375 (J15)",
+            "instructor": "Craig White, Hossein Zare-Behtash"
+          }
+        ]
       }
     ]
   },
@@ -5016,6 +5696,26 @@
             "instructor": "Trevor Hodgkiess, Philip Harrison"
           }
         ]
+      },
+      {
+        "id": "14940",
+        "type": "Tutorial",
+        "name": "TU02",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "16/11/2015 - 16/11/2015",
+            "times": "Mo  12:00 - 13:00",
+            "room": "JAMES WATT SOUTH:334 STUDIO",
+            "instructor": "Philip Harrison, Trevor Hodgkiess"
+          },
+          {
+            "period": "19/10/2015 - 19/10/2015",
+            "times": "Mo  12:00 - 13:00",
+            "room": "JAMES WATT SOUTH:334 STUDIO",
+            "instructor": "Trevor Hodgkiess, Philip Harrison"
+          }
+        ]
       }
     ]
   },
@@ -5052,6 +5752,20 @@
           {
             "period": "12/01/2016 - 22/03/2016",
             "times": "Tu  10:00 - 11:00",
+            "room": "CTT BOYD ORR:407 (LT A)",
+            "instructor": "John Williamson"
+          }
+        ]
+      },
+      {
+        "id": "14884",
+        "type": "Tutorial",
+        "name": "TU01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "14/01/2016 - 24/03/2016",
+            "times": "Th  12:00 - 13:00",
             "room": "CTT BOYD ORR:407 (LT A)",
             "instructor": "John Williamson"
           }
@@ -5180,6 +5894,26 @@
             "instructor": "Ravinder Dahiya"
           }
         ]
+      },
+      {
+        "id": "15208",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "13/01/2016 - 23/03/2016",
+            "times": "We  09:00 - 10:00",
+            "room": "CTT GRAHAM KERR:224 MAIN LT",
+            "instructor": "Ravinder Dahiya"
+          },
+          {
+            "period": "11/01/2016 - 21/03/2016",
+            "times": "Mo  09:00 - 10:00",
+            "room": "CTT GRAHAM KERR:224 MAIN LT",
+            "instructor": "Ravinder Dahiya"
+          }
+        ]
       }
     ]
   },
@@ -5271,6 +6005,20 @@
             "period": "07/03/2016 - 07/03/2016",
             "times": "Mo  14:00 - 17:00",
             "room": "RANKINE:629 DRWG OFFICE",
+            "instructor": "Simon Wheeler"
+          }
+        ]
+      },
+      {
+        "id": "14953",
+        "type": "Tutorial",
+        "name": "TU01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "16/02/2016 - 15/03/2016",
+            "times": "Tu  11:00 - 12:00",
+            "room": "RANKINE:630 DRWG OFFICE",
             "instructor": "Simon Wheeler"
           }
         ]
@@ -5395,6 +6143,26 @@
             "period": "21/09/2015 - 30/11/2015",
             "times": "Mo  12:00 - 13:00",
             "room": "CTT RANKINE:107 LT",
+            "instructor": "Linda Brown"
+          }
+        ]
+      },
+      {
+        "id": "14972",
+        "type": "Tutorial",
+        "name": "TU01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "29/09/2015 - 24/11/2015",
+            "times": "Tu  11:00 - 12:00",
+            "room": "JAMES WATT SOUTH:427A STUDIO",
+            "instructor": "Linda Brown"
+          },
+          {
+            "period": "30/09/2015 - 25/11/2015",
+            "times": "We  11:00 - 12:00",
+            "room": "RANKINE:629 DRWG OFFICE",
             "instructor": "Linda Brown"
           }
         ]
@@ -5712,6 +6480,38 @@
             "instructor": "Richard Green, ZZZ ZZZDUPE2059903, Zhibin Yu"
           }
         ]
+      },
+      {
+        "id": "15257",
+        "type": "Tutorial",
+        "name": "TU04",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "17/03/2016 - 17/03/2016",
+            "times": "Th  11:00 - 12:00",
+            "room": "JAMES WATT SOUTH:427A STUDIO",
+            "instructor": "Zhibin Yu, Richard Green, ZZZ ZZZDUPE2059903"
+          },
+          {
+            "period": "03/03/2016 - 03/03/2016",
+            "times": "Th  11:00 - 12:00",
+            "room": "JAMES WATT SOUTH:427A STUDIO",
+            "instructor": "Richard Green, ZZZ ZZZDUPE2059903, Zhibin Yu"
+          },
+          {
+            "period": "18/02/2016 - 18/02/2016",
+            "times": "Th  11:00 - 12:00",
+            "room": "JAMES WATT SOUTH:427A STUDIO",
+            "instructor": "Richard Green, ZZZ ZZZDUPE2059903, Zhibin Yu"
+          },
+          {
+            "period": "04/02/2016 - 04/02/2016",
+            "times": "Th  11:00 - 12:00",
+            "room": "JAMES WATT SOUTH:427A STUDIO",
+            "instructor": "Richard Green, Zhibin Yu, ZZZ ZZZDUPE2059903"
+          }
+        ]
       }
     ]
   },
@@ -5748,6 +6548,68 @@
           {
             "period": "11/01/2016 - 11/01/2016",
             "times": "Mo  11:00 - 17:00",
+            "room": "RANKINE:630 DRWG OFFICE",
+            "instructor": "Linda Brown"
+          }
+        ]
+      },
+      {
+        "id": "15201",
+        "type": "Project",
+        "name": "PJ01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "29/01/2016 - 29/01/2016",
+            "times": "Fr  09:00 - 17:00",
+            "room": "RANKINE:630 DRWG OFFICE",
+            "instructor": "Linda Brown"
+          },
+          {
+            "period": "22/01/2016 - 22/01/2016",
+            "times": "Fr  15:00 - 17:00",
+            "room": "RANKINE:630 DRWG OFFICE",
+            "instructor": "Linda Brown"
+          },
+          {
+            "period": "22/01/2016 - 22/01/2016",
+            "times": "Fr  13:00 - 15:00",
+            "room": "RANKINE:630 DRWG OFFICE",
+            "instructor": "Linda Brown"
+          },
+          {
+            "period": "15/01/2016 - 15/01/2016",
+            "times": "Fr  09:00 - 17:00",
+            "room": "RANKINE:630 DRWG OFFICE",
+            "instructor": "Linda Brown"
+          },
+          {
+            "period": "22/01/2016 - 22/01/2016",
+            "times": "Fr  09:00 - 13:00",
+            "room": "RANKINE:630 DRWG OFFICE",
+            "instructor": "Linda Brown"
+          },
+          {
+            "period": "14/01/2016 - 28/01/2016",
+            "times": "Th  09:00 - 17:00",
+            "room": "RANKINE:630 DRWG OFFICE",
+            "instructor": "Linda Brown"
+          },
+          {
+            "period": "13/01/2016 - 27/01/2016",
+            "times": "We  09:00 - 17:00",
+            "room": "RANKINE:630 DRWG OFFICE",
+            "instructor": "Linda Brown"
+          },
+          {
+            "period": "12/01/2016 - 26/01/2016",
+            "times": "Tu  09:00 - 17:00",
+            "room": "RANKINE:630 DRWG OFFICE",
+            "instructor": "Linda Brown"
+          },
+          {
+            "period": "18/01/2016 - 25/01/2016",
+            "times": "Mo  09:00 - 17:00",
             "room": "RANKINE:630 DRWG OFFICE",
             "instructor": "Linda Brown"
           }
@@ -6086,6 +6948,20 @@
             "instructor": "Staff"
           }
         ]
+      },
+      {
+        "id": "15855",
+        "type": "Workshop",
+        "name": "WK10",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "09/02/2016 - 09/02/2016",
+            "times": "Tu  13:30 - 17:00",
+            "room": "JAMES WATT SOUTH:433 TUCK LAB",
+            "instructor": "Staff"
+          }
+        ]
       }
     ]
   },
@@ -6144,6 +7020,38 @@
             "times": "Mo  14:00 - 17:00",
             "room": "RANKINE:630 DRWG OFFICE",
             "instructor": "Ameet Pinto, William Sloan"
+          }
+        ]
+      },
+      {
+        "id": "14875",
+        "type": "Tutorial",
+        "name": "TU01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "18/03/2016 - 18/03/2016",
+            "times": "Fr  13:00 - 14:00",
+            "room": "RANKINE:630 DRWG OFFICE",
+            "instructor": "Harish Veeramani, William Sloan"
+          },
+          {
+            "period": "04/03/2016 - 04/03/2016",
+            "times": "Fr  13:00 - 14:00",
+            "room": "RANKINE:630 DRWG OFFICE",
+            "instructor": "William Sloan, Harish Veeramani"
+          },
+          {
+            "period": "19/02/2016 - 19/02/2016",
+            "times": "Fr  13:00 - 14:00",
+            "room": "RANKINE:630 DRWG OFFICE",
+            "instructor": "Harish Veeramani, William Sloan"
+          },
+          {
+            "period": "05/02/2016 - 05/02/2016",
+            "times": "Fr  13:00 - 14:00",
+            "room": "RANKINE:630 DRWG OFFICE",
+            "instructor": "Harish Veeramani, William Sloan"
           }
         ]
       }
@@ -6246,6 +7154,26 @@
             "instructor": "Robert Simpson"
           }
         ]
+      },
+      {
+        "id": "15288",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "02/02/2016 - 22/03/2016",
+            "times": "Tu  09:00 - 10:00",
+            "room": "CTT RANKINE:107 LT",
+            "instructor": "William Stewart"
+          },
+          {
+            "period": "05/02/2016 - 25/03/2016",
+            "times": "Fr  11:00 - 12:00",
+            "room": "RANKINE:630 DRWG OFFICE",
+            "instructor": "Robert Simpson"
+          }
+        ]
       }
     ]
   },
@@ -6264,6 +7192,32 @@
             "times": "TBA",
             "room": "TBA",
             "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "15057",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "22/02/2016 - 21/03/2016",
+            "times": "Mo  11:00 - 13:00",
+            "room": "RANKINE:629 DRWG OFFICE",
+            "instructor": "ZZZ ZZZDUPE2057632, Paul Younger"
+          },
+          {
+            "period": "03/02/2016 - 23/03/2016",
+            "times": "We  10:00 - 11:00",
+            "room": "RANKINE:629 DRWG OFFICE",
+            "instructor": "ZZZ ZZZDUPE2057632, Paul Younger"
+          },
+          {
+            "period": "01/02/2016 - 08/02/2016",
+            "times": "Mo  11:00 - 13:00",
+            "room": "RANKINE:629 DRWG OFFICE",
+            "instructor": "ZZZ ZZZDUPE2057632, Paul Younger"
           }
         ]
       }
@@ -6694,6 +7648,38 @@
             "instructor": "Christopher Pearce"
           }
         ]
+      },
+      {
+        "id": "15514",
+        "type": "Tutorial",
+        "name": "TU05",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "27/11/2015 - 27/11/2015",
+            "times": "Fr  12:00 - 13:00",
+            "room": "RANKINE:630 DRWG OFFICE",
+            "instructor": "Christopher Pearce"
+          },
+          {
+            "period": "13/11/2015 - 13/11/2015",
+            "times": "Fr  12:00 - 13:00",
+            "room": "RANKINE:630 DRWG OFFICE",
+            "instructor": "Christopher Pearce"
+          },
+          {
+            "period": "30/10/2015 - 30/10/2015",
+            "times": "Fr  12:00 - 13:00",
+            "room": "RANKINE:630 DRWG OFFICE",
+            "instructor": "Christopher Pearce"
+          },
+          {
+            "period": "16/10/2015 - 16/10/2015",
+            "times": "Fr  12:00 - 13:00",
+            "room": "RANKINE:630 DRWG OFFICE",
+            "instructor": "Christopher Pearce"
+          }
+        ]
       }
     ]
   },
@@ -6816,6 +7802,26 @@
             "instructor": "Lukasz Kaczmarczyk"
           }
         ]
+      },
+      {
+        "id": "15567",
+        "type": "Tutorial",
+        "name": "TU02",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "25/03/2016 - 25/03/2016",
+            "times": "Fr  14:00 - 16:00",
+            "room": "RANKINE:630 DRWG OFFICE",
+            "instructor": "Lukasz Kaczmarczyk"
+          },
+          {
+            "period": "19/02/2016 - 19/02/2016",
+            "times": "Fr  09:00 - 11:00",
+            "room": "RANKINE:630 DRWG OFFICE",
+            "instructor": "Lukasz Kaczmarczyk"
+          }
+        ]
       }
     ]
   },
@@ -6847,6 +7853,26 @@
             "period": "09/10/2015 - 04/12/2015",
             "times": "Fr  14:00 - 17:00",
             "room": "RANKINE:709 LAB",
+            "instructor": "Scott Roy"
+          }
+        ]
+      },
+      {
+        "id": "15008",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "25/09/2015 - 04/12/2015",
+            "times": "Fr  12:00 - 13:00",
+            "room": "CTT JAMES WATT SOUTH:355 (J10)",
+            "instructor": "Scott Roy"
+          },
+          {
+            "period": "22/09/2015 - 01/12/2015",
+            "times": "Tu  11:00 - 12:00",
+            "room": "CTT JAMES WATT SOUTH:355 (J10)",
             "instructor": "Scott Roy"
           }
         ]
@@ -7144,6 +8170,20 @@
             "times": "Fr  12:00 - 13:00",
             "room": "JAMES WATT SOUTH:427B STUDIO",
             "instructor": "Kiran Kumar Ramesh"
+          }
+        ]
+      },
+      {
+        "id": "15133",
+        "type": "Tutorial",
+        "name": "TU06",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "TBA",
+            "times": "TBA",
+            "room": "TBA",
+            "instructor": "Staff"
           }
         ]
       }
@@ -7576,6 +8616,20 @@
             "instructor": "Marco Vezza"
           }
         ]
+      },
+      {
+        "id": "15281",
+        "type": "Tutorial",
+        "name": "TU06",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "TBA",
+            "times": "TBA",
+            "room": "TBA",
+            "instructor": "Staff"
+          }
+        ]
       }
     ]
   },
@@ -7822,6 +8876,20 @@
             "instructor": "Marc Sorel, Ian Watson, James Sharp"
           }
         ]
+      },
+      {
+        "id": "15204",
+        "type": "Tutorial",
+        "name": "TU04",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "02/10/2015 - 27/11/2015",
+            "times": "Fr  12:00 - 13:00",
+            "room": "JAMES WATT SOUTH:427B STUDIO",
+            "instructor": "James Sharp, Marc Sorel, Ian Watson"
+          }
+        ]
       }
     ]
   },
@@ -8022,6 +9090,38 @@
             "instructor": "Richard Green"
           }
         ]
+      },
+      {
+        "id": "15528",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "15/01/2016 - 25/03/2016",
+            "times": "Fr  09:00 - 10:00",
+            "room": "CTT BOYD ORR:407 (LT A)",
+            "instructor": "Richard Green"
+          },
+          {
+            "period": "12/01/2016 - 22/03/2016",
+            "times": "Tu  09:00 - 10:00",
+            "room": "CTT BOYD ORR:407 (LT A)",
+            "instructor": "Richard Green"
+          },
+          {
+            "period": "23/09/2015 - 02/12/2015",
+            "times": "We  11:00 - 12:00",
+            "room": "CTT BOYD ORR:412 (LT B)",
+            "instructor": "Craig White, Richard Green"
+          },
+          {
+            "period": "21/09/2015 - 30/11/2015",
+            "times": "Mo  11:00 - 12:00",
+            "room": "CTT BOYD ORR:412 (LT B)",
+            "instructor": "Richard Green, Craig White"
+          }
+        ]
       }
     ]
   },
@@ -8056,6 +9156,20 @@
             "instructor": "Murray Ireland"
           }
         ]
+      },
+      {
+        "id": "15483",
+        "type": "Project",
+        "name": "PJ01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "TBA",
+            "times": "TBA",
+            "room": "TBA",
+            "instructor": "Staff"
+          }
+        ]
       }
     ]
   },
@@ -8074,6 +9188,26 @@
             "times": "TBA",
             "room": "TBA",
             "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "15419",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "13/01/2016 - 23/03/2016",
+            "times": "We  12:00 - 13:00",
+            "room": "CTT RANKINE:408  LT",
+            "instructor": "Douglas Thomson"
+          },
+          {
+            "period": "15/01/2016 - 25/03/2016",
+            "times": "Fr  10:00 - 11:00",
+            "room": "CTT MATHS BLDG:204 (1E)",
+            "instructor": "Douglas Thomson"
           }
         ]
       }
@@ -8140,6 +9274,50 @@
             "instructor": "Staff"
           }
         ]
+      },
+      {
+        "id": "14930",
+        "type": "Project",
+        "name": "PJ02",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "26/02/2016 - 25/03/2016",
+            "times": "Fr  12:00 - 17:00",
+            "room": "TBA",
+            "instructor": "Staff"
+          },
+          {
+            "period": "15/01/2016 - 12/02/2016",
+            "times": "Fr  12:00 - 17:00",
+            "room": "TBA",
+            "instructor": "Staff"
+          },
+          {
+            "period": "09/10/2015 - 04/12/2015",
+            "times": "Fr  12:00 - 17:00",
+            "room": "TBA",
+            "instructor": "Staff"
+          },
+          {
+            "period": "15/02/2016 - 15/02/2016",
+            "times": "Mo  12:00 - 17:00",
+            "room": "TBA",
+            "instructor": "Staff"
+          },
+          {
+            "period": "25/09/2015 - 25/09/2015",
+            "times": "Fr  12:00 - 17:00",
+            "room": "TBA",
+            "instructor": "Staff"
+          },
+          {
+            "period": "05/10/2015 - 05/10/2015",
+            "times": "Mo  12:00 - 17:00",
+            "room": "TBA",
+            "instructor": "Staff"
+          }
+        ]
       }
     ]
   },
@@ -8158,6 +9336,20 @@
             "times": "TBA",
             "room": "TBA",
             "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "15007",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "14/01/2016 - 24/03/2016",
+            "times": "Th  12:00 - 13:00",
+            "room": "RANKINE:601 DRWG OFFICE",
+            "instructor": "Nicholas Bailey"
           }
         ]
       }
@@ -8180,6 +9372,50 @@
             "instructor": "Staff"
           }
         ]
+      },
+      {
+        "id": "15074",
+        "type": "Project",
+        "name": "PJ01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "23/03/2016 - 23/03/2016",
+            "times": "We  14:00 - 16:00",
+            "room": "CTT RANKINE:107 LT",
+            "instructor": "Bernd Porr"
+          },
+          {
+            "period": "13/01/2016 - 10/02/2016",
+            "times": "We  14:00 - 16:00",
+            "room": "CTT RANKINE:107 LT",
+            "instructor": "Bernd Porr"
+          },
+          {
+            "period": "02/12/2015 - 02/12/2015",
+            "times": "We  14:00 - 16:00",
+            "room": "CTT RANKINE:107 LT",
+            "instructor": "Staff"
+          },
+          {
+            "period": "24/02/2016 - 24/02/2016",
+            "times": "We  14:00 - 16:00",
+            "room": "RANKINE:629 DRWG OFFICE",
+            "instructor": "Bernd Porr"
+          },
+          {
+            "period": "07/10/2015 - 07/10/2015",
+            "times": "We  16:00 - 18:00",
+            "room": "RANKINE:629 DRWG OFFICE",
+            "instructor": "Staff"
+          },
+          {
+            "period": "07/10/2015 - 28/10/2015",
+            "times": "We  14:00 - 16:00",
+            "room": "RANKINE:629 DRWG OFFICE",
+            "instructor": "Bernd Porr"
+          }
+        ]
       }
     ]
   },
@@ -8198,6 +9434,26 @@
             "times": "TBA",
             "room": "TBA",
             "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "14924",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "23/09/2015 - 02/12/2015",
+            "times": "We  11:00 - 12:00",
+            "room": "CTT JAMES WATT SOUTH:355 (J10)",
+            "instructor": "Manlio Tassieri"
+          },
+          {
+            "period": "21/09/2015 - 30/11/2015",
+            "times": "Mo  11:00 - 12:00",
+            "room": "CTT JAMES WATT SOUTH:355 (J10)",
+            "instructor": "Manlio Tassieri"
           }
         ]
       }
@@ -8298,6 +9554,26 @@
             "instructor": "David Hutchings"
           }
         ]
+      },
+      {
+        "id": "15455",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "24/09/2015 - 03/12/2015",
+            "times": "Th  12:00 - 13:00",
+            "room": "CTT RANKINE:106 LT",
+            "instructor": "David Hutchings"
+          },
+          {
+            "period": "22/09/2015 - 01/12/2015",
+            "times": "Tu  12:00 - 13:00",
+            "room": "CTT RANKINE:408  LT",
+            "instructor": "David Hutchings"
+          }
+        ]
       }
     ]
   },
@@ -8384,6 +9660,20 @@
             "instructor": "Staff"
           }
         ]
+      },
+      {
+        "id": "15006",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "19/01/2016 - 22/03/2016",
+            "times": "Tu  12:00 - 13:00",
+            "room": "CTT JOSEPH BLACK:B419 MAIN LT",
+            "instructor": "Murray Ireland"
+          }
+        ]
       }
     ]
   },
@@ -8402,6 +9692,20 @@
             "times": "TBA",
             "room": "TBA",
             "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "15439",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "23/09/2015 - 02/12/2015",
+            "times": "We  10:00 - 12:00",
+            "room": "RANKINE:514",
+            "instructor": "Nicholas Bailey, Bernd Porr"
           }
         ]
       }
@@ -8442,6 +9746,26 @@
             "times": "Fr  11:00 - 12:00",
             "room": "JAMES WATT SOUTH:427B STUDIO",
             "instructor": "Nicholas Andrew Ahrens"
+          }
+        ]
+      },
+      {
+        "id": "14928",
+        "type": "Tutorial",
+        "name": "TU01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "14/01/2016 - 24/03/2016",
+            "times": "Th  14:00 - 16:00",
+            "room": "JAMES WATT SOUTH:334 STUDIO",
+            "instructor": "Staff"
+          },
+          {
+            "period": "24/09/2015 - 03/12/2015",
+            "times": "Th  14:00 - 16:00",
+            "room": "JAMES WATT SOUTH:334 STUDIO",
+            "instructor": "Staff"
           }
         ]
       }
@@ -8513,6 +9837,26 @@
             "period": "26/01/2016 - 26/01/2016",
             "times": "Tu  14:00 - 17:00",
             "room": "RANKINE:329 LAB",
+            "instructor": "Scott Roy"
+          }
+        ]
+      },
+      {
+        "id": "14980",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "15/01/2016 - 25/03/2016",
+            "times": "Fr  12:00 - 13:00",
+            "room": "CTT RANKINE:408  LT",
+            "instructor": "Scott Roy"
+          },
+          {
+            "period": "11/01/2016 - 21/03/2016",
+            "times": "Mo  12:00 - 13:00",
+            "room": "CTT RANKINE:408  LT",
             "instructor": "Scott Roy"
           }
         ]
@@ -8654,6 +9998,32 @@
             "times": "Mo  14:00 - 17:00",
             "room": "JAMES WATT SOUTH:712 LAB",
             "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "15379",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "24/09/2015 - 26/11/2015",
+            "times": "Th  11:00 - 12:00",
+            "room": "CTT RANKINE:106 LT",
+            "instructor": "Murray Ireland"
+          },
+          {
+            "period": "23/09/2015 - 02/12/2015",
+            "times": "We  10:00 - 11:00",
+            "room": "CTT RANKINE:106 LT",
+            "instructor": "Murray Ireland"
+          },
+          {
+            "period": "19/01/2016 - 22/03/2016",
+            "times": "Tu  12:00 - 13:00",
+            "room": "CTT JOSEPH BLACK:B419 MAIN LT",
+            "instructor": "Murray Ireland"
           }
         ]
       }
@@ -8828,6 +10198,20 @@
             "instructor": "Murray Ireland"
           }
         ]
+      },
+      {
+        "id": "15105",
+        "type": "Tutorial",
+        "name": "TU01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "TBA",
+            "times": "TBA",
+            "room": "TBA",
+            "instructor": "Staff"
+          }
+        ]
       }
     ]
   },
@@ -8920,6 +10304,26 @@
             "instructor": "Edward Wasige"
           }
         ]
+      },
+      {
+        "id": "15171",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "11/01/2016 - 21/03/2016",
+            "times": "Mo  09:00 - 10:00",
+            "room": "CTT RANKINE:106 LT",
+            "instructor": "Edward Wasige"
+          },
+          {
+            "period": "12/01/2016 - 22/03/2016",
+            "times": "Tu  09:00 - 10:00",
+            "room": "CTT RANKINE:408  LT",
+            "instructor": "Edward Wasige"
+          }
+        ]
       }
     ]
   },
@@ -8995,6 +10399,26 @@
             "period": "01/02/2016 - 01/02/2016",
             "times": "Mo  14:00 - 17:00",
             "room": "RANKINE:709 LAB",
+            "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "15460",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "12/01/2016 - 22/03/2016",
+            "times": "Tu  10:00 - 11:00",
+            "room": "CTT RANKINE:408  LT",
+            "instructor": "Staff"
+          },
+          {
+            "period": "14/01/2016 - 24/03/2016",
+            "times": "Th  11:00 - 12:00",
+            "room": "CTT SIR CHARLES WILSON:101A/B",
             "instructor": "Staff"
           }
         ]
@@ -9122,6 +10546,26 @@
             "instructor": "Asen Asenov, Iain Thayne"
           }
         ]
+      },
+      {
+        "id": "15176",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "22/09/2015 - 01/12/2015",
+            "times": "Tu  10:00 - 11:00",
+            "room": "CTT RANKINE:106 LT",
+            "instructor": "Asen Asenov, Iain Thayne"
+          },
+          {
+            "period": "24/09/2015 - 03/12/2015",
+            "times": "Th  09:00 - 10:00",
+            "room": "CTT RANKINE:408  LT",
+            "instructor": "Asen Asenov, Iain Thayne"
+          }
+        ]
       }
     ]
   },
@@ -9176,6 +10620,20 @@
             "instructor": "Staff"
           }
         ]
+      },
+      {
+        "id": "15150",
+        "type": "Tutorial",
+        "name": "TU02",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "TBA",
+            "times": "TBA",
+            "room": "TBA",
+            "instructor": "Staff"
+          }
+        ]
       }
     ]
   },
@@ -9194,6 +10652,26 @@
             "times": "TBA",
             "room": "TBA",
             "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "14843",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "13/01/2016 - 23/03/2016",
+            "times": "We  12:00 - 12:30",
+            "room": "CTT RANKINE:106 LT",
+            "instructor": "Nigel Johnson"
+          },
+          {
+            "period": "23/09/2015 - 02/12/2015",
+            "times": "We  13:00 - 13:30",
+            "room": "CTT RANKINE:108 LT",
+            "instructor": "Nigel Johnson"
           }
         ]
       }
@@ -9268,6 +10746,20 @@
             "instructor": "Euan Wielewski"
           }
         ]
+      },
+      {
+        "id": "15012",
+        "type": "Tutorial",
+        "name": "TU02",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "TBA",
+            "times": "TBA",
+            "room": "TBA",
+            "instructor": "Staff"
+          }
+        ]
       }
     ]
   },
@@ -9307,6 +10799,20 @@
         "id": "14967",
         "type": "Tutorial",
         "name": "TU01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "TBA",
+            "times": "TBA",
+            "room": "TBA",
+            "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "14968",
+        "type": "Tutorial",
+        "name": "TU02",
         "status": "Open",
         "dates": [
           {
@@ -9434,6 +10940,38 @@
             "times": "Mo  09:00 - 10:00",
             "room": "CTT MATHS BLDG:416 (3B)",
             "instructor": "Manosh Paul, Manlio Tassieri"
+          }
+        ]
+      },
+      {
+        "id": "15073",
+        "type": "Tutorial",
+        "name": "TU01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "14/03/2016 - 14/03/2016",
+            "times": "Mo  11:00 - 12:00",
+            "room": "JAMES WATT SOUTH:427B STUDIO",
+            "instructor": "Manosh Paul"
+          },
+          {
+            "period": "29/02/2016 - 29/02/2016",
+            "times": "Mo  11:00 - 12:00",
+            "room": "JAMES WATT SOUTH:427B STUDIO",
+            "instructor": "Manosh Paul"
+          },
+          {
+            "period": "15/02/2016 - 15/02/2016",
+            "times": "Mo  11:00 - 12:00",
+            "room": "JAMES WATT SOUTH:427B STUDIO",
+            "instructor": "Manosh Paul"
+          },
+          {
+            "period": "01/02/2016 - 01/02/2016",
+            "times": "Mo  11:00 - 12:00",
+            "room": "JAMES WATT SOUTH:427B STUDIO",
+            "instructor": "Manosh Paul"
           }
         ]
       }
@@ -9662,6 +11200,38 @@
             "instructor": "Nader Karimi, Phil Dobson"
           }
         ]
+      },
+      {
+        "id": "14906",
+        "type": "Tutorial",
+        "name": "TU02",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "10/03/2016 - 10/03/2016",
+            "times": "Th  09:00 - 10:00",
+            "room": "JAMES WATT SOUTH:427B STUDIO",
+            "instructor": "Nader Karimi, Phil Dobson"
+          },
+          {
+            "period": "25/02/2016 - 25/02/2016",
+            "times": "Th  09:00 - 10:00",
+            "room": "JAMES WATT SOUTH:427B STUDIO",
+            "instructor": "Nader Karimi, Phil Dobson"
+          },
+          {
+            "period": "11/02/2016 - 11/02/2016",
+            "times": "Th  09:00 - 10:00",
+            "room": "JAMES WATT SOUTH:427B STUDIO",
+            "instructor": "Nader Karimi, Phil Dobson"
+          },
+          {
+            "period": "28/01/2016 - 28/01/2016",
+            "times": "Th  09:00 - 10:00",
+            "room": "JAMES WATT SOUTH:427B STUDIO",
+            "instructor": "Phil Dobson, Nader Karimi"
+          }
+        ]
       }
     ]
   },
@@ -9754,6 +11324,38 @@
           {
             "period": "11/01/2016 - 21/03/2016",
             "times": "Mo  10:00 - 11:00",
+            "room": "CTT JAMES WATT STH:354 STEVESN",
+            "instructor": "Phil Dobson, James Sharp"
+          }
+        ]
+      },
+      {
+        "id": "15295",
+        "type": "Tutorial",
+        "name": "TU01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "18/03/2016 - 18/03/2016",
+            "times": "Fr  12:00 - 13:00",
+            "room": "CTT JAMES WATT STH:354 STEVESN",
+            "instructor": "Phil Dobson, James Sharp"
+          },
+          {
+            "period": "04/03/2016 - 04/03/2016",
+            "times": "Fr  12:00 - 13:00",
+            "room": "CTT JAMES WATT STH:354 STEVESN",
+            "instructor": "James Sharp, Phil Dobson"
+          },
+          {
+            "period": "19/02/2016 - 19/02/2016",
+            "times": "Fr  12:00 - 13:00",
+            "room": "CTT JAMES WATT STH:354 STEVESN",
+            "instructor": "James Sharp, Phil Dobson"
+          },
+          {
+            "period": "05/02/2016 - 05/02/2016",
+            "times": "Fr  12:00 - 13:00",
             "room": "CTT JAMES WATT STH:354 STEVESN",
             "instructor": "Phil Dobson, James Sharp"
           }
@@ -9879,6 +11481,38 @@
             "period": "23/09/2015 - 02/12/2015",
             "times": "We  09:00 - 10:00",
             "room": "CTT JAMES WATT SOUTH:375 (J15)",
+            "instructor": "Safa Hashim"
+          }
+        ]
+      },
+      {
+        "id": "15190",
+        "type": "Tutorial",
+        "name": "TU01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "26/11/2015 - 26/11/2015",
+            "times": "Th  12:00 - 13:00",
+            "room": "JAMES WATT SOUTH:427B STUDIO",
+            "instructor": "Safa Hashim"
+          },
+          {
+            "period": "12/11/2015 - 12/11/2015",
+            "times": "Th  12:00 - 13:00",
+            "room": "JAMES WATT SOUTH:427B STUDIO",
+            "instructor": "Safa Hashim"
+          },
+          {
+            "period": "29/10/2015 - 29/10/2015",
+            "times": "Th  12:00 - 13:00",
+            "room": "JAMES WATT SOUTH:427B STUDIO",
+            "instructor": "Safa Hashim"
+          },
+          {
+            "period": "15/10/2015 - 15/10/2015",
+            "times": "Th  12:00 - 13:00",
+            "room": "JAMES WATT SOUTH:427B STUDIO",
             "instructor": "Safa Hashim"
           }
         ]
@@ -10216,6 +11850,38 @@
             "instructor": "Euan Mcgookin"
           }
         ]
+      },
+      {
+        "id": "15424",
+        "type": "Tutorial",
+        "name": "TU01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "19/11/2015 - 19/11/2015",
+            "times": "Th  12:00 - 13:00",
+            "room": "CTT MAIN BLD:220 HUNTER WEST",
+            "instructor": "Donald Ballance"
+          },
+          {
+            "period": "05/11/2015 - 05/11/2015",
+            "times": "Th  12:00 - 13:00",
+            "room": "CTT MAIN BLD:220 HUNTER WEST",
+            "instructor": "Donald Ballance"
+          },
+          {
+            "period": "22/10/2015 - 22/10/2015",
+            "times": "Th  12:00 - 13:00",
+            "room": "CTT MAIN BLD:220 HUNTER WEST",
+            "instructor": "Donald Ballance"
+          },
+          {
+            "period": "08/10/2015 - 08/10/2015",
+            "times": "Th  12:00 - 13:00",
+            "room": "CTT MAIN BLD:220 HUNTER WEST",
+            "instructor": "Donald Ballance"
+          }
+        ]
       }
     ]
   },
@@ -10408,6 +12074,44 @@
             "instructor": "Ronald Thomson"
           }
         ]
+      },
+      {
+        "id": "15310",
+        "type": "Tutorial",
+        "name": "TU01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "01/12/2015 - 01/12/2015",
+            "times": "Tu  12:00 - 13:00",
+            "room": "JAMES WATT SOUTH:427B STUDIO",
+            "instructor": "Ronald Thomson"
+          },
+          {
+            "period": "17/11/2015 - 17/11/2015",
+            "times": "Tu  12:00 - 13:00",
+            "room": "JAMES WATT SOUTH:427B STUDIO",
+            "instructor": "Ronald Thomson"
+          },
+          {
+            "period": "03/11/2015 - 03/11/2015",
+            "times": "Tu  12:00 - 13:00",
+            "room": "JAMES WATT SOUTH:427B STUDIO",
+            "instructor": "Ronald Thomson"
+          },
+          {
+            "period": "20/10/2015 - 20/10/2015",
+            "times": "Tu  12:00 - 13:00",
+            "room": "JAMES WATT SOUTH:427B STUDIO",
+            "instructor": "Ronald Thomson"
+          },
+          {
+            "period": "06/10/2015 - 06/10/2015",
+            "times": "Tu  12:00 - 13:00",
+            "room": "JAMES WATT SOUTH:427B STUDIO",
+            "instructor": "Ronald Thomson"
+          }
+        ]
       }
     ]
   },
@@ -10453,6 +12157,38 @@
             "period": "08/10/2015 - 22/10/2015",
             "times": "Th  14:00 - 17:00",
             "room": "RANKINE:605 LAB",
+            "instructor": "Steven Neale, Huabing Yin"
+          }
+        ]
+      },
+      {
+        "id": "14810",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "14/01/2016 - 24/03/2016",
+            "times": "Th  09:00 - 10:00",
+            "room": "CTT JAMES WATT SOUTH:355 (J10)",
+            "instructor": "K Tanner, Manuel Salmeron-Sanchez"
+          },
+          {
+            "period": "12/01/2016 - 22/03/2016",
+            "times": "Tu  12:00 - 13:00",
+            "room": "CTT JAMES WATT SOUTH:375 (J15)",
+            "instructor": "Manuel Salmeron-Sanchez, K Tanner"
+          },
+          {
+            "period": "21/09/2015 - 30/11/2015",
+            "times": "Mo  12:00 - 13:00",
+            "room": "JAMES WATT SOUTH:427A STUDIO",
+            "instructor": "Steven Neale, Huabing Yin"
+          },
+          {
+            "period": "22/09/2015 - 01/12/2015",
+            "times": "Tu  09:00 - 10:00",
+            "room": "CTT SIR ALEXANDER STONE:204",
             "instructor": "Steven Neale, Huabing Yin"
           }
         ]
@@ -10540,6 +12276,26 @@
             "times": "TBA",
             "room": "TBA",
             "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "15578",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "12/01/2016 - 22/03/2016",
+            "times": "Tu  11:00 - 12:00",
+            "room": "CTT RANKINE:408  LT",
+            "instructor": "Calum Cossar"
+          },
+          {
+            "period": "15/01/2016 - 25/03/2016",
+            "times": "Fr  10:00 - 11:00",
+            "room": "CTT MATHS BLDG:203 (1F)",
+            "instructor": "Calum Cossar"
           }
         ]
       }
@@ -10674,6 +12430,32 @@
             "instructor": "Richard Green"
           }
         ]
+      },
+      {
+        "id": "14897",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "24/09/2015 - 03/12/2015",
+            "times": "Th  09:00 - 10:00",
+            "room": "CTT BOYD ORR:407 (LT A)",
+            "instructor": "Richard Green"
+          },
+          {
+            "period": "25/09/2015 - 04/12/2015",
+            "times": "Fr  11:00 - 12:00",
+            "room": "CTT BOYD ORR:513 (LT D)",
+            "instructor": "Richard Green"
+          },
+          {
+            "period": "25/09/2015 - 04/12/2015",
+            "times": "Fr  09:00 - 10:00",
+            "room": "CTT BOYD ORR:513 (LT D)",
+            "instructor": "Richard Green"
+          }
+        ]
       }
     ]
   },
@@ -10766,6 +12548,20 @@
             "instructor": "Martin Macauley"
           }
         ]
+      },
+      {
+        "id": "14851",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "21/09/2015 - 30/11/2015",
+            "times": "Mo  09:00 - 10:00",
+            "room": "CTT BOYD ORR:513 (LT D)",
+            "instructor": "Martin Macauley"
+          }
+        ]
       }
     ]
   },
@@ -10803,6 +12599,20 @@
             "period": "22/09/2015 - 01/12/2015",
             "times": "Tu  09:00 - 10:00",
             "room": "CTT RANKINE:107 LT",
+            "instructor": "Linda Brown"
+          }
+        ]
+      },
+      {
+        "id": "15199",
+        "type": "Tutorial",
+        "name": "TU01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "30/09/2015 - 25/11/2015",
+            "times": "We  10:00 - 11:00",
+            "room": "RANKINE:630 DRWG OFFICE",
             "instructor": "Linda Brown"
           }
         ]
@@ -10896,6 +12706,50 @@
             "instructor": "Peter Grassl"
           }
         ]
+      },
+      {
+        "id": "15458",
+        "type": "Tutorial",
+        "name": "TU01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "14/03/2016 - 14/03/2016",
+            "times": "Mo  10:00 - 11:00",
+            "room": "RANKINE:629 DRWG OFFICE",
+            "instructor": "Robert Simpson"
+          },
+          {
+            "period": "29/02/2016 - 29/02/2016",
+            "times": "Mo  10:00 - 11:00",
+            "room": "RANKINE:629 DRWG OFFICE",
+            "instructor": "Robert Simpson"
+          },
+          {
+            "period": "15/02/2016 - 15/02/2016",
+            "times": "Mo  10:00 - 11:00",
+            "room": "RANKINE:629 DRWG OFFICE",
+            "instructor": "Robert Simpson"
+          },
+          {
+            "period": "01/02/2016 - 01/02/2016",
+            "times": "Mo  10:00 - 11:00",
+            "room": "RANKINE:629 DRWG OFFICE",
+            "instructor": "Robert Simpson"
+          },
+          {
+            "period": "18/01/2016 - 18/01/2016",
+            "times": "Mo  10:00 - 11:00",
+            "room": "RANKINE:629 DRWG OFFICE",
+            "instructor": "Robert Simpson"
+          },
+          {
+            "period": "01/10/2015 - 26/11/2015",
+            "times": "Th  12:00 - 13:00",
+            "room": "RANKINE:630 DRWG OFFICE",
+            "instructor": "Peter Grassl"
+          }
+        ]
       }
     ]
   },
@@ -10945,6 +12799,26 @@
             "period": "30/09/2015 - 30/09/2015",
             "times": "We  14:00 - 15:00",
             "room": "RANKINE:629 DRWG OFFICE",
+            "instructor": "Douglas Macintyre, Nigel Johnson"
+          }
+        ]
+      },
+      {
+        "id": "14771",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "13/01/2016 - 23/03/2016",
+            "times": "We  12:30 - 13:00",
+            "room": "CTT RANKINE:106 LT",
+            "instructor": "Nigel Johnson"
+          },
+          {
+            "period": "23/09/2015 - 02/12/2015",
+            "times": "We  13:30 - 14:00",
+            "room": "CTT RANKINE:108 LT",
             "instructor": "Douglas Macintyre, Nigel Johnson"
           }
         ]
@@ -11086,6 +12960,38 @@
             "instructor": "ZZZ ZZZDUPE2059903, Zhibin Yu"
           }
         ]
+      },
+      {
+        "id": "15018",
+        "type": "Tutorial",
+        "name": "TU01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "20/11/2015 - 27/11/2015",
+            "times": "Fr  09:00 - 10:00",
+            "room": "CTT MATHS BLDG:416 (3B)",
+            "instructor": "ZZZ ZZZDUPE2059903, Zhibin Yu"
+          },
+          {
+            "period": "06/11/2015 - 06/11/2015",
+            "times": "Fr  09:00 - 10:00",
+            "room": "CTT MATHS BLDG:416 (3B)",
+            "instructor": "ZZZ ZZZDUPE2059903, Zhibin Yu"
+          },
+          {
+            "period": "23/10/2015 - 23/10/2015",
+            "times": "Fr  09:00 - 10:00",
+            "room": "CTT MATHS BLDG:416 (3B)",
+            "instructor": "ZZZ ZZZDUPE2059903, Zhibin Yu"
+          },
+          {
+            "period": "09/10/2015 - 09/10/2015",
+            "times": "Fr  09:00 - 10:00",
+            "room": "CTT MATHS BLDG:416 (3B)",
+            "instructor": "ZZZ ZZZDUPE2059903, Zhibin Yu"
+          }
+        ]
       }
     ]
   },
@@ -11097,6 +13003,20 @@
         "id": "15810",
         "type": "Admin",
         "name": "AD01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "TBA",
+            "times": "TBA",
+            "room": "TBA",
+            "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "15564",
+        "type": "Lecture",
+        "name": "LC01",
         "status": "Open",
         "dates": [
           {
@@ -11126,6 +13046,26 @@
             "instructor": "Staff"
           }
         ]
+      },
+      {
+        "id": "15162",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "22/09/2015 - 01/12/2015",
+            "times": "Tu  10:00 - 11:00",
+            "room": "CTT JAMES WATT SOUTH:375 (J15)",
+            "instructor": "Stewart Houston"
+          },
+          {
+            "period": "21/09/2015 - 30/11/2015",
+            "times": "Mo  10:00 - 11:00",
+            "room": "CTT JAMES WATT SOUTH:375 (J15)",
+            "instructor": "Staff"
+          }
+        ]
       }
     ]
   },
@@ -11144,6 +13084,26 @@
             "times": "TBA",
             "room": "TBA",
             "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "15115",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "12/01/2016 - 22/03/2016",
+            "times": "Tu  11:00 - 12:00",
+            "room": "CTT JAMES WATT SOUTH:375 (J15)",
+            "instructor": "Stewart Houston"
+          },
+          {
+            "period": "11/01/2016 - 21/03/2016",
+            "times": "Mo  11:00 - 12:00",
+            "room": "CTT JAMES WATT SOUTH:375 (J15)",
+            "instructor": "Stewart Houston"
           }
         ]
       }
@@ -11236,6 +13196,26 @@
             "instructor": "Christopher York"
           }
         ]
+      },
+      {
+        "id": "15473",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "11/01/2016 - 21/03/2016",
+            "times": "Mo  12:00 - 13:00",
+            "room": "CTT RANKINE:106 LT",
+            "instructor": "Christopher York"
+          },
+          {
+            "period": "13/01/2016 - 23/03/2016",
+            "times": "We  09:00 - 10:00",
+            "room": "CTT RANKINE:408  LT",
+            "instructor": "Christopher York"
+          }
+        ]
       }
     ]
   },
@@ -11282,6 +13262,26 @@
             "instructor": "Douglas Macintyre, Nigel Johnson"
           }
         ]
+      },
+      {
+        "id": "15055",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "13/01/2016 - 23/03/2016",
+            "times": "We  12:30 - 13:00",
+            "room": "CTT RANKINE:106 LT",
+            "instructor": "Nigel Johnson"
+          },
+          {
+            "period": "23/09/2015 - 02/12/2015",
+            "times": "We  13:30 - 14:00",
+            "room": "CTT RANKINE:108 LT",
+            "instructor": "Douglas Macintyre, Nigel Johnson"
+          }
+        ]
       }
     ]
   },
@@ -11319,6 +13319,20 @@
             "period": "13/01/2016 - 23/03/2016",
             "times": "We  11:00 - 12:00",
             "room": "CTT RANKINE:408  LT",
+            "instructor": "William Stewart"
+          }
+        ]
+      },
+      {
+        "id": "15287",
+        "type": "Tutorial",
+        "name": "TU01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "01/02/2016 - 14/03/2016",
+            "times": "Mo  12:00 - 13:00",
+            "room": "RANKINE:630 DRWG OFFICE",
             "instructor": "William Stewart"
           }
         ]
@@ -11365,6 +13379,20 @@
             "period": "12/11/2015 - 12/11/2015",
             "times": "Th  14:00 - 15:00",
             "room": "RANKINE:630 DRWG OFFICE",
+            "instructor": "Trevor Davies"
+          }
+        ]
+      },
+      {
+        "id": "15537",
+        "type": "Tutorial",
+        "name": "TU01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "29/09/2015 - 01/12/2015",
+            "times": "Tu  11:00 - 12:00",
+            "room": "RANKINE:629 DRWG OFFICE",
             "instructor": "Trevor Davies"
           }
         ]
@@ -11424,6 +13452,32 @@
           {
             "period": "04/02/2016 - 10/03/2016",
             "times": "Th  14:00 - 17:00",
+            "room": "TBA",
+            "instructor": "Linda Brown"
+          }
+        ]
+      },
+      {
+        "id": "14803",
+        "type": "Seminar",
+        "name": "SM01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "24/02/2016 - 24/02/2016",
+            "times": "We  14:00 - 20:00",
+            "room": "TBA",
+            "instructor": "Linda Brown"
+          },
+          {
+            "period": "02/03/2016 - 02/03/2016",
+            "times": "We  14:00 - 18:00",
+            "room": "TBA",
+            "instructor": "Linda Brown"
+          },
+          {
+            "period": "23/02/2016 - 23/02/2016",
+            "times": "Tu  14:00 - 20:00",
             "room": "TBA",
             "instructor": "Linda Brown"
           }
@@ -11556,6 +13610,20 @@
             "instructor": "Manousos Valyrakis"
           }
         ]
+      },
+      {
+        "id": "14964",
+        "type": "Tutorial",
+        "name": "TU01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "TBA",
+            "times": "TBA",
+            "room": "TBA",
+            "instructor": "Staff"
+          }
+        ]
       }
     ]
   },
@@ -11604,6 +13672,32 @@
             "instructor": "Staff"
           }
         ]
+      },
+      {
+        "id": "15540",
+        "type": "Tutorial",
+        "name": "TU01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "15/03/2016 - 15/03/2016",
+            "times": "Tu  11:00 - 12:00",
+            "room": "RANKINE:601 DRWG OFFICE",
+            "instructor": "Xue Jin"
+          },
+          {
+            "period": "23/02/2016 - 23/02/2016",
+            "times": "Tu  11:00 - 12:00",
+            "room": "RANKINE:601 DRWG OFFICE",
+            "instructor": "Xue Jin"
+          },
+          {
+            "period": "09/02/2016 - 09/02/2016",
+            "times": "Tu  11:00 - 12:00",
+            "room": "RANKINE:601 DRWG OFFICE",
+            "instructor": "Xue Jin"
+          }
+        ]
       }
     ]
   },
@@ -11622,6 +13716,26 @@
             "times": "TBA",
             "room": "TBA",
             "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "14931",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "22/09/2015 - 01/12/2015",
+            "times": "Tu  12:00 - 13:00",
+            "room": "CTT RANKINE:106 LT",
+            "instructor": "Christopher York"
+          },
+          {
+            "period": "21/09/2015 - 30/11/2015",
+            "times": "Mo  12:00 - 13:00",
+            "room": "CTT RANKINE:106 LT",
+            "instructor": "Christopher York"
           }
         ]
       }
@@ -11664,6 +13778,38 @@
             "instructor": "Linda Brown"
           }
         ]
+      },
+      {
+        "id": "15502",
+        "type": "Tutorial",
+        "name": "TU01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "16/03/2016 - 16/03/2016",
+            "times": "We  12:00 - 13:00",
+            "room": "RANKINE:630 DRWG OFFICE",
+            "instructor": "Linda Brown"
+          },
+          {
+            "period": "02/03/2016 - 02/03/2016",
+            "times": "We  12:00 - 13:00",
+            "room": "RANKINE:630 DRWG OFFICE",
+            "instructor": "Linda Brown"
+          },
+          {
+            "period": "17/02/2016 - 17/02/2016",
+            "times": "We  12:00 - 13:00",
+            "room": "RANKINE:630 DRWG OFFICE",
+            "instructor": "Linda Brown"
+          },
+          {
+            "period": "03/02/2016 - 03/02/2016",
+            "times": "We  12:00 - 13:00",
+            "room": "RANKINE:630 DRWG OFFICE",
+            "instructor": "Linda Brown"
+          }
+        ]
       }
     ]
   },
@@ -11682,6 +13828,26 @@
             "times": "TBA",
             "room": "TBA",
             "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "15873",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "24/09/2015 - 03/12/2015",
+            "times": "Th  10:00 - 11:00",
+            "room": "CTT JAMES WATT STH:354 STEVESN",
+            "instructor": "K Tanner, Manuel Salmeron-Sanchez"
+          },
+          {
+            "period": "25/09/2015 - 04/12/2015",
+            "times": "Fr  12:00 - 13:00",
+            "room": "CTT HUNTERIAN ART GALLRY:103 L",
+            "instructor": "K Tanner, Manuel Salmeron-Sanchez"
           }
         ]
       }
@@ -11836,6 +14002,32 @@
             "instructor": "Manousos Valyrakis"
           }
         ]
+      },
+      {
+        "id": "15058",
+        "type": "Tutorial",
+        "name": "TU01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "05/11/2015 - 05/11/2015",
+            "times": "Th  14:00 - 15:30",
+            "room": "RANKINE:329 LAB",
+            "instructor": "Manousos Valyrakis"
+          },
+          {
+            "period": "11/11/2015 - 11/11/2015",
+            "times": "We  11:00 - 12:00",
+            "room": "RANKINE:630 DRWG OFFICE",
+            "instructor": "Manousos Valyrakis"
+          },
+          {
+            "period": "21/10/2015 - 21/10/2015",
+            "times": "We  11:00 - 12:00",
+            "room": "RANKINE:630 DRWG OFFICE",
+            "instructor": "Manousos Valyrakis"
+          }
+        ]
       }
     ]
   },
@@ -11898,6 +14090,32 @@
             "instructor": "William Stewart"
           }
         ]
+      },
+      {
+        "id": "14890",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "22/09/2015 - 01/12/2015",
+            "times": "Tu  10:00 - 11:00",
+            "room": "RANKINE:629 DRWG OFFICE",
+            "instructor": "William Stewart"
+          },
+          {
+            "period": "21/09/2015 - 30/11/2015",
+            "times": "Mo  10:00 - 11:00",
+            "room": "RANKINE:629 DRWG OFFICE",
+            "instructor": "William Stewart"
+          },
+          {
+            "period": "08/10/2015 - 08/10/2015",
+            "times": "Th  14:00 - 16:00",
+            "room": "RANKINE:630 DRWG OFFICE",
+            "instructor": "William Stewart"
+          }
+        ]
       }
     ]
   },
@@ -11916,6 +14134,32 @@
             "times": "TBA",
             "room": "TBA",
             "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "15538",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "14/01/2016 - 24/03/2016",
+            "times": "Th  12:00 - 13:00",
+            "room": "JAMES WATT SOUTH:644 SEMINAR",
+            "instructor": "David Moran, Marion Hersh"
+          },
+          {
+            "period": "13/01/2016 - 23/03/2016",
+            "times": "We  11:00 - 13:00",
+            "room": "RANKINE:601 DRWG OFFICE",
+            "instructor": "Marion Hersh, David Moran"
+          },
+          {
+            "period": "11/01/2016 - 21/03/2016",
+            "times": "Mo  10:00 - 11:00",
+            "room": "RANKINE:601 DRWG OFFICE",
+            "instructor": "David Moran, Marion Hersh"
           }
         ]
       }
@@ -11950,6 +14194,20 @@
             "times": "TBA",
             "room": "TBA",
             "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "14808",
+        "type": "Tutorial",
+        "name": "TU01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "16/02/2016 - 01/03/2016",
+            "times": "Tu  13:00 - 14:00",
+            "room": "JAMES WATT SOUTH:427B STUDIO",
+            "instructor": "Safa Hashim"
           }
         ]
       }
@@ -12004,6 +14262,20 @@
             "instructor": "David Anderson"
           }
         ]
+      },
+      {
+        "id": "15548",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "23/09/2015 - 02/12/2015",
+            "times": "We  14:00 - 16:00",
+            "room": "JAMES WATT SOUTH:712 LAB",
+            "instructor": "David Anderson"
+          }
+        ]
       }
     ]
   },
@@ -12036,6 +14308,20 @@
             "times": "TBA",
             "room": "TBA",
             "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "14813",
+        "type": "Project",
+        "name": "PJ01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "21/01/2016 - 24/03/2016",
+            "times": "Th  14:00 - 17:00",
+            "room": "JAMES WATT SOUTH:712 LAB",
+            "instructor": "Kevin Michael Ferguson"
           }
         ]
       }
@@ -12076,6 +14362,26 @@
             "times": "Fr  14:00 - 17:00",
             "room": "JAMES WATT SOUTH:712 LAB",
             "instructor": "Kevin Michael Ferguson"
+          }
+        ]
+      },
+      {
+        "id": "15387",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "15/01/2016 - 18/03/2016",
+            "times": "Fr  12:00 - 13:00",
+            "room": "CTT BOYD ORR:513 (LT D)",
+            "instructor": "Staff"
+          },
+          {
+            "period": "25/09/2015 - 04/12/2015",
+            "times": "Fr  12:00 - 13:00",
+            "room": "CTT BOYD ORR:513 (LT D)",
+            "instructor": "Staff"
           }
         ]
       }
@@ -12126,6 +14432,26 @@
             "instructor": "Christopher York"
           }
         ]
+      },
+      {
+        "id": "15557",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "23/09/2015 - 02/12/2015",
+            "times": "We  09:00 - 10:00",
+            "room": "CTT RANKINE:108 LT",
+            "instructor": "Christopher York"
+          },
+          {
+            "period": "22/09/2015 - 01/12/2015",
+            "times": "Tu  10:00 - 11:00",
+            "room": "CTT RANKINE:108 LT",
+            "instructor": "Christopher York"
+          }
+        ]
       }
     ]
   },
@@ -12144,6 +14470,26 @@
             "times": "TBA",
             "room": "TBA",
             "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "15487",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "12/01/2016 - 22/03/2016",
+            "times": "Tu  09:00 - 10:00",
+            "room": "CTT RANKINE:106 LT",
+            "instructor": "Kiran Kumar Ramesh"
+          },
+          {
+            "period": "11/01/2016 - 21/03/2016",
+            "times": "Mo  12:00 - 13:00",
+            "room": "CTT WOLFSON MED:257 SEM 2-HUGH",
+            "instructor": "Kiran Kumar Ramesh"
           }
         ]
       }
@@ -12208,6 +14554,20 @@
             "instructor": "Christopher Pearce"
           }
         ]
+      },
+      {
+        "id": "14780",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "22/09/2015 - 01/12/2015",
+            "times": "Tu  11:00 - 13:00",
+            "room": "CTT BOYD ORR:513 (LT D)",
+            "instructor": "Christopher Pearce"
+          }
+        ]
       }
     ]
   },
@@ -12248,6 +14608,26 @@
             "instructor": "Staff"
           }
         ]
+      },
+      {
+        "id": "14889",
+        "type": "Project",
+        "name": "PJ02",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "14/01/2016 - 24/03/2016",
+            "times": "Th  13:00 - 17:00",
+            "room": "TBA",
+            "instructor": "Staff"
+          },
+          {
+            "period": "24/09/2015 - 03/12/2015",
+            "times": "Th  13:00 - 17:00",
+            "room": "TBA",
+            "instructor": "Staff"
+          }
+        ]
       }
     ]
   },
@@ -12266,6 +14646,20 @@
             "times": "TBA",
             "room": "TBA",
             "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "15323",
+        "type": "Laboratory",
+        "name": "LB01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "23/09/2015 - 02/12/2015",
+            "times": "We  14:00 - 17:00",
+            "room": "RANKINE:506 MUSIC LAB",
+            "instructor": "Nicholas Bailey"
           }
         ]
       }
@@ -12306,6 +14700,26 @@
             "times": "Th  15:00 - 17:00",
             "room": "JAMES WATT SOUTH:544 LAB",
             "instructor": "Thomas Franke, Julien Reboud"
+          }
+        ]
+      },
+      {
+        "id": "15468",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "15/01/2016 - 25/03/2016",
+            "times": "Fr  11:00 - 12:00",
+            "room": "CTT JOHN MCINTYRE:208",
+            "instructor": "Nikolaj Gadegaard, Julien Reboud"
+          },
+          {
+            "period": "12/01/2016 - 22/03/2016",
+            "times": "Tu  11:00 - 12:00",
+            "room": "CTT RANKINE:108 LT",
+            "instructor": "Julien Reboud, Nikolaj Gadegaard"
           }
         ]
       }
@@ -12376,6 +14790,26 @@
             "instructor": "Angela Busse"
           }
         ]
+      },
+      {
+        "id": "14842",
+        "type": "Tutorial",
+        "name": "TU01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "22/02/2016 - 14/03/2016",
+            "times": "Mo  16:00 - 17:00",
+            "room": "JAMES WATT SOUTH:427A STUDIO",
+            "instructor": "Angela Busse"
+          },
+          {
+            "period": "25/01/2016 - 08/02/2016",
+            "times": "Mo  16:00 - 17:00",
+            "room": "JAMES WATT SOUTH:427A STUDIO",
+            "instructor": "Angela Busse"
+          }
+        ]
       }
     ]
   },
@@ -12394,6 +14828,26 @@
             "times": "TBA",
             "room": "TBA",
             "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "15493",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "12/01/2016 - 22/03/2016",
+            "times": "Tu  09:00 - 11:00",
+            "room": "CTT RANKINE:108 LT",
+            "instructor": "David Muir, Martin Macauley"
+          },
+          {
+            "period": "11/01/2016 - 21/03/2016",
+            "times": "Mo  11:00 - 13:00",
+            "room": "CTT BOYD ORR:709A/B CLASSROOM",
+            "instructor": "Martin Macauley, David Muir"
           }
         ]
       }
@@ -12416,6 +14870,38 @@
             "instructor": "Staff"
           }
         ]
+      },
+      {
+        "id": "15282",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "24/09/2015 - 03/12/2015",
+            "times": "Th  13:00 - 14:00",
+            "room": "CTT JAMES WATT SOUTH:375 (J15)",
+            "instructor": "Matteo Ceriotti"
+          },
+          {
+            "period": "23/09/2015 - 02/12/2015",
+            "times": "We  11:00 - 12:00",
+            "room": "CTT JAMES WATT SOUTH:375 (J15)",
+            "instructor": "Matteo Ceriotti, Henrik Gollee"
+          },
+          {
+            "period": "22/09/2015 - 01/12/2015",
+            "times": "Tu  13:00 - 14:00",
+            "room": "CTT JAMES WATT SOUTH:375 (J15)",
+            "instructor": "Matteo Ceriotti, Henrik Gollee"
+          },
+          {
+            "period": "21/09/2015 - 30/11/2015",
+            "times": "Mo  11:00 - 12:00",
+            "room": "CTT JAMES WATT SOUTH:375 (J15)",
+            "instructor": "Matteo Ceriotti, Henrik Gollee"
+          }
+        ]
       }
     ]
   },
@@ -12434,6 +14920,26 @@
             "times": "TBA",
             "room": "TBA",
             "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "14876",
+        "type": "Project",
+        "name": "PJ01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "12/01/2016 - 09/02/2016",
+            "times": "Tu  14:00 - 16:00",
+            "room": "RANKINE:629 DRWG OFFICE",
+            "instructor": "Simon Wheeler"
+          },
+          {
+            "period": "22/09/2015 - 01/12/2015",
+            "times": "Tu  14:00 - 16:00",
+            "room": "RANKINE:629 DRWG OFFICE",
+            "instructor": "Simon Wheeler"
           }
         ]
       }
@@ -12470,6 +14976,20 @@
             "instructor": "Bernd Porr, Swee Keow Goo"
           }
         ]
+      },
+      {
+        "id": "15551",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "25/09/2015 - 27/11/2015",
+            "times": "Fr  14:00 - 16:00",
+            "room": "CTT RANKINE:107 LT",
+            "instructor": "Bernd Porr"
+          }
+        ]
       }
     ]
   },
@@ -12504,6 +15024,20 @@
             "instructor": "Bernd Porr"
           }
         ]
+      },
+      {
+        "id": "15170",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "24/09/2015 - 24/09/2015",
+            "times": "Th  14:00 - 16:00",
+            "room": "CTT RANKINE:408  LT",
+            "instructor": "Khaled Elgaid, Bernd Porr"
+          }
+        ]
       }
     ]
   },
@@ -12522,6 +15056,26 @@
             "times": "TBA",
             "room": "TBA",
             "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "15431",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "22/09/2015 - 01/12/2015",
+            "times": "Tu  11:00 - 12:00",
+            "room": "CTT BOYD ORR:412 (LT B)",
+            "instructor": "Douglas Thomson"
+          },
+          {
+            "period": "25/09/2015 - 04/12/2015",
+            "times": "Fr  11:00 - 12:00",
+            "room": "CTT BOYD ORR:507 (LT C)",
+            "instructor": "Douglas Thomson"
           }
         ]
       }
@@ -12576,6 +15130,32 @@
             "instructor": "Trevor Davies"
           }
         ]
+      },
+      {
+        "id": "14776",
+        "type": "Tutorial",
+        "name": "TU01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "01/12/2015 - 01/12/2015",
+            "times": "Tu  13:00 - 14:00",
+            "room": "RANKINE:630 DRWG OFFICE",
+            "instructor": "Trevor Davies"
+          },
+          {
+            "period": "10/11/2015 - 10/11/2015",
+            "times": "Tu  13:00 - 14:00",
+            "room": "RANKINE:630 DRWG OFFICE",
+            "instructor": "Trevor Davies"
+          },
+          {
+            "period": "05/10/2015 - 30/11/2015",
+            "times": "Mo  13:00 - 14:00",
+            "room": "RANKINE:630 DRWG OFFICE",
+            "instructor": "Trevor Davies"
+          }
+        ]
       }
     ]
   },
@@ -12616,6 +15196,26 @@
             "instructor": "Zhiwei Gao"
           }
         ]
+      },
+      {
+        "id": "15154",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "13/01/2016 - 23/03/2016",
+            "times": "We  11:00 - 12:00",
+            "room": "CTT JAMES WATT SOUTH:355 (J10)",
+            "instructor": "Zhiwei Gao"
+          },
+          {
+            "period": "11/01/2016 - 21/03/2016",
+            "times": "Mo  10:00 - 11:00",
+            "room": "CTT JAMES WATT SOUTH:355 (J10)",
+            "instructor": "Zhiwei Gao"
+          }
+        ]
       }
     ]
   },
@@ -12634,6 +15234,26 @@
             "times": "TBA",
             "room": "TBA",
             "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "14863",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "12/01/2016 - 22/03/2016",
+            "times": "Tu  10:00 - 11:00",
+            "room": "CTT ADAM SMITH:916",
+            "instructor": "Konstantinos Kontis"
+          },
+          {
+            "period": "11/01/2016 - 21/03/2016",
+            "times": "Mo  09:00 - 10:00",
+            "room": "CTT ADAM SMITH:916",
+            "instructor": "Konstantinos Kontis"
           }
         ]
       }
@@ -12676,6 +15296,20 @@
             "instructor": "Marco Vezza"
           }
         ]
+      },
+      {
+        "id": "15495",
+        "type": "Tutorial",
+        "name": "TU01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "TBA",
+            "times": "TBA",
+            "room": "TBA",
+            "instructor": "Staff"
+          }
+        ]
       }
     ]
   },
@@ -12710,6 +15344,20 @@
             "instructor": "ZZZ ZZZDUPE2057632, Paul Younger"
           }
         ]
+      },
+      {
+        "id": "15543",
+        "type": "Project",
+        "name": "PJ01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "TBA",
+            "times": "TBA",
+            "room": "TBA",
+            "instructor": "Staff"
+          }
+        ]
       }
     ]
   },
@@ -12730,6 +15378,32 @@
             "instructor": "Staff"
           }
         ]
+      },
+      {
+        "id": "14853",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "24/09/2015 - 03/12/2015",
+            "times": "Th  10:00 - 12:00",
+            "room": "CTT JAMES WATT SOUTH:355 (J10)",
+            "instructor": "Ian Watson, James Sharp"
+          },
+          {
+            "period": "23/09/2015 - 02/12/2015",
+            "times": "We  13:00 - 14:00",
+            "room": "CTT JAMES WATT SOUTH:355 (J10)",
+            "instructor": "James Sharp, Ian Watson"
+          },
+          {
+            "period": "23/09/2015 - 02/12/2015",
+            "times": "We  09:00 - 10:00",
+            "room": "CTT JAMES WATT SOUTH:355 (J10)",
+            "instructor": "Ian Watson, James Sharp"
+          }
+        ]
       }
     ]
   },
@@ -12748,6 +15422,38 @@
             "times": "TBA",
             "room": "TBA",
             "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "15221",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "15/01/2016 - 25/03/2016",
+            "times": "Fr  11:00 - 12:00",
+            "room": "CTT RANKINE:106 LT",
+            "instructor": "Trevor Hodgkiess, Ronald Thomson"
+          },
+          {
+            "period": "15/01/2016 - 25/03/2016",
+            "times": "Fr  09:00 - 10:00",
+            "room": "CTT RANKINE:106 LT",
+            "instructor": "Ronald Thomson, Trevor Hodgkiess"
+          },
+          {
+            "period": "13/01/2016 - 23/03/2016",
+            "times": "We  11:00 - 12:00",
+            "room": "CTT RANKINE:106 LT",
+            "instructor": "Trevor Hodgkiess, Ronald Thomson"
+          },
+          {
+            "period": "13/01/2016 - 23/03/2016",
+            "times": "We  09:00 - 10:00",
+            "room": "CTT RANKINE:106 LT",
+            "instructor": "Trevor Hodgkiess, Ronald Thomson"
           }
         ]
       }
@@ -12850,6 +15556,26 @@
             "instructor": "Ronald Thomson"
           }
         ]
+      },
+      {
+        "id": "14766",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "24/09/2015 - 03/12/2015",
+            "times": "Th  09:00 - 10:00",
+            "room": "CTT JAMES WATT SOUTH:375 (J15)",
+            "instructor": "Ronald Thomson"
+          },
+          {
+            "period": "21/09/2015 - 30/11/2015",
+            "times": "Mo  14:00 - 16:00",
+            "room": "CTT JAMES WATT SOUTH:375 (J15)",
+            "instructor": "Ronald Thomson"
+          }
+        ]
       }
     ]
   },
@@ -12930,6 +15656,20 @@
             "instructor": "Stephen Thoms, Henrik Gollee"
           }
         ]
+      },
+      {
+        "id": "15319",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "22/09/2015 - 01/12/2015",
+            "times": "Tu  09:00 - 11:00",
+            "room": "CTT BOYD ORR:407 (LT A)",
+            "instructor": "Stephen Thoms, Henrik Gollee"
+          }
+        ]
       }
     ]
   },
@@ -12978,6 +15718,38 @@
             "instructor": "Staff"
           }
         ]
+      },
+      {
+        "id": "15014",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "15/01/2016 - 25/03/2016",
+            "times": "Fr  13:00 - 14:00",
+            "room": "RANKINE:601 DRWG OFFICE",
+            "instructor": "Steven Neale"
+          },
+          {
+            "period": "14/01/2016 - 24/03/2016",
+            "times": "Th  14:00 - 15:00",
+            "room": "RANKINE:601 DRWG OFFICE",
+            "instructor": "Steven Neale"
+          },
+          {
+            "period": "13/01/2016 - 23/03/2016",
+            "times": "We  13:00 - 14:00",
+            "room": "RANKINE:601 DRWG OFFICE",
+            "instructor": "Steven Neale"
+          },
+          {
+            "period": "11/01/2016 - 21/03/2016",
+            "times": "Mo  09:00 - 10:00",
+            "room": "RANKINE:601 DRWG OFFICE",
+            "instructor": "Steven Neale"
+          }
+        ]
       }
     ]
   },
@@ -12996,6 +15768,38 @@
             "times": "TBA",
             "room": "TBA",
             "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "15936",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "15/01/2016 - 25/03/2016",
+            "times": "Fr  10:00 - 11:00",
+            "room": "CTT RANKINE:107 LT",
+            "instructor": "Anthony Kelly, John Marsh"
+          },
+          {
+            "period": "11/01/2016 - 21/03/2016",
+            "times": "Mo  13:00 - 14:00",
+            "room": "RANKINE:601 DRWG OFFICE",
+            "instructor": "John Marsh, Anthony Kelly"
+          },
+          {
+            "period": "13/01/2016 - 23/03/2016",
+            "times": "We  09:00 - 10:00",
+            "room": "RANKINE:629 DRWG OFFICE",
+            "instructor": "Anthony Kelly, John Marsh"
+          },
+          {
+            "period": "12/01/2016 - 22/03/2016",
+            "times": "Tu  12:00 - 13:00",
+            "room": "CTT 9 UNIVERSITY GDNS:206",
+            "instructor": "John Marsh, Anthony Kelly"
           }
         ]
       }
@@ -13038,6 +15842,32 @@
             "instructor": "Marco Vezza"
           }
         ]
+      },
+      {
+        "id": "15197",
+        "type": "Tutorial",
+        "name": "TU01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "23/11/2015 - 23/11/2015",
+            "times": "Mo  13:00 - 14:00",
+            "room": "JAMES WATT SOUTH:427B STUDIO",
+            "instructor": "Marco Vezza"
+          },
+          {
+            "period": "02/11/2015 - 02/11/2015",
+            "times": "Mo  13:00 - 14:00",
+            "room": "JAMES WATT SOUTH:427B STUDIO",
+            "instructor": "Marco Vezza"
+          },
+          {
+            "period": "12/10/2015 - 12/10/2015",
+            "times": "Mo  13:00 - 14:00",
+            "room": "JAMES WATT SOUTH:427B STUDIO",
+            "instructor": "Marco Vezza"
+          }
+        ]
       }
     ]
   },
@@ -13072,6 +15902,26 @@
             "instructor": "Scott Roy"
           }
         ]
+      },
+      {
+        "id": "15478",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "22/01/2016 - 25/03/2016",
+            "times": "Fr  11:00 - 13:00",
+            "room": "CTT BOYD ORR:412 (LT B)",
+            "instructor": "Staff"
+          },
+          {
+            "period": "11/01/2016 - 21/03/2016",
+            "times": "Mo  14:00 - 16:00",
+            "room": "CTT JOSEPH BLACK:B408 PHYS",
+            "instructor": "Staff"
+          }
+        ]
       }
     ]
   },
@@ -13092,6 +15942,20 @@
             "instructor": "Staff"
           }
         ]
+      },
+      {
+        "id": "14769",
+        "type": "Project",
+        "name": "PJ01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "TBA",
+            "times": "TBA",
+            "room": "TBA",
+            "instructor": "Staff"
+          }
+        ]
       }
     ]
   },
@@ -13103,6 +15967,20 @@
         "id": "15715",
         "type": "Admin",
         "name": "AD01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "TBA",
+            "times": "TBA",
+            "room": "TBA",
+            "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "15188",
+        "type": "Project",
+        "name": "PJ01",
         "status": "Open",
         "dates": [
           {
@@ -13192,6 +16070,26 @@
             "instructor": "Henrik Gollee"
           }
         ]
+      },
+      {
+        "id": "15572",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "14/01/2016 - 24/03/2016",
+            "times": "Th  14:00 - 15:00",
+            "room": "CTT JAMES WATT SOUTH:375 (J15)",
+            "instructor": "Aleksandra Vuckovic, Henrik Gollee"
+          },
+          {
+            "period": "13/01/2016 - 23/03/2016",
+            "times": "We  11:00 - 12:00",
+            "room": "CTT RANKINE:108 LT",
+            "instructor": "Henrik Gollee"
+          }
+        ]
       }
     ]
   },
@@ -13203,6 +16101,20 @@
         "id": "15803",
         "type": "Admin",
         "name": "AD01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "TBA",
+            "times": "TBA",
+            "room": "TBA",
+            "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "15552",
+        "type": "Project",
+        "name": "PJ01",
         "status": "Open",
         "dates": [
           {
@@ -13246,6 +16158,32 @@
             "instructor": "Staff"
           }
         ]
+      },
+      {
+        "id": "15223",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "11/01/2016 - 21/03/2016",
+            "times": "Mo  13:00 - 14:00",
+            "room": "CTT JAMES WATT STH:354 STEVESN",
+            "instructor": "Euan Mcgookin"
+          },
+          {
+            "period": "11/01/2016 - 21/03/2016",
+            "times": "Mo  10:00 - 11:00",
+            "room": "CTT JAMES WATT SOUTH:375 (J15)",
+            "instructor": "Euan Mcgookin"
+          },
+          {
+            "period": "14/01/2016 - 24/03/2016",
+            "times": "Th  09:00 - 11:00",
+            "room": "CTT BOYD ORR:407 (LT A)",
+            "instructor": "Euan Mcgookin"
+          }
+        ]
       }
     ]
   },
@@ -13283,6 +16221,20 @@
             "period": "23/09/2015 - 02/12/2015",
             "times": "We  10:00 - 11:00",
             "room": "CTT RANKINE:108 LT",
+            "instructor": "Matteo Ceriotti"
+          }
+        ]
+      },
+      {
+        "id": "15504",
+        "type": "Tutorial",
+        "name": "TU01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "26/10/2015 - 30/11/2015",
+            "times": "Mo  16:00 - 17:00",
+            "room": "CTT JAMES WATT SOUTH:375 (J15)",
             "instructor": "Matteo Ceriotti"
           }
         ]
@@ -13326,6 +16278,20 @@
             "instructor": "Martin Ruess"
           }
         ]
+      },
+      {
+        "id": "14869",
+        "type": "Tutorial",
+        "name": "TU01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "14/03/2016 - 21/03/2016",
+            "times": "Mo  13:00 - 14:00",
+            "room": "CTT RANKINE:106 LT",
+            "instructor": "Martin Ruess"
+          }
+        ]
       }
     ]
   },
@@ -13356,6 +16322,20 @@
           {
             "period": "21/09/2015 - 30/11/2015",
             "times": "Mo  09:00 - 10:00",
+            "room": "RANKINE:629 DRWG OFFICE",
+            "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "14920",
+        "type": "Tutorial",
+        "name": "TU01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "28/09/2015 - 23/11/2015",
+            "times": "Mo  11:00 - 12:00",
             "room": "RANKINE:629 DRWG OFFICE",
             "instructor": "Staff"
           }
@@ -13422,6 +16402,32 @@
             "instructor": "Margaret Lucas, Patrick Harkness"
           }
         ]
+      },
+      {
+        "id": "15030",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "11/01/2016 - 21/03/2016",
+            "times": "Mo  14:00 - 16:00",
+            "room": "CTT RANKINE:106 LT",
+            "instructor": "Margaret Lucas, Patrick Harkness"
+          },
+          {
+            "period": "15/01/2016 - 25/03/2016",
+            "times": "Fr  10:00 - 11:00",
+            "room": "CTT RANKINE:108 LT",
+            "instructor": "Patrick Harkness, Margaret Lucas"
+          },
+          {
+            "period": "13/01/2016 - 23/03/2016",
+            "times": "We  10:00 - 11:00",
+            "room": "CTT RANKINE:108 LT",
+            "instructor": "Margaret Lucas, Patrick Harkness"
+          }
+        ]
       }
     ]
   },
@@ -13440,6 +16446,26 @@
             "times": "TBA",
             "room": "TBA",
             "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "15496",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "25/09/2015 - 04/12/2015",
+            "times": "Fr  11:00 - 13:00",
+            "room": "CTT RANKINE:107 LT",
+            "instructor": "Khaled Elgaid, Edward Wasige"
+          },
+          {
+            "period": "21/09/2015 - 30/11/2015",
+            "times": "Mo  09:00 - 11:00",
+            "room": "CTT RANKINE:107 LT",
+            "instructor": "Edward Wasige, Khaled Elgaid"
           }
         ]
       }
@@ -13482,6 +16508,38 @@
             "instructor": "Ameet Pinto"
           }
         ]
+      },
+      {
+        "id": "15161",
+        "type": "Tutorial",
+        "name": "TU01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "19/11/2015 - 03/12/2015",
+            "times": "Th  10:00 - 12:00",
+            "room": "RANKINE:629 DRWG OFFICE",
+            "instructor": "Ameet Pinto"
+          },
+          {
+            "period": "05/11/2015 - 05/11/2015",
+            "times": "Th  10:00 - 12:00",
+            "room": "RANKINE:629 DRWG OFFICE",
+            "instructor": "Ameet Pinto"
+          },
+          {
+            "period": "22/10/2015 - 22/10/2015",
+            "times": "Th  10:00 - 12:00",
+            "room": "RANKINE:629 DRWG OFFICE",
+            "instructor": "Ameet Pinto"
+          },
+          {
+            "period": "08/10/2015 - 08/10/2015",
+            "times": "Th  10:00 - 12:00",
+            "room": "RANKINE:629 DRWG OFFICE",
+            "instructor": "Ameet Pinto"
+          }
+        ]
       }
     ]
   },
@@ -13502,6 +16560,20 @@
             "instructor": "Staff"
           }
         ]
+      },
+      {
+        "id": "15166",
+        "type": "Project",
+        "name": "PJ01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "07/10/2015 - 21/10/2015",
+            "times": "We  12:00 - 13:00",
+            "room": "RANKINE:630 DRWG OFFICE",
+            "instructor": "David Muir"
+          }
+        ]
       }
     ]
   },
@@ -13513,6 +16585,20 @@
         "id": "15611",
         "type": "Admin",
         "name": "AD01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "TBA",
+            "times": "TBA",
+            "room": "TBA",
+            "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "14852",
+        "type": "Lecture",
+        "name": "LC01",
         "status": "Open",
         "dates": [
           {
@@ -13542,6 +16628,20 @@
             "instructor": "Staff"
           }
         ]
+      },
+      {
+        "id": "15102",
+        "type": "Project",
+        "name": "PJ01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "07/10/2015 - 21/10/2015",
+            "times": "We  12:00 - 13:00",
+            "room": "RANKINE:630 DRWG OFFICE",
+            "instructor": "David Muir"
+          }
+        ]
       }
     ]
   },
@@ -13562,6 +16662,20 @@
             "instructor": "Staff"
           }
         ]
+      },
+      {
+        "id": "15462",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "23/09/2015 - 02/12/2015",
+            "times": "We  10:00 - 12:00",
+            "room": "CTT RANKINE:408  LT",
+            "instructor": "ZZZ ZZZDUPE2057632, Paul Younger"
+          }
+        ]
       }
     ]
   },
@@ -13580,6 +16694,26 @@
             "times": "TBA",
             "room": "TBA",
             "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "14969",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "15/01/2016 - 25/03/2016",
+            "times": "Fr  13:00 - 14:00",
+            "room": "CTT JAMES WATT SOUTH:355 (J10)",
+            "instructor": "David Anderson"
+          },
+          {
+            "period": "13/01/2016 - 23/03/2016",
+            "times": "We  10:00 - 11:00",
+            "room": "CTT JAMES WATT SOUTH:355 (J10)",
+            "instructor": "David Anderson"
           }
         ]
       }
@@ -13718,6 +16852,20 @@
             "instructor": "Zhibin Yu, Manosh Paul, Nader Karimi, ZZZ ZZZDUPE2059903"
           }
         ]
+      },
+      {
+        "id": "15117",
+        "type": "Tutorial",
+        "name": "TU01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "16/10/2015 - 04/12/2015",
+            "times": "Fr  12:00 - 13:00",
+            "room": "CTT JAMES WATT SOUTH:375 (J15)",
+            "instructor": "Nader Karimi, Manosh Paul, Zhibin Yu, ZZZ ZZZDUPE2059903"
+          }
+        ]
       }
     ]
   },
@@ -13770,6 +16918,44 @@
             "times": "Mo  10:00 - 11:00",
             "room": "JAMES WATT SOUTH:427B STUDIO",
             "instructor": "Helen Mulvana, Thomas Franke, Julien Reboud"
+          }
+        ]
+      },
+      {
+        "id": "14815",
+        "type": "Seminar",
+        "name": "SM01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "23/11/2015 - 23/11/2015",
+            "times": "Mo  13:00 - 14:00",
+            "room": "CTT RANKINE:106 LT",
+            "instructor": "Helen Mulvana, Thomas Franke, Julien Reboud"
+          },
+          {
+            "period": "09/11/2015 - 09/11/2015",
+            "times": "Mo  13:00 - 14:00",
+            "room": "CTT RANKINE:106 LT",
+            "instructor": "Helen Mulvana, Thomas Franke, Julien Reboud"
+          },
+          {
+            "period": "26/10/2015 - 26/10/2015",
+            "times": "Mo  13:00 - 14:00",
+            "room": "CTT RANKINE:106 LT",
+            "instructor": "Thomas Franke, Helen Mulvana, Julien Reboud"
+          },
+          {
+            "period": "12/10/2015 - 12/10/2015",
+            "times": "Mo  13:00 - 14:00",
+            "room": "CTT RANKINE:106 LT",
+            "instructor": "Julien Reboud, Thomas Franke, Helen Mulvana"
+          },
+          {
+            "period": "28/09/2015 - 28/09/2015",
+            "times": "Mo  13:00 - 14:00",
+            "room": "CTT RANKINE:106 LT",
+            "instructor": "Julien Reboud, Thomas Franke, Helen Mulvana"
           }
         ]
       }
@@ -13890,6 +17076,32 @@
             "instructor": "Konstantinos Ampountolas"
           }
         ]
+      },
+      {
+        "id": "15088",
+        "type": "Tutorial",
+        "name": "TU02",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "10/03/2016 - 10/03/2016",
+            "times": "Th  12:00 - 13:00",
+            "room": "RANKINE:630 DRWG OFFICE",
+            "instructor": "Konstantinos Ampountolas"
+          },
+          {
+            "period": "18/02/2016 - 18/02/2016",
+            "times": "Th  12:00 - 13:00",
+            "room": "RANKINE:630 DRWG OFFICE",
+            "instructor": "Konstantinos Ampountolas"
+          },
+          {
+            "period": "04/02/2016 - 04/02/2016",
+            "times": "Th  12:00 - 13:00",
+            "room": "RANKINE:630 DRWG OFFICE",
+            "instructor": "Konstantinos Ampountolas"
+          }
+        ]
       }
     ]
   },
@@ -13910,6 +17122,32 @@
             "instructor": "Staff"
           }
         ]
+      },
+      {
+        "id": "14838",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "24/09/2015 - 22/10/2015",
+            "times": "Th  09:00 - 10:00",
+            "room": "JAMES WATT SOUTH:334 STUDIO",
+            "instructor": "Stewart Houston"
+          },
+          {
+            "period": "21/09/2015 - 30/11/2015",
+            "times": "Mo  12:00 - 13:00",
+            "room": "CTT JAMES WATT SOUTH:355 (J10)",
+            "instructor": "Stewart Houston, David Anderson"
+          },
+          {
+            "period": "26/10/2015 - 30/11/2015",
+            "times": "Mo  10:00 - 11:00",
+            "room": "CTT JAMES WATT SOUTH:355 (J10)",
+            "instructor": "David Anderson"
+          }
+        ]
       }
     ]
   },
@@ -13928,6 +17166,26 @@
             "times": "TBA",
             "room": "TBA",
             "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "15103",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "13/01/2016 - 23/03/2016",
+            "times": "We  13:00 - 14:00",
+            "room": "CTT JAMES WATT SOUTH:355 (J10)",
+            "instructor": "David Anderson, Stewart Houston"
+          },
+          {
+            "period": "11/01/2016 - 21/03/2016",
+            "times": "Mo  15:00 - 16:00",
+            "room": "CTT JAMES WATT SOUTH:375 (J15)",
+            "instructor": "David Anderson, Stewart Houston"
           }
         ]
       }
@@ -13971,6 +17229,20 @@
           },
           {
             "period": "02/10/2015 - 16/10/2015",
+            "times": "Fr  14:00 - 17:00",
+            "room": "JAMES WATT SOUTH:427B STUDIO",
+            "instructor": "Nicholas Andrew Ahrens, Safa Hashim"
+          }
+        ]
+      },
+      {
+        "id": "15144",
+        "type": "Project",
+        "name": "PJ01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "22/01/2016 - 26/02/2016",
             "times": "Fr  14:00 - 17:00",
             "room": "JAMES WATT SOUTH:427B STUDIO",
             "instructor": "Nicholas Andrew Ahrens, Safa Hashim"
@@ -14064,6 +17336,26 @@
             "instructor": "Andrew Knox"
           }
         ]
+      },
+      {
+        "id": "14832",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "21/09/2015 - 30/11/2015",
+            "times": "Mo  13:00 - 15:00",
+            "room": "CTT RANKINE:108 LT",
+            "instructor": "Calum Cossar"
+          },
+          {
+            "period": "30/11/2015 - 30/11/2015",
+            "times": "Mo  15:00 - 17:00",
+            "room": "CTT RANKINE:408  LT",
+            "instructor": "Calum Cossar"
+          }
+        ]
       }
     ]
   },
@@ -14082,6 +17374,20 @@
             "times": "TBA",
             "room": "TBA",
             "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "15427",
+        "type": "Project",
+        "name": "PJ01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "15/01/2016 - 04/03/2016",
+            "times": "Fr  14:00 - 17:00",
+            "room": "RANKINE:629 DRWG OFFICE",
+            "instructor": "William Stewart, Zhiwei Gao"
           }
         ]
       }
@@ -14104,6 +17410,20 @@
             "instructor": "Staff"
           }
         ]
+      },
+      {
+        "id": "14921",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "23/09/2015 - 02/12/2015",
+            "times": "We  09:00 - 11:00",
+            "room": "JAMES WATT SOUTH:427A STUDIO",
+            "instructor": "Staff"
+          }
+        ]
       }
     ]
   },
@@ -14122,6 +17442,20 @@
             "times": "TBA",
             "room": "TBA",
             "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "15480",
+        "type": "Project",
+        "name": "PJ01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "13/01/2016 - 10/02/2016",
+            "times": "We  13:30 - 14:00",
+            "room": "RANKINE:605 LAB",
+            "instructor": "Andrew Knox"
           }
         ]
       }

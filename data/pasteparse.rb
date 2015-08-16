@@ -88,6 +88,7 @@ STDIN.each_line do |line|
       state = :section_id
       current_section = {}
     elsif line.start_with? 'Collapse section '
+      current_class[:sections] << current_section
       classes << current_class
 
       line = line[17..-1] # Strip off 'Collapse section '

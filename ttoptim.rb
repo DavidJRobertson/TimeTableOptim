@@ -65,11 +65,11 @@ class TimetablingProblem < CSP
 
     all_pairs(@vars.keys)  { |a, b| !a.conflicts_with?(b) }
 
-    @vars.keys.each do |key|
-      constrain(key) do |section|
-        !section.dates.any? {|d|  (d[0].wday == 4) and d[1] < 11}
-      end
-    end
+    #@vars.keys.each do |key|
+    #  constrain(key) do |section|
+    #    !section.dates.any? {|d|  (d[0].wday == 4) and d[1] < 11}
+    #  end
+    #end
 
   end
   attr_reader :courses

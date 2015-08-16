@@ -262,6 +262,38 @@
             "instructor": "Staff"
           }
         ]
+      },
+      {
+        "id": "2615",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "15/01/2016 - 25/03/2016",
+            "times": "Fr  12:00 - 13:00",
+            "room": "CTT MAIN BLD:220 HUNTER WEST",
+            "instructor": "Simon Gay, Dimitrios Pezaros"
+          },
+          {
+            "period": "13/01/2016 - 23/03/2016",
+            "times": "We  12:00 - 13:00",
+            "room": "CTT MAIN BLD:220 HUNTER WEST",
+            "instructor": "Dimitrios Pezaros, Simon Gay"
+          },
+          {
+            "period": "25/09/2015 - 04/12/2015",
+            "times": "Fr  12:00 - 13:00",
+            "room": "CTT ADAM SMITH:1115",
+            "instructor": "Dimitrios Pezaros, Simon Gay"
+          },
+          {
+            "period": "23/09/2015 - 02/12/2015",
+            "times": "We  12:00 - 13:00",
+            "room": "CTT ADAM SMITH:1115",
+            "instructor": "Dimitrios Pezaros, Simon Gay"
+          }
+        ]
       }
     ]
   },
@@ -1224,6 +1256,26 @@
             "instructor": "Staff"
           }
         ]
+      },
+      {
+        "id": "9830",
+        "type": "Tutorial",
+        "name": "TU15",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "14/01/2016 - 24/03/2016",
+            "times": "Th  16:00 - 17:00",
+            "room": "CTT BOYD ORR:407 (LT A)",
+            "instructor": "Staff"
+          },
+          {
+            "period": "01/10/2015 - 03/12/2015",
+            "times": "Th  16:00 - 17:00",
+            "room": "CTT BOYD ORR:506",
+            "instructor": "Staff"
+          }
+        ]
       }
     ]
   },
@@ -1396,6 +1448,26 @@
             "instructor": "Staff"
           }
         ]
+      },
+      {
+        "id": "6410",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "25/09/2015 - 04/12/2015",
+            "times": "Fr  12:00 - 14:00",
+            "room": "CTT SIR ALEXANDER STONE:208 LT",
+            "instructor": "Quintin Cutts"
+          },
+          {
+            "period": "23/09/2015 - 02/12/2015",
+            "times": "We  12:00 - 14:00",
+            "room": "CTT SIR ALEXANDER STONE:208 LT",
+            "instructor": "Quintin Cutts"
+          }
+        ]
       }
     ]
   },
@@ -1554,6 +1626,26 @@
             "times": "TBA",
             "room": "TBA",
             "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "7759",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "15/01/2016 - 25/03/2016",
+            "times": "Fr  12:00 - 13:00",
+            "room": "CTT MAIN BLD:220 HUNTER WEST",
+            "instructor": "Simon Gay, Dimitrios Pezaros"
+          },
+          {
+            "period": "13/01/2016 - 23/03/2016",
+            "times": "We  12:00 - 13:00",
+            "room": "CTT MAIN BLD:220 HUNTER WEST",
+            "instructor": "Simon Gay, Dimitrios Pezaros"
           }
         ]
       }
@@ -2074,6 +2166,20 @@
             "instructor": "Staff"
           }
         ]
+      },
+      {
+        "id": "2708",
+        "type": "Tutorial",
+        "name": "TU15",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "TBA",
+            "times": "TBA",
+            "room": "TBA",
+            "instructor": "Staff"
+          }
+        ]
       }
     ]
   },
@@ -2568,6 +2674,20 @@
             "instructor": "Staff"
           }
         ]
+      },
+      {
+        "id": "2528",
+        "type": "Tutorial",
+        "name": "TU12",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "02/10/2015 - 04/12/2015",
+            "times": "Fr  14:00 - 15:00",
+            "room": "CTT 6 THE SQUARE:230 (G30)",
+            "instructor": "Staff"
+          }
+        ]
       }
     ]
   },
@@ -2731,6 +2851,20 @@
             "period": "09/10/2015 - 04/12/2015",
             "times": "Fr  13:00 - 14:00",
             "room": "CTT 7 THE SQUARE:227 (G27)",
+            "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "4523",
+        "type": "Tutorial",
+        "name": "TU10",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "TBA",
+            "times": "TBA",
+            "room": "TBA",
             "instructor": "Staff"
           }
         ]
@@ -3382,6 +3516,38 @@
             "instructor": "Staff"
           }
         ]
+      },
+      {
+        "id": "2757",
+        "type": "Tutorial",
+        "name": "TU10",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "17/11/2015 - 17/11/2015",
+            "times": "Tu  16:00 - 17:00",
+            "room": "CTT BOYD ORR:711",
+            "instructor": "Staff"
+          },
+          {
+            "period": "27/10/2015 - 03/11/2015",
+            "times": "Tu  16:00 - 17:00",
+            "room": "CTT BOYD ORR:711",
+            "instructor": "Staff"
+          },
+          {
+            "period": "13/10/2015 - 13/10/2015",
+            "times": "Tu  16:00 - 17:00",
+            "room": "CTT BOYD ORR:711",
+            "instructor": "Staff"
+          },
+          {
+            "period": "29/09/2015 - 29/09/2015",
+            "times": "Tu  16:00 - 17:00",
+            "room": "CTT BOYD ORR:711",
+            "instructor": "Staff"
+          }
+        ]
       }
     ]
   },
@@ -3878,6 +4044,50 @@
             "times": "We  14:00 - 15:00",
             "room": "BOYD ORR:715 LAB",
             "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "6400",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "18/03/2016 - 18/03/2016",
+            "times": "Fr  13:00 - 14:00",
+            "room": "CTT BOYD ORR:222 LEC THEATRE 2",
+            "instructor": "Patrick Prosser"
+          },
+          {
+            "period": "04/03/2016 - 04/03/2016",
+            "times": "Fr  13:00 - 14:00",
+            "room": "CTT BOYD ORR:222 LEC THEATRE 2",
+            "instructor": "Patrick Prosser"
+          },
+          {
+            "period": "19/02/2016 - 19/02/2016",
+            "times": "Fr  13:00 - 14:00",
+            "room": "CTT BOYD ORR:222 LEC THEATRE 2",
+            "instructor": "Patrick Prosser"
+          },
+          {
+            "period": "05/02/2016 - 05/02/2016",
+            "times": "Fr  13:00 - 14:00",
+            "room": "CTT BOYD ORR:222 LEC THEATRE 2",
+            "instructor": "Patrick Prosser"
+          },
+          {
+            "period": "14/01/2016 - 24/03/2016",
+            "times": "Th  11:00 - 12:00",
+            "room": "CTT BOYD ORR:222 LEC THEATRE 2",
+            "instructor": "Patrick Prosser"
+          },
+          {
+            "period": "12/01/2016 - 22/03/2016",
+            "times": "Tu  11:00 - 12:00",
+            "room": "CTT BOYD ORR:222 LEC THEATRE 2",
+            "instructor": "Patrick Prosser"
           }
         ]
       }
@@ -4452,6 +4662,26 @@
             "instructor": "Inah Omoronyia, Jeremy Singer"
           }
         ]
+      },
+      {
+        "id": "4863",
+        "type": "Tutorial",
+        "name": "TU01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "15/01/2016 - 25/03/2016",
+            "times": "Fr  14:00 - 15:00",
+            "room": "CTT ADAM SMITH:1115",
+            "instructor": "Jeremy Singer, Inah Omoronyia"
+          },
+          {
+            "period": "02/10/2015 - 04/12/2015",
+            "times": "Fr  14:00 - 15:00",
+            "room": "CTT ADAM SMITH:1115",
+            "instructor": "Inah Omoronyia, Jeremy Singer"
+          }
+        ]
       }
     ]
   },
@@ -5016,6 +5246,56 @@
             "instructor": "Staff"
           }
         ]
+      },
+      {
+        "id": "2551",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "25/03/2016 - 25/03/2016",
+            "times": "Fr  13:00 - 14:00",
+            "room": "CTT BOYD ORR:222 LEC THEATRE 2",
+            "instructor": "Leif Azzopardi"
+          },
+          {
+            "period": "11/03/2016 - 11/03/2016",
+            "times": "Fr  13:00 - 14:00",
+            "room": "CTT BOYD ORR:222 LEC THEATRE 2",
+            "instructor": "Leif Azzopardi"
+          },
+          {
+            "period": "26/02/2016 - 26/02/2016",
+            "times": "Fr  13:00 - 14:00",
+            "room": "CTT BOYD ORR:222 LEC THEATRE 2",
+            "instructor": "Leif Azzopardi"
+          },
+          {
+            "period": "12/02/2016 - 12/02/2016",
+            "times": "Fr  13:00 - 14:00",
+            "room": "CTT BOYD ORR:222 LEC THEATRE 2",
+            "instructor": "Leif Azzopardi"
+          },
+          {
+            "period": "15/01/2016 - 29/01/2016",
+            "times": "Fr  13:00 - 14:00",
+            "room": "CTT BOYD ORR:222 LEC THEATRE 2",
+            "instructor": "Leif Azzopardi"
+          },
+          {
+            "period": "15/01/2016 - 25/03/2016",
+            "times": "Fr  11:00 - 12:00",
+            "room": "CTT SIR ALEXANDER STONE:208 LT",
+            "instructor": "Leif Azzopardi"
+          },
+          {
+            "period": "13/01/2016 - 23/03/2016",
+            "times": "We  11:00 - 12:00",
+            "room": "CTT SIR ALEXANDER STONE:208 LT",
+            "instructor": "Leif Azzopardi"
+          }
+        ]
       }
     ]
   },
@@ -5033,6 +5313,32 @@
             "period": "TBA",
             "times": "TBA",
             "room": "TBA",
+            "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "1130",
+        "type": "Project",
+        "name": "PJ01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "24/09/2015 - 24/09/2015",
+            "times": "Th  11:00 - 12:00",
+            "room": "CTT RANKINE:408  LT",
+            "instructor": "Jeremy Singer"
+          },
+          {
+            "period": "22/09/2015 - 22/09/2015",
+            "times": "Tu  11:00 - 12:00",
+            "room": "CTT RANKINE:408  LT",
+            "instructor": "Jeremy Singer"
+          },
+          {
+            "period": "07/12/2015 - 07/12/2015",
+            "times": "Mo  10:00 - 14:00",
+            "room": "CTT BOYD ORR:222 LEC THEATRE 2",
             "instructor": "Staff"
           }
         ]
@@ -5056,6 +5362,32 @@
             "instructor": "Staff"
           }
         ]
+      },
+      {
+        "id": "9226",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "15/01/2016 - 18/03/2016",
+            "times": "Fr  12:00 - 13:00",
+            "room": "CTT BOYD ORR:507 (LT C)",
+            "instructor": "Lewis Mackenzie"
+          },
+          {
+            "period": "14/01/2016 - 17/03/2016",
+            "times": "Th  09:00 - 10:00",
+            "room": "CTT BOYD ORR:507 (LT C)",
+            "instructor": "Lewis Mackenzie"
+          },
+          {
+            "period": "13/01/2016 - 16/03/2016",
+            "times": "We  09:00 - 10:00",
+            "room": "CTT BOYD ORR:507 (LT C)",
+            "instructor": "Lewis Mackenzie"
+          }
+        ]
       }
     ]
   },
@@ -5074,6 +5406,32 @@
             "times": "TBA",
             "room": "TBA",
             "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "2843",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "14/01/2016 - 17/03/2016",
+            "times": "Th  10:00 - 11:00",
+            "room": "CTT BOYD ORR:507 (LT C)",
+            "instructor": "David Manlove"
+          },
+          {
+            "period": "12/01/2016 - 15/03/2016",
+            "times": "Tu  12:00 - 13:00",
+            "room": "CTT BOYD ORR:507 (LT C)",
+            "instructor": "David Manlove"
+          },
+          {
+            "period": "13/01/2016 - 16/03/2016",
+            "times": "We  12:00 - 13:00",
+            "room": "CTT BOYD ORR:709A/B CLASSROOM",
+            "instructor": "David Manlove"
           }
         ]
       }
@@ -5096,6 +5454,32 @@
             "instructor": "Staff"
           }
         ]
+      },
+      {
+        "id": "6259",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "02/10/2015 - 04/12/2015",
+            "times": "Fr  09:00 - 10:00",
+            "room": "CTT BOYD ORR:507 (LT C)",
+            "instructor": "Alessandro Vinciarelli"
+          },
+          {
+            "period": "01/10/2015 - 03/12/2015",
+            "times": "Th  13:00 - 14:00",
+            "room": "CTT BOYD ORR:611 (LT E)",
+            "instructor": "Alessandro Vinciarelli"
+          },
+          {
+            "period": "29/09/2015 - 01/12/2015",
+            "times": "Tu  12:00 - 13:00",
+            "room": "CTT BOYD ORR:611 (LT E)",
+            "instructor": "Alessandro Vinciarelli"
+          }
+        ]
       }
     ]
   },
@@ -5114,6 +5498,32 @@
             "times": "TBA",
             "room": "TBA",
             "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "1819",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "01/10/2015 - 03/12/2015",
+            "times": "Th  09:00 - 10:00",
+            "room": "CTT BOYD ORR:412 (LT B)",
+            "instructor": "John O'Donnell"
+          },
+          {
+            "period": "02/10/2015 - 04/12/2015",
+            "times": "Fr  13:00 - 14:00",
+            "room": "CTT BOYD ORR:709A/B CLASSROOM",
+            "instructor": "John O'Donnell"
+          },
+          {
+            "period": "29/09/2015 - 01/12/2015",
+            "times": "Tu  16:00 - 17:00",
+            "room": "CTT BOYD ORR:709A/B CLASSROOM",
+            "instructor": "John O'Donnell"
           }
         ]
       }
@@ -5150,6 +5560,20 @@
             "instructor": "John Williamson"
           }
         ]
+      },
+      {
+        "id": "6200",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "15/01/2016 - 18/03/2016",
+            "times": "Fr  10:00 - 12:00",
+            "room": "12 LILYBANK GDNS:306 (F121)",
+            "instructor": "John Williamson"
+          }
+        ]
       }
     ]
   },
@@ -5181,6 +5605,20 @@
             "period": "29/09/2015 - 01/12/2015",
             "times": "Tu  14:00 - 16:00",
             "room": "CTT BOYD ORR:611 (LT E)",
+            "instructor": "Gethin Norman"
+          }
+        ]
+      },
+      {
+        "id": "5677",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "29/09/2015 - 01/12/2015",
+            "times": "Tu  10:00 - 12:00",
+            "room": "CTT DAVIDSON:208 MAIN LT",
             "instructor": "Gethin Norman"
           }
         ]
@@ -5224,6 +5662,20 @@
             "instructor": "Jeremy Singer, Phil Trinder"
           }
         ]
+      },
+      {
+        "id": "7867",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "TBA",
+            "times": "TBA",
+            "room": "TBA",
+            "instructor": "Staff"
+          }
+        ]
       }
     ]
   },
@@ -5258,6 +5710,20 @@
             "instructor": "Wim Vanderbauwhede"
           }
         ]
+      },
+      {
+        "id": "9141",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "11/01/2016 - 14/03/2016",
+            "times": "Mo  10:00 - 12:00",
+            "room": "CTT HUNTERIAN ART GALLRY:103 L",
+            "instructor": "Wim Vanderbauwhede"
+          }
+        ]
       }
     ]
   },
@@ -5289,6 +5755,26 @@
             "period": "13/01/2016 - 16/03/2016",
             "times": "We  14:00 - 15:00",
             "room": "BOYD ORR:720 LAB",
+            "instructor": "Colin Perkins"
+          }
+        ]
+      },
+      {
+        "id": "4090",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "13/01/2016 - 16/03/2016",
+            "times": "We  12:00 - 13:00",
+            "room": "CTT MAIN BLD:226 EAST QUAD LT",
+            "instructor": "Colin Perkins"
+          },
+          {
+            "period": "13/01/2016 - 16/03/2016",
+            "times": "We  10:00 - 11:00",
+            "room": "CTT MAIN BLD:226 EAST QUAD LT",
             "instructor": "Colin Perkins"
           }
         ]
@@ -5340,6 +5826,20 @@
             "instructor": "Staff"
           }
         ]
+      },
+      {
+        "id": "8810",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "15/01/2016 - 18/03/2016",
+            "times": "Fr  10:00 - 12:00",
+            "room": "CTT BOYD ORR:513 (LT D)",
+            "instructor": "Peter Triantafillou"
+          }
+        ]
       }
     ]
   },
@@ -5371,6 +5871,20 @@
             "period": "02/10/2015 - 04/12/2015",
             "times": "Fr  14:00 - 16:00",
             "room": "CTT BOYD ORR:611 (LT E)",
+            "instructor": "Roderick Murray-Smith"
+          }
+        ]
+      },
+      {
+        "id": "3532",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "02/10/2015 - 04/12/2015",
+            "times": "Fr  10:00 - 12:00",
+            "room": "CTT SIR ALEXANDER STONE:208 LT",
             "instructor": "Roderick Murray-Smith"
           }
         ]
@@ -5408,6 +5922,26 @@
             "instructor": "Staff"
           }
         ]
+      },
+      {
+        "id": "3530",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "14/01/2016 - 17/03/2016",
+            "times": "Th  10:00 - 17:00",
+            "room": "BOYD ORR:720 LAB",
+            "instructor": "Jeremy Singer, Timothy Storer"
+          },
+          {
+            "period": "30/09/2015 - 02/12/2015",
+            "times": "We  10:00 - 17:00",
+            "room": "BOYD ORR:720 LAB",
+            "instructor": "Timothy Storer, Jeremy Singer"
+          }
+        ]
       }
     ]
   },
@@ -5442,6 +5976,20 @@
             "instructor": "Simon Gay"
           }
         ]
+      },
+      {
+        "id": "4078",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "01/10/2015 - 03/12/2015",
+            "times": "Th  10:00 - 12:00",
+            "room": "CTT DAVIDSON:208 MAIN LT",
+            "instructor": "Simon Gay"
+          }
+        ]
       }
     ]
   },
@@ -5460,6 +6008,26 @@
             "times": "TBA",
             "room": "TBA",
             "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "7962",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "14/01/2016 - 17/03/2016",
+            "times": "Th  11:00 - 12:00",
+            "room": "SIR ALWYN WILLIAMS:422 SEM RM",
+            "instructor": "Quintin Cutts"
+          },
+          {
+            "period": "28/09/2015 - 30/11/2015",
+            "times": "Mo  11:00 - 12:00",
+            "room": "SIR ALWYN WILLIAMS:422 SEM RM",
+            "instructor": "Quintin Cutts"
           }
         ]
       }
@@ -5482,6 +6050,26 @@
             "instructor": "Staff"
           }
         ]
+      },
+      {
+        "id": "7860",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "01/10/2015 - 03/12/2015",
+            "times": "Th  16:00 - 17:00",
+            "room": "CTT BOYD ORR:507 (LT C)",
+            "instructor": "Dimitrios Pezaros"
+          },
+          {
+            "period": "30/09/2015 - 02/12/2015",
+            "times": "We  10:00 - 12:00",
+            "room": "CTT BOYD ORR:507 (LT C)",
+            "instructor": "Dimitrios Pezaros"
+          }
+        ]
       }
     ]
   },
@@ -5500,6 +6088,26 @@
             "times": "TBA",
             "room": "TBA",
             "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "6994",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "29/09/2015 - 01/12/2015",
+            "times": "Tu  10:00 - 12:00",
+            "room": "CTT BOYD ORR:611 (LT E)",
+            "instructor": "Stephen Brewster"
+          },
+          {
+            "period": "29/09/2015 - 01/12/2015",
+            "times": "Tu  14:00 - 15:00",
+            "room": "CTT BOYD ORR:709A/B CLASSROOM",
+            "instructor": "Stephen Brewster"
           }
         ]
       }
@@ -5522,6 +6130,26 @@
             "instructor": "Staff"
           }
         ]
+      },
+      {
+        "id": "6288",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "02/10/2015 - 04/12/2015",
+            "times": "Fr  14:00 - 16:00",
+            "room": "CTT MATHS BLDG:417 (3A)",
+            "instructor": "Alice Miller"
+          },
+          {
+            "period": "02/10/2015 - 04/12/2015",
+            "times": "Fr  12:00 - 13:00",
+            "room": "CTT BOYD ORR:507 (LT C)",
+            "instructor": "Alice Miller"
+          }
+        ]
       }
     ]
   },
@@ -5542,6 +6170,26 @@
             "instructor": "Staff"
           }
         ]
+      },
+      {
+        "id": "8306",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "01/10/2015 - 03/12/2015",
+            "times": "Th  10:00 - 12:00",
+            "room": "CTT BOYD ORR:407 (LT A)",
+            "instructor": "Joemon Jose"
+          },
+          {
+            "period": "30/09/2015 - 02/12/2015",
+            "times": "We  12:00 - 13:00",
+            "room": "CTT BOYD ORR:407 (LT A)",
+            "instructor": "Joemon Jose"
+          }
+        ]
       }
     ]
   },
@@ -5560,6 +6208,26 @@
             "times": "TBA",
             "room": "TBA",
             "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "2339",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "13/01/2016 - 16/03/2016",
+            "times": "We  09:00 - 10:00",
+            "room": "CTT MATHS BLDG:516 (4A)",
+            "instructor": "David Watt"
+          },
+          {
+            "period": "12/01/2016 - 15/03/2016",
+            "times": "Tu  11:00 - 12:00",
+            "room": "CTT MATHS BLDG:516 (4A)",
+            "instructor": "David Watt"
           }
         ]
       }
@@ -5688,6 +6356,38 @@
             "instructor": "Ronald Poet, Alessandro Vinciarelli"
           }
         ]
+      },
+      {
+        "id": "6313",
+        "type": "Tutorial",
+        "name": "TU01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "24/09/2015 - 24/09/2015",
+            "times": "Th  16:00 - 17:00",
+            "room": "CTT BOYD ORR:507 (LT C)",
+            "instructor": "Alessandro Vinciarelli, Ronald Poet"
+          },
+          {
+            "period": "23/09/2015 - 23/09/2015",
+            "times": "We  16:00 - 17:00",
+            "room": "CTT BOYD ORR:507 (LT C)",
+            "instructor": "Alessandro Vinciarelli, Ronald Poet"
+          },
+          {
+            "period": "22/09/2015 - 22/09/2015",
+            "times": "Tu  16:00 - 17:00",
+            "room": "CTT BOYD ORR:507 (LT C)",
+            "instructor": "Alessandro Vinciarelli, Ronald Poet"
+          },
+          {
+            "period": "21/09/2015 - 21/09/2015",
+            "times": "Mo  16:00 - 17:00",
+            "room": "CTT BOYD ORR:507 (LT C)",
+            "instructor": "Ronald Poet, Alessandro Vinciarelli"
+          }
+        ]
       }
     ]
   },
@@ -5736,6 +6436,26 @@
             "instructor": "Lewis Mackenzie"
           }
         ]
+      },
+      {
+        "id": "7907",
+        "type": "Tutorial",
+        "name": "TU01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "28/09/2015 - 30/11/2015",
+            "times": "Mo  09:00 - 11:00",
+            "room": "CTT BOYD ORR:407 (LT A)",
+            "instructor": "Lewis Mackenzie"
+          },
+          {
+            "period": "30/09/2015 - 02/12/2015",
+            "times": "We  10:00 - 11:00",
+            "room": "CTT BOYD ORR:611 (LT E)",
+            "instructor": "Lewis Mackenzie"
+          }
+        ]
       }
     ]
   },
@@ -5753,6 +6473,32 @@
             "period": "TBA",
             "times": "TBA",
             "room": "TBA",
+            "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "5106",
+        "type": "Project",
+        "name": "PJ01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "24/09/2015 - 24/09/2015",
+            "times": "Th  11:00 - 12:00",
+            "room": "CTT RANKINE:408  LT",
+            "instructor": "Jeremy Singer"
+          },
+          {
+            "period": "22/09/2015 - 22/09/2015",
+            "times": "Tu  11:00 - 12:00",
+            "room": "CTT RANKINE:408  LT",
+            "instructor": "Jeremy Singer"
+          },
+          {
+            "period": "07/12/2015 - 07/12/2015",
+            "times": "Mo  10:00 - 14:00",
+            "room": "CTT BOYD ORR:222 LEC THEATRE 2",
             "instructor": "Staff"
           }
         ]
@@ -5776,6 +6522,32 @@
             "instructor": "Staff"
           }
         ]
+      },
+      {
+        "id": "9405",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "15/01/2016 - 18/03/2016",
+            "times": "Fr  13:00 - 14:00",
+            "room": "CTT MAIN BLD:466 LECTURE TH",
+            "instructor": "Christopher Johnson"
+          },
+          {
+            "period": "14/01/2016 - 17/03/2016",
+            "times": "Th  12:00 - 13:00",
+            "room": "CTT MAIN BLD:466 LECTURE TH",
+            "instructor": "Christopher Johnson"
+          },
+          {
+            "period": "13/01/2016 - 16/03/2016",
+            "times": "We  13:00 - 14:00",
+            "room": "CTT MAIN BLD:466 LECTURE TH",
+            "instructor": "Christopher Johnson"
+          }
+        ]
       }
     ]
   },
@@ -5793,6 +6565,20 @@
             "period": "TBA",
             "times": "TBA",
             "room": "TBA",
+            "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "5227",
+        "type": "Placement",
+        "name": "PL01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "20/11/2015 - 20/11/2015",
+            "times": "Fr  13:00 - 14:00",
+            "room": "CTT BOYD ORR:407 (LT A)",
             "instructor": "Staff"
           }
         ]
@@ -5816,6 +6602,38 @@
             "instructor": "Staff"
           }
         ]
+      },
+      {
+        "id": "8324",
+        "type": "Project",
+        "name": "PJ01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "24/09/2015 - 24/09/2015",
+            "times": "Th  11:00 - 12:00",
+            "room": "CTT RANKINE:408  LT",
+            "instructor": "Jeremy Singer"
+          },
+          {
+            "period": "22/09/2015 - 22/09/2015",
+            "times": "Tu  11:00 - 12:00",
+            "room": "CTT RANKINE:408  LT",
+            "instructor": "Jeremy Singer"
+          },
+          {
+            "period": "07/12/2015 - 07/12/2015",
+            "times": "Mo  10:00 - 14:00",
+            "room": "CTT BOYD ORR:222 LEC THEATRE 2",
+            "instructor": "Staff"
+          },
+          {
+            "period": "12/11/2015 - 12/11/2015",
+            "times": "Th  18:00 - 21:00",
+            "room": "CTT BOYD ORR:513 (LT D)",
+            "instructor": "Staff"
+          }
+        ]
       }
     ]
   },
@@ -5834,6 +6652,26 @@
             "times": "TBA",
             "room": "TBA",
             "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "9528",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "15/01/2016 - 18/03/2016",
+            "times": "Fr  14:00 - 16:00",
+            "room": "CTT MATHS BLDG:416 (3B)",
+            "instructor": "Simon Rogers"
+          },
+          {
+            "period": "14/01/2016 - 17/03/2016",
+            "times": "Th  14:00 - 15:00",
+            "room": "CTT MATHS BLDG:417 (3A)",
+            "instructor": "Simon Rogers"
           }
         ]
       }
@@ -5876,6 +6714,20 @@
             "instructor": "Rosanne English"
           }
         ]
+      },
+      {
+        "id": "5348",
+        "type": "Tutorial",
+        "name": "TU01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "11/01/2016 - 14/03/2016",
+            "times": "Mo  10:00 - 11:00",
+            "room": "CTT ADAM SMITH:1115",
+            "instructor": "Rosanne English"
+          }
+        ]
       }
     ]
   },
@@ -5910,6 +6762,26 @@
             "instructor": "Peter Triantafillou"
           }
         ]
+      },
+      {
+        "id": "2555",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "15/01/2016 - 18/03/2016",
+            "times": "Fr  13:00 - 14:00",
+            "room": "CTT BOYD ORR:709A/B CLASSROOM",
+            "instructor": "Peter Triantafillou"
+          },
+          {
+            "period": "12/01/2016 - 15/03/2016",
+            "times": "Tu  13:00 - 14:00",
+            "room": "CTT BOYD ORR:709A/B CLASSROOM",
+            "instructor": "Peter Triantafillou"
+          }
+        ]
       }
     ]
   },
@@ -5928,6 +6800,26 @@
             "times": "TBA",
             "room": "TBA",
             "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "2338",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "29/09/2015 - 01/12/2015",
+            "times": "Tu  09:00 - 10:00",
+            "room": "CTT BOYD ORR:412 (LT B)",
+            "instructor": "William Cockshott"
+          },
+          {
+            "period": "01/10/2015 - 03/12/2015",
+            "times": "Th  12:00 - 13:00",
+            "room": "CTT BOYD ORR:611 (LT E)",
+            "instructor": "William Cockshott"
           }
         ]
       }
@@ -5964,6 +6856,26 @@
             "instructor": "Staff"
           }
         ]
+      },
+      {
+        "id": "3854",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "02/10/2015 - 04/12/2015",
+            "times": "Fr  16:00 - 17:00",
+            "room": "CTT BOYD ORR:611 (LT E)",
+            "instructor": "John Williamson"
+          },
+          {
+            "period": "01/10/2015 - 03/12/2015",
+            "times": "Th  14:00 - 16:00",
+            "room": "CTT BOYD ORR:611 (LT E)",
+            "instructor": "John Williamson"
+          }
+        ]
       }
     ]
   },
@@ -5998,6 +6910,26 @@
             "instructor": "Staff"
           }
         ]
+      },
+      {
+        "id": "2589",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "14/01/2016 - 17/03/2016",
+            "times": "Th  15:00 - 16:00",
+            "room": "CTT BOYD ORR:513 (LT D)",
+            "instructor": "Timothy Storer"
+          },
+          {
+            "period": "12/01/2016 - 15/03/2016",
+            "times": "Tu  14:00 - 17:00",
+            "room": "CTT BOYD ORR:513 (LT D)",
+            "instructor": "Timothy Storer"
+          }
+        ]
       }
     ]
   },
@@ -6018,6 +6950,26 @@
             "instructor": "Staff"
           }
         ]
+      },
+      {
+        "id": "9029",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "15/01/2016 - 18/03/2016",
+            "times": "Fr  09:00 - 11:00",
+            "room": "CTT BOYD ORR:507 (LT C)",
+            "instructor": "Roderick Murray-Smith"
+          },
+          {
+            "period": "11/01/2016 - 14/03/2016",
+            "times": "Mo  09:00 - 10:00",
+            "room": "CTT BOYD ORR:709A/B CLASSROOM",
+            "instructor": "Roderick Murray-Smith"
+          }
+        ]
       }
     ]
   },
@@ -6036,6 +6988,26 @@
             "times": "TBA",
             "room": "TBA",
             "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "6185",
+        "type": "Lecture",
+        "name": "LC01",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "14/01/2016 - 17/03/2016",
+            "times": "Th  13:00 - 14:00",
+            "room": "CTT BOYD ORR:709A/B CLASSROOM",
+            "instructor": "Iadh Ounis"
+          },
+          {
+            "period": "12/01/2016 - 15/03/2016",
+            "times": "Tu  09:00 - 11:00",
+            "room": "CTT BOYD ORR:709A/B CLASSROOM",
+            "instructor": "Iadh Ounis"
           }
         ]
       }
