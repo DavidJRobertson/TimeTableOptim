@@ -1,0 +1,23 @@
+
+<p>Select your classes:</p>
+
+<form action="/" method="post">
+  <label for="search">Course title or code:</label>
+  <input id="search" type="text" name="add_course" placeholder="ENG 2020" />
+  <input type="submit" value="Add" />
+</form>
+
+
+<% @courses.each do |course| %>
+  <p><%= course.code %>: <%= course.title %></p>
+<% end %>
+
+<% if @courses.length > 0 %>
+<p>
+  <a href="/timetable">All done! give me my timetable</a>
+</p>
+
+<p>
+  <a href="/clear" rel="nofollow">Clear selection</a>
+</p>
+<% end %>

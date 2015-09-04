@@ -1,0 +1,30 @@
+/* styles go here */
+
+.container {
+  width: 80%;
+  margin: auto;
+}
+
+table.tt {
+  border-collapse: collapse;
+  width: 100%;
+}
+table.tt td, table.tt th {
+  padding: 5px;
+}
+table.tt .tt-day {
+  width: 18%;
+}
+
+
+.tt-cell {
+  background: white;
+  font-size: 10px;
+  height: 40px;
+}
+.tt-blocked {
+  background: #ddd;
+}
+.tt-event {
+  background: #bbb;
+}

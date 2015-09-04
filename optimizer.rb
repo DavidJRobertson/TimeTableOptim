@@ -1,23 +1,24 @@
 #! /usr/bin/env ruby
-require 'pp'
+
 require 'date'
 require 'json'
-require './csp'
-
+require_relative 'csp'
 
 class Section
   def initialize(data)
     @type = data['type']
     @name = data['name']
-    @dates_data = data['dates']
     @dates = []
     @earliest_start = 23
     day_codes = {'Su' => 0, 'Mo' => 1, 'Tu' => 2, 'We' => 3, 'Th' => 4, 'Fr' => 5, 'Sa' => 6}
-    @dates_data.each do |dd|
+    data['dates'].each do |dd|
+      if dd['period'] == "TBA" or dd['times'] == "TBA"
+        next
+      end
       start_date, end_date = dd['period'].split(' - ').map {|d| Date.new(* d.split('/').reverse.map{|i| i.to_i})}
       day   = day_codes[dd['times'][0..1]]
       times =  (dd['times'][4..5].to_i .. dd['times'][12..13].to_i).to_a[0...-1]
-      @earliest_start = (times[0] < @earliest_start) ? times[0] : @earliest_start
+      @earliest_start = ((times[0] < @earliest_start) ? times[0] : @earliest_start) unless times.empty?
       days = (start_date .. end_date).select { |d| d.wday == day }
       dts = days.product(times)
       @dates.concat dts
@@ -29,6 +30,33 @@ class Section
   end
 end
 class Course
+  @@courses = {}
+  def self.load_file(file)
+    path = File.expand_path("../data/#{file}", __FILE__)
+    data = JSON.parse(File.read(path))
+    data.each { |cd| @@courses[cd['code']] = Course.new(cd) }
+  end
+  def self.all
+    @@courses.values
+  end
+  def self.list
+    @@courses.keys
+  end
+  def self.hash
+    @@courses
+  end
+  def self.search(query)
+    q = query.downcase
+    @@courses.values.select do |course|
+      course.code.downcase.include?(q) or
+      course.title.downcase.include?(q)
+    end
+  end
+
+  def to_json(options=nil)
+    {'code' => @code, 'title' => @title}.to_json
+  end
+
   def initialize(data)
     @code  = data['code']
     @title = data['title']
@@ -53,9 +81,9 @@ class Course
 end
 
 class TimetablingProblem < CSP
-  def initialize(file)
+  def initialize(courses)
     super()
-    @courses = JSON.parse(File.read('./data/djr.json')).map { |cd| Course.new(cd) }
+    @courses = courses
 
     @courses.each do |course|
       var([course.code, :lecture],  course.lecture_sections)  unless course.lecture_sections.empty?
@@ -65,31 +93,47 @@ class TimetablingProblem < CSP
 
     all_pairs(@vars.keys)  { |a, b| !a.conflicts_with?(b) }
 
-    #@vars.keys.each do |key|
-    #  constrain(key) do |section|
-    #    !section.dates.any? {|d|  (d[0].wday == 4) and d[1] < 11}
-    #  end
-    #end
 
+    @ban_times = [
+      [], # Sun
+      [12,13], # Mon
+      [], # Tue
+      [17], # Wed
+      [], # Thu
+      [], # Fri
+      [], # Sat
+    ]
+
+
+    @vars.keys.each do |key|
+      constrain(key) do |section|
+        !section.dates.any? {|d| @ban_times[d[0].wday].include? d[1] }
+      end
+    end
   end
-  attr_reader :courses
+  attr_reader :courses, :ban_times
 
-  def print!(solution)
+  def print(solution)
+    res = ""
     if solution
       soltree = Hash[solution.keys.group_by { |c| c.first }.map { |k, v| [k, v.map {|w| w.last}] }]
       soltree.keys.sort.each do |course|
         title = @courses.find { |c| c.code == course }.title
 
-        puts course + " - " + title
+        res += course + " - " + title + "\n"
         soltree[course].each do |section|
           fill = (section == :lab) ? ":\t\t" : ":\t"
-          puts "\t" + section.to_s.capitalize + fill + solution[[course, section]].name
+          res += "\t" + section.to_s.capitalize + fill + solution[[course, section]].name + "\n"
         end
-        puts
+        res += "\n"
       end
     else
-      puts "No solution found."
+      res += "No solution found.\n"
     end
+    return res
+  end
+  def print!(solution)
+    puts print(solution)
   end
   def print_concise!(solution)
     if solution
@@ -102,7 +146,14 @@ class TimetablingProblem < CSP
   end
 end
 
-problem = TimetablingProblem.new('./data/djr.json')
-solution = problem.solve
-#problem.print_concise!(solution)
-problem.print!(solution)
+#Course.load_file('djr.json')
+Course.load_file('eng.json')
+Course.load_file('cs.json')
+
+if __FILE__ == $0
+  courses = JSON.parse(File.read('./data/djr.json')).map { |cd| Course.new(cd) }
+  problem = TimetablingProblem.new(courses)
+  solution = problem.solve
+  #problem.print_concise!(solution)
+  problem.print!(solution)
+end
