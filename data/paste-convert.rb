@@ -1,7 +1,7 @@
 #! /usr/bin/env ruby
 
 ### RUN AS:
-### ruby pasteparse.rb < inputfile.txt > outputfile.json
+### ruby paste-convert.rb inputfile.txt > outputfile.json
 
 
 require 'json'
@@ -12,7 +12,7 @@ current_class   = {}
 current_section = {}
 current_dates   = {}
 
-STDIN.each_line do |line|
+ARGF.read.each_line do |line|
   line.strip!
 
   if line == "select"
@@ -99,16 +99,17 @@ STDIN.each_line do |line|
       current_class[:sections] = []
 
       state = :start_section
+    elsif line == "New Search"
+      state = :prestart
+
     elsif line != ""
       state = :section_dates_times
       current_dates           = {period: line}
     end
-
-
   end
-
-
 end
 
+current_class[:sections] << current_section
+classes << current_class
 
 puts JSON.pretty_generate(classes)

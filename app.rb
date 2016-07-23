@@ -66,7 +66,7 @@ class TimetableOptim < Sinatra::Base
   get '/clear' do
     session[:course_codes] = []
     if params[:djr]
-      session[:course_codes] = ["COMPSCI 2005", "COMPSCI 2007", "COMPSCI 2020", "COMPSCI 2021", "ENG 2004", "ENG 2020", "ENG 2023", "ENG 2025", "ENG 2029", "ENG 2086"]
+      session[:course_codes] = ["COMPSCI...??"]
     end
 
     redirect '/'

@@ -32,10 +32,15 @@ class Section
 end
 class Course
   @@courses = {}
-  def self.load_file(file)
-    path = File.expand_path("../data/#{file}", __FILE__)
+  def self.load_file(path)
     data = JSON.parse(File.read(path))
     data.each { |cd| @@courses[cd['code']] = Course.new(cd) }
+  end
+  def self.load_all()
+    files = Dir["./data/*.json"]
+    files.each do |file|
+      self.load_file(file)
+    end
   end
   def self.all
     @@courses.values
@@ -186,9 +191,7 @@ class TimetablingProblem < CSP
   end
 end
 
-#Course.load_file('djr.json')
-Course.load_file('eng.json')
-Course.load_file('cs.json')
+Course.load_all
 
 if __FILE__ == $0
   courses = JSON.parse(File.read('./data/djr.json')).map { |cd| Course.new(cd) }

@@ -1,13 +1,10 @@
 #! /usr/bin/env ruby
 
+# pretty print class data
+
 require 'json'
 
-if STDIN.tty?
-  puts "./pastecheck.rb < file.json"
-  exit
-end
-
-data = JSON.parse(STDIN.read)
+data = JSON.parse(ARGF.read)
 data.each do |course|
   puts course['code'] + ' - ' + course['title']
   secs = Hash[course['sections'].group_by{|s| s['type']}.map {|k,v| [k, v.map{|w| w['name']}] }]

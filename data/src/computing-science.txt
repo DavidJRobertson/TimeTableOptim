@@ -1,0 +1,4274 @@
+Search for Classes
+Search Results
+University of Glasgow | Academic Year 2016-17
+The following classes match your search criteria Course Subject: Computing Science,  Course Career: Undergraduate,  Show Open Classes Only: Yes
+My Timetable
+Open
+Closed
+Wait List
+Open
+Closed
+Wait List
+New Search
+Modify Search
+307 class section(s) found
+Collapse section COMPSCI 1001 - Computing Science - 1P  Programming COMPSCI 1001 - Computing Science - 1P Programming
+Class	Section	Status
+15023
+Admin AD01-ADM S12
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+9707
+Laboratory LB01-LAB S12
+Open
+
+Dates	Days & Times	Room	Instructor
+26/09/2016 - 28/11/2016
+Mo  09:00 - 11:00
+BOYD ORR:715 LAB
+Staff
+16/01/2017 - 20/03/2017
+Mo  09:00 - 11:00
+BOYD ORR:715 LAB
+Staff
+Class	Section	Status
+9708
+Laboratory LB02-LAB S12
+Open
+
+Dates	Days & Times	Room	Instructor
+26/09/2016 - 28/11/2016
+Mo  11:00 - 13:00
+BOYD ORR:715 LAB
+Staff
+16/01/2017 - 20/03/2017
+Mo  11:00 - 13:00
+BOYD ORR:715 LAB
+Staff
+Class	Section	Status
+9709
+Laboratory LB03-LAB S12
+Open
+
+Dates	Days & Times	Room	Instructor
+26/09/2016 - 28/11/2016
+Mo  14:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+16/01/2017 - 20/03/2017
+Mo  14:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+Class	Section	Status
+9710
+Laboratory LB04-LAB S12
+Open
+
+Dates	Days & Times	Room	Instructor
+26/09/2016 - 28/11/2016
+Mo  14:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+16/01/2017 - 20/03/2017
+Mo  14:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+Class	Section	Status
+9711
+Laboratory LB05-LAB S12
+Open
+
+Dates	Days & Times	Room	Instructor
+26/09/2016 - 28/11/2016
+Mo  16:00 - 18:00
+BOYD ORR:715 LAB
+Staff
+16/01/2017 - 20/03/2017
+Mo  16:00 - 18:00
+BOYD ORR:715 LAB
+Staff
+Class	Section	Status
+9712
+Laboratory LB06-LAB S12
+Open
+
+Dates	Days & Times	Room	Instructor
+26/09/2016 - 28/11/2016
+Mo  16:00 - 18:00
+BOYD ORR:715 LAB
+Staff
+16/01/2017 - 20/03/2017
+Mo  16:00 - 18:00
+BOYD ORR:715 LAB
+Staff
+Class	Section	Status
+9713
+Laboratory LB07-LAB S12
+Open
+
+Dates	Days & Times	Room	Instructor
+27/09/2016 - 29/11/2016
+Tu  09:00 - 10:00
+BOYD ORR:715 LAB
+Staff
+17/01/2017 - 21/03/2017
+Tu  09:00 - 11:00
+BOYD ORR:715 LAB
+Staff
+27/09/2016 - 29/11/2016
+Tu  10:00 - 11:00
+BOYD ORR:715 LAB
+Staff
+Class	Section	Status
+9714
+Laboratory LB08-LAB S12
+Open
+
+Dates	Days & Times	Room	Instructor
+27/09/2016 - 29/11/2016
+Tu  14:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+17/01/2017 - 21/03/2017
+Tu  14:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+Class	Section	Status
+9715
+Laboratory LB09-LAB S12
+Open
+
+Dates	Days & Times	Room	Instructor
+27/09/2016 - 29/11/2016
+Tu  14:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+17/01/2017 - 21/03/2017
+Tu  14:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+Class	Section	Status
+9716
+Laboratory LB10-LAB S12
+Open
+
+Dates	Days & Times	Room	Instructor
+27/09/2016 - 29/11/2016
+Tu  16:00 - 18:00
+BOYD ORR:715 LAB
+Staff
+17/01/2017 - 21/03/2017
+Tu  16:00 - 18:00
+BOYD ORR:715 LAB
+Staff
+Class	Section	Status
+9717
+Laboratory LB11-LAB S12
+Open
+
+Dates	Days & Times	Room	Instructor
+28/09/2016 - 30/11/2016
+We  09:00 - 11:00
+BOYD ORR:715 LAB
+Staff
+18/01/2017 - 22/03/2017
+We  09:00 - 11:00
+BOYD ORR:715 LAB
+Staff
+Class	Section	Status
+9718
+Laboratory LB12-LAB S12
+Open
+
+Dates	Days & Times	Room	Instructor
+28/09/2016 - 30/11/2016
+We  09:00 - 11:00
+BOYD ORR:715 LAB
+Staff
+18/01/2017 - 22/03/2017
+We  09:00 - 11:00
+BOYD ORR:715 LAB
+Staff
+Class	Section	Status
+9706
+Lecture LC01-LEC S12
+Open
+
+Dates	Days & Times	Room	Instructor
+21/09/2016 - 30/11/2016
+We  12:00 - 13:00
+CTT GREGORY BLDG:109 MAIN LT
+John Williamson, Dimitrios Pezaros
+23/09/2016 - 02/12/2016
+Fr  12:00 - 13:00
+CTT SIR ALEXANDER STONE:208 LT
+Dimitrios Pezaros, John Williamson
+11/01/2017 - 22/03/2017
+We  12:00 - 13:00
+CTT WILT:105 LECT
+John Williamson, Dimitrios Pezaros
+13/01/2017 - 24/03/2017
+Fr  12:00 - 13:00
+CTT WILT:105 LECT
+John Williamson, Dimitrios Pezaros
+Collapse section COMPSCI 1002 - Computing Science - 1Q COMPSCI 1002 - Computing Science - 1Q
+Class	Section	Status
+15779
+Admin AD01-ADM S12
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+12062
+Laboratory LB01-LAB S12
+Open
+
+Dates	Days & Times	Room	Instructor
+05/10/2016 - 05/10/2016
+We  15:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+19/10/2016 - 30/11/2016
+We  15:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+25/01/2017 - 25/01/2017
+We  15:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+08/02/2017 - 22/02/2017
+We  15:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+08/03/2017 - 08/03/2017
+We  15:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+Class	Section	Status
+12063
+Laboratory LB02-LAB S12
+Open
+
+Dates	Days & Times	Room	Instructor
+05/10/2016 - 05/10/2016
+We  15:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+19/10/2016 - 30/11/2016
+We  15:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+25/01/2017 - 25/01/2017
+We  15:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+08/02/2017 - 22/02/2017
+We  15:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+08/03/2017 - 08/03/2017
+We  15:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+Class	Section	Status
+12064
+Laboratory LB03-LAB S12
+Open
+
+Dates	Days & Times	Room	Instructor
+05/10/2016 - 05/10/2016
+We  15:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+19/10/2016 - 30/11/2016
+We  15:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+25/01/2017 - 25/01/2017
+We  15:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+08/02/2017 - 22/02/2017
+We  15:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+08/03/2017 - 08/03/2017
+We  15:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+Class	Section	Status
+12065
+Laboratory LB04-LAB S12
+Open
+
+Dates	Days & Times	Room	Instructor
+05/10/2016 - 05/10/2016
+We  17:00 - 18:00
+BOYD ORR:715 LAB
+Staff
+19/10/2016 - 30/11/2016
+We  17:00 - 18:00
+BOYD ORR:715 LAB
+Staff
+25/01/2017 - 25/01/2017
+We  17:00 - 18:00
+BOYD ORR:715 LAB
+Staff
+08/02/2017 - 22/02/2017
+We  17:00 - 18:00
+BOYD ORR:715 LAB
+Staff
+08/03/2017 - 08/03/2017
+We  17:00 - 18:00
+BOYD ORR:715 LAB
+Staff
+Class	Section	Status
+12066
+Laboratory LB05-LAB S12
+Open
+
+Dates	Days & Times	Room	Instructor
+05/10/2016 - 05/10/2016
+We  17:00 - 18:00
+BOYD ORR:715 LAB
+Staff
+19/10/2016 - 30/11/2016
+We  17:00 - 18:00
+BOYD ORR:715 LAB
+Staff
+25/01/2017 - 25/01/2017
+We  17:00 - 18:00
+BOYD ORR:715 LAB
+Staff
+08/02/2017 - 22/02/2017
+We  17:00 - 18:00
+BOYD ORR:715 LAB
+Staff
+08/03/2017 - 08/03/2017
+We  17:00 - 18:00
+BOYD ORR:715 LAB
+Staff
+Class	Section	Status
+12067
+Laboratory LB06-LAB S12
+Open
+
+Dates	Days & Times	Room	Instructor
+06/10/2016 - 06/10/2016
+Th  10:00 - 11:00
+BOYD ORR:715 LAB
+Staff
+20/10/2016 - 01/12/2016
+Th  10:00 - 11:00
+BOYD ORR:715 LAB
+Staff
+26/01/2017 - 26/01/2017
+Th  10:00 - 11:00
+BOYD ORR:715 LAB
+Staff
+09/02/2017 - 23/02/2017
+Th  10:00 - 11:00
+BOYD ORR:715 LAB
+Staff
+09/03/2017 - 09/03/2017
+Th  10:00 - 11:00
+BOYD ORR:715 LAB
+Staff
+Class	Section	Status
+12068
+Laboratory LB07-LAB S12
+Open
+
+Dates	Days & Times	Room	Instructor
+06/10/2016 - 06/10/2016
+Th  15:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+20/10/2016 - 01/12/2016
+Th  15:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+26/01/2017 - 26/01/2017
+Th  15:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+09/02/2017 - 23/02/2017
+Th  15:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+09/03/2017 - 09/03/2017
+Th  15:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+Class	Section	Status
+12069
+Laboratory LB08-LAB S12
+Open
+
+Dates	Days & Times	Room	Instructor
+06/10/2016 - 06/10/2016
+Th  15:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+20/10/2016 - 01/12/2016
+Th  15:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+26/01/2017 - 26/01/2017
+Th  15:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+09/02/2017 - 23/02/2017
+Th  15:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+09/03/2017 - 09/03/2017
+Th  15:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+Class	Section	Status
+12070
+Laboratory LB09-LAB S12
+Open
+
+Dates	Days & Times	Room	Instructor
+06/10/2016 - 06/10/2016
+Th  17:00 - 18:00
+BOYD ORR:715 LAB
+Staff
+20/10/2016 - 01/12/2016
+Th  17:00 - 18:00
+BOYD ORR:715 LAB
+Staff
+26/01/2017 - 26/01/2017
+Th  17:00 - 18:00
+BOYD ORR:715 LAB
+Staff
+09/02/2017 - 23/02/2017
+Th  17:00 - 18:00
+BOYD ORR:715 LAB
+Staff
+09/03/2017 - 09/03/2017
+Th  17:00 - 18:00
+BOYD ORR:715 LAB
+Staff
+Class	Section	Status
+12071
+Laboratory LB10-LAB S12
+Open
+
+Dates	Days & Times	Room	Instructor
+07/10/2016 - 07/10/2016
+Fr  10:00 - 11:00
+BOYD ORR:715 LAB
+Staff
+21/10/2016 - 02/12/2016
+Fr  10:00 - 11:00
+BOYD ORR:715 LAB
+Staff
+27/01/2017 - 27/01/2017
+Fr  10:00 - 11:00
+BOYD ORR:715 LAB
+Staff
+10/02/2017 - 24/02/2017
+Fr  10:00 - 11:00
+BOYD ORR:715 LAB
+Staff
+10/03/2017 - 10/03/2017
+Fr  10:00 - 11:00
+BOYD ORR:715 LAB
+Staff
+Class	Section	Status
+12072
+Laboratory LB11-LAB S12
+Open
+
+Dates	Days & Times	Room	Instructor
+07/10/2016 - 07/10/2016
+Fr  15:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+21/10/2016 - 02/12/2016
+Fr  15:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+27/01/2017 - 27/01/2017
+Fr  15:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+10/02/2017 - 24/02/2017
+Fr  15:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+10/03/2017 - 10/03/2017
+Fr  15:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+Class	Section	Status
+12073
+Laboratory LB12-LAB S12
+Open
+
+Dates	Days & Times	Room	Instructor
+07/10/2016 - 07/10/2016
+Fr  15:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+21/10/2016 - 02/12/2016
+Fr  15:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+27/01/2017 - 27/01/2017
+Fr  15:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+10/02/2017 - 24/02/2017
+Fr  15:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+10/03/2017 - 10/03/2017
+Fr  15:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+Class	Section	Status
+12076
+Laboratory LB13-LAB S12
+Open
+
+Dates	Days & Times	Room	Instructor
+06/10/2016 - 06/10/2016
+Th  10:00 - 11:00
+BOYD ORR:715 LAB
+Staff
+20/10/2016 - 01/12/2016
+Th  10:00 - 11:00
+BOYD ORR:715 LAB
+Staff
+26/01/2017 - 26/01/2017
+Th  10:00 - 11:00
+BOYD ORR:715 LAB
+Staff
+09/02/2017 - 23/02/2017
+Th  10:00 - 11:00
+BOYD ORR:715 LAB
+Staff
+09/03/2017 - 09/03/2017
+Th  10:00 - 11:00
+BOYD ORR:715 LAB
+Staff
+Class	Section	Status
+12078
+Laboratory LB14-LAB S12
+Open
+
+Dates	Days & Times	Room	Instructor
+06/10/2016 - 06/10/2016
+Th  15:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+20/10/2016 - 01/12/2016
+Th  15:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+26/01/2017 - 26/01/2017
+Th  15:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+09/02/2017 - 23/02/2017
+Th  15:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+09/03/2017 - 09/03/2017
+Th  15:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+Class	Section	Status
+12077
+Laboratory LB15-LAB S12
+Open
+
+Dates	Days & Times	Room	Instructor
+06/10/2016 - 06/10/2016
+Th  17:00 - 18:00
+BOYD ORR:715 LAB
+Staff
+20/10/2016 - 01/12/2016
+Th  17:00 - 18:00
+BOYD ORR:715 LAB
+Staff
+26/01/2017 - 26/01/2017
+Th  17:00 - 18:00
+BOYD ORR:715 LAB
+Staff
+09/02/2017 - 23/02/2017
+Th  17:00 - 18:00
+BOYD ORR:715 LAB
+Staff
+09/03/2017 - 09/03/2017
+Th  17:00 - 18:00
+BOYD ORR:715 LAB
+Staff
+Class	Section	Status
+12074
+Lecture LC01-LEC S12
+Open
+
+Dates	Days & Times	Room	Instructor
+20/09/2016 - 29/11/2016
+Tu  12:00 - 13:00
+CTT BOYD ORR:222 LEC THEATRE 2
+Craig Macdonald, Julie Ann Williamson
+22/09/2016 - 01/12/2016
+Th  12:00 - 13:00
+CTT WILT:105 LECT
+Craig Macdonald, Julie Ann Williamson
+10/01/2017 - 21/03/2017
+Tu  12:00 - 13:00
+CTT BOYD ORR:222 LEC THEATRE 2
+John O'Donnell
+12/01/2017 - 23/03/2017
+Th  12:00 - 13:00
+CTT BOYD ORR:222 LEC THEATRE 2
+John O'Donnell
+Class	Section	Status
+12050
+Tutorial TU01-TUT S12
+Open
+
+Dates	Days & Times	Room	Instructor
+28/09/2016 - 30/11/2016
+We  14:00 - 15:00
+CTT ST ANDREWS:433A
+Staff
+11/01/2017 - 22/03/2017
+We  14:00 - 15:00
+CTT SIR ALEXANDER STONE:327
+Staff
+Class	Section	Status
+12051
+Tutorial TU02-TUT S12
+Open
+
+Dates	Days & Times	Room	Instructor
+28/09/2016 - 30/11/2016
+We  14:00 - 15:00
+CTT ST ANDREWS:338
+Staff
+11/01/2017 - 22/03/2017
+We  14:00 - 15:00
+CTT SIR ALEXANDER STONE:328
+Staff
+Class	Section	Status
+12052
+Tutorial TU03-TUT S12
+Open
+
+Dates	Days & Times	Room	Instructor
+28/09/2016 - 30/11/2016
+We  14:00 - 15:00
+CTT BOYD ORR:506
+Staff
+11/01/2017 - 22/03/2017
+We  14:00 - 15:00
+CTT SIR ALEXANDER STONE:316
+Staff
+Class	Section	Status
+12053
+Tutorial TU04-TUT S12
+Open
+
+Dates	Days & Times	Room	Instructor
+28/09/2016 - 30/11/2016
+We  16:00 - 17:00
+CTT ADAM SMITH:1102
+Staff
+11/01/2017 - 22/03/2017
+We  16:00 - 17:00
+CTT GREGORY BLDG:321 SEMINAR
+Staff
+Class	Section	Status
+12054
+Tutorial TU05-TUT S12
+Open
+
+Dates	Days & Times	Room	Instructor
+28/09/2016 - 30/11/2016
+We  16:00 - 17:00
+CTT ADAM SMITH:702
+Staff
+11/01/2017 - 22/03/2017
+We  16:00 - 17:00
+CTT SIR ALEXANDER STONE:327
+Staff
+Class	Section	Status
+12055
+Tutorial TU06-TUT S12
+Open
+
+Dates	Days & Times	Room	Instructor
+29/09/2016 - 01/12/2016
+Th  09:00 - 10:00
+CTT ADAM SMITH:1102
+Staff
+12/01/2017 - 23/03/2017
+Th  09:00 - 10:00
+CTT GREGORY BLDG:321 SEMINAR
+Staff
+Class	Section	Status
+12056
+Tutorial TU07-TUT S12
+Open
+
+Dates	Days & Times	Room	Instructor
+12/01/2017 - 23/03/2017
+Th  14:00 - 15:00
+CTT SIR ALEXANDER STONE:327
+Staff
+Class	Section	Status
+12057
+Tutorial TU08-TUT S12
+Open
+
+Dates	Days & Times	Room	Instructor
+12/01/2017 - 23/03/2017
+Th  14:00 - 15:00
+CTT SIR ALEXANDER STONE:328
+Staff
+Class	Section	Status
+12058
+Tutorial TU09-TUT S12
+Open
+
+Dates	Days & Times	Room	Instructor
+29/09/2016 - 01/12/2016
+Th  16:00 - 17:00
+CTT ADAM SMITH:1102
+Staff
+12/01/2017 - 23/03/2017
+Th  16:00 - 17:00
+CTT GREGORY BLDG:321 SEMINAR
+Staff
+Class	Section	Status
+12059
+Tutorial TU10-TUT S12
+Open
+
+Dates	Days & Times	Room	Instructor
+30/09/2016 - 02/12/2016
+Fr  09:00 - 10:00
+CTT ADAM SMITH:1102
+Staff
+13/01/2017 - 24/03/2017
+Fr  09:00 - 10:00
+CTT SIR ALEXANDER STONE:327
+Staff
+Class	Section	Status
+12060
+Tutorial TU11-TUT S12
+Open
+
+Dates	Days & Times	Room	Instructor
+30/09/2016 - 02/12/2016
+Fr  14:00 - 15:00
+CTT ADAM SMITH:702
+Staff
+13/01/2017 - 24/03/2017
+Fr  14:00 - 15:00
+CTT GREGORY BLDG:321 SEMINAR
+Staff
+Class	Section	Status
+12061
+Tutorial TU12-TUT S12
+Open
+
+Dates	Days & Times	Room	Instructor
+30/09/2016 - 02/12/2016
+Fr  14:00 - 15:00
+CTT ADAM SMITH:1101
+Staff
+13/01/2017 - 24/03/2017
+Fr  14:00 - 15:00
+SIR ALEXANDER STONE:329
+Staff
+Class	Section	Status
+12075
+Tutorial TU13-TUT S12
+Open
+
+Dates	Days & Times	Room	Instructor
+29/09/2016 - 01/12/2016
+Th  09:00 - 10:00
+CTT GREGORY BLDG:321 SEMINAR
+Staff
+12/01/2017 - 23/03/2017
+Th  09:00 - 10:00
+CTT ADAM SMITH:1102
+Staff
+Class	Section	Status
+12079
+Tutorial TU14-TUT S12
+Open
+
+Dates	Days & Times	Room	Instructor
+29/09/2016 - 01/12/2016
+Th  14:00 - 15:00
+CTT SIR ALEXANDER STONE:327
+Staff
+12/01/2017 - 23/03/2017
+Th  14:00 - 15:00
+CTT SIR ALEXANDER STONE:316
+Staff
+Class	Section	Status
+12080
+Tutorial TU15-TUT S12
+Open
+
+Dates	Days & Times	Room	Instructor
+29/09/2016 - 01/12/2016
+Th  16:00 - 17:00
+CTT GREGORY BLDG:321 SEMINAR
+Staff
+12/01/2017 - 23/03/2017
+Th  16:00 - 17:00
+CTT SIR ALEXANDER STONE:327
+Staff
+Collapse section COMPSCI 1005 - Computing Science 1P (Half Course) COMPSCI 1005 - Computing Science 1P (Half Course)
+Class	Section	Status
+13918
+Admin AD01-ADM Full Year
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+6303
+Lecture LC01-LEC Full Year
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Collapse section COMPSCI 1006 - Computing Science 1Q (Half Course) COMPSCI 1006 - Computing Science 1Q (Half Course)
+Class	Section	Status
+14823
+Admin AD01-ADM Full Year
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+9130
+Lecture LC01-LEC Full Year
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Collapse section COMPSCI 1016 - Computing Science - 1CT  Introduction to Computational Thinking COMPSCI 1016 - Computing Science - 1CT Introduction to Computational Thinking
+Class	Section	Status
+13342
+Admin AD01-ADM S1
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+4623
+Laboratory LB01-LAB S1
+Open
+
+Dates	Days & Times	Room	Instructor
+26/09/2016 - 28/11/2016
+Mo  11:00 - 13:00
+BOYD ORR:715 LAB
+Staff
+Class	Section	Status
+4624
+Laboratory LB02-LAB S1
+Open
+
+Dates	Days & Times	Room	Instructor
+26/09/2016 - 28/11/2016
+Mo  11:00 - 13:00
+BOYD ORR:715 LAB
+Staff
+Class	Section	Status
+4625
+Laboratory LB03-LAB S1
+Open
+
+Dates	Days & Times	Room	Instructor
+26/09/2016 - 28/11/2016
+Mo  14:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+Class	Section	Status
+4626
+Laboratory LB04-LAB S1
+Open
+
+Dates	Days & Times	Room	Instructor
+26/09/2016 - 28/11/2016
+Mo  16:00 - 18:00
+BOYD ORR:715 LAB
+Staff
+Class	Section	Status
+4627
+Laboratory LB05-LAB S1
+Open
+
+Dates	Days & Times	Room	Instructor
+27/09/2016 - 29/11/2016
+Tu  10:00 - 11:00
+BOYD ORR:715 LAB
+Staff
+27/09/2016 - 29/11/2016
+Tu  11:00 - 12:00
+BOYD ORR:715 LAB
+Staff
+Class	Section	Status
+4628
+Laboratory LB06-LAB S1
+Open
+
+Dates	Days & Times	Room	Instructor
+27/09/2016 - 29/11/2016
+Tu  10:00 - 11:00
+BOYD ORR:715 LAB
+Staff
+27/09/2016 - 29/11/2016
+Tu  11:00 - 12:00
+BOYD ORR:715 LAB
+Staff
+Class	Section	Status
+4629
+Laboratory LB07-LAB S1
+Open
+
+Dates	Days & Times	Room	Instructor
+27/09/2016 - 29/11/2016
+Tu  12:00 - 14:00
+BOYD ORR:715 LAB
+Staff
+Class	Section	Status
+4630
+Laboratory LB08-LAB S1
+Open
+
+Dates	Days & Times	Room	Instructor
+27/09/2016 - 29/11/2016
+Tu  12:00 - 14:00
+BOYD ORR:715 LAB
+Staff
+Class	Section	Status
+4631
+Laboratory LB09-LAB S1
+Open
+
+Dates	Days & Times	Room	Instructor
+27/09/2016 - 29/11/2016
+Tu  14:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+Class	Section	Status
+4632
+Laboratory LB10-LAB S1
+Open
+
+Dates	Days & Times	Room	Instructor
+27/09/2016 - 29/11/2016
+Tu  16:00 - 18:00
+BOYD ORR:715 LAB
+Staff
+Class	Section	Status
+4622
+Lecture LC01-LEC S1
+Open
+
+Dates	Days & Times	Room	Instructor
+21/09/2016 - 30/11/2016
+We  12:00 - 14:00
+CTT BOYD ORR:611 (LT E)
+Quintin Cutts
+23/09/2016 - 02/12/2016
+Fr  12:00 - 14:00
+CTT BOYD ORR:507 (LT C)
+Quintin Cutts
+Collapse section COMPSCI 1017 - Computing Science - 1PX  Further Programming COMPSCI 1017 - Computing Science - 1PX Further Programming
+Class	Section	Status
+14522
+Admin AD01-ADM S2
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+8219
+Laboratory LB01-LAB S2
+Open
+
+Dates	Days & Times	Room	Instructor
+16/01/2017 - 20/03/2017
+Mo  11:00 - 13:00
+BOYD ORR:715 LAB
+Staff
+Class	Section	Status
+8220
+Laboratory LB02-LAB S2
+Open
+
+Dates	Days & Times	Room	Instructor
+16/01/2017 - 20/03/2017
+Mo  11:00 - 13:00
+BOYD ORR:715 LAB
+Staff
+Class	Section	Status
+8210
+Laboratory LB03-LAB S2
+Open
+
+Dates	Days & Times	Room	Instructor
+16/01/2017 - 20/03/2017
+Mo  14:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+Class	Section	Status
+8211
+Laboratory LB04-LAB S2
+Open
+
+Dates	Days & Times	Room	Instructor
+16/01/2017 - 20/03/2017
+Mo  16:00 - 18:00
+BOYD ORR:715 LAB
+Staff
+Class	Section	Status
+8212
+Laboratory LB05-LAB S2
+Open
+
+Dates	Days & Times	Room	Instructor
+17/01/2017 - 21/03/2017
+Tu  09:00 - 11:00
+BOYD ORR:715 LAB
+Staff
+Class	Section	Status
+8213
+Laboratory LB06-LAB S2
+Closed
+
+Dates	Days & Times	Room	Instructor
+17/01/2017 - 21/03/2017
+Tu  14:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+Class	Section	Status
+8214
+Laboratory LB07-LAB S2
+Closed
+
+Dates	Days & Times	Room	Instructor
+17/01/2017 - 21/03/2017
+Tu  16:00 - 18:00
+BOYD ORR:715 LAB
+Staff
+Class	Section	Status
+8215
+Laboratory LB08-LAB S2
+Closed
+
+Dates	Days & Times	Room	Instructor
+18/01/2017 - 22/03/2017
+We  09:00 - 11:00
+BOYD ORR:715 LAB
+Staff
+Class	Section	Status
+8216
+Laboratory LB09-LAB S2
+Closed
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+8217
+Laboratory LB10-LAB S2
+Closed
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+8218
+Lecture LC01-LEC S2
+Open
+
+Dates	Days & Times	Room	Instructor
+11/01/2017 - 22/03/2017
+We  12:00 - 13:00
+CTT WILT:105 LECT
+Dimitrios Pezaros, John Williamson
+13/01/2017 - 24/03/2017
+Fr  12:00 - 13:00
+CTT WILT:105 LECT
+Dimitrios Pezaros, John Williamson
+Collapse section COMPSCI 1018 - Computing Science - 1S Systems COMPSCI 1018 - Computing Science - 1S Systems
+Class	Section	Status
+14703
+Admin AD01-ADM S2
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+8765
+Laboratory LB01-LAB S2
+Open
+
+Dates	Days & Times	Room	Instructor
+25/01/2017 - 25/01/2017
+We  17:00 - 18:00
+BOYD ORR:715 LAB
+Staff
+08/02/2017 - 22/02/2017
+We  17:00 - 18:00
+BOYD ORR:715 LAB
+Staff
+08/03/2017 - 08/03/2017
+We  17:00 - 18:00
+BOYD ORR:715 LAB
+Staff
+Class	Section	Status
+8766
+Laboratory LB02-LAB S2
+Open
+
+Dates	Days & Times	Room	Instructor
+26/01/2017 - 26/01/2017
+Th  10:00 - 11:00
+BOYD ORR:715 LAB
+Staff
+09/02/2017 - 23/02/2017
+Th  10:00 - 11:00
+BOYD ORR:715 LAB
+Staff
+09/03/2017 - 09/03/2017
+Th  10:00 - 11:00
+BOYD ORR:715 LAB
+Staff
+Class	Section	Status
+8767
+Laboratory LB03-LAB S2
+Open
+
+Dates	Days & Times	Room	Instructor
+26/01/2017 - 26/01/2017
+Th  15:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+09/02/2017 - 23/02/2017
+Th  15:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+09/03/2017 - 09/03/2017
+Th  15:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+Class	Section	Status
+8768
+Laboratory LB04-LAB S2
+Open
+
+Dates	Days & Times	Room	Instructor
+26/01/2017 - 26/01/2017
+Th  17:00 - 18:00
+BOYD ORR:715 LAB
+Staff
+09/02/2017 - 23/02/2017
+Th  17:00 - 18:00
+BOYD ORR:715 LAB
+Staff
+09/03/2017 - 09/03/2017
+Th  17:00 - 18:00
+BOYD ORR:715 LAB
+Staff
+Class	Section	Status
+8775
+Laboratory LB05-LAB S2
+Open
+
+Dates	Days & Times	Room	Instructor
+26/01/2017 - 26/01/2017
+Th  17:00 - 18:00
+BOYD ORR:715 LAB
+Staff
+09/02/2017 - 23/02/2017
+Th  17:00 - 18:00
+BOYD ORR:715 LAB
+Staff
+09/03/2017 - 09/03/2017
+Th  17:00 - 18:00
+BOYD ORR:715 LAB
+Staff
+Class	Section	Status
+8773
+Laboratory LB06-LAB S2
+Open
+
+Dates	Days & Times	Room	Instructor
+27/01/2017 - 27/01/2017
+Fr  10:00 - 11:00
+BOYD ORR:715 LAB
+Staff
+10/02/2017 - 24/02/2017
+Fr  10:00 - 11:00
+BOYD ORR:715 LAB
+Staff
+10/03/2017 - 10/03/2017
+Fr  10:00 - 11:00
+BOYD ORR:715 LAB
+Staff
+Class	Section	Status
+8777
+Laboratory LB07-LAB S2
+Closed
+
+closed
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+8778
+Laboratory LB08-LAB S2
+Closed
+
+closed
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+8779
+Laboratory LB09-LAB S2
+Closed
+
+closed
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+8780
+Laboratory LB10-LAB S2
+Closed
+
+closed
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+8781
+Laboratory LB11-LAB S2
+Closed
+
+closed
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+8782
+Laboratory LB12-LAB S2
+Closed
+
+closed
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+8783
+Laboratory LB13-LAB S2
+Closed
+
+closed
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+8784
+Laboratory LB14-LAB S2
+Closed
+
+closed
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+8793
+Laboratory LB15-LAB S2
+Closed
+
+closed
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+8764
+Lecture LC01-LEC S2
+Open
+
+Dates	Days & Times	Room	Instructor
+10/01/2017 - 21/03/2017
+Tu  12:00 - 13:00
+CTT BOYD ORR:222 LEC THEATRE 2
+John O'Donnell
+12/01/2017 - 23/03/2017
+Th  12:00 - 13:00
+CTT BOYD ORR:222 LEC THEATRE 2
+John O'Donnell
+Class	Section	Status
+8769
+Tutorial TU01-TUT S2
+Open
+
+Dates	Days & Times	Room	Instructor
+11/01/2017 - 22/03/2017
+We  16:00 - 17:00
+CTT ADAM SMITH:1101
+Staff
+Class	Section	Status
+8770
+Tutorial TU02-TUT S2
+Open
+
+Dates	Days & Times	Room	Instructor
+12/01/2017 - 23/03/2017
+Th  09:00 - 10:00
+CTT ADAM SMITH:1101
+Staff
+Class	Section	Status
+8771
+Tutorial TU03-TUT S2
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+8774
+Tutorial TU04-TUT S2
+Open
+
+Dates	Days & Times	Room	Instructor
+12/01/2017 - 23/03/2017
+Th  16:00 - 17:00
+CTT ADAM SMITH:1103
+Staff
+Class	Section	Status
+8772
+Tutorial TU05-TUT S2
+Open
+
+Dates	Days & Times	Room	Instructor
+12/01/2017 - 23/03/2017
+Th  16:00 - 17:00
+CTT ADAM SMITH:702
+Staff
+Class	Section	Status
+8776
+Tutorial TU06-TUT S2
+Open
+
+Dates	Days & Times	Room	Instructor
+13/01/2017 - 24/03/2017
+Fr  09:00 - 10:00
+CTT ADAM SMITH:1101
+Staff
+Class	Section	Status
+8785
+Tutorial TU07-TUT S2
+Closed
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+8786
+Tutorial TU08-TUT S2
+Closed
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+8787
+Tutorial TU09-TUT S2
+Closed
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+8788
+Tutorial TU10-TUT S2
+Closed
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+8789
+Tutorial TU11-TUT S2
+Closed
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+8790
+Tutorial TU12-TUT S2
+Closed
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+8791
+Tutorial TU13-TUT S2
+Closed
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+8792
+Tutorial TU14-TUT S2
+Closed
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+8794
+Tutorial TU15-TUT S2
+Closed
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Collapse section COMPSCI 2002 - Computing Science 2Q:  Computing Fundamentals 2 COMPSCI 2002 - Computing Science 2Q: Computing Fundamentals 2
+Class	Section	Status
+14782
+Admin AD01-ADM S1
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+9014
+Laboratory LB01-LAB S1
+Open
+
+Dates	Days & Times	Room	Instructor
+05/10/2016 - 05/10/2016
+We  15:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+19/10/2016 - 30/11/2016
+We  15:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+Class	Section	Status
+9015
+Laboratory LB02-LAB S1
+Open
+
+Dates	Days & Times	Room	Instructor
+05/10/2016 - 05/10/2016
+We  15:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+19/10/2016 - 30/11/2016
+We  15:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+Class	Section	Status
+9016
+Laboratory LB03-LAB S1
+Open
+
+Dates	Days & Times	Room	Instructor
+05/10/2016 - 05/10/2016
+We  15:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+19/10/2016 - 30/11/2016
+We  15:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+Class	Section	Status
+9017
+Laboratory LB04-LAB S1
+Open
+
+Dates	Days & Times	Room	Instructor
+05/10/2016 - 05/10/2016
+We  17:00 - 18:00
+BOYD ORR:715 LAB
+Staff
+19/10/2016 - 30/11/2016
+We  17:00 - 18:00
+BOYD ORR:715 LAB
+Staff
+Class	Section	Status
+9018
+Laboratory LB05-LAB S1
+Open
+
+Dates	Days & Times	Room	Instructor
+05/10/2016 - 05/10/2016
+We  17:00 - 18:00
+BOYD ORR:715 LAB
+Staff
+19/10/2016 - 30/11/2016
+We  17:00 - 18:00
+BOYD ORR:715 LAB
+Staff
+Class	Section	Status
+9019
+Laboratory LB06-LAB S1
+Open
+
+Dates	Days & Times	Room	Instructor
+06/10/2016 - 06/10/2016
+Th  10:00 - 11:00
+BOYD ORR:715 LAB
+Staff
+20/10/2016 - 01/12/2016
+Th  10:00 - 11:00
+BOYD ORR:715 LAB
+Staff
+Class	Section	Status
+9020
+Laboratory LB07-LAB S1
+Open
+
+Dates	Days & Times	Room	Instructor
+06/10/2016 - 06/10/2016
+Th  15:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+20/10/2016 - 01/12/2016
+Th  15:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+Class	Section	Status
+9021
+Laboratory LB08-LAB S1
+Open
+
+Dates	Days & Times	Room	Instructor
+06/10/2016 - 06/10/2016
+Th  15:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+20/10/2016 - 01/12/2016
+Th  15:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+Class	Section	Status
+9022
+Laboratory LB09-LAB S1
+Open
+
+Dates	Days & Times	Room	Instructor
+06/10/2016 - 06/10/2016
+Th  17:00 - 18:00
+BOYD ORR:715 LAB
+Staff
+20/10/2016 - 01/12/2016
+Th  17:00 - 18:00
+BOYD ORR:715 LAB
+Staff
+Class	Section	Status
+9023
+Laboratory LB10-LAB S1
+Open
+
+Dates	Days & Times	Room	Instructor
+07/10/2016 - 07/10/2016
+Fr  10:00 - 11:00
+BOYD ORR:715 LAB
+Staff
+21/10/2016 - 02/12/2016
+Fr  10:00 - 11:00
+BOYD ORR:715 LAB
+Staff
+Class	Section	Status
+9024
+Laboratory LB11-LAB S1
+Open
+
+Dates	Days & Times	Room	Instructor
+07/10/2016 - 07/10/2016
+Fr  15:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+21/10/2016 - 02/12/2016
+Fr  15:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+Class	Section	Status
+9025
+Laboratory LB12-LAB S1
+Open
+
+Dates	Days & Times	Room	Instructor
+07/10/2016 - 07/10/2016
+Fr  15:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+21/10/2016 - 02/12/2016
+Fr  15:00 - 16:00
+BOYD ORR:715 LAB
+Staff
+Class	Section	Status
+9001
+Lecture LC01-LEC S1
+Open
+
+Dates	Days & Times	Room	Instructor
+20/09/2016 - 29/11/2016
+Tu  12:00 - 13:00
+CTT BOYD ORR:222 LEC THEATRE 2
+Craig Macdonald, Julie Ann Williamson
+22/09/2016 - 01/12/2016
+Th  12:00 - 13:00
+CTT WILT:105 LECT
+Craig Macdonald, Julie Ann Williamson
+Class	Section	Status
+9002
+Tutorial TU01-TUT S1
+Open
+
+Dates	Days & Times	Room	Instructor
+28/09/2016 - 30/11/2016
+We  14:00 - 15:00
+CTT ST ANDREWS:433A
+Staff
+Class	Section	Status
+9003
+Tutorial TU02-TUT S1
+Open
+
+Dates	Days & Times	Room	Instructor
+28/09/2016 - 30/11/2016
+We  14:00 - 15:00
+CTT ST ANDREWS:338
+Staff
+Class	Section	Status
+9004
+Tutorial TU03-TUT S1
+Open
+
+Dates	Days & Times	Room	Instructor
+28/09/2016 - 30/11/2016
+We  14:00 - 15:00
+CTT BOYD ORR:506
+Staff
+Class	Section	Status
+9005
+Tutorial TU04-TUT S1
+Open
+
+Dates	Days & Times	Room	Instructor
+28/09/2016 - 30/11/2016
+We  16:00 - 17:00
+CTT ADAM SMITH:1102
+Staff
+Class	Section	Status
+9006
+Tutorial TU05-TUT S1
+Open
+
+Dates	Days & Times	Room	Instructor
+28/09/2016 - 30/11/2016
+We  16:00 - 17:00
+CTT ADAM SMITH:702
+Staff
+Class	Section	Status
+9007
+Tutorial TU06-TUT S1
+Open
+
+Dates	Days & Times	Room	Instructor
+29/09/2016 - 01/12/2016
+Th  09:00 - 10:00
+CTT ADAM SMITH:1102
+Staff
+Class	Section	Status
+9008
+Tutorial TU07-TUT S1
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+9009
+Tutorial TU08-TUT S1
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+9010
+Tutorial TU09-TUT S1
+Open
+
+Dates	Days & Times	Room	Instructor
+29/09/2016 - 01/12/2016
+Th  16:00 - 17:00
+CTT ADAM SMITH:1102
+Staff
+Class	Section	Status
+9011
+Tutorial TU10-TUT S1
+Open
+
+Dates	Days & Times	Room	Instructor
+30/09/2016 - 02/12/2016
+Fr  09:00 - 10:00
+CTT ADAM SMITH:1102
+Staff
+Class	Section	Status
+9012
+Tutorial TU11-TUT S1
+Open
+
+Dates	Days & Times	Room	Instructor
+30/09/2016 - 02/12/2016
+Fr  14:00 - 15:00
+CTT ADAM SMITH:702
+Staff
+Class	Section	Status
+9013
+Tutorial TU12-TUT S1
+Open
+
+Dates	Days & Times	Room	Instructor
+30/09/2016 - 02/12/2016
+Fr  14:00 - 15:00
+CTT ADAM SMITH:1101
+Staff
+Collapse section COMPSCI 2003 - Computing Science 2R: Algorithmic Foundations 2 COMPSCI 2003 - Computing Science 2R: Algorithmic Foundations 2
+Class	Section	Status
+12276
+Admin AD01-ADM S1
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+1232
+Lecture LC01-LEC S1
+Open
+
+Dates	Days & Times	Room	Instructor
+21/09/2016 - 30/11/2016
+We  11:00 - 12:00
+CTT JOHN MCINTYRE:201 FLAT
+Gethin Norman
+23/09/2016 - 02/12/2016
+Fr  11:00 - 12:00
+CTT JOHN MCINTYRE:201 FLAT
+Gethin Norman
+Class	Section	Status
+1233
+Tutorial TU01-TUT S1
+Open
+
+Dates	Days & Times	Room	Instructor
+30/09/2016 - 02/12/2016
+Fr  14:00 - 15:00
+TBA
+Staff
+Class	Section	Status
+1234
+Tutorial TU02-TUT S1
+Open
+
+Dates	Days & Times	Room	Instructor
+30/09/2016 - 02/12/2016
+Fr  14:00 - 15:00
+TBA
+Staff
+Class	Section	Status
+1235
+Tutorial TU03-TUT S1
+Open
+
+Dates	Days & Times	Room	Instructor
+30/09/2016 - 02/12/2016
+Fr  14:00 - 15:00
+TBA
+Staff
+Class	Section	Status
+1236
+Tutorial TU04-TUT S1
+Open
+
+Dates	Days & Times	Room	Instructor
+30/09/2016 - 02/12/2016
+Fr  15:00 - 16:00
+TBA
+Staff
+Class	Section	Status
+1237
+Tutorial TU05-TUT S1
+Open
+
+Dates	Days & Times	Room	Instructor
+30/09/2016 - 02/12/2016
+Fr  15:00 - 16:00
+TBA
+Staff
+Class	Section	Status
+1238
+Tutorial TU06-TUT S1
+Open
+
+Dates	Days & Times	Room	Instructor
+30/09/2016 - 02/12/2016
+Fr  15:00 - 16:00
+TBA
+Staff
+Class	Section	Status
+1239
+Tutorial TU07-TUT S1
+Open
+
+Dates	Days & Times	Room	Instructor
+30/09/2016 - 02/12/2016
+Fr  16:00 - 17:00
+TBA
+Staff
+Class	Section	Status
+1240
+Tutorial TU08-TUT S1
+Open
+
+Dates	Days & Times	Room	Instructor
+30/09/2016 - 02/12/2016
+Fr  16:00 - 17:00
+TBA
+Staff
+Class	Section	Status
+1241
+Tutorial TU09-TUT S1
+Open
+
+Dates	Days & Times	Room	Instructor
+30/09/2016 - 02/12/2016
+Fr  16:00 - 17:00
+TBA
+Staff
+Collapse section COMPSCI 2005 - Computing Science 2T: Computer Systems 2 COMPSCI 2005 - Computing Science 2T: Computer Systems 2
+Class	Section	Status
+14559
+Admin AD01-ADM S1
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+8384
+Laboratory LB01-LAB S1
+Open
+
+Dates	Days & Times	Room	Instructor
+05/10/2016 - 05/10/2016
+We  16:00 - 17:00
+BOYD ORR:706 LAB
+Staff
+19/10/2016 - 19/10/2016
+We  16:00 - 17:00
+BOYD ORR:706 LAB
+Staff
+09/11/2016 - 09/11/2016
+We  16:00 - 17:00
+BOYD ORR:706 LAB
+Staff
+23/11/2016 - 30/11/2016
+We  16:00 - 17:00
+BOYD ORR:706 LAB
+Staff
+Class	Section	Status
+8366
+Laboratory LB02-LAB S1
+Open
+
+Dates	Days & Times	Room	Instructor
+05/10/2016 - 05/10/2016
+We  16:00 - 17:00
+BOYD ORR:706 LAB
+Staff
+19/10/2016 - 19/10/2016
+We  16:00 - 17:00
+BOYD ORR:706 LAB
+Staff
+09/11/2016 - 09/11/2016
+We  16:00 - 17:00
+BOYD ORR:706 LAB
+Staff
+23/11/2016 - 30/11/2016
+We  16:00 - 17:00
+BOYD ORR:706 LAB
+Staff
+Class	Section	Status
+8367
+Laboratory LB03-LAB S1
+Open
+
+Dates	Days & Times	Room	Instructor
+05/10/2016 - 05/10/2016
+We  17:00 - 18:00
+BOYD ORR:706 LAB
+Staff
+19/10/2016 - 19/10/2016
+We  17:00 - 18:00
+BOYD ORR:706 LAB
+Staff
+09/11/2016 - 09/11/2016
+We  17:00 - 18:00
+BOYD ORR:706 LAB
+Staff
+23/11/2016 - 30/11/2016
+We  17:00 - 18:00
+BOYD ORR:706 LAB
+Staff
+Class	Section	Status
+8368
+Laboratory LB04-LAB S1
+Open
+
+Dates	Days & Times	Room	Instructor
+05/10/2016 - 05/10/2016
+We  17:00 - 18:00
+BOYD ORR:706 LAB
+Staff
+19/10/2016 - 19/10/2016
+We  17:00 - 18:00
+BOYD ORR:706 LAB
+Staff
+09/11/2016 - 09/11/2016
+We  17:00 - 18:00
+BOYD ORR:706 LAB
+Staff
+23/11/2016 - 30/11/2016
+We  17:00 - 18:00
+BOYD ORR:706 LAB
+Staff
+Class	Section	Status
+8369
+Laboratory LB05-LAB S1
+Open
+
+Dates	Days & Times	Room	Instructor
+06/10/2016 - 06/10/2016
+Th  13:00 - 14:00
+BOYD ORR:706 LAB
+Staff
+20/10/2016 - 20/10/2016
+Th  13:00 - 14:00
+BOYD ORR:706 LAB
+Staff
+10/11/2016 - 10/11/2016
+Th  13:00 - 14:00
+BOYD ORR:706 LAB
+Staff
+24/11/2016 - 01/12/2016
+Th  13:00 - 14:00
+BOYD ORR:706 LAB
+Staff
+Class	Section	Status
+8370
+Laboratory LB06-LAB S1
+Open
+
+Dates	Days & Times	Room	Instructor
+06/10/2016 - 06/10/2016
+Th  13:00 - 14:00
+BOYD ORR:706 LAB
+Staff
+20/10/2016 - 20/10/2016
+Th  13:00 - 14:00
+BOYD ORR:706 LAB
+Staff
+10/11/2016 - 10/11/2016
+Th  13:00 - 14:00
+BOYD ORR:706 LAB
+Staff
+24/11/2016 - 01/12/2016
+Th  13:00 - 14:00
+BOYD ORR:706 LAB
+Staff
+Class	Section	Status
+8371
+Laboratory LB07-LAB S1
+Open
+
+Dates	Days & Times	Room	Instructor
+06/10/2016 - 06/10/2016
+Th  14:00 - 15:00
+BOYD ORR:706 LAB
+Staff
+20/10/2016 - 20/10/2016
+Th  14:00 - 15:00
+BOYD ORR:706 LAB
+Staff
+10/11/2016 - 10/11/2016
+Th  14:00 - 15:00
+BOYD ORR:706 LAB
+Staff
+24/11/2016 - 01/12/2016
+Th  14:00 - 15:00
+BOYD ORR:706 LAB
+Staff
+Class	Section	Status
+8372
+Laboratory LB08-LAB S1
+Open
+
+Dates	Days & Times	Room	Instructor
+06/10/2016 - 06/10/2016
+Th  14:00 - 15:00
+BOYD ORR:706 LAB
+Staff
+20/10/2016 - 20/10/2016
+Th  14:00 - 15:00
+BOYD ORR:706 LAB
+Staff
+10/11/2016 - 10/11/2016
+Th  14:00 - 15:00
+BOYD ORR:706 LAB
+Staff
+24/11/2016 - 01/12/2016
+Th  14:00 - 15:00
+BOYD ORR:706 LAB
+Staff
+Class	Section	Status
+8374
+Laboratory LB09-LAB S1
+Open
+
+Dates	Days & Times	Room	Instructor
+06/10/2016 - 06/10/2016
+Th  15:00 - 16:00
+BOYD ORR:706 LAB
+Staff
+20/10/2016 - 20/10/2016
+Th  15:00 - 16:00
+BOYD ORR:706 LAB
+Staff
+10/11/2016 - 10/11/2016
+Th  15:00 - 16:00
+BOYD ORR:706 LAB
+Staff
+24/11/2016 - 01/12/2016
+Th  15:00 - 16:00
+BOYD ORR:706 LAB
+Staff
+Class	Section	Status
+8385
+Laboratory LB10-LAB S1
+Closed
+
+closed
+Dates	Days & Times	Room	Instructor
+06/10/2016 - 06/10/2016
+Th  15:00 - 16:00
+BOYD ORR:706 LAB
+Staff
+20/10/2016 - 20/10/2016
+Th  15:00 - 16:00
+BOYD ORR:706 LAB
+Staff
+10/11/2016 - 10/11/2016
+Th  15:00 - 16:00
+BOYD ORR:706 LAB
+Staff
+24/11/2016 - 01/12/2016
+Th  15:00 - 16:00
+BOYD ORR:706 LAB
+Staff
+Class	Section	Status
+8373
+Lecture LC01-LEC S1
+Open
+
+Dates	Days & Times	Room	Instructor
+25/10/2016 - 25/10/2016
+Tu  11:00 - 12:00
+CTT MAIN BLD:255 HUMANITY LT
+Nikolaos Ntarmos
+22/09/2016 - 01/12/2016
+Th  11:00 - 12:00
+CTT JOHN MCINTYRE:201 FLAT
+Nikolaos Ntarmos
+27/09/2016 - 27/09/2016
+Tu  11:00 - 12:00
+CTT MAIN BLD:255 HUMANITY LT
+Nikolaos Ntarmos
+04/10/2016 - 04/10/2016
+Tu  11:00 - 12:00
+CTT MAIN BLD:255 HUMANITY LT
+Nikolaos Ntarmos
+11/10/2016 - 11/10/2016
+Tu  11:00 - 12:00
+CTT MAIN BLD:255 HUMANITY LT
+Nikolaos Ntarmos
+18/10/2016 - 18/10/2016
+Tu  11:00 - 12:00
+CTT MAIN BLD:255 HUMANITY LT
+Nikolaos Ntarmos
+29/11/2016 - 29/11/2016
+Tu  11:00 - 12:00
+CTT MAIN BLD:255 HUMANITY LT
+Nikolaos Ntarmos
+01/11/2016 - 01/11/2016
+Tu  11:00 - 12:00
+CTT MAIN BLD:255 HUMANITY LT
+Nikolaos Ntarmos
+08/11/2016 - 08/11/2016
+Tu  11:00 - 12:00
+CTT MAIN BLD:255 HUMANITY LT
+Nikolaos Ntarmos
+15/11/2016 - 15/11/2016
+Tu  11:00 - 12:00
+CTT MAIN BLD:255 HUMANITY LT
+Nikolaos Ntarmos
+22/11/2016 - 22/11/2016
+Tu  11:00 - 12:00
+CTT MAIN BLD:255 HUMANITY LT
+Nikolaos Ntarmos
+20/09/2016 - 20/09/2016
+Tu  11:00 - 12:00
+CTT MAIN BLD:413 KELVIN GALLER
+Nikolaos Ntarmos
+Class	Section	Status
+8375
+Tutorial TU01-TUT S1
+Open
+
+Dates	Days & Times	Room	Instructor
+28/09/2016 - 28/09/2016
+We  16:00 - 17:00
+CTT HETHERINGTON:118
+Staff
+12/10/2016 - 12/10/2016
+We  16:00 - 17:00
+CTT HETHERINGTON:118
+Staff
+26/10/2016 - 02/11/2016
+We  16:00 - 17:00
+CTT HETHERINGTON:118
+Staff
+16/11/2016 - 16/11/2016
+We  16:00 - 17:00
+CTT HETHERINGTON:118
+Staff
+Class	Section	Status
+8376
+Tutorial TU02-TUT S1
+Open
+
+Dates	Days & Times	Room	Instructor
+28/09/2016 - 28/09/2016
+We  16:00 - 17:00
+CTT HETHERINGTON:118
+Staff
+12/10/2016 - 12/10/2016
+We  16:00 - 17:00
+CTT HETHERINGTON:118
+Staff
+26/10/2016 - 02/11/2016
+We  16:00 - 17:00
+CTT HETHERINGTON:118
+Staff
+16/11/2016 - 16/11/2016
+We  16:00 - 17:00
+CTT HETHERINGTON:118
+Staff
+Class	Section	Status
+8377
+Tutorial TU03-TUT S1
+Open
+
+Dates	Days & Times	Room	Instructor
+28/09/2016 - 28/09/2016
+We  17:00 - 18:00
+CTT BOYD ORR:506
+Staff
+12/10/2016 - 12/10/2016
+We  17:00 - 18:00
+CTT BOYD ORR:506
+Staff
+26/10/2016 - 02/11/2016
+We  17:00 - 18:00
+CTT BOYD ORR:506
+Staff
+16/11/2016 - 16/11/2016
+We  17:00 - 18:00
+CTT BOYD ORR:506
+Staff
+Class	Section	Status
+8378
+Tutorial TU04-TUT S1
+Open
+
+Dates	Days & Times	Room	Instructor
+28/09/2016 - 28/09/2016
+We  17:00 - 18:00
+CTT BOYD ORR:506
+Staff
+12/10/2016 - 12/10/2016
+We  17:00 - 18:00
+CTT BOYD ORR:506
+Staff
+26/10/2016 - 02/11/2016
+We  17:00 - 18:00
+CTT BOYD ORR:506
+Staff
+16/11/2016 - 16/11/2016
+We  17:00 - 18:00
+CTT BOYD ORR:506
+Staff
+Class	Section	Status
+8379
+Tutorial TU05-TUT S1
+Open
+
+Dates	Days & Times	Room	Instructor
+29/09/2016 - 29/09/2016
+Th  13:00 - 14:00
+CTT HETHERINGTON:118
+Staff
+13/10/2016 - 13/10/2016
+Th  13:00 - 14:00
+CTT HETHERINGTON:118
+Staff
+27/10/2016 - 03/11/2016
+Th  13:00 - 14:00
+CTT HETHERINGTON:118
+Staff
+17/11/2016 - 17/11/2016
+Th  13:00 - 14:00
+CTT HETHERINGTON:118
+Staff
+Class	Section	Status
+8380
+Tutorial TU06-TUT S1
+Open
+
+Dates	Days & Times	Room	Instructor
+29/09/2016 - 29/09/2016
+Th  13:00 - 14:00
+CTT HETHERINGTON:118
+Staff
+13/10/2016 - 13/10/2016
+Th  13:00 - 14:00
+CTT HETHERINGTON:118
+Staff
+27/10/2016 - 03/11/2016
+Th  13:00 - 14:00
+CTT HETHERINGTON:118
+Staff
+17/11/2016 - 17/11/2016
+Th  13:00 - 14:00
+CTT HETHERINGTON:118
+Staff
+Class	Section	Status
+8381
+Tutorial TU07-TUT S1
+Open
+
+Dates	Days & Times	Room	Instructor
+29/09/2016 - 29/09/2016
+Th  14:00 - 15:00
+CTT HETHERINGTON:118
+Staff
+13/10/2016 - 13/10/2016
+Th  14:00 - 15:00
+CTT HETHERINGTON:118
+Staff
+27/10/2016 - 03/11/2016
+Th  14:00 - 15:00
+CTT HETHERINGTON:118
+Staff
+17/11/2016 - 17/11/2016
+Th  14:00 - 15:00
+CTT HETHERINGTON:118
+Staff
+Class	Section	Status
+8382
+Tutorial TU08-TUT S1
+Open
+
+Dates	Days & Times	Room	Instructor
+29/09/2016 - 29/09/2016
+Th  14:00 - 15:00
+CTT HETHERINGTON:118
+Staff
+13/10/2016 - 13/10/2016
+Th  14:00 - 15:00
+CTT HETHERINGTON:118
+Staff
+27/10/2016 - 03/11/2016
+Th  14:00 - 15:00
+CTT HETHERINGTON:118
+Staff
+17/11/2016 - 17/11/2016
+Th  14:00 - 15:00
+CTT HETHERINGTON:118
+Staff
+Class	Section	Status
+8383
+Tutorial TU09-TUT S1
+Open
+
+Dates	Days & Times	Room	Instructor
+29/09/2016 - 29/09/2016
+Th  15:00 - 16:00
+CTT 8 THE SQ:324-COSGROVE-1/24
+Staff
+13/10/2016 - 13/10/2016
+Th  15:00 - 16:00
+CTT 8 THE SQ:324-COSGROVE-1/24
+Staff
+27/10/2016 - 03/11/2016
+Th  15:00 - 16:00
+CTT 8 THE SQ:324-COSGROVE-1/24
+Staff
+17/11/2016 - 17/11/2016
+Th  15:00 - 16:00
+CTT 8 THE SQ:324-COSGROVE-1/24
+Staff
+Class	Section	Status
+8386
+Tutorial TU10-TUT S1
+Closed
+
+Dates	Days & Times	Room	Instructor
+29/09/2016 - 29/09/2016
+Th  15:00 - 16:00
+CTT 8 THE SQ:324-COSGROVE-1/24
+Staff
+13/10/2016 - 13/10/2016
+Th  15:00 - 16:00
+CTT 8 THE SQ:324-COSGROVE-1/24
+Staff
+27/10/2016 - 03/11/2016
+Th  15:00 - 16:00
+CTT 8 THE SQ:324-COSGROVE-1/24
+Staff
+17/11/2016 - 17/11/2016
+Th  15:00 - 16:00
+CTT 8 THE SQ:324-COSGROVE-1/24
+Staff
+Collapse section COMPSCI 2007 - Computing Science 2X:  Algorithms & Data Structures 2 COMPSCI 2007 - Computing Science 2X: Algorithms & Data Structures 2
+Class	Section	Status
+13264
+Admin AD01-ADM S2
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+4449
+Laboratory LB01-LAB S2
+Open
+
+Dates	Days & Times	Room	Instructor
+10/01/2017 - 21/03/2017
+Tu  15:30 - 16:30
+BOYD ORR:706 LAB
+Staff
+Class	Section	Status
+4450
+Laboratory LB02-LAB S2
+Open
+
+Dates	Days & Times	Room	Instructor
+10/01/2017 - 21/03/2017
+Tu  15:30 - 16:30
+BOYD ORR:706 LAB
+Staff
+Class	Section	Status
+4451
+Laboratory LB03-LAB S2
+Open
+
+Dates	Days & Times	Room	Instructor
+10/01/2017 - 21/03/2017
+Tu  17:00 - 18:00
+BOYD ORR:706 LAB
+Staff
+Class	Section	Status
+4452
+Laboratory LB04-LAB S2
+Open
+
+Dates	Days & Times	Room	Instructor
+10/01/2017 - 21/03/2017
+Tu  17:00 - 18:00
+BOYD ORR:706 LAB
+Staff
+Class	Section	Status
+4453
+Laboratory LB05-LAB S2
+Open
+
+Dates	Days & Times	Room	Instructor
+11/01/2017 - 22/03/2017
+We  14:00 - 15:00
+BOYD ORR:706 LAB
+Staff
+Class	Section	Status
+4454
+Laboratory LB06-LAB S2
+Open
+
+Dates	Days & Times	Room	Instructor
+11/01/2017 - 22/03/2017
+We  14:00 - 15:00
+BOYD ORR:706 LAB
+Staff
+Class	Section	Status
+4455
+Laboratory LB07-LAB S2
+Open
+
+Dates	Days & Times	Room	Instructor
+11/01/2017 - 22/03/2017
+We  15:30 - 16:30
+BOYD ORR:706 LAB
+Staff
+Class	Section	Status
+4456
+Laboratory LB08-LAB S2
+Open
+
+Dates	Days & Times	Room	Instructor
+11/01/2017 - 22/03/2017
+We  15:30 - 16:30
+BOYD ORR:706 LAB
+Staff
+Class	Section	Status
+4458
+Laboratory LB09-LAB S2
+Open
+
+Dates	Days & Times	Room	Instructor
+11/01/2017 - 22/03/2017
+We  17:00 - 18:00
+BOYD ORR:706 LAB
+Staff
+Class	Section	Status
+4459
+Laboratory LB10-LAB S2
+Closed
+
+Dates	Days & Times	Room	Instructor
+11/01/2017 - 22/03/2017
+We  17:00 - 18:00
+BOYD ORR:706 LAB
+Staff
+Class	Section	Status
+4457
+Lecture LC01-LEC S2
+Open
+
+Dates	Days & Times	Room	Instructor
+10/01/2017 - 21/03/2017
+Tu  11:00 - 12:00
+CTT BOYD ORR:222 LEC THEATRE 2
+Patrick Prosser
+12/01/2017 - 23/03/2017
+Th  11:00 - 12:00
+CTT BOYD ORR:222 LEC THEATRE 2
+Patrick Prosser
+03/02/2017 - 03/02/2017
+Fr  14:00 - 15:00
+CTT BOYD ORR:222 LEC THEATRE 2
+Patrick Prosser
+17/02/2017 - 17/02/2017
+Fr  14:00 - 15:00
+CTT BOYD ORR:222 LEC THEATRE 2
+Patrick Prosser
+03/03/2017 - 03/03/2017
+Fr  14:00 - 15:00
+CTT BOYD ORR:222 LEC THEATRE 2
+Patrick Prosser
+17/03/2017 - 17/03/2017
+Fr  14:00 - 15:00
+CTT BOYD ORR:222 LEC THEATRE 2
+Patrick Prosser
+Collapse section COMPSCI 2020 - Computing Science 2P: Java and Object Oriented Software Engineering 2 COMPSCI 2020 - Computing Science 2P: Java and Object Oriented Software Engineering 2
+Class	Section	Status
+13002
+Admin AD01-ADM S12
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+3670
+Laboratory LB01-LAB S12
+Open
+
+Dates	Days & Times	Room	Instructor
+09/01/2017 - 20/03/2017
+Mo  13:00 - 14:00
+BOYD ORR:706 LAB
+Staff
+26/09/2016 - 28/11/2016
+Mo  13:00 - 15:00
+BOYD ORR:706 LAB
+Staff
+Class	Section	Status
+3659
+Laboratory LB02-LAB S12
+Open
+
+Dates	Days & Times	Room	Instructor
+09/01/2017 - 20/03/2017
+Mo  13:00 - 14:00
+BOYD ORR:706 LAB
+Staff
+26/09/2016 - 28/11/2016
+Mo  13:00 - 15:00
+BOYD ORR:706 LAB
+Staff
+Class	Section	Status
+3660
+Laboratory LB03-LAB S12
+Open
+
+Dates	Days & Times	Room	Instructor
+09/01/2017 - 20/03/2017
+Mo  14:30 - 15:30
+BOYD ORR:706 LAB
+Staff
+26/09/2016 - 28/11/2016
+Mo  15:00 - 17:00
+BOYD ORR:706 LAB
+Staff
+Class	Section	Status
+3661
+Laboratory LB04-LAB S12
+Open
+
+Dates	Days & Times	Room	Instructor
+09/01/2017 - 20/03/2017
+Mo  14:30 - 15:30
+BOYD ORR:706 LAB
+Staff
+26/09/2016 - 28/11/2016
+Mo  15:00 - 17:00
+BOYD ORR:706 LAB
+Staff
+Class	Section	Status
+3662
+Laboratory LB05-LAB S12
+Open
+
+Dates	Days & Times	Room	Instructor
+09/01/2017 - 20/03/2017
+Mo  16:00 - 17:00
+BOYD ORR:706 LAB
+Staff
+27/09/2016 - 29/11/2016
+Tu  13:00 - 15:00
+BOYD ORR:706 LAB
+Staff
+Class	Section	Status
+3663
+Laboratory LB06-LAB S12
+Open
+
+Dates	Days & Times	Room	Instructor
+09/01/2017 - 20/03/2017
+Mo  16:00 - 17:00
+BOYD ORR:706 LAB
+Staff
+27/09/2016 - 29/11/2016
+Tu  13:00 - 15:00
+BOYD ORR:706 LAB
+Staff
+Class	Section	Status
+3664
+Laboratory LB07-LAB S12
+Open
+
+Dates	Days & Times	Room	Instructor
+10/01/2017 - 21/03/2017
+Tu  13:00 - 14:00
+BOYD ORR:706 LAB
+Staff
+27/09/2016 - 29/11/2016
+Tu  15:00 - 17:00
+BOYD ORR:706 LAB
+Staff
+Class	Section	Status
+3665
+Laboratory LB08-LAB S12
+Open
+
+Dates	Days & Times	Room	Instructor
+10/01/2017 - 21/03/2017
+Tu  13:00 - 14:00
+BOYD ORR:706 LAB
+Staff
+27/09/2016 - 29/11/2016
+Tu  15:00 - 17:00
+BOYD ORR:706 LAB
+Staff
+Class	Section	Status
+3666
+Laboratory LB09-LAB S12
+Open
+
+Dates	Days & Times	Room	Instructor
+10/01/2017 - 21/03/2017
+Tu  14:30 - 15:30
+BOYD ORR:706 LAB
+Staff
+28/09/2016 - 30/11/2016
+We  14:00 - 16:00
+BOYD ORR:706 LAB
+Staff
+Class	Section	Status
+3667
+Laboratory LB10-LAB S12
+Closed
+
+Dates	Days & Times	Room	Instructor
+10/01/2017 - 21/03/2017
+Tu  14:30 - 15:30
+BOYD ORR:706 LAB
+Staff
+28/09/2016 - 30/11/2016
+We  14:00 - 16:00
+BOYD ORR:706 LAB
+Staff
+Class	Section	Status
+3669
+Lecture LC01-LEC S12
+Open
+
+Dates	Days & Times	Room	Instructor
+19/09/2016 - 28/11/2016
+Mo  11:00 - 12:00
+CTT ADAM SMITH:1115
+Mary Ellen Foster, Inah Omoronyia
+21/09/2016 - 30/11/2016
+We  13:00 - 14:00
+CTT ADAM SMITH:1115
+Inah Omoronyia, Mary Ellen Foster
+09/01/2017 - 20/03/2017
+Mo  11:00 - 12:00
+CTT ADAM SMITH:1115
+Inah Omoronyia, Mary Ellen Foster
+11/01/2017 - 22/03/2017
+We  13:00 - 14:00
+CTT ADAM SMITH:1115
+Inah Omoronyia, Mary Ellen Foster
+Class	Section	Status
+3668
+Tutorial TU01-TUT S12
+Open
+
+Dates	Days & Times	Room	Instructor
+30/09/2016 - 02/12/2016
+Fr  13:00 - 14:00
+CTT ADAM SMITH:1115
+Mary Ellen Foster, Inah Omoronyia
+13/01/2017 - 24/03/2017
+Fr  13:00 - 14:00
+CTT ADAM SMITH:1115
+Mary Ellen Foster, Inah Omoronyia
+Collapse section COMPSCI 2021 - Computing Science 2U: Web Application Development 2 COMPSCI 2021 - Computing Science 2U: Web Application Development 2
+Class	Section	Status
+14015
+Admin AD01-ADM S2
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+9393
+Laboratory LB01-LAB S2
+Open
+
+Dates	Days & Times	Room	Instructor
+12/01/2017 - 23/03/2017
+Th  13:00 - 14:00
+BOYD ORR:706 LAB
+Staff
+Class	Section	Status
+6660
+Laboratory LB02-LAB S2
+Open
+
+Dates	Days & Times	Room	Instructor
+12/01/2017 - 23/03/2017
+Th  13:00 - 14:00
+BOYD ORR:706 LAB
+Staff
+Class	Section	Status
+6661
+Laboratory LB03-LAB S2
+Open
+
+Dates	Days & Times	Room	Instructor
+12/01/2017 - 23/03/2017
+Th  14:30 - 15:30
+BOYD ORR:706 LAB
+Staff
+Class	Section	Status
+6662
+Laboratory LB04-LAB S2
+Open
+
+Dates	Days & Times	Room	Instructor
+12/01/2017 - 23/03/2017
+Th  14:30 - 15:30
+BOYD ORR:706 LAB
+Staff
+Class	Section	Status
+6663
+Laboratory LB05-LAB S2
+Open
+
+Dates	Days & Times	Room	Instructor
+12/01/2017 - 23/03/2017
+Th  16:00 - 17:00
+BOYD ORR:706 LAB
+Staff
+Class	Section	Status
+6664
+Laboratory LB06-LAB S2
+Open
+
+Dates	Days & Times	Room	Instructor
+12/01/2017 - 23/03/2017
+Th  16:00 - 17:00
+BOYD ORR:706 LAB
+Staff
+Class	Section	Status
+6665
+Laboratory LB07-LAB S2
+Open
+
+Dates	Days & Times	Room	Instructor
+13/01/2017 - 24/03/2017
+Fr  15:00 - 16:00
+BOYD ORR:706 LAB
+Staff
+Class	Section	Status
+6666
+Laboratory LB08-LAB S2
+Open
+
+Dates	Days & Times	Room	Instructor
+13/01/2017 - 24/03/2017
+Fr  15:00 - 16:00
+BOYD ORR:706 LAB
+Staff
+Class	Section	Status
+6667
+Laboratory LB09-LAB S2
+Open
+
+Dates	Days & Times	Room	Instructor
+13/01/2017 - 24/03/2017
+Fr  16:00 - 17:00
+BOYD ORR:706 LAB
+Staff
+Class	Section	Status
+6668
+Laboratory LB10-LAB S2
+Closed
+
+Dates	Days & Times	Room	Instructor
+13/01/2017 - 24/03/2017
+Fr  16:00 - 17:00
+BOYD ORR:706 LAB
+Staff
+Class	Section	Status
+9392
+Lecture LC01-LEC S2
+Open
+
+Dates	Days & Times	Room	Instructor
+11/01/2017 - 22/03/2017
+We  11:00 - 12:00
+CTT MAIN BLD:255 HUMANITY LT
+Gerardo Aragon Camarasa, David Manlove
+13/01/2017 - 24/03/2017
+Fr  11:00 - 12:00
+CTT MAIN BLD:255 HUMANITY LT
+David Manlove, Gerardo Aragon Camarasa
+27/01/2017 - 27/01/2017
+Fr  14:00 - 15:00
+CTT MAIN BLD:255 HUMANITY LT
+David Manlove, Gerardo Aragon Camarasa
+10/02/2017 - 10/02/2017
+Fr  14:00 - 15:00
+CTT MAIN BLD:255 HUMANITY LT
+David Manlove, Gerardo Aragon Camarasa
+24/02/2017 - 24/02/2017
+Fr  14:00 - 15:00
+CTT MAIN BLD:255 HUMANITY LT
+David Manlove, Gerardo Aragon Camarasa
+10/03/2017 - 10/03/2017
+Fr  14:00 - 15:00
+CTT MAIN BLD:255 HUMANITY LT
+David Manlove, Gerardo Aragon Camarasa
+Collapse section COMPSCI 2022 - Comp Sci Study Abroad 2 COMPSCI 2022 - Comp Sci Study Abroad 2
+Class	Section	Status
+15169
+Admin AD01-ADM Full Year
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+10220
+Lecture LC01-LEC Full Year
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Collapse section COMPSCI 3004 - Team Project 3 COMPSCI 3004 - Team Project 3
+Class	Section	Status
+14572
+Admin AD01-ADM S1
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+8423
+Project PJ01-PRJ S1
+Open
+
+Dates	Days & Times	Room	Instructor
+20/09/2016 - 20/09/2016
+Tu  11:00 - 12:00
+CTT RANKINE:408  LT
+Joemon Jose, Inah Omoronyia
+22/09/2016 - 22/09/2016
+Th  11:00 - 12:00
+CTT KELVIN: 222 LT
+Inah Omoronyia, Joemon Jose
+Collapse section COMPSCI 3005 - Software Engineering M3 COMPSCI 3005 - Software Engineering M3
+Class	Section	Status
+13416
+Admin AD01-ADM S2
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+4848
+Lecture LC01-LEC S2
+Open
+
+Dates	Days & Times	Room	Instructor
+11/01/2017 - 22/03/2017
+We  13:00 - 14:00
+CTT BOYD ORR:507 (LT C)
+Jan Siebert
+12/01/2017 - 23/03/2017
+Th  12:00 - 13:00
+CTT BOYD ORR:407 (LT A)
+Jan Siebert
+Collapse section COMPSCI 3006 - Comp Sci Study Abroad 3 COMPSCI 3006 - Comp Sci Study Abroad 3
+Class	Section	Status
+13373
+Admin AD01-ADM Full Year
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+4719
+Lecture LC01-LEC Full Year
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Collapse section COMPSCI 4002 - Advanced Networking and Communications (H) COMPSCI 4002 - Advanced Networking and Communications (H)
+Class	Section	Status
+15693
+Admin AD01-ADM S2
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+11782
+Lecture LC01-LEC S2
+Open
+
+Dates	Days & Times	Room	Instructor
+10/01/2017 - 14/03/2017
+Tu  09:00 - 10:00
+CTT HETHERINGTON:118
+Lewis Mackenzie
+11/01/2017 - 15/03/2017
+We  11:00 - 12:00
+CTT HETHERINGTON:118
+Lewis Mackenzie
+12/01/2017 - 16/03/2017
+Th  09:00 - 10:00
+CTT HETHERINGTON:118
+Lewis Mackenzie
+Collapse section COMPSCI 4003 - Algorithmics II (H) COMPSCI 4003 - Algorithmics II (H)
+Class	Section	Status
+15009
+Admin AD01-ADM S1
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+9680
+Lecture LC01-LEC S1
+Open
+
+Dates	Days & Times	Room	Instructor
+28/09/2016 - 30/11/2016
+We  13:00 - 14:00
+CTT RANKINE:107 LT
+David Manlove, Felix Fischer
+29/09/2016 - 01/12/2016
+Th  14:00 - 15:00
+CTT RANKINE:107 LT
+Felix Fischer, David Manlove
+30/09/2016 - 02/12/2016
+Fr  11:00 - 12:00
+CTT RANKINE:107 LT
+Felix Fischer, David Manlove
+Collapse section COMPSCI 4004 - Artificial Intelligence (H) COMPSCI 4004 - Artificial Intelligence (H)
+Class	Section	Status
+13502
+Admin AD01-ADM S1
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+5161
+Lecture LC01-LEC S1
+Open
+
+Dates	Days & Times	Room	Instructor
+27/09/2016 - 29/11/2016
+Tu  12:00 - 13:00
+CTT ADAM SMITH:718 LECTURE
+Bjorn Sand Jensen, Bjorn Sand Jensen
+29/09/2016 - 01/12/2016
+Th  13:00 - 14:00
+CTT HUNTERIAN ART GALLRY:103 L
+Bjorn Sand Jensen, Bjorn Sand Jensen
+30/09/2016 - 02/12/2016
+Fr  09:00 - 10:00
+CTT BOYD ORR:611 (LT E)
+Bjorn Sand Jensen, Bjorn Sand Jensen
+Collapse section COMPSCI 4007 - Computer Architecture (H) COMPSCI 4007 - Computer Architecture (H)
+Class	Section	Status
+15459
+Admin AD01-ADM S1
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+11121
+Lecture LC01-LEC S1
+Open
+
+Dates	Days & Times	Room	Instructor
+26/09/2016 - 28/11/2016
+Mo  10:00 - 11:00
+TBA
+John O'Donnell
+27/09/2016 - 29/11/2016
+Tu  13:00 - 14:00
+CTT WOLFSON MED:248 SEM 3-GANN
+John O'Donnell
+28/09/2016 - 30/11/2016
+We  12:00 - 13:00
+CTT WOLFSON MED:248 SEM 3-GANN
+John O'Donnell
+Collapse section COMPSCI 4008 - Embedded Systems (H) COMPSCI 4008 - Embedded Systems (H)
+Class	Section	Status
+16786
+Admin AD01-ADM Full Year
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+16771
+Laboratory LB01-LAB Full Year
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+16772
+Lecture LC01-LEC Full Year
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Collapse section COMPSCI 4009 - Algorithmics I (H) COMPSCI 4009 - Algorithmics I (H)
+Class	Section	Status
+12541
+Admin AD01-ADM S1
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+2113
+Laboratory LB01-LAB S1
+Open
+
+Dates	Days & Times	Room	Instructor
+29/09/2016 - 01/12/2016
+Th  14:00 - 16:00
+CTT GREGORY BLDG:109 MAIN LT
+Gethin Norman
+Class	Section	Status
+2114
+Lecture LC01-LEC S1
+Open
+
+Dates	Days & Times	Room	Instructor
+29/09/2016 - 01/12/2016
+Th  10:00 - 12:00
+CTT DAVIDSON:208 MAIN LT
+Gethin Norman
+Collapse section COMPSCI 4010 - Advanced Programming (H) COMPSCI 4010 - Advanced Programming (H)
+Class	Section	Status
+14219
+Admin AD01-ADM S1
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+7257
+Laboratory LB01-LAB S1
+Open
+
+Dates	Days & Times	Room	Instructor
+26/09/2016 - 28/11/2016
+Mo  15:00 - 17:00
+CTT KELVIN: 222 LT
+Phil Trinder
+Class	Section	Status
+16852
+Laboratory LB02-LAB S1
+Open
+
+Dates	Days & Times	Room	Instructor
+26/09/2016 - 28/11/2016
+Mo  16:00 - 17:00
+BOYD ORR:720 LAB
+Staff
+Class	Section	Status
+7258
+Lecture LC01-LEC S1
+Open
+
+Dates	Days & Times	Room	Instructor
+26/09/2016 - 28/11/2016
+Mo  10:00 - 12:00
+CTT KELVIN: 222 LT
+Phil Trinder
+Collapse section COMPSCI 4011 - Operating Systems (H) COMPSCI 4011 - Operating Systems (H)
+Class	Section	Status
+15529
+Admin AD01-ADM S2
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+11316
+Laboratory LB01-LAB S2
+Open
+
+Dates	Days & Times	Room	Instructor
+09/01/2017 - 13/03/2017
+Mo  14:00 - 16:00
+CTT DAVIDSON:208 MAIN LT
+Jeremy Singer, Christos Anagnostopoulos
+Class	Section	Status
+11317
+Lecture LC01-LEC S2
+Open
+
+Dates	Days & Times	Room	Instructor
+09/01/2017 - 13/03/2017
+Mo  10:00 - 12:00
+CTT JOHN MCINTYRE:201 FLAT
+Christos Anagnostopoulos, Jeremy Singer
+Collapse section COMPSCI 4012 - Networked Systems (H) COMPSCI 4012 - Networked Systems (H)
+Class	Section	Status
+15215
+Admin AD01-ADM S2
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+10395
+Laboratory LB01-LAB S2
+Open
+
+Dates	Days & Times	Room	Instructor
+11/01/2017 - 15/03/2017
+We  14:00 - 15:00
+BOYD ORR:720 LAB
+Colin Perkins
+Class	Section	Status
+16853
+Laboratory LB02-LAB S2
+Open
+
+Dates	Days & Times	Room	Instructor
+11/01/2017 - 15/03/2017
+We  15:00 - 16:00
+BOYD ORR:720 LAB
+Colin Perkins
+Class	Section	Status
+10396
+Lecture LC01-LEC S2
+Open
+
+Dates	Days & Times	Room	Instructor
+11/01/2017 - 15/03/2017
+We  11:00 - 12:00
+CTT DAVIDSON:208 MAIN LT
+Colin Perkins
+11/01/2017 - 15/03/2017
+We  13:00 - 14:00
+CTT DAVIDSON:208 MAIN LT
+Colin Perkins
+Collapse section COMPSCI 4013 - Database Systems (H) COMPSCI 4013 - Database Systems (H)
+Class	Section	Status
+13637
+Admin AD01-ADM S2
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+5502
+Laboratory LB01-LAB S2
+Open
+
+Dates	Days & Times	Room	Instructor
+13/01/2017 - 17/03/2017
+Fr  14:00 - 15:00
+BOYD ORR:720 LAB
+Peter Triantafillou
+Class	Section	Status
+16848
+Laboratory LB02-LAB S2
+Open
+
+Dates	Days & Times	Room	Instructor
+13/01/2017 - 17/03/2017
+Fr  15:00 - 16:00
+BOYD ORR:720 LAB
+Peter Triantafillou
+Class	Section	Status
+5503
+Lecture LC01-LEC S2
+Open
+
+Dates	Days & Times	Room	Instructor
+13/01/2017 - 17/03/2017
+Fr  10:00 - 12:00
+CTT HUNTERIAN ART GALLRY:103 L
+Peter Triantafillou
+Collapse section COMPSCI 4014 - Interactive Systems (H) COMPSCI 4014 - Interactive Systems (H)
+Class	Section	Status
+12921
+Admin AD01-ADM S1
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+3477
+Laboratory LB01-LAB S1
+Open
+
+Dates	Days & Times	Room	Instructor
+30/09/2016 - 02/12/2016
+Fr  14:00 - 15:00
+TBA
+Helen Purchase
+Class	Section	Status
+3478
+Lecture LC01-LEC S1
+Open
+
+Dates	Days & Times	Room	Instructor
+30/09/2016 - 02/12/2016
+Fr  10:00 - 12:00
+CTT DAVIDSON:208 MAIN LT
+Helen Purchase
+Collapse section COMPSCI 4015 - Professional Software Development (H) COMPSCI 4015 - Professional Software Development (H)
+Class	Section	Status
+13167
+Admin AD01-ADM S12
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+4179
+Laboratory LB01-LAB S12
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+4180
+Lecture LC01-LEC S12
+Open
+
+Dates	Days & Times	Room	Instructor
+28/09/2016 - 30/11/2016
+We  10:00 - 17:00
+BOYD ORR:720 LAB
+Jeremy Singer, Timothy Storer
+19/10/2016 - 19/10/2016
+We  12:00 - 13:30
+CTT KELVIN: 222 LT
+Timothy Storer, Jeremy Singer
+12/01/2017 - 16/03/2017
+Th  10:00 - 17:00
+BOYD ORR:720 LAB
+Timothy Storer, Jeremy Singer
+Collapse section COMPSCI 4016 - Programming Languages (H) COMPSCI 4016 - Programming Languages (H)
+Class	Section	Status
+15405
+Admin AD01-ADM S1
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+10988
+Laboratory LB01-LAB S1
+Open
+
+Dates	Days & Times	Room	Instructor
+27/09/2016 - 29/11/2016
+Tu  14:00 - 16:00
+CTT DAVIDSON:208 MAIN LT
+Simon Gay
+Class	Section	Status
+10989
+Lecture LC01-LEC S1
+Open
+
+Dates	Days & Times	Room	Instructor
+27/09/2016 - 29/11/2016
+Tu  10:00 - 12:00
+CTT DAVIDSON:208 MAIN LT
+Simon Gay
+Collapse section COMPSCI 4017 - Computing Science In The Classroom (H) COMPSCI 4017 - Computing Science In The Classroom (H)
+Class	Section	Status
+14205
+Admin AD01-ADM S12
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+7234
+Lecture LC01-LEC S12
+Open
+
+Dates	Days & Times	Room	Instructor
+26/09/2016 - 28/11/2016
+Mo  11:00 - 12:00
+SIR ALWYN WILLIAMS:422 SEM RM
+Quintin Cutts
+10/01/2017 - 14/03/2017
+Tu  10:00 - 11:00
+SIR ALWYN WILLIAMS:422 SEM RM
+Quintin Cutts
+Collapse section COMPSCI 4019 - Distributed Algorithms and Systems (H) COMPSCI 4019 - Distributed Algorithms and Systems (H)
+Class	Section	Status
+14290
+Admin AD01-ADM S1
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+7443
+Lecture LC01-LEC S1
+Open
+
+Dates	Days & Times	Room	Instructor
+28/09/2016 - 30/11/2016
+We  10:00 - 11:00
+CTT WOLFSON MED:253 SEM 1-YUDO
+Dimitrios Pezaros
+29/09/2016 - 01/12/2016
+Th  11:00 - 12:00
+CTT WOLFSON MED:253 SEM 1-YUDO
+Dimitrios Pezaros
+30/09/2016 - 02/12/2016
+Fr  10:00 - 11:00
+CTT SIR ALEXANDER STONE:208 LT
+Dimitrios Pezaros
+Collapse section COMPSCI 4021 - Functional Programming (H) COMPSCI 4021 - Functional Programming (H)
+Class	Section	Status
+13309
+Admin AD01-ADM S1
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+4559
+Lecture LC01-LEC S1
+Open
+
+Dates	Days & Times	Room	Instructor
+27/09/2016 - 29/11/2016
+Tu  15:00 - 17:00
+CTT WOLFSON MED:257 SEM 2-HUGH
+Jeremy Singer
+Collapse section COMPSCI 4023 - Human-Computer Interaction (H) COMPSCI 4023 - Human-Computer Interaction (H)
+Class	Section	Status
+13417
+Admin AD01-ADM S1
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+4849
+Lecture LC01-LEC S1
+Open
+
+Dates	Days & Times	Room	Instructor
+27/09/2016 - 29/11/2016
+Tu  10:00 - 12:00
+CTT SIR CHARLES WILSON:101A/B
+Matthew Chalmers
+27/09/2016 - 29/11/2016
+Tu  14:00 - 15:00
+CTT RANKINE:106 LT
+Matthew Chalmers
+Collapse section COMPSCI 4024P - Individual Project (H) (Combined) COMPSCI 4024P - Individual Project (H) (Combined)
+Class	Section	Status
+14053
+Admin AD01-ADM Full Year
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+6798
+Project PJ01-PRJ Full Year
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Collapse section COMPSCI 4025P - Individual Project (H) (Single) COMPSCI 4025P - Individual Project (H) (Single)
+Class	Section	Status
+14635
+Admin AD01-ADM Full Year
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+8564
+Project PJ01-PRJ Full Year
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Collapse section COMPSCI 4031 - Modelling Reactive Systems (H) COMPSCI 4031 - Modelling Reactive Systems (H)
+Class	Section	Status
+13573
+Admin AD01-ADM S1
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+5350
+Lecture LC01-LEC S1
+Open
+
+Dates	Days & Times	Room	Instructor
+29/09/2016 - 01/12/2016
+Th  15:00 - 17:00
+CTT ST ANDREWS:338
+Alice Miller
+30/09/2016 - 02/12/2016
+Fr  12:00 - 13:00
+CTT 8 THE SQ:324-COSGROVE-1/24
+Alice Miller
+Collapse section COMPSCI 4033 - Multimedia Systems And Applications (H) COMPSCI 4033 - Multimedia Systems And Applications (H)
+Class	Section	Status
+13265
+Admin AD01-ADM S1
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+4460
+Lecture LC01-LEC S1
+Open
+
+Dates	Days & Times	Room	Instructor
+29/09/2016 - 01/12/2016
+Th  09:00 - 11:00
+CTT ST ANDREWS:237A/B
+Joemon Jose
+30/09/2016 - 02/12/2016
+Fr  13:00 - 14:00
+CTT ST ANDREWS:237A/B
+Joemon Jose
+Collapse section COMPSCI 4038 - Professional Skills and Issues (H) COMPSCI 4038 - Professional Skills and Issues (H)
+Class	Section	Status
+14288
+Admin AD01-ADM S2
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+7441
+Lecture LC01-LEC S2
+Open
+
+Dates	Days & Times	Room	Instructor
+09/01/2017 - 13/03/2017
+Mo  16:00 - 17:00
+CTT HUNTERIAN ART GALLRY:103 L
+Joseph Maguire
+13/01/2017 - 17/03/2017
+Fr  12:00 - 13:00
+CTT HUNTERIAN ART GALLRY:103 L
+Joseph Maguire
+Collapse section COMPSCI 4039 - Programming COMPSCI 4039 - Programming
+Class	Section	Status
+13393
+Admin AD01-ADM S1
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+4750
+Laboratory LB01-LAB S1
+Open
+
+Dates	Days & Times	Room	Instructor
+19/09/2016 - 19/09/2016
+Mo  11:00 - 13:00
+BOYD ORR:1028 LAB
+Ronald Poet, Alessandro Vinciarelli
+20/09/2016 - 20/09/2016
+Tu  11:00 - 13:00
+BOYD ORR:1028 LAB
+Alessandro Vinciarelli, Ronald Poet
+27/09/2016 - 13/12/2016
+Tu  13:00 - 15:00
+BOYD ORR:1028 LAB
+Alessandro Vinciarelli, Ronald Poet
+21/09/2016 - 21/09/2016
+We  11:00 - 13:00
+BOYD ORR:1028 LAB
+Alessandro Vinciarelli, Ronald Poet
+22/09/2016 - 22/09/2016
+Th  11:00 - 13:00
+BOYD ORR:1028 LAB
+Alessandro Vinciarelli, Ronald Poet
+23/09/2016 - 23/09/2016
+Fr  11:00 - 13:00
+BOYD ORR:1028 LAB
+Alessandro Vinciarelli, Ronald Poet
+Class	Section	Status
+4753
+Laboratory LB02-LAB S1
+Open
+
+Dates	Days & Times	Room	Instructor
+19/09/2016 - 19/09/2016
+Mo  14:00 - 16:00
+BOYD ORR:1028 LAB
+Alessandro Vinciarelli, Ronald Poet
+20/09/2016 - 20/09/2016
+Tu  14:00 - 16:00
+BOYD ORR:1028 LAB
+Ronald Poet, Alessandro Vinciarelli
+27/09/2016 - 13/12/2016
+Tu  15:00 - 17:00
+BOYD ORR:1028 LAB
+Ronald Poet, Alessandro Vinciarelli
+21/09/2016 - 21/09/2016
+We  14:00 - 16:00
+BOYD ORR:1028 LAB
+Alessandro Vinciarelli, Ronald Poet
+22/09/2016 - 22/09/2016
+Th  14:00 - 16:00
+BOYD ORR:1028 LAB
+Ronald Poet, Alessandro Vinciarelli
+23/09/2016 - 23/09/2016
+Fr  14:00 - 16:00
+BOYD ORR:1028 LAB
+Staff
+Class	Section	Status
+4751
+Lecture LC01-LEC S1
+Open
+
+Dates	Days & Times	Room	Instructor
+19/09/2016 - 19/09/2016
+Mo  09:00 - 11:00
+CTT BOYD ORR:407 (LT A)
+Alessandro Vinciarelli, Ronald Poet
+20/09/2016 - 20/09/2016
+Tu  09:00 - 11:00
+CTT MAIN BLD:466 LECTURE TH
+Alessandro Vinciarelli, Ronald Poet
+21/09/2016 - 21/09/2016
+We  09:00 - 11:00
+CTT ADAM SMITH:718 LECTURE
+Ronald Poet, Alessandro Vinciarelli
+22/09/2016 - 22/09/2016
+Th  09:00 - 11:00
+CTT ADAM SMITH:718 LECTURE
+Alessandro Vinciarelli, Ronald Poet
+29/09/2016 - 15/12/2016
+Th  11:00 - 12:00
+CTT BOYD ORR:412 (LT B)
+Ronald Poet, Alessandro Vinciarelli
+29/09/2016 - 15/12/2016
+Th  13:00 - 14:00
+CTT ADAM SMITH:1115
+Alessandro Vinciarelli, Ronald Poet
+23/09/2016 - 23/09/2016
+Fr  09:00 - 11:00
+CTT ADAM SMITH:718 LECTURE
+Alessandro Vinciarelli, Ronald Poet
+Class	Section	Status
+4752
+Tutorial TU01-TUT S1
+Open
+
+Dates	Days & Times	Room	Instructor
+19/09/2016 - 19/09/2016
+Mo  16:00 - 17:00
+CTT BOYD ORR:407 (LT A)
+Ronald Poet, Alessandro Vinciarelli
+20/09/2016 - 20/09/2016
+Tu  16:00 - 17:00
+CTT BOYD ORR:407 (LT A)
+Ronald Poet, Alessandro Vinciarelli
+21/09/2016 - 21/09/2016
+We  16:00 - 17:00
+CTT BOYD ORR:407 (LT A)
+Alessandro Vinciarelli, Ronald Poet
+22/09/2016 - 22/09/2016
+Th  16:00 - 17:00
+CTT BOYD ORR:407 (LT A)
+Ronald Poet, Alessandro Vinciarelli
+Collapse section COMPSCI 4043 - Systems And Networks COMPSCI 4043 - Systems And Networks
+Class	Section	Status
+14495
+Admin AD01-ADM S1
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+8131
+Laboratory LB01-LAB S1
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+8132
+Lecture LC01-LEC S1
+Open
+
+Dates	Days & Times	Room	Instructor
+26/09/2016 - 28/11/2016
+Mo  09:00 - 11:00
+CTT RANKINE:108 LT
+Lewis Mackenzie
+28/09/2016 - 30/11/2016
+We  12:00 - 13:00
+CTT RANKINE:108 LT
+Lewis Mackenzie
+Class	Section	Status
+8133
+Tutorial TU01-TUT S1
+Open
+
+Dates	Days & Times	Room	Instructor
+28/09/2016 - 30/11/2016
+We  10:00 - 11:00
+CTT RANKINE:108 LT
+Lewis Mackenzie
+Collapse section COMPSCI 4044 - Team Project ESE (H) COMPSCI 4044 - Team Project ESE (H)
+Class	Section	Status
+15445
+Admin AD01-ADM S1
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+11097
+Project PJ01-PRJ S1
+Open
+
+Dates	Days & Times	Room	Instructor
+20/09/2016 - 20/09/2016
+Tu  11:00 - 12:00
+CTT RANKINE:408  LT
+Joemon Jose, Inah Omoronyia
+22/09/2016 - 22/09/2016
+Th  11:00 - 12:00
+CTT KELVIN: 222 LT
+Joemon Jose, Inah Omoronyia
+Collapse section COMPSCI 4045 - Safety-Critical Systems Development (H) COMPSCI 4045 - Safety-Critical Systems Development (H)
+Class	Section	Status
+14875
+Admin AD01-ADM S2
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+9286
+Lecture LC01-LEC S2
+Open
+
+Dates	Days & Times	Room	Instructor
+11/01/2017 - 15/03/2017
+We  13:00 - 14:00
+CTT ADAM SMITH:916
+Christopher Johnson
+12/01/2017 - 16/03/2017
+Th  12:00 - 13:00
+CTT ADAM SMITH:916
+Christopher Johnson
+13/01/2017 - 17/03/2017
+Fr  13:00 - 14:00
+CTT ADAM SMITH:916
+Christopher Johnson
+Collapse section COMPSCI 4046 - Software Engineering Summer Placement (H) COMPSCI 4046 - Software Engineering Summer Placement (H)
+Class	Section	Status
+12556
+Admin AD01-ADM Full Year
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+2215
+Placement PL01-PLC Full Year
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Collapse section COMPSCI 4047 - Team Project (H) COMPSCI 4047 - Team Project (H)
+Class	Section	Status
+13308
+Admin AD01-ADM S1
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+4558
+Project PJ01-PRJ S1
+Open
+
+Dates	Days & Times	Room	Instructor
+20/09/2016 - 20/09/2016
+Tu  11:00 - 12:00
+CTT RANKINE:408  LT
+Inah Omoronyia, Joemon Jose
+22/09/2016 - 22/09/2016
+Th  11:00 - 12:00
+CTT KELVIN: 222 LT
+Inah Omoronyia, Joemon Jose
+Collapse section COMPSCI 4052 - Comp Sci Study Abroad 4 COMPSCI 4052 - Comp Sci Study Abroad 4
+Class	Section	Status
+13293
+Admin AD01-ADM Full Year
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+4536
+Lecture LC01-LEC Full Year
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Collapse section COMPSCI 4061 - Machine Learning (H) COMPSCI 4061 - Machine Learning (H)
+Class	Section	Status
+15789
+Admin AD01-ADM S2
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+12132
+Lecture LC01-LEC S2
+Open
+
+Dates	Days & Times	Room	Instructor
+11/01/2017 - 15/03/2017
+We  14:00 - 15:00
+CTT JOSEPH BLACK:B408 PHYS
+Simon Rogers
+12/01/2017 - 16/03/2017
+Th  15:00 - 17:00
+CTT WILT:112A/B SEM
+Simon Rogers
+Collapse section COMPSCI 4062 - Cyber Security Fundamentals (H) COMPSCI 4062 - Cyber Security Fundamentals (H)
+Class	Section	Status
+12423
+Admin AD01-ADM S2
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+1646
+Lecture LC01-LEC S2
+Open
+
+Dates	Days & Times	Room	Instructor
+11/01/2017 - 15/03/2017
+We  09:00 - 11:00
+CTT ADAM SMITH:1115
+Rosanne English
+Class	Section	Status
+1647
+Tutorial TU01-TUT S2
+Open
+
+Dates	Days & Times	Room	Instructor
+09/01/2017 - 13/03/2017
+Mo  10:00 - 11:00
+CTT ADAM SMITH:1115
+Rosanne English
+Collapse section COMPSCI 4064 - Big Data: Systems, Programming, and Management (H) COMPSCI 4064 - Big Data: Systems, Programming, and Management (H)
+Class	Section	Status
+14808
+Admin AD01-ADM S2
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+9107
+Laboratory LB01-LAB S2
+Open
+
+Dates	Days & Times	Room	Instructor
+12/01/2017 - 16/03/2017
+Th  11:00 - 12:00
+CTT 5 THE SQUARE:330 GLOAG RM
+Peter Triantafillou
+Class	Section	Status
+9106
+Lecture LC01-LEC S2
+Open
+
+Dates	Days & Times	Room	Instructor
+09/01/2017 - 13/03/2017
+Mo  12:00 - 13:00
+CTT SIR ALEXANDER STONE:204
+Peter Triantafillou
+11/01/2017 - 15/03/2017
+We  12:00 - 13:00
+CTT JOSEPH BLACK:C407 AGRICULT
+Peter Triantafillou
+Collapse section COMPSCI 4065 - Research Methods and Techniques (H) COMPSCI 4065 - Research Methods and Techniques (H)
+Class	Section	Status
+14427
+Admin AD01-ADM S1
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+7893
+Lecture LC01-LEC S1
+Open
+
+Dates	Days & Times	Room	Instructor
+27/09/2016 - 29/11/2016
+Tu  09:00 - 10:00
+CTT ST ANDREWS:237A/B
+William Cockshott
+29/09/2016 - 01/12/2016
+Th  12:00 - 13:00
+CTT ST ANDREWS:237A/B
+William Cockshott
+Collapse section COMPSCI 4066 - Computer Vision Methods and Applications (H) COMPSCI 4066 - Computer Vision Methods and Applications (H)
+Class	Section	Status
+12976
+Admin AD01-ADM S1
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+3565
+Laboratory LB01-LAB S1
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+3564
+Lecture LC01-LEC S1
+Open
+
+Dates	Days & Times	Room	Instructor
+26/09/2016 - 28/11/2016
+Mo  12:00 - 13:00
+CTT 2 UNIVERSITY GDNS:209
+John Williamson
+26/09/2016 - 28/11/2016
+Mo  16:00 - 17:00
+CTT 2 UNIVERSITY GDNS:209
+John Williamson
+28/09/2016 - 30/11/2016
+We  09:00 - 10:00
+CTT 2 UNIVERSITY GDNS:209
+John Williamson
+Collapse section COMPSCI 4068 - Mobile Human-Computer Interaction (H) COMPSCI 4068 - Mobile Human-Computer Interaction (H)
+Class	Section	Status
+15615
+Admin AD01-ADM S2
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+11597
+Lecture LC01-LEC S2
+Open
+
+Dates	Days & Times	Room	Instructor
+09/01/2017 - 13/03/2017
+Mo  09:00 - 10:00
+CTT RANKINE:108 LT
+Roderick Murray-Smith
+13/01/2017 - 17/03/2017
+Fr  09:00 - 11:00
+CTT RANKINE:108 LT
+Roderick Murray-Smith
+Collapse section COMPSCI 4069 - Information Retrieval (H) COMPSCI 4069 - Information Retrieval (H)
+Class	Section	Status
+13331
+Admin AD01-ADM S2
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+4609
+Lecture LC01-LEC S2
+Open
+
+Dates	Days & Times	Room	Instructor
+09/01/2017 - 13/03/2017
+Mo  11:00 - 12:00
+CTT ADAM SMITH:718 LECTURE
+Iadh Ounis
+10/01/2017 - 14/03/2017
+Tu  12:00 - 14:00
+CTT BOYD ORR:203 LEC THEATRE 1
+Iadh Ounis
+Collapse section COMPSCI 4070 - Team Project Minor (H) COMPSCI 4070 - Team Project Minor (H)
+Class	Section	Status
+14365
+Admin AD01-ADM S1
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+7717
+Project PJ01-PRJ S1
+Open
+
+Dates	Days & Times	Room	Instructor
+20/09/2016 - 20/09/2016
+Tu  11:00 - 12:00
+CTT RANKINE:408  LT
+Inah Omoronyia, Joemon Jose
+22/09/2016 - 22/09/2016
+Th  11:00 - 12:00
+CTT KELVIN: 222 LT
+Joemon Jose, Inah Omoronyia
+Collapse section COMPSCI 4071 - Advanced Software Engineering Practices (H) COMPSCI 4071 - Advanced Software Engineering Practices (H)
+Class	Section	Status
+16790
+Admin AD01-ADM S2
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+16776
+Lecture LC01-LEC S2
+Open
+
+Dates	Days & Times	Room	Instructor
+10/01/2017 - 14/03/2017
+Tu  14:00 - 17:00
+CTT WOLFSON MED:257 SEM 2-HUGH
+Timothy Storer
+26/01/2017 - 26/01/2017
+Th  14:00 - 15:00
+CTT JOSEPH BLACK:A504 THEORETI
+Timothy Storer
+19/01/2017 - 19/01/2017
+Th  14:00 - 15:00
+CTT SIR ALEXANDER STONE:204
+Timothy Storer
+02/02/2017 - 02/02/2017
+Th  14:00 - 15:00
+CTT SIR ALEXANDER STONE:204
+Timothy Storer
+09/02/2017 - 09/02/2017
+Th  14:00 - 15:00
+CTT SIR ALEXANDER STONE:204
+Timothy Storer
+23/02/2017 - 23/02/2017
+Th  14:00 - 15:00
+CTT SIR ALEXANDER STONE:204
+Timothy Storer
+02/03/2017 - 02/03/2017
+Th  14:00 - 15:00
+CTT SIR ALEXANDER STONE:204
+Timothy Storer
+09/03/2017 - 09/03/2017
+Th  14:00 - 15:00
+CTT SIR ALEXANDER STONE:204
+Timothy Storer
+16/03/2017 - 16/03/2017
+Th  14:00 - 15:00
+CTT SIR ALEXANDER STONE:204
+Timothy Storer
+12/01/2017 - 12/01/2017
+Th  14:00 - 15:00
+CTT SIR ALEXANDER STONE:204
+Timothy Storer
+16/02/2017 - 16/02/2017
+Th  14:00 - 15:00
+CTT SIR ALEXANDER STONE:204
+Timothy Storer
+Class	Section	Status
+16777
+Seminar SM01-SEM S2
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+New Search
+Modify Search
+ 	Enrollment	 	 	 	My Classes	 	 	 	My Academic Record	 	 	 	My Absence	 	 	 	My Good Cause	 	 	 	My Results
+ 	Add By Requirements	 	 	 	Add By Search	 	 	 	My Choices	 	 	 	Drop Courses	 	 	 	Switch Class Section	 	 	 	Enroll For Resits
+GO!
