@@ -41,7 +41,7 @@
         "id": "2604",
         "type": "Laboratory",
         "name": "LB02",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "11/01/2016 - 21/03/2016",
@@ -61,7 +61,7 @@
         "id": "2605",
         "type": "Laboratory",
         "name": "LB03",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "11/01/2016 - 21/03/2016",
@@ -81,7 +81,7 @@
         "id": "2606",
         "type": "Laboratory",
         "name": "LB04",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "11/01/2016 - 21/03/2016",
@@ -167,7 +167,7 @@
         "id": "2610",
         "type": "Laboratory",
         "name": "LB08",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "12/01/2016 - 22/03/2016",
@@ -187,7 +187,7 @@
         "id": "2611",
         "type": "Laboratory",
         "name": "LB09",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "12/01/2016 - 22/03/2016",
@@ -319,7 +319,7 @@
         "id": "9816",
         "type": "Laboratory",
         "name": "LB01",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "09/03/2016 - 09/03/2016",
@@ -357,7 +357,7 @@
         "id": "9817",
         "type": "Laboratory",
         "name": "LB02",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "09/03/2016 - 09/03/2016",
@@ -395,7 +395,7 @@
         "id": "9818",
         "type": "Laboratory",
         "name": "LB03",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "09/03/2016 - 09/03/2016",
@@ -433,7 +433,7 @@
         "id": "9819",
         "type": "Laboratory",
         "name": "LB04",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "09/03/2016 - 09/03/2016",
@@ -471,7 +471,7 @@
         "id": "9820",
         "type": "Laboratory",
         "name": "LB05",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "09/03/2016 - 09/03/2016",
@@ -509,7 +509,7 @@
         "id": "9821",
         "type": "Laboratory",
         "name": "LB06",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "10/03/2016 - 10/03/2016",
@@ -547,7 +547,7 @@
         "id": "9822",
         "type": "Laboratory",
         "name": "LB07",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "10/03/2016 - 10/03/2016",
@@ -585,7 +585,7 @@
         "id": "9823",
         "type": "Laboratory",
         "name": "LB08",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "10/03/2016 - 10/03/2016",
@@ -981,7 +981,7 @@
         "id": "9804",
         "type": "Tutorial",
         "name": "TU01",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "30/09/2015 - 02/12/2015",
@@ -1001,7 +1001,7 @@
         "id": "9805",
         "type": "Tutorial",
         "name": "TU02",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "30/09/2015 - 02/12/2015",
@@ -1021,7 +1021,7 @@
         "id": "9806",
         "type": "Tutorial",
         "name": "TU03",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "13/01/2016 - 23/03/2016",
@@ -1041,7 +1041,7 @@
         "id": "9807",
         "type": "Tutorial",
         "name": "TU04",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "30/09/2015 - 02/12/2015",
@@ -1061,7 +1061,7 @@
         "id": "9808",
         "type": "Tutorial",
         "name": "TU05",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "13/01/2016 - 23/03/2016",
@@ -1081,7 +1081,7 @@
         "id": "9809",
         "type": "Tutorial",
         "name": "TU06",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "01/10/2015 - 03/12/2015",
@@ -1101,7 +1101,7 @@
         "id": "9810",
         "type": "Tutorial",
         "name": "TU07",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "01/10/2015 - 03/12/2015",
@@ -1121,7 +1121,7 @@
         "id": "9811",
         "type": "Tutorial",
         "name": "TU08",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "01/10/2015 - 03/12/2015",
@@ -1280,46 +1280,6 @@
     ]
   },
   {
-    "code": "COMPSCI 1005",
-    "title": "Computing Science 1P (Half Course)",
-    "sections": [
-      {
-        "id": "19588",
-        "type": "Admin",
-        "name": "AD01",
-        "status": "Open",
-        "dates": [
-          {
-            "period": "TBA",
-            "times": "TBA",
-            "room": "TBA",
-            "instructor": "Staff"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "code": "COMPSCI 1006",
-    "title": "Computing Science 1Q (Half Course)",
-    "sections": [
-      {
-        "id": "19590",
-        "type": "Admin",
-        "name": "AD01",
-        "status": "Open",
-        "dates": [
-          {
-            "period": "TBA",
-            "times": "TBA",
-            "room": "TBA",
-            "instructor": "Staff"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "code": "COMPSCI 1016",
     "title": "Computing Science - 1CT Introduction to Computational Thinking",
     "sections": [
@@ -1437,7 +1397,7 @@
         "id": "6412",
         "type": "Laboratory",
         "name": "LB07",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "29/09/2015 - 01/12/2015",
@@ -1451,7 +1411,7 @@
         "id": "6413",
         "type": "Laboratory",
         "name": "LB08",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "29/09/2015 - 01/12/2015",
@@ -1603,7 +1563,7 @@
         "id": "7754",
         "type": "Laboratory",
         "name": "LB06",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "12/01/2016 - 22/03/2016",
@@ -1866,6 +1826,132 @@
         ]
       },
       {
+        "id": "2731",
+        "type": "Laboratory",
+        "name": "LB07",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "TBA",
+            "times": "TBA",
+            "room": "TBA",
+            "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "2732",
+        "type": "Laboratory",
+        "name": "LB08",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "TBA",
+            "times": "TBA",
+            "room": "TBA",
+            "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "2733",
+        "type": "Laboratory",
+        "name": "LB09",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "TBA",
+            "times": "TBA",
+            "room": "TBA",
+            "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "2710",
+        "type": "Laboratory",
+        "name": "LB10",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "TBA",
+            "times": "TBA",
+            "room": "TBA",
+            "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "2711",
+        "type": "Laboratory",
+        "name": "LB11",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "TBA",
+            "times": "TBA",
+            "room": "TBA",
+            "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "2712",
+        "type": "Laboratory",
+        "name": "LB12",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "TBA",
+            "times": "TBA",
+            "room": "TBA",
+            "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "2713",
+        "type": "Laboratory",
+        "name": "LB13",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "TBA",
+            "times": "TBA",
+            "room": "TBA",
+            "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "2714",
+        "type": "Laboratory",
+        "name": "LB14",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "TBA",
+            "times": "TBA",
+            "room": "TBA",
+            "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "2707",
+        "type": "Laboratory",
+        "name": "LB15",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "TBA",
+            "times": "TBA",
+            "room": "TBA",
+            "instructor": "Staff"
+          }
+        ]
+      },
+      {
         "id": "2720",
         "type": "Lecture",
         "name": "LC01",
@@ -1968,6 +2054,132 @@
             "instructor": "Staff"
           }
         ]
+      },
+      {
+        "id": "2715",
+        "type": "Tutorial",
+        "name": "TU07",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "TBA",
+            "times": "TBA",
+            "room": "TBA",
+            "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "2716",
+        "type": "Tutorial",
+        "name": "TU08",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "TBA",
+            "times": "TBA",
+            "room": "TBA",
+            "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "2717",
+        "type": "Tutorial",
+        "name": "TU09",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "TBA",
+            "times": "TBA",
+            "room": "TBA",
+            "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "2703",
+        "type": "Tutorial",
+        "name": "TU10",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "TBA",
+            "times": "TBA",
+            "room": "TBA",
+            "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "2709",
+        "type": "Tutorial",
+        "name": "TU11",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "TBA",
+            "times": "TBA",
+            "room": "TBA",
+            "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "2704",
+        "type": "Tutorial",
+        "name": "TU12",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "TBA",
+            "times": "TBA",
+            "room": "TBA",
+            "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "2705",
+        "type": "Tutorial",
+        "name": "TU13",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "TBA",
+            "times": "TBA",
+            "room": "TBA",
+            "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "2706",
+        "type": "Tutorial",
+        "name": "TU14",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "TBA",
+            "times": "TBA",
+            "room": "TBA",
+            "instructor": "Staff"
+          }
+        ]
+      },
+      {
+        "id": "2708",
+        "type": "Tutorial",
+        "name": "TU15",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "TBA",
+            "times": "TBA",
+            "room": "TBA",
+            "instructor": "Staff"
+          }
+        ]
       }
     ]
   },
@@ -1993,7 +2205,7 @@
         "id": "2529",
         "type": "Laboratory",
         "name": "LB01",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "21/10/2015 - 02/12/2015",
@@ -2313,7 +2525,7 @@
         "id": "2517",
         "type": "Tutorial",
         "name": "TU01",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "30/09/2015 - 02/12/2015",
@@ -2535,7 +2747,7 @@
         "id": "4515",
         "type": "Tutorial",
         "name": "TU02",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "09/10/2015 - 04/12/2015",
@@ -2549,7 +2761,7 @@
         "id": "4516",
         "type": "Tutorial",
         "name": "TU03",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "09/10/2015 - 04/12/2015",
@@ -2563,7 +2775,7 @@
         "id": "4517",
         "type": "Tutorial",
         "name": "TU04",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "09/10/2015 - 04/12/2015",
@@ -2577,7 +2789,7 @@
         "id": "4518",
         "type": "Tutorial",
         "name": "TU05",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "09/10/2015 - 04/12/2015",
@@ -2713,7 +2925,7 @@
         "id": "2759",
         "type": "Laboratory",
         "name": "LB02",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "23/11/2015 - 30/11/2015",
@@ -2777,7 +2989,7 @@
         "id": "2761",
         "type": "Laboratory",
         "name": "LB04",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "24/11/2015 - 01/12/2015",
@@ -2809,7 +3021,7 @@
         "id": "2762",
         "type": "Laboratory",
         "name": "LB05",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "25/11/2015 - 02/12/2015",
@@ -2873,7 +3085,7 @@
         "id": "2764",
         "type": "Laboratory",
         "name": "LB07",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "26/11/2015 - 03/12/2015",
@@ -3053,7 +3265,7 @@
         "id": "2769",
         "type": "Tutorial",
         "name": "TU02",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "16/11/2015 - 16/11/2015",
@@ -3117,7 +3329,7 @@
         "id": "2771",
         "type": "Tutorial",
         "name": "TU04",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "17/11/2015 - 17/11/2015",
@@ -3149,7 +3361,7 @@
         "id": "2772",
         "type": "Tutorial",
         "name": "TU05",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "18/11/2015 - 18/11/2015",
@@ -3213,7 +3425,7 @@
         "id": "2774",
         "type": "Tutorial",
         "name": "TU07",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "19/11/2015 - 19/11/2015",
@@ -3361,7 +3573,7 @@
         "id": "6394",
         "type": "Laboratory",
         "name": "LB01",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "14/03/2016 - 14/03/2016",
@@ -3399,7 +3611,7 @@
         "id": "6395",
         "type": "Laboratory",
         "name": "LB02",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "14/03/2016 - 14/03/2016",
@@ -3437,7 +3649,7 @@
         "id": "6392",
         "type": "Laboratory",
         "name": "LB03",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "15/03/2016 - 15/03/2016",
@@ -3475,7 +3687,7 @@
         "id": "6393",
         "type": "Laboratory",
         "name": "LB04",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "15/03/2016 - 15/03/2016",
@@ -3513,7 +3725,7 @@
         "id": "6396",
         "type": "Laboratory",
         "name": "LB05",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "16/03/2016 - 16/03/2016",
@@ -3903,7 +4115,7 @@
         "id": "4867",
         "type": "Laboratory",
         "name": "LB01",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "21/03/2016 - 21/03/2016",
@@ -3947,7 +4159,7 @@
         "id": "4864",
         "type": "Laboratory",
         "name": "LB02",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "21/03/2016 - 21/03/2016",
@@ -3991,7 +4203,7 @@
         "id": "4865",
         "type": "Laboratory",
         "name": "LB03",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "22/03/2016 - 22/03/2016",
@@ -4035,7 +4247,7 @@
         "id": "4868",
         "type": "Laboratory",
         "name": "LB04",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "22/03/2016 - 22/03/2016",
@@ -4079,7 +4291,7 @@
         "id": "4869",
         "type": "Laboratory",
         "name": "LB05",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "23/03/2016 - 23/03/2016",
@@ -4429,25 +4641,25 @@
             "period": "13/01/2016 - 23/03/2016",
             "times": "We  13:00 - 14:00",
             "room": "CTT ADAM SMITH:1115",
-            "instructor": "Mary Ellen Foster, Inah Omoronyia"
+            "instructor": "Inah Omoronyia, Jeremy Singer"
           },
           {
             "period": "11/01/2016 - 21/03/2016",
             "times": "Mo  11:00 - 12:00",
             "room": "CTT ADAM SMITH:1115",
-            "instructor": "Mary Ellen Foster, Inah Omoronyia"
+            "instructor": "Jeremy Singer, Inah Omoronyia"
           },
           {
             "period": "23/09/2015 - 02/12/2015",
             "times": "We  13:00 - 14:00",
             "room": "CTT ADAM SMITH:1115",
-            "instructor": "Mary Ellen Foster, Inah Omoronyia"
+            "instructor": "Jeremy Singer, Inah Omoronyia"
           },
           {
             "period": "21/09/2015 - 30/11/2015",
             "times": "Mo  11:00 - 12:00",
             "room": "CTT ADAM SMITH:1115",
-            "instructor": "Mary Ellen Foster, Inah Omoronyia"
+            "instructor": "Inah Omoronyia, Jeremy Singer"
           }
         ]
       },
@@ -4461,7 +4673,7 @@
             "period": "15/01/2016 - 25/03/2016",
             "times": "Fr  14:00 - 15:00",
             "room": "CTT ADAM SMITH:1115",
-            "instructor": "Inah Omoronyia, Jeremy Singer"
+            "instructor": "Jeremy Singer, Inah Omoronyia"
           },
           {
             "period": "02/10/2015 - 04/12/2015",
@@ -4495,7 +4707,7 @@
         "id": "2552",
         "type": "Laboratory",
         "name": "LB01",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "21/03/2016 - 21/03/2016",
@@ -4583,7 +4795,7 @@
         "id": "2543",
         "type": "Laboratory",
         "name": "LB03",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "22/03/2016 - 22/03/2016",
@@ -4671,7 +4883,7 @@
         "id": "2545",
         "type": "Laboratory",
         "name": "LB05",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "23/03/2016 - 23/03/2016",
@@ -4803,7 +5015,7 @@
         "id": "2548",
         "type": "Laboratory",
         "name": "LB08",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "24/03/2016 - 24/03/2016",
@@ -5134,46 +5346,6 @@
     ]
   },
   {
-    "code": "COMPSCI 3005",
-    "title": "Software Engineering M3",
-    "sections": [
-      {
-        "id": "19561",
-        "type": "Admin",
-        "name": "AD01",
-        "status": "Open",
-        "dates": [
-          {
-            "period": "TBA",
-            "times": "TBA",
-            "room": "TBA",
-            "instructor": "Staff"
-          }
-        ]
-      },
-      {
-        "id": "19524",
-        "type": "Lecture",
-        "name": "LC01",
-        "status": "Open",
-        "dates": [
-          {
-            "period": "13/01/2016 - 23/03/2016",
-            "times": "We  13:00 - 14:00",
-            "room": "CTT MATHS BLDG:516 (4A)",
-            "instructor": "Staff"
-          },
-          {
-            "period": "14/01/2016 - 24/03/2016",
-            "times": "Th  12:00 - 13:00",
-            "room": "CTT BOYD ORR:222 LEC THEATRE 2",
-            "instructor": "Staff"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "code": "COMPSCI 4002",
     "title": "Advanced Networking and Communications (H)",
     "sections": [
@@ -5427,7 +5599,7 @@
         "id": "5679",
         "type": "Laboratory",
         "name": "LB01",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "29/09/2015 - 01/12/2015",
@@ -5441,7 +5613,7 @@
         "id": "5677",
         "type": "Lecture",
         "name": "LC01",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "29/09/2015 - 01/12/2015",
@@ -5479,23 +5651,15 @@
         "dates": [
           {
             "period": "28/09/2015 - 30/11/2015",
-            "times": "Mo  15:00 - 16:00",
-            "room": "BOYD ORR:720 LAB",
-            "instructor": "Natalia Chechina, Phil Trinder"
-          }
-        ]
-      },
-      {
-        "id": "7865",
-        "type": "Laboratory",
-        "name": "LB02",
-        "status": "Open",
-        "dates": [
+            "times": "Mo  15:00 - 17:00",
+            "room": "CTT BOYD ORR:507 (LT C)",
+            "instructor": "Phil Trinder, Jeremy Singer"
+          },
           {
             "period": "28/09/2015 - 30/11/2015",
-            "times": "Mo  16:00 - 17:00",
-            "room": "BOYD ORR:720 LAB",
-            "instructor": "Natalia Chechina, Phil Trinder"
+            "times": "Mo  10:00 - 12:00",
+            "room": "CTT BOYD ORR:507 (LT C)",
+            "instructor": "Jeremy Singer, Phil Trinder"
           }
         ]
       },
@@ -5506,10 +5670,10 @@
         "status": "Open",
         "dates": [
           {
-            "period": "28/09/2015 - 30/11/2015",
-            "times": "Mo  10:00 - 12:00",
-            "room": "CTT BOYD ORR:507 (LT C)",
-            "instructor": "Natalia Chechina, Phil Trinder"
+            "period": "TBA",
+            "times": "TBA",
+            "room": "TBA",
+            "instructor": "Staff"
           }
         ]
       }
@@ -5585,25 +5749,11 @@
         "id": "4089",
         "type": "Laboratory",
         "name": "LB01",
-        "status": "Closed",
-        "dates": [
-          {
-            "period": "13/01/2016 - 16/03/2016",
-            "times": "We  14:00 - 15:00",
-            "room": "BOYD ORR:720 LAB",
-            "instructor": "Colin Perkins"
-          }
-        ]
-      },
-      {
-        "id": "4088",
-        "type": "Laboratory",
-        "name": "LB02",
         "status": "Open",
         "dates": [
           {
             "period": "13/01/2016 - 16/03/2016",
-            "times": "We  15:00 - 16:00",
+            "times": "We  14:00 - 15:00",
             "room": "BOYD ORR:720 LAB",
             "instructor": "Colin Perkins"
           }
@@ -5653,7 +5803,7 @@
         "id": "8809",
         "type": "Laboratory",
         "name": "LB01",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "TBA",
@@ -5667,7 +5817,7 @@
         "id": "8808",
         "type": "Laboratory",
         "name": "LB02",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "TBA",
@@ -5681,7 +5831,7 @@
         "id": "8810",
         "type": "Lecture",
         "name": "LC01",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "15/01/2016 - 18/03/2016",
@@ -5715,7 +5865,7 @@
         "id": "3531",
         "type": "Laboratory",
         "name": "LB01",
-        "status": "Open",
+        "status": "Closed",
         "dates": [
           {
             "period": "02/10/2015 - 04/12/2015",
@@ -5964,74 +6114,6 @@
     ]
   },
   {
-    "code": "COMPSCI 4024P",
-    "title": "Individual Project (H) (Combined)",
-    "sections": [
-      {
-        "id": "19447",
-        "type": "Admin",
-        "name": "AD01",
-        "status": "Open",
-        "dates": [
-          {
-            "period": "TBA",
-            "times": "TBA",
-            "room": "TBA",
-            "instructor": "Staff"
-          }
-        ]
-      },
-      {
-        "id": "19395",
-        "type": "Project",
-        "name": "PJ01",
-        "status": "Open",
-        "dates": [
-          {
-            "period": "TBA",
-            "times": "TBA",
-            "room": "TBA",
-            "instructor": "Staff"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "code": "COMPSCI 4025P",
-    "title": "Individual Project (H) (Single)",
-    "sections": [
-      {
-        "id": "19445",
-        "type": "Admin",
-        "name": "AD01",
-        "status": "Open",
-        "dates": [
-          {
-            "period": "TBA",
-            "times": "TBA",
-            "room": "TBA",
-            "instructor": "Staff"
-          }
-        ]
-      },
-      {
-        "id": "19393",
-        "type": "Project",
-        "name": "PJ01",
-        "status": "Open",
-        "dates": [
-          {
-            "period": "TBA",
-            "times": "TBA",
-            "room": "TBA",
-            "instructor": "Staff"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "code": "COMPSCI 4031",
     "title": "Modelling Reactive Systems (H)",
     "sections": [
@@ -6102,9 +6184,9 @@
             "instructor": "Joemon Jose"
           },
           {
-            "period": "02/10/2015 - 04/12/2015",
-            "times": "Fr  10:00 - 11:00",
-            "room": "CTT BOYD ORR:513 (LT D)",
+            "period": "30/09/2015 - 02/12/2015",
+            "times": "We  12:00 - 13:00",
+            "room": "CTT BOYD ORR:407 (LT A)",
             "instructor": "Joemon Jose"
           }
         ]

@@ -189,29 +189,29 @@
         "id": "14990",
         "type": "Laboratory",
         "name": "LB05",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "23/11/2015 - 23/11/2015",
-            "times": "Mo  11:00 - 14:00",
+            "times": "Mo  10:00 - 13:00",
             "room": "RANKINE:329 LAB",
             "instructor": "Scott Roy"
           },
           {
             "period": "09/11/2015 - 09/11/2015",
-            "times": "Mo  11:00 - 14:00",
+            "times": "Mo  10:00 - 13:00",
             "room": "RANKINE:329 LAB",
             "instructor": "Scott Roy"
           },
           {
             "period": "26/10/2015 - 26/10/2015",
-            "times": "Mo  11:00 - 14:00",
+            "times": "Mo  10:00 - 13:00",
             "room": "RANKINE:329 LAB",
             "instructor": "Scott Roy"
           },
           {
             "period": "12/10/2015 - 12/10/2015",
-            "times": "Mo  11:00 - 14:00",
+            "times": "Mo  10:00 - 13:00",
             "room": "RANKINE:329 LAB",
             "instructor": "Scott Roy"
           }
@@ -291,13 +291,13 @@
             "period": "23/09/2015 - 02/12/2015",
             "times": "We  10:00 - 11:00",
             "room": "CTT BOYD ORR:203 LEC THEATRE 1",
-            "instructor": "Scott Roy, Edward Wasige"
+            "instructor": "Scott Roy"
           },
           {
             "period": "25/09/2015 - 04/12/2015",
             "times": "Fr  10:00 - 11:00",
             "room": "CTT BOYD ORR:222 LEC THEATRE 2",
-            "instructor": "Scott Roy, Edward Wasige"
+            "instructor": "Scott Roy"
           }
         ]
       },
@@ -385,7 +385,7 @@
         "id": "14878",
         "type": "Laboratory",
         "name": "LB01",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "09/02/2016 - 09/02/2016",
@@ -434,6 +434,20 @@
             "times": "Th  10:00 - 13:00",
             "room": "JAMES WATT SOUTH:427B STUDIO",
             "instructor": "Safa Hashim"
+          }
+        ]
+      },
+      {
+        "id": "14882",
+        "type": "Laboratory",
+        "name": "LB05",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "TBA",
+            "times": "TBA",
+            "room": "TBA",
+            "instructor": "Staff"
           }
         ]
       },
@@ -489,7 +503,7 @@
         "id": "15214",
         "type": "Tutorial",
         "name": "TU01",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "01/02/2016 - 01/02/2016",
@@ -555,7 +569,7 @@
             "period": "05/10/2015 - 30/11/2015",
             "times": "Mo  14:00 - 17:00",
             "room": "RANKINE:709 LAB",
-            "instructor": "Scott Roy, Edward Wasige"
+            "instructor": "Scott Roy"
           }
         ]
       },
@@ -563,13 +577,13 @@
         "id": "15316",
         "type": "Laboratory",
         "name": "LB02",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "06/10/2015 - 01/12/2015",
             "times": "Tu  14:00 - 17:00",
             "room": "RANKINE:709 LAB",
-            "instructor": "Scott Roy, Edward Wasige"
+            "instructor": "Scott Roy"
           }
         ]
       },
@@ -583,7 +597,7 @@
             "period": "08/10/2015 - 03/12/2015",
             "times": "Th  14:00 - 17:00",
             "room": "RANKINE:709 LAB",
-            "instructor": "Edward Wasige, Scott Roy"
+            "instructor": "Timothy Drysdale, Scott Roy"
           }
         ]
       },
@@ -603,19 +617,19 @@
             "period": "23/09/2015 - 02/12/2015",
             "times": "We  10:00 - 11:00",
             "room": "CTT BOYD ORR:203 LEC THEATRE 1",
-            "instructor": "Scott Roy, Edward Wasige"
+            "instructor": "Scott Roy"
           },
           {
             "period": "25/09/2015 - 04/12/2015",
             "times": "Fr  10:00 - 11:00",
             "room": "CTT BOYD ORR:222 LEC THEATRE 2",
-            "instructor": "Scott Roy, Edward Wasige"
+            "instructor": "Scott Roy"
           },
           {
             "period": "22/09/2015 - 01/12/2015",
             "times": "Tu  10:00 - 11:00",
             "room": "CTT BOYD ORR:513 (LT D)",
-            "instructor": "Scott Roy, Edward Wasige"
+            "instructor": "Scott Roy"
           }
         ]
       }
@@ -643,7 +657,7 @@
         "id": "14781",
         "type": "Laboratory",
         "name": "LB01",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "21/03/2016 - 21/03/2016",
@@ -669,7 +683,7 @@
         "id": "14782",
         "type": "Laboratory",
         "name": "LB02",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "19/01/2016 - 22/03/2016",
@@ -807,7 +821,7 @@
             "period": "06/10/2015 - 06/10/2015",
             "times": "Tu  14:00 - 17:00",
             "room": "JAMES WATT SOUTH:433 TUCK LAB",
-            "instructor": "Donald Ballance, Aleksandra Vuckovic"
+            "instructor": "Aleksandra Vuckovic, Donald Ballance"
           },
           {
             "period": "24/09/2015 - 03/12/2015",
@@ -883,7 +897,7 @@
             "period": "29/09/2015 - 29/09/2015",
             "times": "Tu  14:00 - 17:00",
             "room": "JAMES WATT SOUTH:644 SEMINAR",
-            "instructor": "Aleksandra Vuckovic, Donald Ballance"
+            "instructor": "Donald Ballance, Aleksandra Vuckovic"
           }
         ]
       },
@@ -929,7 +943,7 @@
             "period": "20/10/2015 - 20/10/2015",
             "times": "Tu  14:00 - 17:00",
             "room": "JAMES WATT SOUTH:433 TUCK LAB",
-            "instructor": "Aleksandra Vuckovic, Donald Ballance"
+            "instructor": "Donald Ballance, Aleksandra Vuckovic"
           },
           {
             "period": "23/10/2015 - 23/10/2015",
@@ -943,7 +957,7 @@
         "id": "15408",
         "type": "Laboratory",
         "name": "LB08",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "05/02/2016 - 18/03/2016",
@@ -969,7 +983,7 @@
         "id": "15409",
         "type": "Laboratory",
         "name": "LB09",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "19/11/2015 - 19/11/2015",
@@ -987,7 +1001,7 @@
             "period": "24/09/2015 - 24/09/2015",
             "times": "Th  09:00 - 12:00",
             "room": "JAMES WATT SOUTH:433 TUCK LAB",
-            "instructor": "Aleksandra Vuckovic, Donald Ballance"
+            "instructor": "Donald Ballance, Aleksandra Vuckovic"
           },
           {
             "period": "01/02/2016 - 01/02/2016",
@@ -1007,7 +1021,7 @@
         "id": "15410",
         "type": "Laboratory",
         "name": "LB10",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "14/03/2016 - 14/03/2016",
@@ -1025,7 +1039,7 @@
             "period": "01/10/2015 - 01/10/2015",
             "times": "Th  09:00 - 12:00",
             "room": "JAMES WATT SOUTH:433 TUCK LAB",
-            "instructor": "Donald Ballance, Aleksandra Vuckovic"
+            "instructor": "Aleksandra Vuckovic, Donald Ballance"
           },
           {
             "period": "23/11/2015 - 23/11/2015",
@@ -1045,7 +1059,7 @@
         "id": "15411",
         "type": "Laboratory",
         "name": "LB11",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "08/03/2016 - 08/03/2016",
@@ -1113,7 +1127,7 @@
             "period": "30/09/2015 - 30/09/2015",
             "times": "We  09:00 - 11:00",
             "room": "JAMES WATT SOUTH:644 SEMINAR",
-            "instructor": "Donald Ballance, Aleksandra Vuckovic"
+            "instructor": "Aleksandra Vuckovic, Donald Ballance"
           }
         ]
       },
@@ -1121,35 +1135,35 @@
         "id": "15413",
         "type": "Laboratory",
         "name": "LB13",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
-            "period": "16/03/2016 - 16/03/2016",
-            "times": "We  14:00 - 16:00",
+            "period": "15/03/2016 - 15/03/2016",
+            "times": "Tu  09:00 - 11:00",
             "room": "JAMES WATT SOUTH:433 TUCK LAB",
             "instructor": "Aleksandra Vuckovic"
           },
           {
-            "period": "10/02/2016 - 10/02/2016",
-            "times": "We  14:00 - 16:00",
-            "room": "JAMES WATT SOUTH:433 TUCK LAB",
-            "instructor": "Aleksandra Vuckovic"
-          },
-          {
-            "period": "02/12/2015 - 02/12/2015",
-            "times": "We  14:00 - 16:00",
-            "room": "JAMES WATT SOUTH:433 TUCK LAB",
-            "instructor": "Staff"
-          },
-          {
-            "period": "30/09/2015 - 30/09/2015",
-            "times": "We  14:00 - 17:00",
+            "period": "09/10/2015 - 09/10/2015",
+            "times": "Fr  09:00 - 12:00",
             "room": "JAMES WATT SOUTH:433 TUCK LAB",
             "instructor": "Donald Ballance"
           },
           {
-            "period": "07/10/2015 - 07/10/2015",
-            "times": "We  14:00 - 16:00",
+            "period": "03/12/2015 - 03/12/2015",
+            "times": "Th  09:00 - 11:00",
+            "room": "JAMES WATT SOUTH:433 TUCK LAB",
+            "instructor": "Staff"
+          },
+          {
+            "period": "09/02/2016 - 09/02/2016",
+            "times": "Tu  09:00 - 11:00",
+            "room": "JAMES WATT SOUTH:433 TUCK LAB",
+            "instructor": "Aleksandra Vuckovic"
+          },
+          {
+            "period": "25/09/2015 - 25/09/2015",
+            "times": "Fr  09:00 - 11:00",
             "room": "JAMES WATT SOUTH:644 SEMINAR",
             "instructor": "Donald Ballance"
           }
@@ -1189,7 +1203,7 @@
             "period": "24/09/2015 - 24/09/2015",
             "times": "Th  09:00 - 11:00",
             "room": "JAMES WATT SOUTH:644 SEMINAR",
-            "instructor": "Donald Ballance, Aleksandra Vuckovic"
+            "instructor": "Aleksandra Vuckovic, Donald Ballance"
           }
         ]
       },
@@ -1197,7 +1211,7 @@
         "id": "15415",
         "type": "Laboratory",
         "name": "LB15",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "08/10/2015 - 08/10/2015",
@@ -1227,7 +1241,7 @@
             "period": "06/10/2015 - 06/10/2015",
             "times": "Tu  09:00 - 11:00",
             "room": "JAMES WATT SOUTH:644 SEMINAR",
-            "instructor": "Donald Ballance, Aleksandra Vuckovic"
+            "instructor": "Aleksandra Vuckovic, Donald Ballance"
           }
         ]
       },
@@ -1235,7 +1249,7 @@
         "id": "15416",
         "type": "Laboratory",
         "name": "LB16",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "10/03/2016 - 10/03/2016",
@@ -1253,13 +1267,13 @@
             "period": "17/11/2015 - 17/11/2015",
             "times": "Tu  09:00 - 11:00",
             "room": "JAMES WATT SOUTH:433 TUCK LAB",
-            "instructor": "Donald Ballance, Aleksandra Vuckovic"
+            "instructor": "Aleksandra Vuckovic, Donald Ballance"
           },
           {
             "period": "28/09/2015 - 28/09/2015",
             "times": "Mo  09:00 - 12:00",
             "room": "JAMES WATT SOUTH:433 TUCK LAB",
-            "instructor": "Aleksandra Vuckovic, Donald Ballance"
+            "instructor": "Donald Ballance, Aleksandra Vuckovic"
           },
           {
             "period": "07/10/2015 - 07/10/2015",
@@ -1303,21 +1317,7 @@
             "period": "28/09/2015 - 28/09/2015",
             "times": "Mo  09:00 - 11:00",
             "room": "JAMES WATT SOUTH:644 SEMINAR",
-            "instructor": "Donald Ballance, Aleksandra Vuckovic"
-          }
-        ]
-      },
-      {
-        "id": "19282",
-        "type": "Laboratory",
-        "name": "LB18",
-        "status": "Open",
-        "dates": [
-          {
-            "period": "14/10/2015 - 14/10/2015",
-            "times": "We  09:00 - 11:00",
-            "room": "JAMES WATT SOUTH:644 SEMINAR",
-            "instructor": "Donald Ballance, Aleksandra Vuckovic"
+            "instructor": "Aleksandra Vuckovic, Donald Ballance"
           }
         ]
       },
@@ -1325,7 +1325,7 @@
         "id": "15399",
         "type": "Lecture",
         "name": "LC01",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "21/09/2015 - 30/11/2015",
@@ -1467,13 +1467,13 @@
             "period": "22/09/2015 - 01/12/2015",
             "times": "Tu  09:00 - 10:00",
             "room": "JAMES WATT SOUTH:427A STUDIO",
-            "instructor": "Helen Mulvana, Thomas Franke, Julien Reboud"
+            "instructor": "Julien Reboud, Helen Mulvana, Thomas Franke"
           },
           {
             "period": "21/09/2015 - 30/11/2015",
             "times": "Mo  09:00 - 10:00",
-            "room": "JAMES WATT SOUTH:427A STUDIO",
-            "instructor": "Thomas Franke, Helen Mulvana, Julien Reboud"
+            "room": "JAMES WATT SOUTH:427B STUDIO",
+            "instructor": "Helen Mulvana, Julien Reboud, Thomas Franke"
           }
         ]
       },
@@ -1487,31 +1487,31 @@
             "period": "23/11/2015 - 23/11/2015",
             "times": "Mo  13:00 - 14:00",
             "room": "CTT RANKINE:106 LT",
-            "instructor": "Julien Reboud, Helen Mulvana, Thomas Franke"
+            "instructor": "Helen Mulvana, Julien Reboud, Thomas Franke"
           },
           {
             "period": "09/11/2015 - 09/11/2015",
             "times": "Mo  13:00 - 14:00",
             "room": "CTT RANKINE:106 LT",
-            "instructor": "Julien Reboud, Helen Mulvana, Thomas Franke"
+            "instructor": "Julien Reboud, Thomas Franke, Helen Mulvana"
           },
           {
             "period": "26/10/2015 - 26/10/2015",
             "times": "Mo  13:00 - 14:00",
             "room": "CTT RANKINE:106 LT",
-            "instructor": "Helen Mulvana, Julien Reboud, Thomas Franke"
+            "instructor": "Thomas Franke, Julien Reboud, Helen Mulvana"
           },
           {
             "period": "12/10/2015 - 12/10/2015",
             "times": "Mo  13:00 - 14:00",
             "room": "CTT RANKINE:106 LT",
-            "instructor": "Julien Reboud, Helen Mulvana, Thomas Franke"
+            "instructor": "Thomas Franke, Helen Mulvana, Julien Reboud"
           },
           {
             "period": "28/09/2015 - 28/09/2015",
             "times": "Mo  13:00 - 14:00",
             "room": "CTT RANKINE:106 LT",
-            "instructor": "Thomas Franke, Helen Mulvana, Julien Reboud"
+            "instructor": "Thomas Franke, Julien Reboud, Helen Mulvana"
           }
         ]
       }
@@ -1559,7 +1559,7 @@
         "id": "15367",
         "type": "Laboratory",
         "name": "LB02",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "27/10/2015 - 27/10/2015",
@@ -1579,7 +1579,7 @@
         "id": "15368",
         "type": "Laboratory",
         "name": "LB03",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "15/10/2015 - 15/10/2015",
@@ -1599,7 +1599,7 @@
         "id": "15369",
         "type": "Laboratory",
         "name": "LB04",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "19/10/2015 - 19/10/2015",
@@ -1611,7 +1611,7 @@
             "period": "30/10/2015 - 30/10/2015",
             "times": "Fr  15:00 - 17:00",
             "room": "RANKINE:709 LAB",
-            "instructor": "Vihar Petkov Georgiev"
+            "instructor": "Vihar Georgiev"
           }
         ]
       },
@@ -1619,7 +1619,7 @@
         "id": "15370",
         "type": "Laboratory",
         "name": "LB05",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "06/10/2015 - 06/10/2015",
@@ -1639,7 +1639,7 @@
         "id": "15371",
         "type": "Laboratory",
         "name": "LB06",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "20/10/2015 - 20/10/2015",
@@ -1651,7 +1651,7 @@
             "period": "27/10/2015 - 27/10/2015",
             "times": "Tu  09:00 - 11:00",
             "room": "RANKINE:709 LAB",
-            "instructor": "Vihar Petkov Georgiev"
+            "instructor": "Vihar Georgiev"
           }
         ]
       },
@@ -1659,7 +1659,7 @@
         "id": "15372",
         "type": "Laboratory",
         "name": "LB07",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "28/10/2015 - 28/10/2015",
@@ -1668,8 +1668,8 @@
             "instructor": "K Tanner"
           },
           {
-            "period": "11/11/2015 - 11/11/2015",
-            "times": "We  14:00 - 16:00",
+            "period": "05/11/2015 - 05/11/2015",
+            "times": "Th  10:00 - 12:00",
             "room": "RANKINE:709 LAB",
             "instructor": "Kathleen Meehan"
           }
@@ -1731,21 +1731,7 @@
             "period": "04/11/2015 - 04/11/2015",
             "times": "We  14:00 - 16:00",
             "room": "RANKINE:709 LAB",
-            "instructor": "Vihar Petkov Georgiev"
-          }
-        ]
-      },
-      {
-        "id": "19791",
-        "type": "Laboratory",
-        "name": "LB11",
-        "status": "Open",
-        "dates": [
-          {
-            "period": "TBA",
-            "times": "TBA",
-            "room": "TBA",
-            "instructor": "Staff"
+            "instructor": "Vihar Georgiev"
           }
         ]
       },
@@ -1759,13 +1745,13 @@
             "period": "25/09/2015 - 04/12/2015",
             "times": "Fr  09:00 - 10:00",
             "room": "CTT JAMES WATT STH:354 STEVESN",
-            "instructor": "Vihar Petkov Georgiev, K Tanner"
+            "instructor": "Vihar Georgiev, K Tanner"
           },
           {
             "period": "23/09/2015 - 02/12/2015",
             "times": "We  09:00 - 10:00",
             "room": "CTT JAMES WATT STH:354 STEVESN",
-            "instructor": "K Tanner, Vihar Petkov Georgiev"
+            "instructor": "K Tanner, Vihar Georgiev"
           }
         ]
       },
@@ -1779,13 +1765,13 @@
             "period": "25/09/2015 - 04/12/2015",
             "times": "Fr  14:00 - 15:00",
             "room": "CTT JAMES WATT STH:354 STEVESN",
-            "instructor": "K Tanner, Vihar Petkov Georgiev"
+            "instructor": "Vihar Georgiev, K Tanner"
           },
           {
             "period": "22/09/2015 - 01/12/2015",
             "times": "Tu  14:00 - 15:00",
             "room": "CTT JAMES WATT STH:354 STEVESN",
-            "instructor": "K Tanner, Vihar Petkov Georgiev"
+            "instructor": "Vihar Georgiev, K Tanner"
           }
         ]
       },
@@ -1799,19 +1785,19 @@
             "period": "18/11/2015 - 18/11/2015",
             "times": "We  12:00 - 13:00",
             "room": "JAMES WATT SOUTH:334 STUDIO",
-            "instructor": "K Tanner, Vihar Petkov Georgiev"
+            "instructor": "K Tanner, Vihar Georgiev"
           },
           {
             "period": "28/10/2015 - 28/10/2015",
             "times": "We  12:00 - 13:00",
             "room": "JAMES WATT SOUTH:334 STUDIO",
-            "instructor": "K Tanner, Vihar Petkov Georgiev"
+            "instructor": "Vihar Georgiev, K Tanner"
           },
           {
             "period": "07/10/2015 - 07/10/2015",
             "times": "We  12:00 - 13:00",
             "room": "JAMES WATT SOUTH:334 STUDIO",
-            "instructor": "Vihar Petkov Georgiev, K Tanner"
+            "instructor": "Vihar Georgiev, K Tanner"
           }
         ]
       },
@@ -1825,19 +1811,19 @@
             "period": "25/11/2015 - 25/11/2015",
             "times": "We  12:00 - 13:00",
             "room": "JAMES WATT SOUTH:334 STUDIO",
-            "instructor": "K Tanner, Vihar Petkov Georgiev"
+            "instructor": "K Tanner, Vihar Georgiev"
           },
           {
             "period": "04/11/2015 - 04/11/2015",
             "times": "We  12:00 - 13:00",
             "room": "JAMES WATT SOUTH:334 STUDIO",
-            "instructor": "K Tanner, Vihar Petkov Georgiev"
+            "instructor": "K Tanner, Vihar Georgiev"
           },
           {
             "period": "14/10/2015 - 14/10/2015",
             "times": "We  12:00 - 13:00",
             "room": "JAMES WATT SOUTH:334 STUDIO",
-            "instructor": "Vihar Petkov Georgiev, K Tanner"
+            "instructor": "Vihar Georgiev, K Tanner"
           }
         ]
       },
@@ -1851,19 +1837,19 @@
             "period": "19/11/2015 - 19/11/2015",
             "times": "Th  12:00 - 13:00",
             "room": "JAMES WATT SOUTH:334 STUDIO",
-            "instructor": "K Tanner, Vihar Petkov Georgiev"
+            "instructor": "K Tanner, Vihar Georgiev"
           },
           {
             "period": "29/10/2015 - 29/10/2015",
             "times": "Th  12:00 - 13:00",
             "room": "JAMES WATT SOUTH:334 STUDIO",
-            "instructor": "Vihar Petkov Georgiev, K Tanner"
+            "instructor": "K Tanner, Vihar Georgiev"
           },
           {
             "period": "08/10/2015 - 08/10/2015",
             "times": "Th  12:00 - 13:00",
             "room": "JAMES WATT SOUTH:334 STUDIO",
-            "instructor": "Vihar Petkov Georgiev, K Tanner"
+            "instructor": "K Tanner, Vihar Georgiev"
           }
         ]
       },
@@ -1877,19 +1863,19 @@
             "period": "26/11/2015 - 26/11/2015",
             "times": "Th  12:00 - 13:00",
             "room": "JAMES WATT SOUTH:334 STUDIO",
-            "instructor": "Vihar Petkov Georgiev, K Tanner"
+            "instructor": "Vihar Georgiev, K Tanner"
           },
           {
             "period": "05/11/2015 - 05/11/2015",
             "times": "Th  12:00 - 13:00",
             "room": "JAMES WATT SOUTH:334 STUDIO",
-            "instructor": "Vihar Petkov Georgiev, K Tanner"
+            "instructor": "Vihar Georgiev, K Tanner"
           },
           {
             "period": "15/10/2015 - 15/10/2015",
             "times": "Th  12:00 - 13:00",
             "room": "JAMES WATT SOUTH:334 STUDIO",
-            "instructor": "Vihar Petkov Georgiev, K Tanner"
+            "instructor": "K Tanner, Vihar Georgiev"
           }
         ]
       },
@@ -1903,19 +1889,19 @@
             "period": "16/11/2015 - 16/11/2015",
             "times": "Mo  13:00 - 14:00",
             "room": "JAMES WATT SOUTH:427A STUDIO",
-            "instructor": "K Tanner, Vihar Petkov Georgiev"
+            "instructor": "K Tanner, Vihar Georgiev"
           },
           {
             "period": "26/10/2015 - 26/10/2015",
             "times": "Mo  13:00 - 14:00",
             "room": "JAMES WATT SOUTH:427A STUDIO",
-            "instructor": "K Tanner, Vihar Petkov Georgiev"
+            "instructor": "Vihar Georgiev, K Tanner"
           },
           {
             "period": "05/10/2015 - 05/10/2015",
             "times": "Mo  13:00 - 14:00",
             "room": "JAMES WATT SOUTH:427A STUDIO",
-            "instructor": "Vihar Petkov Georgiev, K Tanner"
+            "instructor": "K Tanner, Vihar Georgiev"
           }
         ]
       },
@@ -1923,25 +1909,25 @@
         "id": "15363",
         "type": "Tutorial",
         "name": "TU06",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "23/11/2015 - 23/11/2015",
             "times": "Mo  14:00 - 15:00",
             "room": "JAMES WATT SOUTH:427A STUDIO",
-            "instructor": "K Tanner, Vihar Petkov Georgiev"
+            "instructor": "Vihar Georgiev, K Tanner"
           },
           {
             "period": "02/11/2015 - 02/11/2015",
             "times": "Mo  14:00 - 15:00",
             "room": "JAMES WATT SOUTH:427A STUDIO",
-            "instructor": "K Tanner, Vihar Petkov Georgiev"
+            "instructor": "K Tanner, Vihar Georgiev"
           },
           {
             "period": "12/10/2015 - 12/10/2015",
             "times": "Mo  14:00 - 15:00",
             "room": "JAMES WATT SOUTH:427A STUDIO",
-            "instructor": "K Tanner, Vihar Petkov Georgiev"
+            "instructor": "Vihar Georgiev, K Tanner"
           }
         ]
       },
@@ -1955,19 +1941,19 @@
             "period": "19/11/2015 - 19/11/2015",
             "times": "Th  13:00 - 14:00",
             "room": "JAMES WATT SOUTH:427B STUDIO",
-            "instructor": "Vihar Petkov Georgiev, K Tanner"
+            "instructor": "Vihar Georgiev, K Tanner"
           },
           {
             "period": "29/10/2015 - 29/10/2015",
             "times": "Th  13:00 - 14:00",
             "room": "JAMES WATT SOUTH:427B STUDIO",
-            "instructor": "Vihar Petkov Georgiev, K Tanner"
+            "instructor": "K Tanner, Vihar Georgiev"
           },
           {
             "period": "08/10/2015 - 08/10/2015",
             "times": "Th  13:00 - 14:00",
             "room": "JAMES WATT SOUTH:427B STUDIO",
-            "instructor": "Vihar Petkov Georgiev, K Tanner"
+            "instructor": "Vihar Georgiev, K Tanner"
           }
         ]
       },
@@ -1975,25 +1961,25 @@
         "id": "15365",
         "type": "Tutorial",
         "name": "TU08",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "26/11/2015 - 26/11/2015",
             "times": "Th  13:00 - 14:00",
             "room": "JAMES WATT SOUTH:427A STUDIO",
-            "instructor": "K Tanner, Vihar Petkov Georgiev"
+            "instructor": "Vihar Georgiev, K Tanner"
           },
           {
             "period": "05/11/2015 - 05/11/2015",
             "times": "Th  13:00 - 14:00",
             "room": "JAMES WATT SOUTH:427A STUDIO",
-            "instructor": "Vihar Petkov Georgiev, K Tanner"
+            "instructor": "Vihar Georgiev, K Tanner"
           },
           {
             "period": "15/10/2015 - 15/10/2015",
             "times": "Th  13:00 - 14:00",
             "room": "JAMES WATT SOUTH:427A STUDIO",
-            "instructor": "Vihar Petkov Georgiev, K Tanner"
+            "instructor": "Vihar Georgiev, K Tanner"
           }
         ]
       }
@@ -2035,7 +2021,7 @@
         "id": "15394",
         "type": "Laboratory",
         "name": "LB02",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "14/01/2016 - 28/01/2016",
@@ -2087,13 +2073,7 @@
             "period": "24/09/2015 - 03/12/2015",
             "times": "Th  12:00 - 13:00",
             "room": "RANKINE:630 DRWG OFFICE",
-            "instructor": "Robert Simpson, Peter Grassl, William Stewart"
-          },
-          {
-            "period": "22/09/2015 - 01/12/2015",
-            "times": "Tu  12:00 - 13:00",
-            "room": "RANKINE:630 DRWG OFFICE",
-            "instructor": "William Stewart, Peter Grassl, Robert Simpson"
+            "instructor": "William Stewart, Robert Simpson, Peter Grassl"
           }
         ]
       },
@@ -2115,7 +2095,7 @@
         "id": "15398",
         "type": "Project",
         "name": "PJ02",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "12/02/2016 - 11/03/2016",
@@ -2183,13 +2163,13 @@
         "id": "15335",
         "type": "Laboratory",
         "name": "LB02",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "04/02/2016 - 04/02/2016",
             "times": "Th  14:00 - 15:30",
             "room": "JAMES WATT SOUTH:438 TUCK LAB",
-            "instructor": "Stewart Houston, Trevor Davies"
+            "instructor": "Trevor Davies, Stewart Houston"
           }
         ]
       },
@@ -2222,44 +2202,16 @@
         ]
       },
       {
-        "id": "15338",
-        "type": "Laboratory",
-        "name": "LB05",
-        "status": "Open",
-        "dates": [
-          {
-            "period": "01/03/2016 - 01/03/2016",
-            "times": "Tu  14:00 - 15:30",
-            "room": "JAMES WATT SOUTH:438 TUCK LAB",
-            "instructor": "Trevor Davies, Stewart Houston"
-          }
-        ]
-      },
-      {
-        "id": "15339",
-        "type": "Laboratory",
-        "name": "LB06",
-        "status": "Open",
-        "dates": [
-          {
-            "period": "03/03/2016 - 03/03/2016",
-            "times": "Th  14:00 - 15:30",
-            "room": "JAMES WATT SOUTH:438 TUCK LAB",
-            "instructor": "Stewart Houston, Trevor Davies"
-          }
-        ]
-      },
-      {
         "id": "15354",
         "type": "Laboratory",
         "name": "LB07",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "26/01/2016 - 26/01/2016",
             "times": "Tu  09:00 - 10:30",
             "room": "JAMES WATT SOUTH:438 TUCK LAB",
-            "instructor": "Trevor Davies, Stewart Houston"
+            "instructor": "Stewart Houston, Trevor Davies"
           }
         ]
       },
@@ -2267,13 +2219,13 @@
         "id": "15355",
         "type": "Laboratory",
         "name": "LB08",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "28/01/2016 - 28/01/2016",
             "times": "Th  09:00 - 10:30",
             "room": "JAMES WATT SOUTH:438 TUCK LAB",
-            "instructor": "Stewart Houston, Trevor Davies"
+            "instructor": "Trevor Davies, Stewart Houston"
           }
         ]
       },
@@ -2281,7 +2233,7 @@
         "id": "15340",
         "type": "Laboratory",
         "name": "LB09",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "09/02/2016 - 09/02/2016",
@@ -2295,13 +2247,13 @@
         "id": "15341",
         "type": "Laboratory",
         "name": "LB10",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "11/02/2016 - 11/02/2016",
             "times": "Th  09:00 - 10:30",
             "room": "JAMES WATT SOUTH:438 TUCK LAB",
-            "instructor": "Trevor Davies, Stewart Houston"
+            "instructor": "Stewart Houston, Trevor Davies"
           }
         ]
       },
@@ -2315,7 +2267,7 @@
             "period": "23/02/2016 - 23/02/2016",
             "times": "Tu  09:00 - 10:30",
             "room": "JAMES WATT SOUTH:438 TUCK LAB",
-            "instructor": "Trevor Davies, Stewart Houston"
+            "instructor": "Stewart Houston, Trevor Davies"
           }
         ]
       },
@@ -2337,7 +2289,7 @@
         "id": "15344",
         "type": "Laboratory",
         "name": "LB13",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "02/02/2016 - 02/02/2016",
@@ -2351,7 +2303,7 @@
         "id": "15345",
         "type": "Laboratory",
         "name": "LB14",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "04/02/2016 - 04/02/2016",
@@ -2365,13 +2317,13 @@
         "id": "15346",
         "type": "Laboratory",
         "name": "LB15",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "16/02/2016 - 16/02/2016",
             "times": "Tu  15:30 - 17:00",
             "room": "JAMES WATT SOUTH:438 TUCK LAB",
-            "instructor": "Trevor Davies, Stewart Houston"
+            "instructor": "Stewart Houston, Trevor Davies"
           }
         ]
       },
@@ -2397,7 +2349,7 @@
         "dates": [
           {
             "period": "01/03/2016 - 01/03/2016",
-            "times": "Tu  15:30 - 17:00",
+            "times": "Tu  14:00 - 15:30",
             "room": "JAMES WATT SOUTH:438 TUCK LAB",
             "instructor": "Stewart Houston, Trevor Davies"
           }
@@ -2413,7 +2365,7 @@
             "period": "03/03/2016 - 03/03/2016",
             "times": "Th  15:30 - 17:00",
             "room": "JAMES WATT SOUTH:438 TUCK LAB",
-            "instructor": "Stewart Houston, Trevor Davies"
+            "instructor": "Trevor Davies, Stewart Houston"
           }
         ]
       },
@@ -2421,7 +2373,7 @@
         "id": "15350",
         "type": "Laboratory",
         "name": "LB19",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "26/01/2016 - 26/01/2016",
@@ -2435,7 +2387,7 @@
         "id": "15351",
         "type": "Laboratory",
         "name": "LB20",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "28/01/2016 - 28/01/2016",
@@ -2449,7 +2401,7 @@
         "id": "15352",
         "type": "Laboratory",
         "name": "LB21",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "09/02/2016 - 09/02/2016",
@@ -2463,13 +2415,13 @@
         "id": "15353",
         "type": "Laboratory",
         "name": "LB22",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "11/02/2016 - 11/02/2016",
             "times": "Th  10:30 - 12:00",
             "room": "JAMES WATT SOUTH:438 TUCK LAB",
-            "instructor": "Stewart Houston, Trevor Davies"
+            "instructor": "Trevor Davies, Stewart Houston"
           }
         ]
       },
@@ -2477,13 +2429,13 @@
         "id": "16417",
         "type": "Laboratory",
         "name": "LB23",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
-            "period": "23/02/2016 - 23/02/2016",
-            "times": "Tu  10:30 - 12:00",
-            "room": "JAMES WATT SOUTH:438 TUCK LAB",
-            "instructor": "Trevor Davies, Stewart Houston"
+            "period": "TBA",
+            "times": "TBA",
+            "room": "TBA",
+            "instructor": "Staff"
           }
         ]
       },
@@ -2491,20 +2443,6 @@
         "id": "16418",
         "type": "Laboratory",
         "name": "LB24",
-        "status": "Open",
-        "dates": [
-          {
-            "period": "01/03/2016 - 01/03/2016",
-            "times": "Tu  09:00 - 10:30",
-            "room": "JAMES WATT SOUTH:438 TUCK LAB",
-            "instructor": "Trevor Davies, Stewart Houston"
-          }
-        ]
-      },
-      {
-        "id": "19787",
-        "type": "Laboratory",
-        "name": "LB25",
         "status": "Open",
         "dates": [
           {
@@ -2519,13 +2457,13 @@
         "id": "15324",
         "type": "Lecture",
         "name": "LC01",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "14/01/2016 - 24/03/2016",
             "times": "Th  10:00 - 11:00",
             "room": "CTT JAMES WATT STH:354 STEVESN",
-            "instructor": "Trevor Davies, Stewart Houston"
+            "instructor": "Stewart Houston, Trevor Davies"
           },
           {
             "period": "12/01/2016 - 22/03/2016",
@@ -2545,7 +2483,7 @@
             "period": "15/01/2016 - 25/03/2016",
             "times": "Fr  14:00 - 15:00",
             "room": "CTT JAMES WATT STH:354 STEVESN",
-            "instructor": "Stewart Houston, Trevor Davies"
+            "instructor": "Trevor Davies, Stewart Houston"
           },
           {
             "period": "12/01/2016 - 22/03/2016",
@@ -2559,31 +2497,31 @@
         "id": "15326",
         "type": "Tutorial",
         "name": "TU01",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "09/03/2016 - 09/03/2016",
             "times": "We  12:00 - 13:00",
             "room": "JAMES WATT SOUTH:427A STUDIO",
-            "instructor": "Stewart Houston, Trevor Davies"
+            "instructor": "Trevor Davies, Stewart Houston"
           },
           {
             "period": "24/02/2016 - 24/02/2016",
             "times": "We  12:00 - 13:00",
             "room": "JAMES WATT SOUTH:427A STUDIO",
-            "instructor": "Stewart Houston, Trevor Davies"
+            "instructor": "Trevor Davies, Stewart Houston"
           },
           {
             "period": "10/02/2016 - 10/02/2016",
             "times": "We  12:00 - 13:00",
             "room": "JAMES WATT SOUTH:427A STUDIO",
-            "instructor": "Stewart Houston, Trevor Davies"
+            "instructor": "Trevor Davies, Stewart Houston"
           },
           {
             "period": "27/01/2016 - 27/01/2016",
             "times": "We  12:00 - 13:00",
             "room": "JAMES WATT SOUTH:427A STUDIO",
-            "instructor": "Stewart Houston, Trevor Davies"
+            "instructor": "Trevor Davies, Stewart Houston"
           }
         ]
       },
@@ -2591,25 +2529,25 @@
         "id": "15327",
         "type": "Tutorial",
         "name": "TU02",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "16/03/2016 - 16/03/2016",
             "times": "We  12:00 - 13:00",
             "room": "JAMES WATT SOUTH:427A STUDIO",
-            "instructor": "Stewart Houston, Trevor Davies"
+            "instructor": "Trevor Davies, Stewart Houston"
           },
           {
             "period": "02/03/2016 - 02/03/2016",
             "times": "We  12:00 - 13:00",
             "room": "JAMES WATT SOUTH:427A STUDIO",
-            "instructor": "Stewart Houston, Trevor Davies"
+            "instructor": "Trevor Davies, Stewart Houston"
           },
           {
             "period": "17/02/2016 - 17/02/2016",
             "times": "We  12:00 - 13:00",
             "room": "JAMES WATT SOUTH:427A STUDIO",
-            "instructor": "Trevor Davies, Stewart Houston"
+            "instructor": "Stewart Houston, Trevor Davies"
           },
           {
             "period": "03/02/2016 - 03/02/2016",
@@ -2647,7 +2585,7 @@
             "period": "28/01/2016 - 28/01/2016",
             "times": "Th  12:00 - 13:00",
             "room": "JAMES WATT SOUTH:427A STUDIO",
-            "instructor": "Stewart Houston, Trevor Davies"
+            "instructor": "Trevor Davies, Stewart Houston"
           }
         ]
       },
@@ -2655,7 +2593,7 @@
         "id": "15329",
         "type": "Tutorial",
         "name": "TU04",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "17/03/2016 - 17/03/2016",
@@ -2679,7 +2617,7 @@
             "period": "04/02/2016 - 04/02/2016",
             "times": "Th  12:00 - 13:00",
             "room": "JAMES WATT SOUTH:427A STUDIO",
-            "instructor": "Stewart Houston, Trevor Davies"
+            "instructor": "Trevor Davies, Stewart Houston"
           }
         ]
       },
@@ -2687,19 +2625,19 @@
         "id": "15330",
         "type": "Tutorial",
         "name": "TU05",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "07/03/2016 - 07/03/2016",
             "times": "Mo  14:00 - 15:00",
             "room": "JAMES WATT SOUTH:427B STUDIO",
-            "instructor": "Stewart Houston, Trevor Davies"
+            "instructor": "Trevor Davies, Stewart Houston"
           },
           {
             "period": "22/02/2016 - 22/02/2016",
             "times": "Mo  14:00 - 15:00",
             "room": "JAMES WATT SOUTH:427B STUDIO",
-            "instructor": "Trevor Davies, Stewart Houston"
+            "instructor": "Stewart Houston, Trevor Davies"
           },
           {
             "period": "08/02/2016 - 08/02/2016",
@@ -2719,7 +2657,7 @@
         "id": "15331",
         "type": "Tutorial",
         "name": "TU06",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "09/03/2016 - 09/03/2016",
@@ -2737,7 +2675,7 @@
             "period": "10/02/2016 - 10/02/2016",
             "times": "We  10:00 - 11:00",
             "room": "JAMES WATT SOUTH:427A STUDIO",
-            "instructor": "Stewart Houston, Trevor Davies"
+            "instructor": "Trevor Davies, Stewart Houston"
           },
           {
             "period": "27/01/2016 - 27/01/2016",
@@ -2751,7 +2689,7 @@
         "id": "15332",
         "type": "Tutorial",
         "name": "TU07",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "10/03/2016 - 10/03/2016",
@@ -2769,13 +2707,13 @@
             "period": "11/02/2016 - 11/02/2016",
             "times": "Th  13:00 - 14:00",
             "room": "JAMES WATT SOUTH:427A STUDIO",
-            "instructor": "Stewart Houston, Trevor Davies"
+            "instructor": "Trevor Davies, Stewart Houston"
           },
           {
             "period": "28/01/2016 - 28/01/2016",
             "times": "Th  13:00 - 14:00",
             "room": "JAMES WATT SOUTH:427A STUDIO",
-            "instructor": "Stewart Houston, Trevor Davies"
+            "instructor": "Trevor Davies, Stewart Houston"
           }
         ]
       },
@@ -2795,19 +2733,19 @@
             "period": "03/03/2016 - 03/03/2016",
             "times": "Th  13:00 - 14:00",
             "room": "JAMES WATT SOUTH:427A STUDIO",
-            "instructor": "Stewart Houston, Trevor Davies"
+            "instructor": "Trevor Davies, Stewart Houston"
           },
           {
             "period": "18/02/2016 - 18/02/2016",
             "times": "Th  13:00 - 14:00",
             "room": "JAMES WATT SOUTH:427A STUDIO",
-            "instructor": "Stewart Houston, Trevor Davies"
+            "instructor": "Trevor Davies, Stewart Houston"
           },
           {
             "period": "04/02/2016 - 04/02/2016",
             "times": "Th  13:00 - 14:00",
             "room": "JAMES WATT SOUTH:427A STUDIO",
-            "instructor": "Stewart Houston, Trevor Davies"
+            "instructor": "Trevor Davies, Stewart Houston"
           }
         ]
       }
@@ -2841,7 +2779,7 @@
             "period": "15/01/2016 - 25/03/2016",
             "times": "Fr  11:00 - 12:00",
             "room": "CTT JAMES WATT STH:354 STEVESN",
-            "instructor": "Swee Keow Goo, John Williamson"
+            "instructor": "John Williamson, Swee Keow Goo"
           },
           {
             "period": "14/01/2016 - 24/03/2016",
@@ -2853,7 +2791,7 @@
             "period": "13/01/2016 - 23/03/2016",
             "times": "We  11:00 - 12:00",
             "room": "CTT JAMES WATT STH:354 STEVESN",
-            "instructor": "John Williamson, Swee Keow Goo"
+            "instructor": "Swee Keow Goo, John Williamson"
           },
           {
             "period": "24/11/2015 - 01/12/2015",
@@ -2883,13 +2821,13 @@
             "period": "24/09/2015 - 03/12/2015",
             "times": "Th  11:00 - 12:00",
             "room": "CTT JAMES WATT STH:354 STEVESN",
-            "instructor": "Swee Keow Goo, John Williamson"
+            "instructor": "John Williamson, Swee Keow Goo"
           },
           {
             "period": "23/09/2015 - 02/12/2015",
             "times": "We  11:00 - 12:00",
             "room": "CTT JAMES WATT STH:354 STEVESN",
-            "instructor": "Swee Keow Goo, John Williamson"
+            "instructor": "John Williamson, Swee Keow Goo"
           },
           {
             "period": "20/10/2015 - 27/10/2015",
@@ -2901,7 +2839,7 @@
             "period": "22/09/2015 - 01/12/2015",
             "times": "Tu  11:00 - 12:00",
             "room": "CTT JAMES WATT STH:354 STEVESN",
-            "instructor": "Swee Keow Goo, John Williamson"
+            "instructor": "John Williamson, Swee Keow Goo"
           }
         ]
       },
@@ -2921,19 +2859,19 @@
             "period": "14/01/2016 - 24/03/2016",
             "times": "Th  15:00 - 16:00",
             "room": "CTT JAMES WATT STH:354 STEVESN",
-            "instructor": "Swee Keow Goo, John Williamson"
+            "instructor": "John Williamson, Swee Keow Goo"
           },
           {
             "period": "12/01/2016 - 22/03/2016",
             "times": "Tu  15:00 - 16:00",
             "room": "CTT JAMES WATT STH:354 STEVESN",
-            "instructor": "Swee Keow Goo, John Williamson"
+            "instructor": "John Williamson, Swee Keow Goo"
           },
           {
             "period": "25/09/2015 - 04/12/2015",
             "times": "Fr  15:00 - 16:00",
             "room": "CTT JAMES WATT STH:354 STEVESN",
-            "instructor": "Swee Keow Goo, John Williamson"
+            "instructor": "John Williamson, Swee Keow Goo"
           },
           {
             "period": "24/09/2015 - 03/12/2015",
@@ -2945,19 +2883,19 @@
             "period": "23/09/2015 - 02/12/2015",
             "times": "We  12:00 - 13:00",
             "room": "CTT JAMES WATT STH:354 STEVESN",
-            "instructor": "John Williamson, Swee Keow Goo"
+            "instructor": "Swee Keow Goo, John Williamson"
           },
           {
             "period": "22/09/2015 - 01/12/2015",
             "times": "Tu  15:00 - 16:00",
             "room": "CTT JAMES WATT STH:354 STEVESN",
-            "instructor": "Swee Keow Goo, John Williamson"
+            "instructor": "John Williamson, Swee Keow Goo"
           },
           {
             "period": "13/01/2016 - 23/03/2016",
             "times": "We  12:00 - 13:00",
             "room": "CTT MAIN BLD:255 HUMANITY LT",
-            "instructor": "John Williamson, Swee Keow Goo"
+            "instructor": "Swee Keow Goo, John Williamson"
           }
         ]
       },
@@ -3114,38 +3052,6 @@
             "instructor": "John Williamson"
           }
         ]
-      },
-      {
-        "id": "19672",
-        "type": "Tutorial",
-        "name": "TU06",
-        "status": "Open",
-        "dates": [
-          {
-            "period": "22/01/2016 - 25/03/2016",
-            "times": "Fr  13:00 - 14:00",
-            "room": "JAMES WATT SOUTH:544 LAB",
-            "instructor": "Staff"
-          },
-          {
-            "period": "02/10/2015 - 04/12/2015",
-            "times": "Fr  13:00 - 14:00",
-            "room": "JAMES WATT SOUTH:544 LAB",
-            "instructor": "Staff"
-          },
-          {
-            "period": "15/01/2016 - 25/03/2016",
-            "times": "Fr  10:00 - 11:00",
-            "room": "JAMES WATT SOUTH:544 LAB",
-            "instructor": "Donald Ballance"
-          },
-          {
-            "period": "29/09/2015 - 01/12/2015",
-            "times": "Tu  11:00 - 12:00",
-            "room": "JAMES WATT SOUTH:544 LAB",
-            "instructor": "Staff"
-          }
-        ]
       }
     ]
   },
@@ -3243,7 +3149,7 @@
         "id": "14819",
         "type": "Laboratory",
         "name": "LB01",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "03/11/2015 - 03/11/2015",
@@ -3263,7 +3169,7 @@
         "id": "14820",
         "type": "Laboratory",
         "name": "LB02",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "05/11/2015 - 05/11/2015",
@@ -3303,17 +3209,17 @@
         "id": "14822",
         "type": "Laboratory",
         "name": "LB04",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "09/11/2015 - 09/11/2015",
-            "times": "Mo  11:00 - 13:00",
+            "times": "Mo  10:00 - 12:00",
             "room": "JAMES WATT SOUTH:438 TUCK LAB",
             "instructor": "Margaret Lucas"
           },
           {
             "period": "12/10/2015 - 12/10/2015",
-            "times": "Mo  11:00 - 13:00",
+            "times": "Mo  10:00 - 12:00",
             "room": "JAMES WATT SOUTH:438 TUCK LAB",
             "instructor": "Margaret Lucas"
           }
@@ -3347,13 +3253,13 @@
         "dates": [
           {
             "period": "16/11/2015 - 16/11/2015",
-            "times": "Mo  11:00 - 13:00",
+            "times": "Mo  10:00 - 12:00",
             "room": "JAMES WATT SOUTH:438 TUCK LAB",
             "instructor": "Margaret Lucas"
           },
           {
             "period": "26/10/2015 - 26/10/2015",
-            "times": "Mo  11:00 - 13:00",
+            "times": "Mo  10:00 - 12:00",
             "room": "JAMES WATT SOUTH:438 TUCK LAB",
             "instructor": "Margaret Lucas"
           }
@@ -3389,13 +3295,13 @@
             "period": "24/09/2015 - 03/12/2015",
             "times": "Th  10:00 - 11:00",
             "room": "CTT RANKINE:408  LT",
-            "instructor": "Margaret Lucas, Christopher Pearce"
+            "instructor": "Christopher Pearce, Margaret Lucas"
           },
           {
             "period": "22/09/2015 - 01/12/2015",
             "times": "Tu  10:00 - 11:00",
             "room": "CTT RANKINE:408  LT",
-            "instructor": "Margaret Lucas, Christopher Pearce"
+            "instructor": "Christopher Pearce, Margaret Lucas"
           }
         ]
       },
@@ -3409,7 +3315,7 @@
             "period": "24/09/2015 - 03/12/2015",
             "times": "Th  14:00 - 15:00",
             "room": "CTT JAMES WATT STH:354 STEVESN",
-            "instructor": "Christopher Pearce, Margaret Lucas"
+            "instructor": "Margaret Lucas, Christopher Pearce"
           },
           {
             "period": "22/09/2015 - 01/12/2015",
@@ -3429,7 +3335,7 @@
             "period": "25/11/2015 - 25/11/2015",
             "times": "We  12:00 - 13:00",
             "room": "JAMES WATT SOUTH:427A STUDIO",
-            "instructor": "Christopher Pearce, Margaret Lucas"
+            "instructor": "Margaret Lucas, Christopher Pearce"
           },
           {
             "period": "04/11/2015 - 04/11/2015",
@@ -3441,7 +3347,7 @@
             "period": "14/10/2015 - 14/10/2015",
             "times": "We  12:00 - 13:00",
             "room": "JAMES WATT SOUTH:427A STUDIO",
-            "instructor": "Christopher Pearce, Margaret Lucas"
+            "instructor": "Margaret Lucas, Christopher Pearce"
           }
         ]
       },
@@ -3449,7 +3355,7 @@
         "id": "14827",
         "type": "Tutorial",
         "name": "TU02",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "02/12/2015 - 02/12/2015",
@@ -3493,7 +3399,7 @@
             "period": "22/10/2015 - 22/10/2015",
             "times": "Th  12:00 - 13:00",
             "room": "JAMES WATT SOUTH:427A STUDIO",
-            "instructor": "Margaret Lucas, Christopher Pearce"
+            "instructor": "Christopher Pearce, Margaret Lucas"
           }
         ]
       },
@@ -3501,10 +3407,36 @@
         "id": "14829",
         "type": "Tutorial",
         "name": "TU04",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
-            "period": "30/11/2015 - 30/11/2015",
+            "period": "16/11/2015 - 16/11/2015",
+            "times": "Mo  13:00 - 14:00",
+            "room": "JAMES WATT SOUTH:427B STUDIO",
+            "instructor": "Christopher Pearce, Margaret Lucas"
+          },
+          {
+            "period": "26/10/2015 - 26/10/2015",
+            "times": "Mo  13:00 - 14:00",
+            "room": "JAMES WATT SOUTH:427B STUDIO",
+            "instructor": "Christopher Pearce, Margaret Lucas"
+          },
+          {
+            "period": "05/10/2015 - 05/10/2015",
+            "times": "Mo  13:00 - 14:00",
+            "room": "JAMES WATT SOUTH:427B STUDIO",
+            "instructor": "Christopher Pearce, Margaret Lucas"
+          }
+        ]
+      },
+      {
+        "id": "14830",
+        "type": "Tutorial",
+        "name": "TU05",
+        "status": "Open",
+        "dates": [
+          {
+            "period": "23/11/2015 - 23/11/2015",
             "times": "Mo  13:00 - 14:00",
             "room": "JAMES WATT SOUTH:427A STUDIO",
             "instructor": "Margaret Lucas"
@@ -3516,36 +3448,10 @@
             "instructor": "Margaret Lucas"
           },
           {
-            "period": "19/10/2015 - 19/10/2015",
+            "period": "12/10/2015 - 12/10/2015",
             "times": "Mo  13:00 - 14:00",
             "room": "JAMES WATT SOUTH:427A STUDIO",
             "instructor": "Margaret Lucas"
-          }
-        ]
-      },
-      {
-        "id": "14830",
-        "type": "Tutorial",
-        "name": "TU05",
-        "status": "Open",
-        "dates": [
-          {
-            "period": "03/12/2015 - 03/12/2015",
-            "times": "Th  13:00 - 14:00",
-            "room": "JAMES WATT SOUTH:427B STUDIO",
-            "instructor": "Margaret Lucas, Christopher Pearce"
-          },
-          {
-            "period": "12/11/2015 - 12/11/2015",
-            "times": "Th  13:00 - 14:00",
-            "room": "JAMES WATT SOUTH:427B STUDIO",
-            "instructor": "Margaret Lucas, Christopher Pearce"
-          },
-          {
-            "period": "22/10/2015 - 22/10/2015",
-            "times": "Th  13:00 - 14:00",
-            "room": "JAMES WATT SOUTH:427B STUDIO",
-            "instructor": "Christopher Pearce, Margaret Lucas"
           }
         ]
       },
@@ -3565,13 +3471,13 @@
             "period": "29/10/2015 - 29/10/2015",
             "times": "Th  13:00 - 14:00",
             "room": "JAMES WATT SOUTH:427A STUDIO",
-            "instructor": "Christopher Pearce, Margaret Lucas"
+            "instructor": "Margaret Lucas, Christopher Pearce"
           },
           {
             "period": "08/10/2015 - 08/10/2015",
             "times": "Th  13:00 - 14:00",
             "room": "JAMES WATT SOUTH:427A STUDIO",
-            "instructor": "Christopher Pearce, Margaret Lucas"
+            "instructor": "Margaret Lucas, Christopher Pearce"
           }
         ]
       }
@@ -3599,7 +3505,7 @@
         "id": "15053",
         "type": "Laboratory",
         "name": "LB01",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "23/02/2016 - 23/02/2016",
@@ -3619,7 +3525,7 @@
         "id": "15032",
         "type": "Laboratory",
         "name": "LB02",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "25/02/2016 - 25/02/2016",
@@ -3719,7 +3625,7 @@
         "id": "15037",
         "type": "Laboratory",
         "name": "LB07",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "01/03/2016 - 01/03/2016",
@@ -3739,7 +3645,7 @@
         "id": "15038",
         "type": "Laboratory",
         "name": "LB08",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "03/03/2016 - 03/03/2016",
@@ -3779,7 +3685,7 @@
         "id": "15040",
         "type": "Laboratory",
         "name": "LB10",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "15/03/2016 - 15/03/2016",
@@ -3799,7 +3705,7 @@
         "id": "15041",
         "type": "Laboratory",
         "name": "LB11",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "17/03/2016 - 17/03/2016",
@@ -3859,7 +3765,7 @@
         "id": "15044",
         "type": "Lecture",
         "name": "LC02",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "14/01/2016 - 24/03/2016",
@@ -3983,7 +3889,7 @@
         "id": "15049",
         "type": "Tutorial",
         "name": "TU05",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "16/03/2016 - 16/03/2016",
@@ -4009,7 +3915,7 @@
         "id": "15050",
         "type": "Tutorial",
         "name": "TU06",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "14/03/2016 - 14/03/2016",
@@ -4061,7 +3967,7 @@
         "id": "15052",
         "type": "Tutorial",
         "name": "TU08",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "17/03/2016 - 17/03/2016",
@@ -4087,7 +3993,7 @@
   },
   {
     "code": "ENG 2002",
-    "title": "Aerospace Design Project 2",
+    "title": "Aerospace Engineering Skills 2",
     "sections": [
       {
         "id": "15759",
@@ -4124,9 +4030,27 @@
         "status": "Open",
         "dates": [
           {
-            "period": "TBA",
-            "times": "TBA",
-            "room": "TBA",
+            "period": "18/11/2015 - 18/11/2015",
+            "times": "We  10:00 - 11:00",
+            "room": "CTT MATHS BLDG:325 (2A)",
+            "instructor": "Staff"
+          },
+          {
+            "period": "14/01/2016 - 28/01/2016",
+            "times": "Th  11:00 - 12:00",
+            "room": "CTT MATHS BLDG:325 (2A)",
+            "instructor": "Andreas Borggrafe"
+          },
+          {
+            "period": "04/11/2015 - 04/11/2015",
+            "times": "We  10:00 - 11:00",
+            "room": "CTT MATHS BLDG:325 (2A)",
+            "instructor": "Staff"
+          },
+          {
+            "period": "28/01/2016 - 28/01/2016",
+            "times": "Th  09:00 - 10:00",
+            "room": "CTT SIR ALEXANDER STONE:208 LT",
             "instructor": "Staff"
           }
         ]
@@ -4207,7 +4131,7 @@
         "id": "15302",
         "type": "Laboratory",
         "name": "LB03",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "22/02/2016 - 22/02/2016",
@@ -4359,7 +4283,7 @@
         "id": "15152",
         "type": "Laboratory",
         "name": "LB01",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "03/02/2016 - 03/02/2016",
@@ -4427,7 +4351,7 @@
         "id": "15463",
         "type": "Laboratory",
         "name": "LB01",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "18/01/2016 - 18/01/2016",
@@ -4613,7 +4537,7 @@
         "id": "14999",
         "type": "Tutorial",
         "name": "TU01",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "TBA",
@@ -4890,19 +4814,7 @@
         "status": "Open",
         "dates": [
           {
-            "period": "30/09/2015 - 30/09/2015",
-            "times": "We  12:00 - 13:00",
-            "room": "CTT RANKINE:106 LT",
-            "instructor": "John Davies"
-          },
-          {
-            "period": "09/10/2015 - 04/12/2015",
-            "times": "Fr  09:00 - 10:00",
-            "room": "CTT MATHS BLDG:325 (2A)",
-            "instructor": "John Davies"
-          },
-          {
-            "period": "25/09/2015 - 25/09/2015",
+            "period": "25/09/2015 - 04/12/2015",
             "times": "Fr  09:00 - 10:00",
             "room": "CTT MATHS BLDG:325 (2A)",
             "instructor": "John Davies"
@@ -5072,20 +4984,6 @@
         ]
       },
       {
-        "id": "15444",
-        "type": "Laboratory",
-        "name": "LB02",
-        "status": "Open",
-        "dates": [
-          {
-            "period": "29/10/2015 - 12/11/2015",
-            "times": "Th  14:00 - 17:00",
-            "room": "RANKINE:605 LAB",
-            "instructor": "Steven Neale, Huabing Yin"
-          }
-        ]
-      },
-      {
         "id": "15445",
         "type": "Lecture",
         "name": "LC01",
@@ -5129,7 +5027,7 @@
         "id": "15499",
         "type": "Laboratory",
         "name": "LB02",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "22/03/2016 - 22/03/2016",
@@ -5155,7 +5053,7 @@
         "id": "15500",
         "type": "Laboratory",
         "name": "LB03",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "26/02/2016 - 26/02/2016",
@@ -5221,7 +5119,7 @@
         "id": "14855",
         "type": "Laboratory",
         "name": "LB01",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "11/02/2016 - 11/02/2016",
@@ -5241,7 +5139,7 @@
         "id": "14856",
         "type": "Laboratory",
         "name": "LB02",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "04/03/2016 - 04/03/2016",
@@ -5261,7 +5159,7 @@
         "id": "14857",
         "type": "Laboratory",
         "name": "LB03",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "11/02/2016 - 11/02/2016",
@@ -5383,7 +5281,7 @@
         "id": "15229",
         "type": "Laboratory",
         "name": "LB01",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "02/02/2016 - 02/02/2016",
@@ -5397,7 +5295,7 @@
         "id": "15230",
         "type": "Laboratory",
         "name": "LB02",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "03/02/2016 - 03/02/2016",
@@ -5411,7 +5309,7 @@
         "id": "15231",
         "type": "Laboratory",
         "name": "LB03",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "04/02/2016 - 04/02/2016",
@@ -5439,7 +5337,7 @@
         "id": "15233",
         "type": "Laboratory",
         "name": "LB05",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "09/02/2016 - 09/02/2016",
@@ -5453,7 +5351,7 @@
         "id": "15234",
         "type": "Laboratory",
         "name": "LB06",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "10/02/2016 - 10/02/2016",
@@ -5467,7 +5365,7 @@
         "id": "15235",
         "type": "Laboratory",
         "name": "LB07",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "11/02/2016 - 11/02/2016",
@@ -5481,7 +5379,7 @@
         "id": "15236",
         "type": "Laboratory",
         "name": "LB08",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "12/02/2016 - 12/02/2016",
@@ -5495,7 +5393,7 @@
         "id": "15237",
         "type": "Laboratory",
         "name": "LB09",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "16/02/2016 - 16/02/2016",
@@ -5509,7 +5407,7 @@
         "id": "15238",
         "type": "Laboratory",
         "name": "LB10",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "17/02/2016 - 17/02/2016",
@@ -6163,7 +6061,7 @@
         "id": "14974",
         "type": "Laboratory",
         "name": "LB02",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "27/10/2015 - 27/10/2015",
@@ -6177,7 +6075,7 @@
         "id": "14975",
         "type": "Laboratory",
         "name": "LB03",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "28/10/2015 - 28/10/2015",
@@ -6293,7 +6191,7 @@
         "id": "15249",
         "type": "Laboratory",
         "name": "LB01",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "18/01/2016 - 18/01/2016",
@@ -6321,7 +6219,7 @@
         "id": "15251",
         "type": "Laboratory",
         "name": "LB03",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "21/01/2016 - 21/01/2016",
@@ -6721,7 +6619,7 @@
   },
   {
     "code": "ENG 2077",
-    "title": "Engineering Skills 2",
+    "title": "Mechanical Engineering Skills 2",
     "sections": [
       {
         "id": "15684",
@@ -6971,7 +6869,7 @@
         "id": "15096",
         "type": "Workshop",
         "name": "WK04",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "04/02/2016 - 04/02/2016",
@@ -7027,7 +6925,7 @@
         "id": "15853",
         "type": "Workshop",
         "name": "WK08",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "26/01/2016 - 26/01/2016",
@@ -7347,7 +7245,7 @@
         "id": "15515",
         "type": "Laboratory",
         "name": "LB01",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "16/10/2015 - 16/10/2015",
@@ -7459,7 +7357,7 @@
         "id": "15523",
         "type": "Laboratory",
         "name": "LB09",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "03/11/2015 - 03/11/2015",
@@ -7473,7 +7371,7 @@
         "id": "15891",
         "type": "Laboratory",
         "name": "LB10",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "16/11/2015 - 16/11/2015",
@@ -7954,7 +7852,7 @@
           {
             "period": "09/10/2015 - 04/12/2015",
             "times": "Fr  14:00 - 17:00",
-            "room": "RANKINE:329 LAB",
+            "room": "RANKINE:709 LAB",
             "instructor": "Scott Roy"
           }
         ]
@@ -8065,7 +7963,7 @@
             "period": "22/02/2016 - 22/02/2016",
             "times": "Mo  14:00 - 17:00",
             "room": "JAMES WATT SOUTH:544 LAB",
-            "instructor": "Kiran Kumar Ramesh, Donald Ballance"
+            "instructor": "Donald Ballance, Kiran Kumar Ramesh"
           }
         ]
       },
@@ -8093,7 +7991,7 @@
             "period": "29/02/2016 - 29/02/2016",
             "times": "Mo  14:00 - 17:00",
             "room": "JAMES WATT SOUTH:544 LAB",
-            "instructor": "Kiran Kumar Ramesh, Kiran Kumar Ramesh, Donald Ballance, Donald Ballance"
+            "instructor": "Kiran Kumar Ramesh, Donald Ballance"
           }
         ]
       },
@@ -8107,7 +8005,7 @@
             "period": "11/03/2016 - 11/03/2016",
             "times": "Fr  14:00 - 17:00",
             "room": "JAMES WATT SOUTH:544 LAB",
-            "instructor": "Kiran Kumar Ramesh, Donald Ballance"
+            "instructor": "Donald Ballance, Kiran Kumar Ramesh"
           }
         ]
       },
@@ -8135,7 +8033,7 @@
             "period": "11/01/2016 - 21/03/2016",
             "times": "Mo  10:00 - 11:00",
             "room": "CTT BOYD ORR:203 LEC THEATRE 1",
-            "instructor": "Donald Ballance, Kiran Kumar Ramesh"
+            "instructor": "Kiran Kumar Ramesh, Donald Ballance"
           },
           {
             "period": "13/01/2016 - 23/03/2016",
@@ -8149,7 +8047,7 @@
         "id": "15128",
         "type": "Tutorial",
         "name": "TU01",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "07/03/2016 - 07/03/2016",
@@ -8201,13 +8099,13 @@
         "id": "15130",
         "type": "Tutorial",
         "name": "TU03",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "15/03/2016 - 15/03/2016",
             "times": "Tu  12:00 - 13:00",
             "room": "JAMES WATT SOUTH:427B STUDIO",
-            "instructor": "Donald Ballance, Kiran Kumar Ramesh"
+            "instructor": "Kiran Kumar Ramesh, Donald Ballance"
           },
           {
             "period": "23/02/2016 - 23/02/2016",
@@ -8219,7 +8117,7 @@
             "period": "02/02/2016 - 02/02/2016",
             "times": "Tu  12:00 - 13:00",
             "room": "JAMES WATT SOUTH:427B STUDIO",
-            "instructor": "Donald Ballance, Kiran Kumar Ramesh"
+            "instructor": "Kiran Kumar Ramesh, Donald Ballance"
           }
         ]
       },
@@ -8233,7 +8131,7 @@
             "period": "17/03/2016 - 17/03/2016",
             "times": "Th  10:00 - 11:00",
             "room": "JAMES WATT SOUTH:427B STUDIO",
-            "instructor": "Donald Ballance, Kiran Kumar Ramesh"
+            "instructor": "Kiran Kumar Ramesh, Donald Ballance"
           },
           {
             "period": "25/02/2016 - 25/02/2016",
@@ -8245,7 +8143,7 @@
             "period": "04/02/2016 - 04/02/2016",
             "times": "Th  10:00 - 11:00",
             "room": "JAMES WATT SOUTH:427B STUDIO",
-            "instructor": "Donald Ballance, Kiran Kumar Ramesh"
+            "instructor": "Kiran Kumar Ramesh, Donald Ballance"
           }
         ]
       },
@@ -8645,7 +8543,7 @@
         "id": "15268",
         "type": "Tutorial",
         "name": "TU03",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "18/11/2015 - 18/11/2015",
@@ -8760,64 +8658,16 @@
         "status": "Open",
         "dates": [
           {
-            "period": "23/11/2015 - 23/11/2015",
-            "times": "Mo  09:00 - 10:00",
-            "room": "CTT MAIN BLD:413 KELVIN GALLER",
-            "instructor": "Marc Sorel, James Sharp, Ian Watson"
-          },
-          {
-            "period": "16/11/2015 - 16/11/2015",
-            "times": "Mo  09:00 - 10:00",
-            "room": "CTT MAIN BLD:413 KELVIN GALLER",
-            "instructor": "Marc Sorel, Ian Watson, James Sharp"
-          },
-          {
-            "period": "09/11/2015 - 09/11/2015",
-            "times": "Mo  09:00 - 10:00",
-            "room": "CTT MAIN BLD:413 KELVIN GALLER",
-            "instructor": "Marc Sorel, Ian Watson, James Sharp"
-          },
-          {
-            "period": "02/11/2015 - 02/11/2015",
+            "period": "21/09/2015 - 30/11/2015",
             "times": "Mo  09:00 - 10:00",
             "room": "CTT MAIN BLD:413 KELVIN GALLER",
             "instructor": "Ian Watson, Marc Sorel, James Sharp"
           },
           {
-            "period": "26/10/2015 - 26/10/2015",
-            "times": "Mo  09:00 - 10:00",
-            "room": "CTT MAIN BLD:413 KELVIN GALLER",
-            "instructor": "Marc Sorel, Ian Watson, James Sharp"
-          },
-          {
-            "period": "19/10/2015 - 19/10/2015",
-            "times": "Mo  09:00 - 10:00",
-            "room": "CTT MAIN BLD:413 KELVIN GALLER",
-            "instructor": "Marc Sorel, James Sharp, Ian Watson"
-          },
-          {
-            "period": "12/10/2015 - 12/10/2015",
-            "times": "Mo  09:00 - 10:00",
-            "room": "CTT MAIN BLD:413 KELVIN GALLER",
-            "instructor": "Ian Watson, James Sharp, Marc Sorel"
-          },
-          {
-            "period": "05/10/2015 - 05/10/2015",
-            "times": "Mo  09:00 - 10:00",
-            "room": "CTT MAIN BLD:413 KELVIN GALLER",
-            "instructor": "Marc Sorel, James Sharp, Ian Watson"
-          },
-          {
-            "period": "28/09/2015 - 28/09/2015",
-            "times": "Mo  09:00 - 10:00",
-            "room": "CTT MAIN BLD:413 KELVIN GALLER",
-            "instructor": "James Sharp, Ian Watson, Marc Sorel"
-          },
-          {
-            "period": "21/09/2015 - 21/09/2015",
-            "times": "Mo  09:00 - 10:00",
-            "room": "CTT MAIN BLD:413 KELVIN GALLER",
-            "instructor": "Ian Watson, Marc Sorel, James Sharp"
+            "period": "21/10/2015 - 21/10/2015",
+            "times": "We  09:00 - 10:00",
+            "room": "GUU:320 DEBATING HALL",
+            "instructor": "Marc Sorel, Trevor Davies"
           },
           {
             "period": "28/10/2015 - 28/10/2015",
@@ -8826,7 +8676,7 @@
             "instructor": "Trevor Davies, Marc Sorel"
           },
           {
-            "period": "02/12/2015 - 02/12/2015",
+            "period": "04/11/2015 - 04/11/2015",
             "times": "We  09:00 - 10:00",
             "room": "GUU:320 DEBATING HALL",
             "instructor": "Trevor Davies, Marc Sorel"
@@ -8841,7 +8691,7 @@
             "period": "18/11/2015 - 18/11/2015",
             "times": "We  09:00 - 10:00",
             "room": "GUU:320 DEBATING HALL",
-            "instructor": "Trevor Davies, Marc Sorel"
+            "instructor": "Marc Sorel, Trevor Davies"
           },
           {
             "period": "25/11/2015 - 25/11/2015",
@@ -8850,10 +8700,16 @@
             "instructor": "Marc Sorel, Trevor Davies"
           },
           {
-            "period": "04/11/2015 - 04/11/2015",
+            "period": "02/12/2015 - 02/12/2015",
             "times": "We  09:00 - 10:00",
             "room": "GUU:320 DEBATING HALL",
-            "instructor": "Trevor Davies, Marc Sorel"
+            "instructor": "Marc Sorel, Trevor Davies"
+          },
+          {
+            "period": "07/10/2015 - 07/10/2015",
+            "times": "We  09:00 - 10:00",
+            "room": "GUU:320 DEBATING HALL",
+            "instructor": "Marc Sorel, Trevor Davies"
           },
           {
             "period": "23/09/2015 - 23/09/2015",
@@ -8862,31 +8718,19 @@
             "instructor": "Trevor Davies, Marc Sorel"
           },
           {
-            "period": "07/10/2015 - 07/10/2015",
-            "times": "We  09:00 - 10:00",
-            "room": "GUU:320 DEBATING HALL",
-            "instructor": "Trevor Davies, Marc Sorel"
-          },
-          {
-            "period": "21/10/2015 - 21/10/2015",
-            "times": "We  09:00 - 10:00",
-            "room": "GUU:320 DEBATING HALL",
-            "instructor": "Marc Sorel, Trevor Davies"
-          },
-          {
             "period": "24/09/2015 - 03/12/2015",
             "times": "Th  12:00 - 13:00",
             "room": "CTT SIR CHARLES WILSON:201 LT",
-            "instructor": "James Sharp, Ian Watson"
-          },
-          {
-            "period": "30/09/2015 - 30/09/2015",
-            "times": "We  09:00 - 10:00",
-            "room": "CTT BOYD ORR:203 LEC THEATRE 1",
-            "instructor": "Marc Sorel, Trevor Davies"
+            "instructor": "Ian Watson, James Sharp"
           },
           {
             "period": "14/10/2015 - 14/10/2015",
+            "times": "We  09:00 - 10:00",
+            "room": "CTT BOYD ORR:203 LEC THEATRE 1",
+            "instructor": "Trevor Davies, Marc Sorel"
+          },
+          {
+            "period": "30/09/2015 - 30/09/2015",
             "times": "We  09:00 - 10:00",
             "room": "CTT BOYD ORR:203 LEC THEATRE 1",
             "instructor": "Trevor Davies, Marc Sorel"
@@ -8896,12 +8740,6 @@
             "times": "Fr  11:00 - 12:00",
             "room": "CTT BOYD ORR:203 LEC THEATRE 1",
             "instructor": "Ian Watson, James Sharp, Marc Sorel"
-          },
-          {
-            "period": "30/11/2015 - 30/11/2015",
-            "times": "Mo  09:00 - 10:00",
-            "room": "CTT JOSEPH BLACK:B419 MAIN LT",
-            "instructor": "Marc Sorel, Ian Watson, James Sharp"
           }
         ]
       },
@@ -8912,94 +8750,22 @@
         "status": "Open",
         "dates": [
           {
-            "period": "23/11/2015 - 23/11/2015",
+            "period": "21/09/2015 - 30/11/2015",
             "times": "Mo  09:00 - 10:00",
             "room": "CTT MAIN BLD:413 KELVIN GALLER",
-            "instructor": "James Sharp, Marc Sorel, Ian Watson"
-          },
-          {
-            "period": "16/11/2015 - 16/11/2015",
-            "times": "Mo  09:00 - 10:00",
-            "room": "CTT MAIN BLD:413 KELVIN GALLER",
-            "instructor": "Marc Sorel, James Sharp, Ian Watson"
-          },
-          {
-            "period": "09/11/2015 - 09/11/2015",
-            "times": "Mo  09:00 - 10:00",
-            "room": "CTT MAIN BLD:413 KELVIN GALLER",
-            "instructor": "Ian Watson, Marc Sorel, James Sharp"
-          },
-          {
-            "period": "02/11/2015 - 02/11/2015",
-            "times": "Mo  09:00 - 10:00",
-            "room": "CTT MAIN BLD:413 KELVIN GALLER",
-            "instructor": "Marc Sorel, James Sharp, Ian Watson"
-          },
-          {
-            "period": "26/10/2015 - 26/10/2015",
-            "times": "Mo  09:00 - 10:00",
-            "room": "CTT MAIN BLD:413 KELVIN GALLER",
-            "instructor": "Ian Watson, Marc Sorel, James Sharp"
-          },
-          {
-            "period": "19/10/2015 - 19/10/2015",
-            "times": "Mo  09:00 - 10:00",
-            "room": "CTT MAIN BLD:413 KELVIN GALLER",
-            "instructor": "Ian Watson, Marc Sorel, James Sharp"
-          },
-          {
-            "period": "12/10/2015 - 12/10/2015",
-            "times": "Mo  09:00 - 10:00",
-            "room": "CTT MAIN BLD:413 KELVIN GALLER",
-            "instructor": "James Sharp, Ian Watson, Marc Sorel"
-          },
-          {
-            "period": "05/10/2015 - 05/10/2015",
-            "times": "Mo  09:00 - 10:00",
-            "room": "CTT MAIN BLD:413 KELVIN GALLER",
-            "instructor": "Ian Watson, Marc Sorel, James Sharp"
-          },
-          {
-            "period": "28/09/2015 - 28/09/2015",
-            "times": "Mo  09:00 - 10:00",
-            "room": "CTT MAIN BLD:413 KELVIN GALLER",
-            "instructor": "Marc Sorel, James Sharp, Ian Watson"
-          },
-          {
-            "period": "21/09/2015 - 21/09/2015",
-            "times": "Mo  09:00 - 10:00",
-            "room": "CTT MAIN BLD:413 KELVIN GALLER",
-            "instructor": "Ian Watson, James Sharp, Marc Sorel"
-          },
-          {
-            "period": "21/10/2015 - 21/10/2015",
-            "times": "We  09:00 - 10:00",
-            "room": "GUU:219 DINING ROOM",
-            "instructor": "Marc Sorel, Trevor Davies"
-          },
-          {
-            "period": "28/10/2015 - 28/10/2015",
-            "times": "We  09:00 - 10:00",
-            "room": "GUU:219 DINING ROOM",
-            "instructor": "Trevor Davies, Marc Sorel"
-          },
-          {
-            "period": "04/11/2015 - 04/11/2015",
-            "times": "We  09:00 - 10:00",
-            "room": "GUU:219 DINING ROOM",
-            "instructor": "Marc Sorel, Trevor Davies"
+            "instructor": "Marc Sorel, Ian Watson, James Sharp"
           },
           {
             "period": "11/11/2015 - 11/11/2015",
             "times": "We  09:00 - 10:00",
             "room": "GUU:219 DINING ROOM",
-            "instructor": "Trevor Davies, Marc Sorel"
+            "instructor": "Marc Sorel, Trevor Davies"
           },
           {
-            "period": "18/11/2015 - 18/11/2015",
+            "period": "07/10/2015 - 07/10/2015",
             "times": "We  09:00 - 10:00",
             "room": "GUU:219 DINING ROOM",
-            "instructor": "Marc Sorel, Trevor Davies"
+            "instructor": "Trevor Davies, Marc Sorel"
           },
           {
             "period": "25/11/2015 - 25/11/2015",
@@ -9014,31 +8780,49 @@
             "instructor": "Trevor Davies, Marc Sorel"
           },
           {
-            "period": "07/10/2015 - 07/10/2015",
-            "times": "We  09:00 - 10:00",
-            "room": "GUU:219 DINING ROOM",
-            "instructor": "Marc Sorel, Trevor Davies"
-          },
-          {
             "period": "23/09/2015 - 23/09/2015",
             "times": "We  09:00 - 10:00",
             "room": "GUU:219 DINING ROOM",
             "instructor": "Trevor Davies, Marc Sorel"
           },
           {
+            "period": "18/11/2015 - 18/11/2015",
+            "times": "We  09:00 - 10:00",
+            "room": "GUU:219 DINING ROOM",
+            "instructor": "Marc Sorel, Trevor Davies"
+          },
+          {
+            "period": "21/10/2015 - 21/10/2015",
+            "times": "We  09:00 - 10:00",
+            "room": "GUU:219 DINING ROOM",
+            "instructor": "Trevor Davies, Marc Sorel"
+          },
+          {
+            "period": "28/10/2015 - 28/10/2015",
+            "times": "We  09:00 - 10:00",
+            "room": "GUU:219 DINING ROOM",
+            "instructor": "Trevor Davies, Marc Sorel"
+          },
+          {
+            "period": "04/11/2015 - 04/11/2015",
+            "times": "We  09:00 - 10:00",
+            "room": "GUU:219 DINING ROOM",
+            "instructor": "Marc Sorel, Trevor Davies"
+          },
+          {
             "period": "24/09/2015 - 03/12/2015",
             "times": "Th  12:00 - 13:00",
             "room": "CTT SIR CHARLES WILSON:201 LT",
-            "instructor": "James Sharp, Ian Watson"
+            "instructor": "Ian Watson, James Sharp"
           },
           {
-            "period": "14/10/2015 - 14/10/2015",
+            "period": "30/09/2015 - 30/09/2015",
             "times": "We  09:00 - 10:00",
             "room": "CTT BOYD ORR:203 LEC THEATRE 1",
             "instructor": "Trevor Davies, Marc Sorel"
           },
           {
-            "period": "30/09/2015 - 30/09/2015",
+            "period": "14/10/2015 - 14/10/2015",
             "times": "We  09:00 - 10:00",
             "room": "CTT BOYD ORR:203 LEC THEATRE 1",
             "instructor": "Marc Sorel, Trevor Davies"
@@ -9048,12 +8832,6 @@
             "times": "Fr  11:00 - 12:00",
             "room": "CTT BOYD ORR:203 LEC THEATRE 1",
             "instructor": "Ian Watson, Marc Sorel, James Sharp"
-          },
-          {
-            "period": "30/11/2015 - 30/11/2015",
-            "times": "Mo  09:00 - 10:00",
-            "room": "CTT JOSEPH BLACK:B419 MAIN LT",
-            "instructor": "Marc Sorel, James Sharp, Ian Watson"
           }
         ]
       },
@@ -9095,7 +8873,7 @@
             "period": "02/10/2015 - 27/11/2015",
             "times": "Fr  10:00 - 11:00",
             "room": "JAMES WATT SOUTH:427B STUDIO",
-            "instructor": "Ian Watson, Marc Sorel, James Sharp"
+            "instructor": "Marc Sorel, Ian Watson, James Sharp"
           }
         ]
       },
@@ -9217,7 +8995,7 @@
         "id": "15529",
         "type": "Laboratory",
         "name": "LB05",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "08/02/2016 - 08/02/2016",
@@ -9457,7 +9235,7 @@
         "id": "14929",
         "type": "Project",
         "name": "PJ01",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "26/02/2016 - 25/03/2016",
@@ -9958,13 +9736,13 @@
         "status": "Open",
         "dates": [
           {
-            "period": "15/01/2016 - 18/03/2016",
+            "period": "15/01/2016 - 25/03/2016",
             "times": "Fr  11:00 - 12:00",
             "room": "JAMES WATT SOUTH:427B STUDIO",
             "instructor": "Nicholas Andrew Ahrens"
           },
           {
-            "period": "25/09/2015 - 27/11/2015",
+            "period": "25/09/2015 - 04/12/2015",
             "times": "Fr  11:00 - 12:00",
             "room": "JAMES WATT SOUTH:427B STUDIO",
             "instructor": "Nicholas Andrew Ahrens"
@@ -9978,16 +9756,16 @@
         "status": "Open",
         "dates": [
           {
-            "period": "21/01/2016 - 24/03/2016",
+            "period": "14/01/2016 - 24/03/2016",
             "times": "Th  14:00 - 16:00",
             "room": "JAMES WATT SOUTH:334 STUDIO",
-            "instructor": "Nicholas Andrew Ahrens"
+            "instructor": "Staff"
           },
           {
-            "period": "01/10/2015 - 03/12/2015",
+            "period": "24/09/2015 - 03/12/2015",
             "times": "Th  14:00 - 16:00",
             "room": "JAMES WATT SOUTH:334 STUDIO",
-            "instructor": "Nicholas Andrew Ahrens"
+            "instructor": "Staff"
           }
         ]
       }
@@ -10127,7 +9905,7 @@
         "id": "15377",
         "type": "Laboratory",
         "name": "LB02",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "28/10/2015 - 28/10/2015",
@@ -10701,19 +10479,19 @@
             "period": "23/11/2015 - 23/11/2015",
             "times": "Mo  14:00 - 17:00",
             "room": "RANKINE:611 LAB",
-            "instructor": "Iain Thayne, Asen Asenov"
+            "instructor": "Asen Asenov, Iain Thayne"
           },
           {
             "period": "26/10/2015 - 26/10/2015",
             "times": "Mo  14:00 - 17:00",
             "room": "RANKINE:611 LAB",
-            "instructor": "Iain Thayne, Asen Asenov"
+            "instructor": "Asen Asenov, Iain Thayne"
           },
           {
             "period": "12/10/2015 - 12/10/2015",
             "times": "Mo  13:30 - 17:00",
             "room": "RANKINE:611 LAB",
-            "instructor": "Asen Asenov, Iain Thayne"
+            "instructor": "Iain Thayne, Asen Asenov"
           }
         ]
       },
@@ -10724,14 +10502,14 @@
         "status": "Open",
         "dates": [
           {
-            "period": "27/10/2015 - 27/10/2015",
-            "times": "Tu  14:00 - 17:00",
+            "period": "07/10/2015 - 07/10/2015",
+            "times": "We  13:30 - 17:00",
             "room": "RANKINE:611 LAB",
             "instructor": "Iain Thayne, Asen Asenov"
           },
           {
-            "period": "06/10/2015 - 06/10/2015",
-            "times": "Tu  13:30 - 17:00",
+            "period": "27/10/2015 - 27/10/2015",
+            "times": "Tu  14:00 - 17:00",
             "room": "RANKINE:611 LAB",
             "instructor": "Iain Thayne, Asen Asenov"
           },
@@ -10779,13 +10557,13 @@
             "period": "22/09/2015 - 01/12/2015",
             "times": "Tu  10:00 - 11:00",
             "room": "CTT RANKINE:106 LT",
-            "instructor": "Iain Thayne, Asen Asenov"
+            "instructor": "Asen Asenov, Iain Thayne"
           },
           {
             "period": "24/09/2015 - 03/12/2015",
             "times": "Th  09:00 - 10:00",
             "room": "CTT RANKINE:408  LT",
-            "instructor": "Iain Thayne, Asen Asenov"
+            "instructor": "Asen Asenov, Iain Thayne"
           }
         ]
       }
@@ -11221,7 +10999,7 @@
         "id": "14914",
         "type": "Laboratory",
         "name": "LB01",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "01/02/2016 - 01/02/2016",
@@ -11743,7 +11521,7 @@
   },
   {
     "code": "ENG 3036",
-    "title": "Simulation of Engineering Systems 3",
+    "title": "Mathematical Modelling And Simulation M3",
     "sections": [
       {
         "id": "15754",
@@ -11769,13 +11547,13 @@
             "period": "17/11/2015 - 17/11/2015",
             "times": "Tu  14:00 - 17:00",
             "room": "JAMES WATT SOUTH:544 LAB",
-            "instructor": "Donald Ballance, Euan Mcgookin"
+            "instructor": "Euan Mcgookin, Donald Ballance"
           },
           {
             "period": "03/11/2015 - 03/11/2015",
             "times": "Tu  14:00 - 17:00",
             "room": "JAMES WATT SOUTH:544 LAB",
-            "instructor": "Donald Ballance, Euan Mcgookin"
+            "instructor": "Euan Mcgookin, Donald Ballance"
           },
           {
             "period": "20/10/2015 - 20/10/2015",
@@ -11787,7 +11565,7 @@
             "period": "06/10/2015 - 06/10/2015",
             "times": "Tu  14:00 - 17:00",
             "room": "JAMES WATT SOUTH:544 LAB",
-            "instructor": "Donald Ballance, Euan Mcgookin"
+            "instructor": "Euan Mcgookin, Donald Ballance"
           }
         ]
       },
@@ -11807,7 +11585,7 @@
             "period": "10/11/2015 - 10/11/2015",
             "times": "Tu  14:00 - 17:00",
             "room": "JAMES WATT SOUTH:544 LAB",
-            "instructor": "Euan Mcgookin, Donald Ballance"
+            "instructor": "Donald Ballance, Euan Mcgookin"
           },
           {
             "period": "27/10/2015 - 27/10/2015",
@@ -11819,7 +11597,7 @@
             "period": "13/10/2015 - 13/10/2015",
             "times": "Tu  14:00 - 17:00",
             "room": "JAMES WATT SOUTH:544 LAB",
-            "instructor": "Donald Ballance, Euan Mcgookin"
+            "instructor": "Euan Mcgookin, Donald Ballance"
           }
         ]
       },
@@ -11851,7 +11629,7 @@
             "period": "09/10/2015 - 09/10/2015",
             "times": "Fr  14:00 - 17:00",
             "room": "JAMES WATT SOUTH:544 LAB",
-            "instructor": "Donald Ballance, Euan Mcgookin"
+            "instructor": "Euan Mcgookin, Donald Ballance"
           }
         ]
       },
@@ -11871,7 +11649,7 @@
             "period": "13/11/2015 - 13/11/2015",
             "times": "Fr  14:00 - 17:00",
             "room": "JAMES WATT SOUTH:544 LAB",
-            "instructor": "Donald Ballance, Euan Mcgookin"
+            "instructor": "Euan Mcgookin, Donald Ballance"
           },
           {
             "period": "30/10/2015 - 30/10/2015",
@@ -11894,28 +11672,28 @@
         "status": "Open",
         "dates": [
           {
-            "period": "02/12/2015 - 02/12/2015",
-            "times": "We  14:00 - 17:00",
-            "room": "JAMES WATT SOUTH:544 LAB",
-            "instructor": "Euan Mcgookin, Donald Ballance"
-          },
-          {
-            "period": "18/11/2015 - 18/11/2015",
-            "times": "We  14:00 - 17:00",
-            "room": "JAMES WATT SOUTH:544 LAB",
-            "instructor": "Euan Mcgookin, Donald Ballance"
-          },
-          {
-            "period": "04/11/2015 - 04/11/2015",
-            "times": "We  14:00 - 17:00",
-            "room": "JAMES WATT SOUTH:544 LAB",
-            "instructor": "Euan Mcgookin, Donald Ballance"
-          },
-          {
-            "period": "07/10/2015 - 07/10/2015",
+            "period": "25/11/2015 - 25/11/2015",
             "times": "We  14:00 - 17:00",
             "room": "JAMES WATT SOUTH:544 LAB",
             "instructor": "Donald Ballance, Euan Mcgookin"
+          },
+          {
+            "period": "11/11/2015 - 11/11/2015",
+            "times": "We  14:00 - 17:00",
+            "room": "JAMES WATT SOUTH:544 LAB",
+            "instructor": "Euan Mcgookin, Donald Ballance"
+          },
+          {
+            "period": "28/10/2015 - 28/10/2015",
+            "times": "We  14:00 - 17:00",
+            "room": "JAMES WATT SOUTH:544 LAB",
+            "instructor": "Euan Mcgookin, Donald Ballance"
+          },
+          {
+            "period": "14/10/2015 - 14/10/2015",
+            "times": "We  14:00 - 17:00",
+            "room": "JAMES WATT SOUTH:544 LAB",
+            "instructor": "Euan Mcgookin, Donald Ballance"
           }
         ]
       },
@@ -11929,25 +11707,25 @@
             "period": "13/10/2015 - 13/10/2015",
             "times": "Tu  09:00 - 10:00",
             "room": "CTT MAIN BLD:420 BUTE HALL",
-            "instructor": "Donald Ballance, Euan Mcgookin"
+            "instructor": "Euan Mcgookin, Donald Ballance"
           },
           {
             "period": "29/09/2015 - 29/09/2015",
             "times": "Tu  09:00 - 10:00",
             "room": "CTT MAIN BLD:420 BUTE HALL",
-            "instructor": "Donald Ballance, Euan Mcgookin"
+            "instructor": "Euan Mcgookin, Donald Ballance"
           },
           {
             "period": "06/10/2015 - 06/10/2015",
             "times": "Tu  09:00 - 10:00",
             "room": "CTT MAIN BLD:420 BUTE HALL",
-            "instructor": "Donald Ballance, Euan Mcgookin"
+            "instructor": "Euan Mcgookin, Donald Ballance"
           },
           {
             "period": "10/11/2015 - 10/11/2015",
             "times": "Tu  09:00 - 10:00",
             "room": "CTT MAIN BLD:420 BUTE HALL",
-            "instructor": "Donald Ballance, Euan Mcgookin"
+            "instructor": "Euan Mcgookin, Donald Ballance"
           },
           {
             "period": "03/11/2015 - 03/11/2015",
@@ -11959,19 +11737,19 @@
             "period": "27/10/2015 - 27/10/2015",
             "times": "Tu  09:00 - 10:00",
             "room": "CTT MAIN BLD:420 BUTE HALL",
-            "instructor": "Donald Ballance, Euan Mcgookin"
+            "instructor": "Euan Mcgookin, Donald Ballance"
           },
           {
             "period": "20/10/2015 - 20/10/2015",
             "times": "Tu  09:00 - 10:00",
             "room": "CTT MAIN BLD:420 BUTE HALL",
-            "instructor": "Euan Mcgookin, Donald Ballance"
+            "instructor": "Donald Ballance, Euan Mcgookin"
           },
           {
             "period": "17/11/2015 - 17/11/2015",
             "times": "Tu  09:00 - 10:00",
             "room": "CTT MAIN BLD:420 BUTE HALL",
-            "instructor": "Donald Ballance, Euan Mcgookin"
+            "instructor": "Euan Mcgookin, Donald Ballance"
           },
           {
             "period": "01/12/2015 - 01/12/2015",
@@ -11980,22 +11758,22 @@
             "instructor": "Donald Ballance, Euan Mcgookin"
           },
           {
-            "period": "23/09/2015 - 25/11/2015",
-            "times": "We  12:00 - 13:00",
-            "room": "CTT MAIN BLD:413 KELVIN GALLER",
-            "instructor": "Euan Mcgookin, Donald Ballance"
-          },
-          {
             "period": "24/11/2015 - 24/11/2015",
             "times": "Tu  09:00 - 10:00",
             "room": "CTT MAIN BLD:413 KELVIN GALLER",
-            "instructor": "Donald Ballance, Euan Mcgookin"
+            "instructor": "Euan Mcgookin, Donald Ballance"
           },
           {
             "period": "21/09/2015 - 21/09/2015",
             "times": "Mo  14:00 - 15:00",
             "room": "CTT MAIN BLD:413 KELVIN GALLER",
             "instructor": "Euan Mcgookin"
+          },
+          {
+            "period": "23/09/2015 - 02/12/2015",
+            "times": "We  12:00 - 13:00",
+            "room": "CTT SIR CHARLES WILSON:201 LT",
+            "instructor": "Euan Mcgookin, Donald Ballance"
           }
         ]
       },
@@ -12015,7 +11793,7 @@
             "period": "29/09/2015 - 29/09/2015",
             "times": "Tu  09:00 - 10:00",
             "room": "CTT MAIN BLD:420 BUTE HALL",
-            "instructor": "Euan Mcgookin, Donald Ballance"
+            "instructor": "Donald Ballance, Euan Mcgookin"
           },
           {
             "period": "06/10/2015 - 06/10/2015",
@@ -12027,13 +11805,13 @@
             "period": "10/11/2015 - 10/11/2015",
             "times": "Tu  09:00 - 10:00",
             "room": "CTT MAIN BLD:420 BUTE HALL",
-            "instructor": "Donald Ballance, Euan Mcgookin"
+            "instructor": "Euan Mcgookin, Donald Ballance"
           },
           {
             "period": "03/11/2015 - 03/11/2015",
             "times": "Tu  09:00 - 10:00",
             "room": "CTT MAIN BLD:420 BUTE HALL",
-            "instructor": "Euan Mcgookin, Donald Ballance"
+            "instructor": "Donald Ballance, Euan Mcgookin"
           },
           {
             "period": "27/10/2015 - 27/10/2015",
@@ -12051,7 +11829,7 @@
             "period": "17/11/2015 - 17/11/2015",
             "times": "Tu  09:00 - 10:00",
             "room": "CTT MAIN BLD:420 BUTE HALL",
-            "instructor": "Donald Ballance, Euan Mcgookin"
+            "instructor": "Euan Mcgookin, Donald Ballance"
           },
           {
             "period": "01/12/2015 - 01/12/2015",
@@ -12060,16 +11838,10 @@
             "instructor": "Euan Mcgookin, Donald Ballance"
           },
           {
-            "period": "23/09/2015 - 25/11/2015",
-            "times": "We  12:00 - 13:00",
-            "room": "CTT MAIN BLD:413 KELVIN GALLER",
-            "instructor": "Euan Mcgookin, Donald Ballance"
-          },
-          {
             "period": "24/11/2015 - 24/11/2015",
             "times": "Tu  09:00 - 10:00",
             "room": "CTT MAIN BLD:413 KELVIN GALLER",
-            "instructor": "Donald Ballance, Euan Mcgookin"
+            "instructor": "Euan Mcgookin, Donald Ballance"
           },
           {
             "period": "24/09/2015 - 03/12/2015",
@@ -12086,10 +11858,28 @@
         "status": "Open",
         "dates": [
           {
-            "period": "TBA",
-            "times": "TBA",
-            "room": "TBA",
-            "instructor": "Staff"
+            "period": "19/11/2015 - 19/11/2015",
+            "times": "Th  12:00 - 13:00",
+            "room": "CTT MAIN BLD:220 HUNTER WEST",
+            "instructor": "Donald Ballance"
+          },
+          {
+            "period": "05/11/2015 - 05/11/2015",
+            "times": "Th  12:00 - 13:00",
+            "room": "CTT MAIN BLD:220 HUNTER WEST",
+            "instructor": "Donald Ballance"
+          },
+          {
+            "period": "22/10/2015 - 22/10/2015",
+            "times": "Th  12:00 - 13:00",
+            "room": "CTT MAIN BLD:220 HUNTER WEST",
+            "instructor": "Donald Ballance"
+          },
+          {
+            "period": "08/10/2015 - 08/10/2015",
+            "times": "Th  12:00 - 13:00",
+            "room": "CTT MAIN BLD:220 HUNTER WEST",
+            "instructor": "Donald Ballance"
           }
         ]
       }
@@ -12367,7 +12157,7 @@
             "period": "08/10/2015 - 22/10/2015",
             "times": "Th  14:00 - 17:00",
             "room": "RANKINE:605 LAB",
-            "instructor": "Huabing Yin, Steven Neale"
+            "instructor": "Steven Neale, Huabing Yin"
           }
         ]
       },
@@ -12378,16 +12168,28 @@
         "status": "Open",
         "dates": [
           {
-            "period": "24/09/2015 - 03/12/2015",
-            "times": "Th  12:00 - 13:00",
-            "room": "JAMES WATT SOUTH:427A STUDIO",
-            "instructor": "Steven Neale, Huabing Yin"
+            "period": "14/01/2016 - 24/03/2016",
+            "times": "Th  09:00 - 10:00",
+            "room": "CTT JAMES WATT SOUTH:355 (J10)",
+            "instructor": "K Tanner, Manuel Salmeron-Sanchez"
+          },
+          {
+            "period": "12/01/2016 - 22/03/2016",
+            "times": "Tu  12:00 - 13:00",
+            "room": "CTT JAMES WATT SOUTH:375 (J15)",
+            "instructor": "Manuel Salmeron-Sanchez, K Tanner"
           },
           {
             "period": "21/09/2015 - 30/11/2015",
             "times": "Mo  12:00 - 13:00",
             "room": "JAMES WATT SOUTH:427A STUDIO",
-            "instructor": "Huabing Yin, Steven Neale"
+            "instructor": "Steven Neale, Huabing Yin"
+          },
+          {
+            "period": "22/09/2015 - 01/12/2015",
+            "times": "Tu  09:00 - 10:00",
+            "room": "CTT SIR ALEXANDER STONE:204",
+            "instructor": "Steven Neale, Huabing Yin"
           }
         ]
       }
@@ -12441,7 +12243,7 @@
         "id": "15577",
         "type": "Laboratory",
         "name": "LB02",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "01/03/2016 - 01/03/2016",
@@ -12549,7 +12351,7 @@
         "id": "14895",
         "type": "Laboratory",
         "name": "LB03",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "22/10/2015 - 22/10/2015",
@@ -13059,7 +12861,7 @@
         "id": "15021",
         "type": "Laboratory",
         "name": "LB02",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "26/10/2015 - 26/10/2015",
@@ -13528,8 +13330,8 @@
         "status": "Open",
         "dates": [
           {
-            "period": "02/02/2016 - 15/03/2016",
-            "times": "Tu  10:00 - 11:00",
+            "period": "01/02/2016 - 14/03/2016",
+            "times": "Mo  12:00 - 13:00",
             "room": "RANKINE:630 DRWG OFFICE",
             "instructor": "William Stewart"
           }
@@ -13680,20 +13482,6 @@
             "instructor": "Linda Brown"
           }
         ]
-      },
-      {
-        "id": "14799",
-        "type": "Tutorial",
-        "name": "TU01",
-        "status": "Open",
-        "dates": [
-          {
-            "period": "TBA",
-            "times": "TBA",
-            "room": "TBA",
-            "instructor": "Staff"
-          }
-        ]
       }
     ]
   },
@@ -13751,7 +13539,7 @@
             "period": "14/03/2016 - 14/03/2016",
             "times": "Mo  14:00 - 17:00",
             "room": "RANKINE:629 DRWG OFFICE",
-            "instructor": "William Stewart, Manousos Valyrakis"
+            "instructor": "Manousos Valyrakis, William Stewart"
           },
           {
             "period": "14/03/2016 - 14/03/2016",
@@ -13777,19 +13565,19 @@
             "period": "25/03/2016 - 25/03/2016",
             "times": "Fr  14:00 - 17:00",
             "room": "RANKINE:629 DRWG OFFICE",
-            "instructor": "William Stewart, Manousos Valyrakis"
+            "instructor": "Manousos Valyrakis, William Stewart"
           },
           {
             "period": "18/03/2016 - 18/03/2016",
             "times": "Fr  14:00 - 17:00",
             "room": "RANKINE:630 DRWG OFFICE",
-            "instructor": "Manousos Valyrakis, William Stewart"
+            "instructor": "William Stewart, Manousos Valyrakis"
           },
           {
             "period": "17/03/2016 - 17/03/2016",
             "times": "Th  14:00 - 17:00",
             "room": "RANKINE:630 DRWG OFFICE",
-            "instructor": "Manousos Valyrakis, William Stewart"
+            "instructor": "William Stewart, Manousos Valyrakis"
           },
           {
             "period": "23/11/2015 - 23/11/2015",
@@ -13813,7 +13601,7 @@
             "period": "21/01/2016 - 21/01/2016",
             "times": "Th  14:00 - 17:00",
             "room": "RANKINE:816 SEMINAR",
-            "instructor": "Staff"
+            "instructor": "Manousos Valyrakis"
           },
           {
             "period": "09/11/2015 - 09/11/2015",
@@ -13867,12 +13655,6 @@
             "period": "11/01/2016 - 21/03/2016",
             "times": "Mo  11:00 - 12:00",
             "room": "CTT RANKINE:408  LT",
-            "instructor": "Xue Jin"
-          },
-          {
-            "period": "14/01/2016 - 24/03/2016",
-            "times": "Th  11:00 - 12:00",
-            "room": "CTT GRAHAM KERR:224 MAIN LT",
             "instructor": "Xue Jin"
           }
         ]
@@ -14093,7 +13875,7 @@
         "id": "15062",
         "type": "Laboratory",
         "name": "LB01",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "12/10/2015 - 12/10/2015",
@@ -14522,16 +14304,10 @@
         "status": "Open",
         "dates": [
           {
-            "period": "15/01/2016 - 22/01/2016",
-            "times": "Fr  12:00 - 13:00",
-            "room": "CTT JAMES WATT SOUTH:355 (J10)",
-            "instructor": "Kevin Michael Ferguson"
-          },
-          {
-            "period": "13/01/2016 - 20/01/2016",
-            "times": "We  12:00 - 13:00",
-            "room": "CTT JAMES WATT SOUTH:361 (J7)",
-            "instructor": "Kevin Michael Ferguson"
+            "period": "TBA",
+            "times": "TBA",
+            "room": "TBA",
+            "instructor": "Staff"
           }
         ]
       },
@@ -14586,12 +14362,6 @@
             "times": "Fr  14:00 - 17:00",
             "room": "JAMES WATT SOUTH:712 LAB",
             "instructor": "Kevin Michael Ferguson"
-          },
-          {
-            "period": "25/09/2015 - 02/10/2015",
-            "times": "Fr  12:00 - 13:00",
-            "room": "CTT JAMES WATT SOUTH:361 (J7)",
-            "instructor": "Kevin Michael Ferguson"
           }
         ]
       },
@@ -14602,10 +14372,16 @@
         "status": "Open",
         "dates": [
           {
-            "period": "25/09/2015 - 02/10/2015",
-            "times": "Fr  09:00 - 10:00",
-            "room": "CTT JAMES WATT SOUTH:355 (J10)",
-            "instructor": "Kevin Michael Ferguson"
+            "period": "15/01/2016 - 18/03/2016",
+            "times": "Fr  12:00 - 13:00",
+            "room": "CTT BOYD ORR:513 (LT D)",
+            "instructor": "Staff"
+          },
+          {
+            "period": "25/09/2015 - 04/12/2015",
+            "times": "Fr  12:00 - 13:00",
+            "room": "CTT BOYD ORR:513 (LT D)",
+            "instructor": "Staff"
           }
         ]
       }
@@ -14760,7 +14536,7 @@
           {
             "period": "30/10/2015 - 04/12/2015",
             "times": "Fr  14:00 - 16:00",
-            "room": "RANKINE:739 LAB",
+            "room": "RANKINE:329 LAB",
             "instructor": "Christopher Pearce"
           }
         ]
@@ -14817,7 +14593,7 @@
         "id": "14888",
         "type": "Project",
         "name": "PJ01",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "13/01/2016 - 23/03/2016",
@@ -14975,7 +14751,7 @@
         "dates": [
           {
             "period": "03/02/2016 - 24/02/2016",
-            "times": "We  09:00 - 11:00",
+            "times": "We  14:00 - 16:00",
             "room": "JAMES WATT SOUTH:712 LAB",
             "instructor": "Angela Busse"
           }
@@ -15825,7 +15601,7 @@
         "id": "15320",
         "type": "Laboratory",
         "name": "LB01",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "11/11/2015 - 11/11/2015",
@@ -16308,21 +16084,9 @@
             "instructor": "Aleksandra Vuckovic, Henrik Gollee"
           },
           {
-            "period": "09/03/2016 - 23/03/2016",
+            "period": "13/01/2016 - 23/03/2016",
             "times": "We  11:00 - 12:00",
             "room": "CTT RANKINE:108 LT",
-            "instructor": "Henrik Gollee"
-          },
-          {
-            "period": "13/01/2016 - 27/01/2016",
-            "times": "We  11:00 - 12:00",
-            "room": "CTT RANKINE:108 LT",
-            "instructor": "Henrik Gollee"
-          },
-          {
-            "period": "01/02/2016 - 29/02/2016",
-            "times": "Mo  09:00 - 10:00",
-            "room": "CTT MATHS BLDG:326 (2B)",
             "instructor": "Henrik Gollee"
           }
         ]
@@ -16388,24 +16152,10 @@
         "status": "Open",
         "dates": [
           {
-            "period": "03/02/2016 - 02/03/2016",
-            "times": "We  14:00 - 17:00",
-            "room": "JAMES WATT SOUTH:544 LAB",
-            "instructor": "Euan Mcgookin"
-          }
-        ]
-      },
-      {
-        "id": "19336",
-        "type": "Laboratory",
-        "name": "LB02",
-        "status": "Open",
-        "dates": [
-          {
-            "period": "03/02/2016 - 02/03/2016",
-            "times": "We  14:00 - 17:00",
-            "room": "JAMES WATT SOUTH:544 LAB",
-            "instructor": "Euan Mcgookin"
+            "period": "TBA",
+            "times": "TBA",
+            "room": "TBA",
+            "instructor": "Staff"
           }
         ]
       },
@@ -16991,7 +16741,7 @@
         "id": "15118",
         "type": "Laboratory",
         "name": "LB01",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "05/11/2015 - 05/11/2015",
@@ -17005,7 +16755,7 @@
         "id": "15119",
         "type": "Laboratory",
         "name": "LB02",
-        "status": "Closed",
+        "status": "Open",
         "dates": [
           {
             "period": "12/11/2015 - 12/11/2015",
@@ -17161,13 +16911,13 @@
             "period": "22/09/2015 - 01/12/2015",
             "times": "Tu  10:00 - 11:00",
             "room": "JAMES WATT SOUTH:427A STUDIO",
-            "instructor": "Helen Mulvana, Julien Reboud, Thomas Franke"
+            "instructor": "Thomas Franke, Julien Reboud, Helen Mulvana"
           },
           {
             "period": "21/09/2015 - 30/11/2015",
             "times": "Mo  10:00 - 11:00",
-            "room": "JAMES WATT SOUTH:427A STUDIO",
-            "instructor": "Thomas Franke, Julien Reboud, Helen Mulvana"
+            "room": "JAMES WATT SOUTH:427B STUDIO",
+            "instructor": "Helen Mulvana, Thomas Franke, Julien Reboud"
           }
         ]
       },
@@ -17181,13 +16931,13 @@
             "period": "23/11/2015 - 23/11/2015",
             "times": "Mo  13:00 - 14:00",
             "room": "CTT RANKINE:106 LT",
-            "instructor": "Thomas Franke, Helen Mulvana, Julien Reboud"
+            "instructor": "Helen Mulvana, Thomas Franke, Julien Reboud"
           },
           {
             "period": "09/11/2015 - 09/11/2015",
             "times": "Mo  13:00 - 14:00",
             "room": "CTT RANKINE:106 LT",
-            "instructor": "Helen Mulvana, Julien Reboud, Thomas Franke"
+            "instructor": "Helen Mulvana, Thomas Franke, Julien Reboud"
           },
           {
             "period": "26/10/2015 - 26/10/2015",
@@ -17199,13 +16949,13 @@
             "period": "12/10/2015 - 12/10/2015",
             "times": "Mo  13:00 - 14:00",
             "room": "CTT RANKINE:106 LT",
-            "instructor": "Helen Mulvana, Thomas Franke, Julien Reboud"
+            "instructor": "Julien Reboud, Thomas Franke, Helen Mulvana"
           },
           {
             "period": "28/09/2015 - 28/09/2015",
             "times": "Mo  13:00 - 14:00",
             "room": "CTT RANKINE:106 LT",
-            "instructor": "Helen Mulvana, Thomas Franke, Julien Reboud"
+            "instructor": "Julien Reboud, Thomas Franke, Helen Mulvana"
           }
         ]
       }
@@ -17469,10 +17219,16 @@
             "period": "22/09/2015 - 01/12/2015",
             "times": "Tu  11:00 - 12:00",
             "room": "JAMES WATT SOUTH:334 STUDIO",
-            "instructor": "Safa Hashim, Nicholas Andrew Ahrens"
+            "instructor": "Nicholas Andrew Ahrens, Safa Hashim"
           },
           {
-            "period": "25/09/2015 - 04/12/2015",
+            "period": "30/10/2015 - 27/11/2015",
+            "times": "Fr  14:00 - 17:00",
+            "room": "JAMES WATT SOUTH:427B STUDIO",
+            "instructor": "Nicholas Andrew Ahrens, Safa Hashim"
+          },
+          {
+            "period": "02/10/2015 - 16/10/2015",
             "times": "Fr  14:00 - 17:00",
             "room": "JAMES WATT SOUTH:427B STUDIO",
             "instructor": "Nicholas Andrew Ahrens, Safa Hashim"
@@ -17486,10 +17242,10 @@
         "status": "Open",
         "dates": [
           {
-            "period": "15/01/2016 - 25/03/2016",
+            "period": "22/01/2016 - 26/02/2016",
             "times": "Fr  14:00 - 17:00",
             "room": "JAMES WATT SOUTH:427B STUDIO",
-            "instructor": "Safa Hashim, Nicholas Andrew Ahrens"
+            "instructor": "Nicholas Andrew Ahrens, Safa Hashim"
           }
         ]
       }

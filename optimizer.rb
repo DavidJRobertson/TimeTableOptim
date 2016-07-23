@@ -6,8 +6,9 @@ require_relative 'csp'
 
 class Section
   def initialize(data)
-    @type = data['type']
-    @name = data['name']
+    @type   = data['type']
+    @name   = data['name']
+    @status = data['status']
     @dates = []
     @earliest_start = 23
     day_codes = {'Su' => 0, 'Mo' => 1, 'Tu' => 2, 'We' => 3, 'Th' => 4, 'Fr' => 5, 'Sa' => 6}
@@ -24,7 +25,7 @@ class Section
       @dates.concat dts
     end
   end
-  attr_reader :type, :name, :dates, :earliest_start
+  attr_reader :type, :name, :dates, :earliest_start, :status
   def conflicts_with?(other)
     (@dates & other.dates).length > 0
   end
@@ -91,21 +92,63 @@ class TimetablingProblem < CSP
       var([course.code, :lab],      course.lab_sections)      unless course.lab_sections.empty?
     end
 
+
+
     all_pairs(@vars.keys)  { |a, b| !a.conflicts_with?(b) }
 
 
     @ban_times = [
       [], # Sun
-      [12,13], # Mon
-      [], # Tue
+      [12,13,17], # Mon
+      [17], # Tue
       [17], # Wed
-      [], # Thu
-      [], # Fri
+      [17], # Thu
+      [17], # Fri
       [], # Sat
+    ]
+
+    @already_have = [
+      [["COMPSCI 2005", :lecture],  "LC01"],
+      [["COMPSCI 2005", :tutorial], "TU01"],
+      [["COMPSCI 2005", :lab],      "LB01"],
+
+      [["COMPSCI 2007", :lecture],  "LC01"],
+      [["COMPSCI 2007", :lab],      "LB09"],
+
+      [["COMPSCI 2005", :lecture],  "LC01"],
+      [["COMPSCI 2005", :tutorial], "TU01"],
+      [["COMPSCI 2005", :lab],      "LB01"],
+
+      [["COMPSCI 2020", :lecture],  "LC01"],
+      [["COMPSCI 2020", :tutorial], "TU01"],
+      [["COMPSCI 2020", :lab],      "LB05"],
+
+      [["COMPSCI 2021", :lecture],  "LC01"],
+      [["COMPSCI 2021", :lab],      "LB06"],
+
+      [["ENG 2004", :lecture],  "LC01"],
+      [["ENG 2004", :lab],      "LB03"],
+
+      [["ENG 2020", :lecture],  "LC01"],
+      [["ENG 2020", :lab],      "LB01"],
+
+      [["ENG 2023", :lecture],  "LC01"],
+      [["ENG 2023", :lab],      "LB01"],
+
+      [["ENG 2025", :lecture],  "LC01"],
+      [["ENG 2025", :lab],      "LB02"],
+
+      [["ENG 2029", :lecture],  "LC01"],
+      [["ENG 2029", :lab],      "LB02"],
+
+      [["ENG 2086", :lecture],  "LC01"],
+      [["ENG 2086", :tutorial], "TU01"],
+
     ]
 
 
     @vars.keys.each do |key|
+      constrain(key) { |section| section.status == "Open" or @already_have.include?([key, section.name]) }
       constrain(key) do |section|
         !section.dates.any? {|d| @ban_times[d[0].wday].include? d[1] }
       end

@@ -1,4 +1,4 @@
-282 class section(s) found
+290 class section(s) found
 Collapse section COMPSCI 1001 - Computing Science - 1P  Programming COMPSCI 1001 - Computing Science - 1P Programming
 Class	Section	Status
 10425
@@ -29,7 +29,7 @@ Staff
 Class	Section	Status
 2604
 Laboratory LB02-LAB S12
-Closed
+Open
 
 Dates	Days & Times	Room	Instructor
 11/01/2016 - 21/03/2016
@@ -44,7 +44,7 @@ Staff
 Class	Section	Status
 2605
 Laboratory LB03-LAB S12
-Closed
+Open
 
 Dates	Days & Times	Room	Instructor
 11/01/2016 - 21/03/2016
@@ -59,7 +59,7 @@ Staff
 Class	Section	Status
 2606
 Laboratory LB04-LAB S12
-Closed
+Open
 
 Dates	Days & Times	Room	Instructor
 11/01/2016 - 21/03/2016
@@ -123,7 +123,7 @@ Staff
 Class	Section	Status
 2610
 Laboratory LB08-LAB S12
-Closed
+Open
 
 Dates	Days & Times	Room	Instructor
 12/01/2016 - 22/03/2016
@@ -138,7 +138,7 @@ Staff
 Class	Section	Status
 2611
 Laboratory LB09-LAB S12
-Closed
+Open
 
 Dates	Days & Times	Room	Instructor
 12/01/2016 - 22/03/2016
@@ -234,9 +234,9 @@ Staff
 Class	Section	Status
 9816
 Laboratory LB01-LAB S12
-Closed
+Open
+select
 
-closed
 Dates	Days & Times	Room	Instructor
 09/03/2016 - 09/03/2016
 We  15:00 - 16:00
@@ -262,9 +262,9 @@ Staff
 Class	Section	Status
 9817
 Laboratory LB02-LAB S12
-Closed
+Open
+select
 
-closed
 Dates	Days & Times	Room	Instructor
 09/03/2016 - 09/03/2016
 We  15:00 - 16:00
@@ -290,9 +290,9 @@ Staff
 Class	Section	Status
 9818
 Laboratory LB03-LAB S12
-Closed
+Open
+select
 
-closed
 Dates	Days & Times	Room	Instructor
 09/03/2016 - 09/03/2016
 We  15:00 - 16:00
@@ -318,9 +318,9 @@ Staff
 Class	Section	Status
 9819
 Laboratory LB04-LAB S12
-Closed
+Open
+select
 
-closed
 Dates	Days & Times	Room	Instructor
 09/03/2016 - 09/03/2016
 We  17:00 - 18:00
@@ -346,9 +346,9 @@ Staff
 Class	Section	Status
 9820
 Laboratory LB05-LAB S12
-Closed
+Open
+select
 
-closed
 Dates	Days & Times	Room	Instructor
 09/03/2016 - 09/03/2016
 We  17:00 - 18:00
@@ -374,9 +374,9 @@ Staff
 Class	Section	Status
 9821
 Laboratory LB06-LAB S12
-Closed
+Open
+select
 
-closed
 Dates	Days & Times	Room	Instructor
 10/03/2016 - 10/03/2016
 Th  10:00 - 11:00
@@ -402,9 +402,9 @@ Staff
 Class	Section	Status
 9822
 Laboratory LB07-LAB S12
-Closed
+Open
+select
 
-closed
 Dates	Days & Times	Room	Instructor
 10/03/2016 - 10/03/2016
 Th  15:00 - 16:00
@@ -430,9 +430,9 @@ Staff
 Class	Section	Status
 9823
 Laboratory LB08-LAB S12
-Closed
+Open
+select
 
-closed
 Dates	Days & Times	Room	Instructor
 10/03/2016 - 10/03/2016
 Th  15:00 - 16:00
@@ -717,7 +717,7 @@ John O'Donnell
 Class	Section	Status
 9804
 Tutorial TU01-TUT S12
-Closed
+Open
 
 Dates	Days & Times	Room	Instructor
 30/09/2015 - 02/12/2015
@@ -732,7 +732,7 @@ Staff
 Class	Section	Status
 9805
 Tutorial TU02-TUT S12
-Closed
+Open
 
 Dates	Days & Times	Room	Instructor
 30/09/2015 - 02/12/2015
@@ -747,7 +747,7 @@ Staff
 Class	Section	Status
 9806
 Tutorial TU03-TUT S12
-Closed
+Open
 
 Dates	Days & Times	Room	Instructor
 13/01/2016 - 23/03/2016
@@ -762,7 +762,7 @@ Staff
 Class	Section	Status
 9807
 Tutorial TU04-TUT S12
-Closed
+Open
 
 Dates	Days & Times	Room	Instructor
 30/09/2015 - 02/12/2015
@@ -777,7 +777,7 @@ Staff
 Class	Section	Status
 9808
 Tutorial TU05-TUT S12
-Closed
+Open
 
 Dates	Days & Times	Room	Instructor
 13/01/2016 - 23/03/2016
@@ -792,7 +792,7 @@ Staff
 Class	Section	Status
 9809
 Tutorial TU06-TUT S12
-Closed
+Open
 
 Dates	Days & Times	Room	Instructor
 01/10/2015 - 03/12/2015
@@ -807,7 +807,7 @@ Staff
 Class	Section	Status
 9810
 Tutorial TU07-TUT S12
-Closed
+Open
 
 Dates	Days & Times	Room	Instructor
 01/10/2015 - 03/12/2015
@@ -822,7 +822,7 @@ Staff
 Class	Section	Status
 9811
 Tutorial TU08-TUT S12
-Closed
+Open
 
 Dates	Days & Times	Room	Instructor
 01/10/2015 - 03/12/2015
@@ -939,30 +939,6 @@ Th  16:00 - 17:00
 CTT BOYD ORR:506
 Staff
 
-Collapse section COMPSCI 1005 - Computing Science 1P (Half Course) COMPSCI 1005 - Computing Science 1P (Half Course)
-Class	Section	Status
-19588
-Admin AD01-ADM Full Year
-Open
-
-Dates	Days & Times	Room	Instructor
-TBA
-TBA
-TBA
-Staff
-
-Collapse section COMPSCI 1006 - Computing Science 1Q (Half Course) COMPSCI 1006 - Computing Science 1Q (Half Course)
-Class	Section	Status
-19590
-Admin AD01-ADM Full Year
-Open
-
-Dates	Days & Times	Room	Instructor
-TBA
-TBA
-TBA
-Staff
-
 Collapse section COMPSCI 1016 - Computing Science - 1CT  Introduction to Computational Thinking COMPSCI 1016 - Computing Science - 1CT Introduction to Computational Thinking
 Class	Section	Status
 11596
@@ -1052,7 +1028,7 @@ Staff
 Class	Section	Status
 6412
 Laboratory LB07-LAB S1
-Closed
+Open
 
 Dates	Days & Times	Room	Instructor
 29/09/2015 - 01/12/2015
@@ -1063,7 +1039,7 @@ Staff
 Class	Section	Status
 6413
 Laboratory LB08-LAB S1
-Closed
+Open
 
 Dates	Days & Times	Room	Instructor
 29/09/2015 - 01/12/2015
@@ -1179,7 +1155,7 @@ Staff
 Class	Section	Status
 7754
 Laboratory LB06-LAB S2
-Closed
+Open
 
 Dates	Days & Times	Room	Instructor
 12/01/2016 - 22/03/2016
@@ -1380,6 +1356,114 @@ BOYD ORR:715 LAB
 Staff
 
 Class	Section	Status
+2731
+Laboratory LB07-LAB S2
+Open
+select
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+
+Class	Section	Status
+2732
+Laboratory LB08-LAB S2
+Open
+select
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+
+Class	Section	Status
+2733
+Laboratory LB09-LAB S2
+Open
+select
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+
+Class	Section	Status
+2710
+Laboratory LB10-LAB S2
+Open
+select
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+
+Class	Section	Status
+2711
+Laboratory LB11-LAB S2
+Open
+select
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+
+Class	Section	Status
+2712
+Laboratory LB12-LAB S2
+Open
+select
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+
+Class	Section	Status
+2713
+Laboratory LB13-LAB S2
+Open
+select
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+
+Class	Section	Status
+2714
+Laboratory LB14-LAB S2
+Open
+select
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+
+Class	Section	Status
+2707
+Laboratory LB15-LAB S2
+Open
+select
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+
+Class	Section	Status
 2720
 Lecture LC01-LEC S2
 Open
@@ -1460,6 +1544,105 @@ Fr  09:00 - 10:00
 CTT 25 BUTE GDNS:130
 Staff
 
+Class	Section	Status
+2715
+Tutorial TU07-TUT S2
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+
+Class	Section	Status
+2716
+Tutorial TU08-TUT S2
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+
+Class	Section	Status
+2717
+Tutorial TU09-TUT S2
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+
+Class	Section	Status
+2703
+Tutorial TU10-TUT S2
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+
+Class	Section	Status
+2709
+Tutorial TU11-TUT S2
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+
+Class	Section	Status
+2704
+Tutorial TU12-TUT S2
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+
+Class	Section	Status
+2705
+Tutorial TU13-TUT S2
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+
+Class	Section	Status
+2706
+Tutorial TU14-TUT S2
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+
+Class	Section	Status
+2708
+Tutorial TU15-TUT S2
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+
 Collapse section COMPSCI 2002 - Computing Science 2Q:  Computing Fundamentals 2 COMPSCI 2002 - Computing Science 2Q: Computing Fundamentals 2
 Class	Section	Status
 10394
@@ -1475,9 +1658,9 @@ Staff
 Class	Section	Status
 2529
 Laboratory LB01-LAB S1
-Closed
+Open
+select
 
-closed
 Dates	Days & Times	Room	Instructor
 21/10/2015 - 02/12/2015
 We  15:00 - 16:00
@@ -1722,7 +1905,7 @@ Craig MacDonald, Yolanda Vazquez-Alvarez
 Class	Section	Status
 2517
 Tutorial TU01-TUT S1
-Closed
+Open
 
 Dates	Days & Times	Room	Instructor
 30/09/2015 - 02/12/2015
@@ -1893,7 +2076,7 @@ Staff
 Class	Section	Status
 4515
 Tutorial TU02-TUT S1
-Closed
+Open
 
 Dates	Days & Times	Room	Instructor
 09/10/2015 - 04/12/2015
@@ -1904,7 +2087,7 @@ Staff
 Class	Section	Status
 4516
 Tutorial TU03-TUT S1
-Closed
+Open
 
 Dates	Days & Times	Room	Instructor
 09/10/2015 - 04/12/2015
@@ -1915,7 +2098,7 @@ Staff
 Class	Section	Status
 4517
 Tutorial TU04-TUT S1
-Closed
+Open
 
 Dates	Days & Times	Room	Instructor
 09/10/2015 - 04/12/2015
@@ -1926,7 +2109,7 @@ Staff
 Class	Section	Status
 4518
 Tutorial TU05-TUT S1
-Closed
+Open
 
 Dates	Days & Times	Room	Instructor
 09/10/2015 - 04/12/2015
@@ -2027,9 +2210,9 @@ Staff
 Class	Section	Status
 2759
 Laboratory LB02-LAB S1
-Closed
+Open
+select
 
-closed
 Dates	Days & Times	Room	Instructor
 23/11/2015 - 30/11/2015
 Mo  15:00 - 17:00
@@ -2075,9 +2258,9 @@ Staff
 Class	Section	Status
 2761
 Laboratory LB04-LAB S1
-Closed
+Open
+select
 
-closed
 Dates	Days & Times	Room	Instructor
 24/11/2015 - 01/12/2015
 Tu  15:00 - 17:00
@@ -2099,9 +2282,9 @@ Staff
 Class	Section	Status
 2762
 Laboratory LB05-LAB S1
-Closed
+Open
+select
 
-closed
 Dates	Days & Times	Room	Instructor
 25/11/2015 - 02/12/2015
 We  14:00 - 16:00
@@ -2147,9 +2330,9 @@ Staff
 Class	Section	Status
 2764
 Laboratory LB07-LAB S1
-Closed
+Open
+select
 
-closed
 Dates	Days & Times	Room	Instructor
 26/11/2015 - 03/12/2015
 Th  13:00 - 15:00
@@ -2281,7 +2464,7 @@ Staff
 Class	Section	Status
 2769
 Tutorial TU02-TUT S1
-Closed
+Open
 
 Dates	Days & Times	Room	Instructor
 16/11/2015 - 16/11/2015
@@ -2327,7 +2510,7 @@ Staff
 Class	Section	Status
 2771
 Tutorial TU04-TUT S1
-Closed
+Open
 
 Dates	Days & Times	Room	Instructor
 17/11/2015 - 17/11/2015
@@ -2350,7 +2533,7 @@ Staff
 Class	Section	Status
 2772
 Tutorial TU05-TUT S1
-Closed
+Open
 
 Dates	Days & Times	Room	Instructor
 18/11/2015 - 18/11/2015
@@ -2396,7 +2579,7 @@ Staff
 Class	Section	Status
 2774
 Tutorial TU07-TUT S1
-Closed
+Open
 
 Dates	Days & Times	Room	Instructor
 19/11/2015 - 19/11/2015
@@ -2500,7 +2683,7 @@ Staff
 Class	Section	Status
 6394
 Laboratory LB01-LAB S2
-Closed
+Open
 
 Dates	Days & Times	Room	Instructor
 14/03/2016 - 14/03/2016
@@ -2527,7 +2710,7 @@ Staff
 Class	Section	Status
 6395
 Laboratory LB02-LAB S2
-Closed
+Open
 
 Dates	Days & Times	Room	Instructor
 14/03/2016 - 14/03/2016
@@ -2554,7 +2737,7 @@ Staff
 Class	Section	Status
 6392
 Laboratory LB03-LAB S2
-Closed
+Open
 
 Dates	Days & Times	Room	Instructor
 15/03/2016 - 15/03/2016
@@ -2581,7 +2764,7 @@ Staff
 Class	Section	Status
 6393
 Laboratory LB04-LAB S2
-Closed
+Open
 
 Dates	Days & Times	Room	Instructor
 15/03/2016 - 15/03/2016
@@ -2608,7 +2791,7 @@ Staff
 Class	Section	Status
 6396
 Laboratory LB05-LAB S2
-Closed
+Open
 
 Dates	Days & Times	Room	Instructor
 16/03/2016 - 16/03/2016
@@ -2880,7 +3063,7 @@ Staff
 Class	Section	Status
 4867
 Laboratory LB01-LAB S12
-Closed
+Open
 
 Dates	Days & Times	Room	Instructor
 21/03/2016 - 21/03/2016
@@ -2911,7 +3094,7 @@ Staff
 Class	Section	Status
 4864
 Laboratory LB02-LAB S12
-Closed
+Open
 
 Dates	Days & Times	Room	Instructor
 21/03/2016 - 21/03/2016
@@ -2942,7 +3125,7 @@ Staff
 Class	Section	Status
 4865
 Laboratory LB03-LAB S12
-Closed
+Open
 
 Dates	Days & Times	Room	Instructor
 22/03/2016 - 22/03/2016
@@ -2973,7 +3156,7 @@ Staff
 Class	Section	Status
 4868
 Laboratory LB04-LAB S12
-Closed
+Open
 
 Dates	Days & Times	Room	Instructor
 22/03/2016 - 22/03/2016
@@ -3004,7 +3187,7 @@ Staff
 Class	Section	Status
 4869
 Laboratory LB05-LAB S12
-Closed
+Open
 
 Dates	Days & Times	Room	Instructor
 23/03/2016 - 23/03/2016
@@ -3251,19 +3434,19 @@ Dates	Days & Times	Room	Instructor
 13/01/2016 - 23/03/2016
 We  13:00 - 14:00
 CTT ADAM SMITH:1115
-Mary Ellen Foster, Inah Omoronyia
+Inah Omoronyia, Jeremy Singer
 11/01/2016 - 21/03/2016
 Mo  11:00 - 12:00
 CTT ADAM SMITH:1115
-Mary Ellen Foster, Inah Omoronyia
+Jeremy Singer, Inah Omoronyia
 23/09/2015 - 02/12/2015
 We  13:00 - 14:00
 CTT ADAM SMITH:1115
-Mary Ellen Foster, Inah Omoronyia
+Jeremy Singer, Inah Omoronyia
 21/09/2015 - 30/11/2015
 Mo  11:00 - 12:00
 CTT ADAM SMITH:1115
-Mary Ellen Foster, Inah Omoronyia
+Inah Omoronyia, Jeremy Singer
 
 Class	Section	Status
 4863
@@ -3274,7 +3457,7 @@ Dates	Days & Times	Room	Instructor
 15/01/2016 - 25/03/2016
 Fr  14:00 - 15:00
 CTT ADAM SMITH:1115
-Inah Omoronyia, Jeremy Singer
+Jeremy Singer, Inah Omoronyia
 02/10/2015 - 04/12/2015
 Fr  14:00 - 15:00
 CTT ADAM SMITH:1115
@@ -3295,7 +3478,7 @@ Staff
 Class	Section	Status
 2552
 Laboratory LB01-LAB S2
-Closed
+Open
 
 Dates	Days & Times	Room	Instructor
 21/03/2016 - 21/03/2016
@@ -3357,7 +3540,7 @@ Staff
 Class	Section	Status
 2543
 Laboratory LB03-LAB S2
-Closed
+Open
 
 Dates	Days & Times	Room	Instructor
 22/03/2016 - 22/03/2016
@@ -3419,7 +3602,7 @@ Staff
 Class	Section	Status
 2545
 Laboratory LB05-LAB S2
-Closed
+Open
 
 Dates	Days & Times	Room	Instructor
 23/03/2016 - 23/03/2016
@@ -3512,7 +3695,7 @@ Staff
 Class	Section	Status
 2548
 Laboratory LB08-LAB S2
-Closed
+Open
 
 Dates	Days & Times	Room	Instructor
 24/03/2016 - 24/03/2016
@@ -3740,34 +3923,6 @@ Mo  10:00 - 14:00
 CTT BOYD ORR:222 LEC THEATRE 2
 Staff
 
-Collapse section COMPSCI 3005 - Software Engineering M3 COMPSCI 3005 - Software Engineering M3
-Class	Section	Status
-19561
-Admin AD01-ADM S2
-Open
-
-Dates	Days & Times	Room	Instructor
-TBA
-TBA
-TBA
-Staff
-
-Class	Section	Status
-19524
-Lecture LC01-LEC S2
-Open
-select
-
-Dates	Days & Times	Room	Instructor
-13/01/2016 - 23/03/2016
-We  13:00 - 14:00
-CTT MATHS BLDG:516 (4A)
-Staff
-14/01/2016 - 24/03/2016
-Th  12:00 - 13:00
-CTT BOYD ORR:222 LEC THEATRE 2
-Staff
-
 Collapse section COMPSCI 4002 - Advanced Networking and Communications (H) COMPSCI 4002 - Advanced Networking and Communications (H)
 Class	Section	Status
 12497
@@ -3946,9 +4101,9 @@ Staff
 Class	Section	Status
 5679
 Laboratory LB01-LAB S1
-Closed
+Open
+select
 
-closed
 Dates	Days & Times	Room	Instructor
 29/09/2015 - 01/12/2015
 Tu  14:00 - 16:00
@@ -3958,7 +4113,7 @@ Gethin Norman
 Class	Section	Status
 5677
 Lecture LC01-LEC S1
-Closed
+Open
 
 Dates	Days & Times	Room	Instructor
 29/09/2015 - 01/12/2015
@@ -3986,21 +4141,13 @@ Closed
 closed
 Dates	Days & Times	Room	Instructor
 28/09/2015 - 30/11/2015
-Mo  15:00 - 16:00
-BOYD ORR:720 LAB
-Natalia Chechina, Phil Trinder
-
-Class	Section	Status
-7865
-Laboratory LB02-LAB S1
-Open
-select
-
-Dates	Days & Times	Room	Instructor
+Mo  15:00 - 17:00
+CTT BOYD ORR:507 (LT C)
+Phil Trinder, Jeremy Singer
 28/09/2015 - 30/11/2015
-Mo  16:00 - 17:00
-BOYD ORR:720 LAB
-Natalia Chechina, Phil Trinder
+Mo  10:00 - 12:00
+CTT BOYD ORR:507 (LT C)
+Jeremy Singer, Phil Trinder
 
 Class	Section	Status
 7867
@@ -4008,10 +4155,10 @@ Lecture LC01-LEC S1
 Open
 
 Dates	Days & Times	Room	Instructor
-28/09/2015 - 30/11/2015
-Mo  10:00 - 12:00
-CTT BOYD ORR:507 (LT C)
-Natalia Chechina, Phil Trinder
+TBA
+TBA
+TBA
+Staff
 
 Collapse section COMPSCI 4011 - Operating Systems (H) COMPSCI 4011 - Operating Systems (H)
 Class	Section	Status
@@ -4063,24 +4210,12 @@ Staff
 Class	Section	Status
 4089
 Laboratory LB01-LAB S2
-Closed
-
-closed
-Dates	Days & Times	Room	Instructor
-13/01/2016 - 16/03/2016
-We  14:00 - 15:00
-BOYD ORR:720 LAB
-Colin Perkins
-
-Class	Section	Status
-4088
-Laboratory LB02-LAB S2
 Open
 select
 
 Dates	Days & Times	Room	Instructor
 13/01/2016 - 16/03/2016
-We  15:00 - 16:00
+We  14:00 - 15:00
 BOYD ORR:720 LAB
 Colin Perkins
 
@@ -4114,9 +4249,9 @@ Staff
 Class	Section	Status
 8809
 Laboratory LB01-LAB S2
-Closed
+Open
+select
 
-closed
 Dates	Days & Times	Room	Instructor
 TBA
 TBA
@@ -4126,9 +4261,9 @@ Staff
 Class	Section	Status
 8808
 Laboratory LB02-LAB S2
-Closed
+Open
+select
 
-closed
 Dates	Days & Times	Room	Instructor
 TBA
 TBA
@@ -4138,7 +4273,7 @@ Staff
 Class	Section	Status
 8810
 Lecture LC01-LEC S2
-Closed
+Open
 
 Dates	Days & Times	Room	Instructor
 15/01/2016 - 18/03/2016
@@ -4161,9 +4296,9 @@ Staff
 Class	Section	Status
 3531
 Laboratory LB01-LAB S1
-Open
-select
+Closed
 
+closed
 Dates	Days & Times	Room	Instructor
 02/10/2015 - 04/12/2015
 Fr  14:00 - 16:00
@@ -4339,54 +4474,6 @@ Tu  14:00 - 15:00
 CTT BOYD ORR:709A/B CLASSROOM
 Stephen Brewster
 
-Collapse section COMPSCI 4024P - Individual Project (H) (Combined) COMPSCI 4024P - Individual Project (H) (Combined)
-Class	Section	Status
-19447
-Admin AD01-ADM Full Year
-Open
-
-Dates	Days & Times	Room	Instructor
-TBA
-TBA
-TBA
-Staff
-
-Class	Section	Status
-19395
-Project PJ01-PRJ Full Year
-Open
-select
-
-Dates	Days & Times	Room	Instructor
-TBA
-TBA
-TBA
-Staff
-
-Collapse section COMPSCI 4025P - Individual Project (H) (Single) COMPSCI 4025P - Individual Project (H) (Single)
-Class	Section	Status
-19445
-Admin AD01-ADM Full Year
-Open
-
-Dates	Days & Times	Room	Instructor
-TBA
-TBA
-TBA
-Staff
-
-Class	Section	Status
-19393
-Project PJ01-PRJ Full Year
-Open
-select
-
-Dates	Days & Times	Room	Instructor
-TBA
-TBA
-TBA
-Staff
-
 Collapse section COMPSCI 4031 - Modelling Reactive Systems (H) COMPSCI 4031 - Modelling Reactive Systems (H)
 Class	Section	Status
 11552
@@ -4438,9 +4525,9 @@ Dates	Days & Times	Room	Instructor
 Th  10:00 - 12:00
 CTT BOYD ORR:407 (LT A)
 Joemon Jose
-02/10/2015 - 04/12/2015
-Fr  10:00 - 11:00
-CTT BOYD ORR:513 (LT D)
+30/09/2015 - 02/12/2015
+We  12:00 - 13:00
+CTT BOYD ORR:407 (LT A)
 Joemon Jose
 
 Collapse section COMPSCI 4038 - Professional Skills and Issues (H) COMPSCI 4038 - Professional Skills and Issues (H)
@@ -5039,16 +5126,9 @@ Class	Section	Status
 19110
 Project PJ01-PRJ Full Year
 Open
-select
 
 Dates	Days & Times	Room	Instructor
 TBA
 TBA
 TBA
 Staff
-
-New Search
-Modify Search
- 	Enrollment	 	 	 	My Classes	 	 	 	My Academic Record	 	 	 	My Absence	 	 	 	My Results
- 	Add By Requirements	 	 	 	Add By Search	 	 	 	My Choices	 	 	 	Drop Courses	 	 	 	Switch Class Section	 	 	 	Enroll For Resits
-GO!

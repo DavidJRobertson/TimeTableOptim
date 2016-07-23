@@ -13,7 +13,7 @@
 
 <table class="tt" border="1">
   <tr>
-    <th>Hour starting:</th>
+    <th></th>
     <th class="tt-day">Monday</th>
     <th class="tt-day">Tuesday</th>
     <th class="tt-day">Wednesday</th>
@@ -23,7 +23,7 @@
 
   <% @weekevents.transpose.each_with_index do |hourevents, i| %>
   <tr>
-    <th><%= i+9 %></th>
+    <th><%= (i+9).to_s.rjust(2, "0") %>:00 - <%= i+10 %>:00</th>
     <% hourevents.each_with_index do |event, j| %>
     <% if (event and event[-1] != :continued) or !event %>
 

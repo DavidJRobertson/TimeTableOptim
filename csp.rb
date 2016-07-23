@@ -1,3 +1,6 @@
+
+# https://github.com/komputerwiz/csp-solver/
+
 require 'securerandom'
 
 class CSP
