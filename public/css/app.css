@@ -1,8 +1,13 @@
 /* styles go here */
 
+* {
+  box-sizing: border-box;
+}
+
 .container {
   width: 80%;
   margin: auto;
+  font-family: sans-serif;
 }
 
 table.tt {
@@ -27,4 +32,9 @@ table.tt .tt-day {
 }
 .tt-event {
   background: #bbb;
+}
+
+
+footer {
+  border-top: 2px solid black;
 }

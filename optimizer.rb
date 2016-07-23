@@ -92,10 +92,7 @@ class TimetablingProblem < CSP
       var([course.code, :lab],      course.lab_sections)      unless course.lab_sections.empty?
     end
 
-
-
     all_pairs(@vars.keys)  { |a, b| !a.conflicts_with?(b) }
-
 
     @ban_times = [
       [], # Sun
