@@ -101,51 +101,16 @@ class TimetablingProblem < CSP
 
     @ban_times = [
       [], # Sun
-      [12,13,17], # Mon
-      [17], # Tue
-      [17], # Wed
-      [17], # Thu
-      [17], # Fri
+      [], # Mon
+      [], # Tue
+      [], # Wed
+      [], # Thu
+      [], # Fri
       [], # Sat
     ]
 
     @already_have = [
-      [["COMPSCI 2005", :lecture],  "LC01"],
-      [["COMPSCI 2005", :tutorial], "TU01"],
-      [["COMPSCI 2005", :lab],      "LB01"],
-
-      [["COMPSCI 2007", :lecture],  "LC01"],
-      [["COMPSCI 2007", :lab],      "LB09"],
-
-      [["COMPSCI 2005", :lecture],  "LC01"],
-      [["COMPSCI 2005", :tutorial], "TU01"],
-      [["COMPSCI 2005", :lab],      "LB01"],
-
-      [["COMPSCI 2020", :lecture],  "LC01"],
-      [["COMPSCI 2020", :tutorial], "TU01"],
-      [["COMPSCI 2020", :lab],      "LB05"],
-
-      [["COMPSCI 2021", :lecture],  "LC01"],
-      [["COMPSCI 2021", :lab],      "LB06"],
-
-      [["ENG 2004", :lecture],  "LC01"],
-      [["ENG 2004", :lab],      "LB03"],
-
-      [["ENG 2020", :lecture],  "LC01"],
-      [["ENG 2020", :lab],      "LB01"],
-
-      [["ENG 2023", :lecture],  "LC01"],
-      [["ENG 2023", :lab],      "LB01"],
-
-      [["ENG 2025", :lecture],  "LC01"],
-      [["ENG 2025", :lab],      "LB02"],
-
-      [["ENG 2029", :lecture],  "LC01"],
-      [["ENG 2029", :lab],      "LB02"],
-
-      [["ENG 2086", :lecture],  "LC01"],
-      [["ENG 2086", :tutorial], "TU01"],
-
+      #[["COMPSCI 2005", :lecture],  "LC01"]
     ]
 
 

@@ -78,7 +78,7 @@ class TimetableOptim < Sinatra::Base
     @solution = @problem.solve
 
     @weekcode = params[:week] ? params[:week].to_i : 1
-    weekindex = Date.parse('2015-09-21')
+    weekindex = Date.parse('2016-09-19')
     @weekstart = weekindex + ((@weekcode - 1) * 7)
 
     @weekevents = [
