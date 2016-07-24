@@ -3,7 +3,7 @@
 IMPORTANT
 [ ] Add support for arbitrary section types !important
 [ ] Fetch up-to-date and complete class data [on morning of enrolment opening]
-[ ] Make timetable view AJAX-y
+[x] Make timetable view AJAX-y
 [ ] Add interface for adding custom constraints
 
 NICE

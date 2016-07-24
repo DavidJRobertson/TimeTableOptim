@@ -3,6 +3,12 @@
 ### RUN AS:
 ### ruby paste-convert.rb inputfile.txt > outputfile.json
 
+### HOW TO OBTAIN DATA:
+### /Using Google Chrome/ log into UofG mycampus, navigate to
+### enrollment > enroll by search. Then perform as broad a search as it will
+### let you. Hit ctrl-a ctrl-c to copy all the page text, paste into a text file,
+### then use this script to convert to json.
+
 
 require 'json'
 

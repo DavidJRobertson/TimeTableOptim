@@ -88,22 +88,27 @@ $(function() {
   $(".tt-jump").click(function(e) {
     e.preventDefault();
   });
-  $("#tt-jump-prev").click(function () {
+  $("#tt-jump-prev").click(function() {
     weekNumber = weekNumber - 1;
     updateTimetable(solution, weekNumber);
   })
-  $("#tt-jump-next").click(function () {
+  $("#tt-jump-next").click(function() {
     weekNumber = weekNumber + 1;
     updateTimetable(solution, weekNumber);
   })
-  $("#tt-jump-sem1").click(function () {
+  $("#tt-jump-sem1").click(function() {
     weekNumber = 1;
     updateTimetable(solution, weekNumber);
   })
-  $("#tt-jump-sem2").click(function () {
+  $("#tt-jump-sem2").click(function() {
     weekNumber = 17; // XXX: calculate this value from data sent by server
     updateTimetable(solution, weekNumber);
   })
+
+
+  $(".tt-cell").click(function(e) {
+    console.log(e.target);
+  });
 
   function spaCoursesUpdated(courses) {
     getSolutionData(extractCoursesFromInput(), function(data) {
