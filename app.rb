@@ -28,7 +28,7 @@ class TimetableOptim < Sinatra::Base
     end
   end
 
-  get '/spa' do
+  get '/' do
     erb :spa
   end
 
@@ -66,7 +66,7 @@ class TimetableOptim < Sinatra::Base
 
 
   # OLD NON-SPA STUFF BELOW
-  post '/' do
+  post '/old' do
     session[:course_codes] ||= []
 
     if params[:add_course]
@@ -79,14 +79,14 @@ class TimetableOptim < Sinatra::Base
     @courses = Course.hash.values_at(*session[:course_codes])
     erb :index
   end
-  get '/' do
+  get '/old' do
     session[:course_codes] ||= []
     @courses = Course.hash.values_at(*session[:course_codes])
     erb :index
   end
   get '/clear' do
     session[:course_codes] = []
-    redirect '/'
+    redirect '/old'
   end
   get '/timetable' do
     @courses  = Course.hash.values_at(*session[:course_codes])
