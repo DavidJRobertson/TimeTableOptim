@@ -5,7 +5,8 @@ require 'json'
 require_relative 'csp'
 
 class Section
-  def initialize(data)
+  def initialize(data, course)
+    @course = course
     @type   = data['type']
     @name   = data['name']
     @status = data['status']
@@ -25,9 +26,13 @@ class Section
       @dates.concat dts
     end
   end
-  attr_reader :type, :name, :dates, :earliest_start, :status
+  attr_reader :course, :type, :name, :dates, :earliest_start, :status
   def conflicts_with?(other)
     (@dates & other.dates).length > 0
+  end
+
+  def to_json(options=nil)
+    {'course' => @course, 'type' => @type, 'name' => @name, 'status' => @status, 'dates' => @dates}.to_json
   end
 end
 
@@ -61,7 +66,7 @@ class Course
   def initialize(data)
     @code  = data['code']
     @title = data['title']
-    @sections = data['sections'].reject { |s| s['type'] == 'Admin' }.map { |sd| Section.new(sd) }
+    @sections = data['sections'].reject { |s| s['type'] == 'Admin' }.map { |sd| Section.new(sd, @code) }
 
     @lecture_sections  = []
     @tutorial_sections = []
@@ -109,7 +114,6 @@ class TimetablingProblem < CSP
     @already_have = [
       #[["COMPSCI 2005", :lecture],  "LC01"]
     ]
-
 
     @vars.keys.each do |key|
       constrain(key) { |section| section.status == "Open" or @already_have.include?([key, section.name]) }

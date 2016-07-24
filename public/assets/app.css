@@ -45,6 +45,10 @@ table.tt .tt-day {
   background: #bbb;
 }
 
+hr {
+  border: 1px solid #ccc;
+}
+
 
 footer {
   border-top: 2px solid #ccc;

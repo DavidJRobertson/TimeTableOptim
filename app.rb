@@ -28,7 +28,12 @@ class TimetableOptim < Sinatra::Base
     end
   end
 
+  get '/spa' do
+    erb :spa
+  end
+
   get '/course_search' do
+    # Data for the autocomplete box
     if params[:q]
       @courses = Course.search params[:q]
     else
@@ -38,7 +43,28 @@ class TimetableOptim < Sinatra::Base
     json @courses
   end
 
+  post '/solve' do
+    @courses  = Course.hash.values_at(*params["courses"].uniq)
 
+    @problem  = TimetablingProblem.new @courses
+    @solution = @problem.solve
+
+    json({
+      "start_dates" => {
+        "semester_1": "2016-09-19",
+        "semester_2": "2017-01-09"
+      },
+
+      "sections" => @solution.values,
+
+      "printout" => @problem.print(@solution)
+    })
+  end
+
+
+
+
+  # OLD NON-SPA STUFF BELOW
   post '/' do
     session[:course_codes] ||= []
 
@@ -49,36 +75,18 @@ class TimetableOptim < Sinatra::Base
         session[:course_codes].sort!
       end
     end
-
     @courses = Course.hash.values_at(*session[:course_codes])
-
     erb :index
   end
-
   get '/' do
     session[:course_codes] ||= []
-
     @courses = Course.hash.values_at(*session[:course_codes])
-
     erb :index
   end
-
   get '/clear' do
     session[:course_codes] = []
-    if params[:djr]
-      session[:course_codes] = ["COMPSCI...??"]
-    end
-
     redirect '/'
   end
-
-  get '/solve' do
-
-
-
-  end
-
-
   get '/timetable' do
     @courses  = Course.hash.values_at(*session[:course_codes])
     @problem  = TimetablingProblem.new @courses
