@@ -85,6 +85,9 @@ $(function() {
     });
   }
 
+  $(".tt-jump").click(function(e) {
+    e.preventDefault();
+  });
   $("#tt-jump-prev").click(function () {
     weekNumber = weekNumber - 1;
     updateTimetable(solution, weekNumber);
