@@ -59,33 +59,27 @@ class Course
     end
   end
 
-  def to_json(options=nil)
-    {'code' => @code, 'title' => @title}.to_json
-  end
+
 
   def initialize(data)
     @code  = data['code']
     @title = data['title']
     @sections = data['sections'].reject { |s| s['type'] == 'Admin' }.map { |sd| Section.new(sd, @code) }
 
-    @lecture_sections  = []
-    @tutorial_sections = []
-    @lab_sections      = []
+    @sections_by_type = {}
 
     @sections.each do |section|
-      case section.type
-      when 'Lecture'
-        @lecture_sections  << section
-      when 'Tutorial'
-        @tutorial_sections << section
-      when 'Laboratory'
-        @lab_sections      << section
-      else
-        puts "FOUND UNKNOWN SECTION TYPE #{section.type}"
+      if not @sections_by_type.has_key? section.type
+        @sections_by_type[section.type] = []
       end
+      @sections_by_type[section.type] << section
     end
   end
-  attr_reader :code, :title, :sections, :lecture_sections, :tutorial_sections, :lab_sections
+  attr_reader :code, :title, :sections, :sections_by_type
+
+  def to_json(options=nil)
+    {'code' => @code, 'title' => @title}.to_json
+  end
 end
 
 class TimetablingProblem < CSP
@@ -94,9 +88,9 @@ class TimetablingProblem < CSP
     @courses = courses
 
     @courses.each do |course|
-      var([course.code, :lecture],  course.lecture_sections)  unless course.lecture_sections.empty?
-      var([course.code, :tutorial], course.tutorial_sections) unless course.tutorial_sections.empty?
-      var([course.code, :lab],      course.lab_sections)      unless course.lab_sections.empty?
+      course.sections_by_type.keys.each do |section_type|
+        var([course.code, section_type], course.sections_by_type[section_type])
+      end
     end
 
     all_pairs(@vars.keys)  { |a, b| !a.conflicts_with?(b) }
@@ -112,7 +106,7 @@ class TimetablingProblem < CSP
     ]
 
     @already_have = [
-      #[["COMPSCI 2005", :lecture],  "LC01"]
+      #[["COMPSCI 2005", "Lecture"],  "LC01"]
     ]
 
     @vars.keys.each do |key|
