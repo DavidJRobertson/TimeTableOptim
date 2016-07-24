@@ -37,8 +37,17 @@ class TimetableOptim < Sinatra::Base
 
   post '/solve' do
     # Endpoint to solve the TSP
-    @courses  = Course.hash.values_at(*params["courses"].uniq)
-    @problem  = TimetablingProblem.new @courses
+    params["courses"].uniq!
+    @courses  = Course.hash.values_at(*params["courses"])
+
+    invalid = []
+    @courses.each_with_index { |v, i| invalid << params["courses"][i] if v.nil? }
+    if not invalid.empty?
+      status 400
+      return json({error: { id: "invalid_course", invalid_courses: invalid, message: "Unrecognised course: "+invalid.join(", ") }})
+    end
+
+    @problem  = TimetablingProblem.new(@courses)
     @solution = @problem.solve
 
     json({

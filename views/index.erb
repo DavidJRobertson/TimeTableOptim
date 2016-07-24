@@ -1,7 +1,7 @@
 <label for="spa-search">Enter all of your courses:</label>
 <input id="spa-search" type="text" name="add_course" style="width: 60%;" placeholder="Course title or code" autofocus />
 
-<div id="solution" style="/*display: none;*/">
+<div id="solution-pane" style="display: none;">
   <hr />
 
   <p style="float: left;">
@@ -43,7 +43,15 @@
   </p>
 </div>
 
-<div id="no-solution" style="display: none;">
+<div id="error-pane" style="display: none;">
+  <hr />
+
+  <h3>Error</h3>
+  <p id="error-message"></p>
+</div>
+
+
+<div id="no-solution-pane" style="display: none;">
   <hr />
 
   <p>No solution found :(</p>

@@ -22,7 +22,7 @@ $(function() {
     return ar;
   }
 
-  function getSolutionData(courses, callback) {
+  function getSolutionData(courses, success_callback, failure_callback) {
     $.ajax({
       url: '/solve',
       method: 'POST',
@@ -30,7 +30,13 @@ $(function() {
       data: { courses: courses },
       success: function(data) {
         solution = data;
-        callback(data);
+        success_callback(data);
+      },
+      error: function(data) {
+        console.log(data);
+        if (failure_callback) {
+          failure_callback(data);
+        }
       }
     });
   }
@@ -112,6 +118,8 @@ $(function() {
 
   function spaCoursesUpdated(courses) {
     getSolutionData(extractCoursesFromInput(), function(data) {
+      // Success
+
       console.log(data);
 
       // Course choices list
@@ -120,6 +128,16 @@ $(function() {
       // Timetable
       weekNumber = 1;
       updateTimetable(data, weekNumber);
+
+      $("#solution-pane").show();
+      $("#no-solution-pane").hide();
+      $("#error-pane").hide();
+    }, function(data) {
+      // Failure
+      $("#error-message").text(data.responseJSON["error"]["message"]);
+      $("#solution-pane").hide();
+      $("#no-solution-pane").hide();
+      $("#error-pane").show();
     });
   }
 
