@@ -1,6 +1,12 @@
 <a href="/">Return to class selection</a>
 
 <% if @solution %>
+
+<p>
+  Course choices:
+  <pre><%= @problem.print(@solution) %></pre>
+</p>
+
 <p>Week beginning: <%= @weekstart.to_s %> [<%= @weekcode %>]</p>
 <p style="float: left;">
   <a href="?week=<%= @weekcode - 1 %>">Previous week</a>
@@ -42,10 +48,7 @@
 </table>
 
 
-<p>
-  Course choices:
-  <pre><%= @problem.print(@solution) %></pre>
-</p>
+
 
 <% else %>
 
