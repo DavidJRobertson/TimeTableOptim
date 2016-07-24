@@ -30,17 +30,12 @@ class Section
     (@dates & other.dates).length > 0
   end
 end
+
 class Course
   @@courses = {}
   def self.load_file(path)
     data = JSON.parse(File.read(path))
     data.each { |cd| @@courses[cd['code']] = Course.new(cd) }
-  end
-  def self.load_all()
-    files = Dir["./data/*.json"]
-    files.each do |file|
-      self.load_file(file)
-    end
   end
   def self.all
     @@courses.values
@@ -80,6 +75,8 @@ class Course
         @tutorial_sections << section
       when 'Laboratory'
         @lab_sections      << section
+      else
+        puts "FOUND UNKNOWN SECTION TYPE #{section.type}"
       end
     end
   end
@@ -123,6 +120,8 @@ class TimetablingProblem < CSP
   end
   attr_reader :courses, :ban_times
 
+
+
   def print(solution)
     res = ""
     if solution
@@ -142,26 +141,13 @@ class TimetablingProblem < CSP
     end
     return res
   end
-  def print!(solution)
-    puts print(solution)
-  end
-  def print_concise!(solution)
-    if solution
-      solution.keys.sort.each do |key|
-        puts key.first + ' ' + key.last.to_s.capitalize + ' => ' + solution[key].name
-      end
-    else
-      puts "No solution found."
-    end
-  end
 end
 
-Course.load_all
+Course.load_file("./data/class-data.json")
 
 if __FILE__ == $0
   courses = JSON.parse(File.read('./data/djr.json')).map { |cd| Course.new(cd) }
   problem = TimetablingProblem.new(courses)
   solution = problem.solve
-  #problem.print_concise!(solution)
-  problem.print!(solution)
+  puts problem.print(solution)
 end

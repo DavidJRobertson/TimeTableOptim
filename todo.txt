@@ -1,0 +1,12 @@
+! TODO LIST !
+
+IMPORTANT
+[ ] Add support for arbitrary section types !important
+[ ] Fetch up-to-date and complete class data [on morning of enrolment opening]
+[ ] Make timetable view AJAX-y
+[ ] Add interface for adding custom constraints
+
+NICE
+[ ] Make class section output prettier
+[ ] Add support for non-hour-aligned and unusual-length classes
+[ ] Obtain number of credits data for all courses and display this

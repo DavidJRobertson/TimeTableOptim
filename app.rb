@@ -72,6 +72,13 @@ class TimetableOptim < Sinatra::Base
     redirect '/'
   end
 
+  get '/solve' do
+
+
+
+  end
+
+
   get '/timetable' do
     @courses  = Course.hash.values_at(*session[:course_codes])
     @problem  = TimetablingProblem.new @courses
