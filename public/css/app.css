@@ -7,7 +7,18 @@
 .container {
   width: 80%;
   margin: 20px auto;
-  font-family: sans-serif;
+  font-family: museo-slab, serif;
+}
+
+a {
+  color: #444;
+}
+a:hover {
+  color: #999;
+}
+
+h1, h2, h3, h4, h5, h6, th {
+  font-family: proxima-nova, sans-serif;
 }
 
 table.tt {
@@ -36,5 +47,66 @@ table.tt .tt-day {
 
 
 footer {
-  border-top: 2px solid black;
+  border-top: 2px solid #ccc;
+  color: #ccc;
+}
+footer a {
+  color: #aaa;
+}
+footer a:hover {
+  color: #666;
+}
+
+
+
+/* FONTS */
+
+@font-face {
+  font-family: 'proxima-nova';
+  src: url('fonts/proximanova-bold-webfont-webfont.eot');
+  src: url('fonts/proximanova-bold-webfont-webfont.eot?#iefix') format('embedded-opentype'),
+    url('fonts/proximanova-bold-webfont-webfont.woff') format('woff'),
+    url('fonts/proximanova-bold-webfont-webfont.ttf') format('truetype'),
+    url('fonts/proximanova-bold-webfont-webfont.svg#ProximaNovaBold') format('svg');
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'proxima-nova';
+  src: url('fonts/proximanova-semibold-webfont-webfont.eot');
+  src: url('fonts/proximanova-semibold-webfont-webfont.eot?#iefix') format('embedded-opentype'),
+    url('fonts/proximanova-semibold-webfont-webfont.woff') format('woff'),
+    url('fonts/proximanova-semibold-webfont-webfont.ttf') format('truetype'),
+    url('fonts/proximanova-semibold-webfont-webfont.svg#ProximaNovaSemibold') format('svg');
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'proxima-nova';
+  src: url('fonts/proximanova-regular-webfont-webfont.eot');
+  src: url('fonts/proximanova-regular-webfont-webfont.eot?#iefix') format('embedded-opentype'),
+    url('fonts/proximanova-regular-webfont-webfont.woff') format('woff'),
+    url('fonts/proximanova-regular-webfont-webfont.ttf') format('truetype'),
+    url('fonts/proximanova-regular-webfont-webfont.svg#ProximaNovaRegular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'proxima-nova';
+  src: url('fonts/proximanova-regularitalic-webfont-webfont.eot');
+  src: url('fonts/proximanova-regularitalic-webfont-webfont.eot?#iefix') format('embedded-opentype'),
+    url('fonts/proximanova-regularitalic-webfont-webfont.woff') format('woff'),
+    url('fonts/proximanova-regularitalic-webfont-webfont.ttf') format('truetype'),
+    url('fonts/proximanova-regularitalic-webfont-webfont.svg#ProximaNovaRegularItalic') format('svg');
+  font-weight: normal;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'museo-slab';
+  src: url('fonts/museoslab-300-webfont.eot');
+  src: url('fonts/museoslab-300-webfont.eot?#iefix') format('embedded-opentype'),
+    url('fonts/museoslab-300-webfont.woff') format('woff'),
+    url('fonts/museoslab-300-webfont.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
 }
