@@ -55,6 +55,7 @@ class TimetableOptim < Sinatra::Base
         "semester_2": "2017-01-09"
       },
 
+      "courses"  => @courses.map{|c| {c.code => c.title} }.inject(:merge),
       "sections" => @solution.values,
 
       "printout" => @problem.print(@solution)

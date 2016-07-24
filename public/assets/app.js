@@ -1,23 +1,6 @@
 $(function() {
-
-  $("#search").autocomplete({
-    source: function(request, response) {
-      $.ajax({
-        url: '/course_search',
-        dataType: 'json',
-        data: { q: request.term },
-        success: function(data) {
-          var results = $.map(data, function(course, index) {
-            return { id: course.code, label: course.code+": "+course.title, value: course.code};
-          });
-          response(results);
-        }
-      });
-    }
-  });
-
-
-  /* SINGLE PAGE APP */
+  var weekNumber = 1;
+  var solution = {};
 
   function split(val) {
     return val.split(/,\s*/);
@@ -29,14 +12,6 @@ $(function() {
     var result = new Date(date);
     result.setDate(result.getDate() + days);
     return result;
-  }
-
-  function transposeArray(array) {
-    return array[0].map(function(col, i) {
-      return array.map(function(row) {
-        return row[i]
-      })
-    });
   }
 
   function extractCoursesFromInput() {
@@ -54,14 +29,80 @@ $(function() {
       dataType: 'json',
       data: { courses: courses },
       success: function(data) {
+        solution = data;
         callback(data);
       }
     });
   }
 
-  function spaCoursesUpdated(courses) {
-    console.log("spaCoursesUpdated", extractCoursesFromInput());
+  function updateTimetable(data, weekCode) {
+    // clear out the timetable entirely
+    $(".tt-cell").html("");
+    $(".tt-cell").removeClass("tt-event");
 
+    // now insert the new data
+    var weekIndex = new Date(data["start_dates"]["semester_1"] + " 13:00");
+    var weekStart = addDays(weekIndex, ((weekCode-1)*7));
+    var weekEnd = addDays(weekStart, 7);
+
+    $("#tt-week-code").html(weekCode);
+    $("#tt-week-start").html(weekStart.toISOString().slice(0, 10));
+
+    var weekEvents = [
+      // 9   10   11   12   13   14   15   16   17
+      [null, null, null, null, null, null, null, null, null], // Mon
+      [null, null, null, null, null, null, null, null, null], // Tue
+      [null, null, null, null, null, null, null, null, null], // Wed
+      [null, null, null, null, null, null, null, null, null], // Thu
+      [null, null, null, null, null, null, null, null, null]  // Fri
+    ]
+
+
+    var courses  = data["courses"];
+    var sections = data["sections"];
+    $.each(sections, function(sectionIndex, section) {
+      $.each(section["dates"], function(dateIndex, secDate) {
+        var d = new Date(secDate[0] + " 13:00");
+        if (d >= weekStart && d < weekEnd) {
+          var day  = (d - weekStart)/(1000*60*60*24); // day of week
+          var time = secDate[1];
+          var val = {"course": section["course"], "section": section["name"], "type": section["type"]};
+          weekEvents[day][time-9] = val;
+          // todo: join long sections together
+        }
+      });
+    });
+
+    $.each(weekEvents, function(day, dayEvents) {
+      $.each(dayEvents, function(i, event) {
+        var hour = i + 9;
+        if (event != null) {
+          var cell = $(".tt-cell[data-day="+day+"][data-hour="+hour+"]");
+          cell.html(event["course"]+": "+event["section"]+" ("+event["type"]+") <br />"+courses[event["course"]]);
+          cell.addClass("tt-event");
+        }
+      });
+    });
+  }
+
+  $("#tt-jump-prev").click(function () {
+    weekNumber = weekNumber - 1;
+    updateTimetable(solution, weekNumber);
+  })
+  $("#tt-jump-next").click(function () {
+    weekNumber = weekNumber + 1;
+    updateTimetable(solution, weekNumber);
+  })
+  $("#tt-jump-sem1").click(function () {
+    weekNumber = 1;
+    updateTimetable(solution, weekNumber);
+  })
+  $("#tt-jump-sem2").click(function () {
+    weekNumber = 17; // XXX: calculate this value from data sent by server
+    updateTimetable(solution, weekNumber);
+  })
+
+  function spaCoursesUpdated(courses) {
     getSolutionData(extractCoursesFromInput(), function(data) {
       console.log(data);
 
@@ -69,88 +110,8 @@ $(function() {
       $("#solution-printout").html(data["printout"]);
 
       // Timetable
-      var weekCode = 1; // XXX allow this to be altered.
-      var weekIndex = new Date(data["start_dates"]["semester_1"]);
-      var weekStart = addDays(weekIndex, ((weekCode-1)*7));
-      var weekEnd = addDays(weekStart, 7);
-
-      var weekEvents = [
-        // 9   10   11   12   13   14   15   16   17
-        [null, null, null, null, null, null, null, null, null], // Mon
-        [null, null, null, null, null, null, null, null, null], // Tue
-        [null, null, null, null, null, null, null, null, null], // Wed
-        [null, null, null, null, null, null, null, null, null], // Thu
-        [null, null, null, null, null, null, null, null, null]  // Fri
-      ]
-
-      var sections = data["sections"];
-      $.each(sections, function(sectionIndex, section) {
-        $.each(section["dates"], function(dateIndex, secDate) {
-          var d = new Date(secDate[0]);
-          if (d >= weekStart && d < weekEnd) {
-            var day  = (d - weekStart)/(1000*60*60*24); // day of week
-            var time = secDate[1];
-            var val = {"course": section["course"], "section": section["name"]};
-            weekEvents[day][time-9] = val;
-            // todo: join long sections together
-          }
-        });
-      });
-
-      //var transposedWeekEvents = transposeArray(weekEvents);
-      $.each(weekEvents, function(day, dayEvents) {
-        console.log(dayEvents);
-        $.each(dayEvents, function(i, event) {
-          var hour = i + 9;
-          if (event != null) {
-            var cell = $(".tt-cell[data-day="+day+"][data-hour="+hour+"]");
-            cell.html(event["course"]+": "+event["section"]);
-            cell.addClass("tt-event");
-          }
-        });
-      });
-
-      /*
-        @solution.each do |classec, section|
-
-          section.dates.each do |secdate|
-            if secdate[0] >= @weekstart and secdate[0] < @weekstart+7
-              day = (secdate[0] - @weekstart).to_i
-              time = secdate[1]-9
-              val = [classec[0], section.name]
-              @weekevents[day][time] = val.dup
-              @weekevents[day][time] << 1
-
-
-              prev = @weekevents[day][time-1]
-              if prev and prev[0..1] == val
-                @weekevents[day][time] << :continued
-
-                l = 1
-                while @weekevents[day][time-l] and @weekevents[day][time-l][0..1] == val
-                  l += 1
-                end
-                @weekevents[day][time-l+1][2] = l
-              end
-
-            end
-
-          end
-        end
-      */
-
-
-
-
-
-
-
-
-
-
-
-
-
+      weekNumber = 1;
+      updateTimetable(data, weekNumber);
     });
   }
 

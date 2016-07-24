@@ -21,3 +21,25 @@
   <a href="/clear" rel="nofollow">Clear selection</a>
 </p>
 <% end %>
+
+
+
+<script>
+  $(function() {
+    $("#search").autocomplete({
+      source: function(request, response) {
+        $.ajax({
+          url: '/course_search',
+          dataType: 'json',
+          data: { q: request.term },
+          success: function(data) {
+            var results = $.map(data, function(course, index) {
+              return { id: course.code, label: course.code+": "+course.title, value: course.code};
+            });
+            response(results);
+          }
+        });
+      }
+    });
+  });
+</script>

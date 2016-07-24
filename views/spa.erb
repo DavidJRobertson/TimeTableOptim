@@ -9,17 +9,17 @@
 <div class="solution" style="/*display: none;*/">
   <hr />
 
-  <!--
+
   <p style="float: left;">
-    <span>Week beginning: <#%= @weekstart.to_s %> [<#%= @weekcode %>]</span>
-    <a href="?week=<#%= @weekcode - 1 %>">Previous</a>
-    <a href="?week=<#%= @weekcode + 1 %>">Next</a>
+    <span>Week beginning: <span id="tt-week-start"></span> [<span id="tt-week-code"></span>]</span>
+    <a href="#" class="tt-jump" id="tt-jump-prev">Previous</a>
+    <a href="#" class="tt-jump" id="tt-jump-next">Next</a>
   </p>
   <p style="float: right;">Jump to start:
-    <a href="?week=1" >Semester 1</a>
-    <a href="?week=17">Semester 2</a>
+    <a href="#" class="tt-jump" id="tt-jump-sem1">Semester 1</a>
+    <a href="#" class="tt-jump" id="tt-jump-sem2">Semester 2</a>
   </p>
-  -->
+
 
   <table class="tt" border="1">
     <tr>
