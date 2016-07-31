@@ -36,7 +36,7 @@ class TimetableOptim < Sinatra::Base
   end
 
   post '/solve' do
-    # Endpoint to solve the TSP
+    # Endpoint to solve the CSP
     params["courses"].uniq!
     @courses  = Course.hash.values_at(*params["courses"])
 
