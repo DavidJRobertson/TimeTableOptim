@@ -1,7 +1,7 @@
 Search for Classes
 Search Results
 University of Glasgow | Academic Year 2016-17
-The following classes match your search criteria Course Subject: Earth Sciences,  Course Career: Undergraduate,  Show Open Classes Only: No
+The following classes match your search criteria Course Subject: Earth Sciences,  Course Career: Undergraduate,  Show Open Classes Only: Yes
 My Timetable
 Open
 Closed
@@ -11,7 +11,729 @@ Closed
 Wait List
 New Search
 Modify Search
-6 class section(s) found
+116 class section(s) found
+Collapse section EARTH 1001 - Earth Science 1X: Introduction To The Earth EARTH 1001 - Earth Science 1X: Introduction To The Earth
+Class	Section	Status
+17614
+Admin AD01-ADM S1
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+17346
+Laboratory LB01-LAB S1
+Open
+
+Dates	Days & Times	Room	Instructor
+16/11/2016 - 16/11/2016
+We  14:00 - 16:00
+GREGORY BLDG:227 LAB
+Iain Neill
+Class	Section	Status
+17345
+Laboratory LB02-LAB S1
+Open
+
+Dates	Days & Times	Room	Instructor
+22/09/2016 - 01/12/2016
+Th  13:00 - 15:00
+GREGORY BLDG:227 LAB
+Iain Neill
+Class	Section	Status
+17344
+Laboratory LB03-LAB S1
+Open
+
+Dates	Days & Times	Room	Instructor
+22/09/2016 - 01/12/2016
+Th  15:00 - 17:00
+GREGORY BLDG:227 LAB
+Iain Neill
+Class	Section	Status
+17343
+Laboratory LB04-LAB S1
+Open
+
+Dates	Days & Times	Room	Instructor
+23/09/2016 - 02/12/2016
+Fr  10:00 - 12:00
+GREGORY BLDG:227 LAB
+Iain Neill
+Class	Section	Status
+17342
+Laboratory LB05-LAB S1
+Open
+
+Dates	Days & Times	Room	Instructor
+23/09/2016 - 02/12/2016
+Fr  14:00 - 16:00
+GREGORY BLDG:227 LAB
+Iain Neill
+Class	Section	Status
+17347
+Lecture LC01-LEC S1
+Open
+
+Dates	Days & Times	Room	Instructor
+18/10/2016 - 18/10/2016
+Tu  09:00 - 10:00
+CTT BOYD ORR:222 LEC THEATRE 2
+Brian Bell
+20/10/2016 - 20/10/2016
+Th  09:00 - 10:00
+CTT KELVIN:257 MAIN LT
+Martin Lee
+23/09/2016 - 23/09/2016
+Fr  09:00 - 10:00
+CTT THOMSON BLDG:236 ANATOMY
+Iain Neill
+24/11/2016 - 24/11/2016
+Th  09:00 - 10:00
+CTT WILT:105 LECT
+Gordon Curry
+27/09/2016 - 27/09/2016
+Tu  09:00 - 10:00
+CTT WILT:105 LECT
+Gordon Curry
+04/10/2016 - 04/10/2016
+Tu  09:00 - 10:00
+CTT WILT:105 LECT
+Gordon Curry
+01/11/2016 - 01/11/2016
+Tu  09:00 - 10:00
+CTT WILT:105 LECT
+Gordon Curry
+11/10/2016 - 11/10/2016
+Tu  09:00 - 10:00
+CTT WILT:105 LECT
+Brian Bell
+25/10/2016 - 25/10/2016
+Tu  09:00 - 10:00
+CTT WILT:105 LECT
+Brian Bell
+08/11/2016 - 08/11/2016
+Tu  09:00 - 10:00
+CTT WILT:105 LECT
+Tim Dempster
+15/11/2016 - 15/11/2016
+Tu  09:00 - 10:00
+CTT WILT:105 LECT
+Tim Dempster
+20/09/2016 - 20/09/2016
+Tu  09:00 - 10:00
+CTT WILT:105 LECT
+Iain Neill
+22/11/2016 - 22/11/2016
+Tu  09:00 - 10:00
+CTT WILT:105 LECT
+Gordon Curry
+13/10/2016 - 13/10/2016
+Th  09:00 - 10:00
+CTT KELVIN:257 MAIN LT
+Martin Lee
+10/11/2016 - 10/11/2016
+Th  09:00 - 10:00
+CTT KELVIN:257 MAIN LT
+Tim Dempster
+03/11/2016 - 03/11/2016
+Th  09:00 - 10:00
+CTT WILT:105 LECT
+Gordon Curry
+06/10/2016 - 06/10/2016
+Th  09:00 - 10:00
+CTT WILT:105 LECT
+Gordon Curry
+29/09/2016 - 29/09/2016
+Th  09:00 - 10:00
+CTT WILT:105 LECT
+Iain Neill
+22/09/2016 - 22/09/2016
+Th  09:00 - 10:00
+CTT WILT:105 LECT
+Iain Neill
+27/10/2016 - 27/10/2016
+Th  09:00 - 10:00
+CTT WILT:105 LECT
+Gordon Curry
+30/09/2016 - 30/09/2016
+Fr  09:00 - 10:00
+CTT THOMSON BLDG:236 ANATOMY
+Iain Neill
+04/11/2016 - 04/11/2016
+Fr  09:00 - 10:00
+CTT THOMSON BLDG:236 ANATOMY
+Iain Neill
+11/11/2016 - 11/11/2016
+Fr  09:00 - 10:00
+CTT THOMSON BLDG:236 ANATOMY
+Iain Neill
+07/10/2016 - 07/10/2016
+Fr  09:00 - 10:00
+CTT THOMSON BLDG:236 ANATOMY
+Martin Lee
+28/10/2016 - 28/10/2016
+Fr  09:00 - 10:00
+CTT THOMSON BLDG:236 ANATOMY
+Martin Lee
+14/10/2016 - 14/10/2016
+Fr  09:00 - 10:00
+CTT KELVIN:257 MAIN LT
+Brian Bell
+21/10/2016 - 21/10/2016
+Fr  09:00 - 10:00
+CTT KELVIN:257 MAIN LT
+Brian Bell
+18/11/2016 - 18/11/2016
+Fr  09:00 - 10:00
+CTT KELVIN:257 MAIN LT
+Gordon Curry
+Collapse section EARTH 1002 - Earth Science 1Y: Evolution Of The Earth EARTH 1002 - Earth Science 1Y: Evolution Of The Earth
+Class	Section	Status
+17643
+Admin AD01-ADM S2
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+17504
+Laboratory LB01-LAB S2
+Open
+
+Dates	Days & Times	Room	Instructor
+11/01/2017 - 22/03/2017
+We  14:00 - 16:00
+GREGORY BLDG:227 LAB
+Iain Neill
+Class	Section	Status
+17503
+Laboratory LB02-LAB S2
+Open
+
+Dates	Days & Times	Room	Instructor
+12/01/2017 - 23/03/2017
+Th  13:00 - 15:00
+GREGORY BLDG:227 LAB
+Iain Neill
+Class	Section	Status
+17502
+Laboratory LB03-LAB S2
+Open
+
+Dates	Days & Times	Room	Instructor
+12/01/2017 - 23/03/2017
+Th  15:00 - 17:00
+GREGORY BLDG:227 LAB
+Iain Neill
+Class	Section	Status
+17501
+Laboratory LB04-LAB S2
+Open
+
+Dates	Days & Times	Room	Instructor
+13/01/2017 - 24/03/2017
+Fr  10:00 - 12:00
+GREGORY BLDG:227 LAB
+Iain Neill
+Class	Section	Status
+17500
+Laboratory LB05-LAB S2
+Open
+
+Dates	Days & Times	Room	Instructor
+13/01/2017 - 24/03/2017
+Fr  14:00 - 16:00
+GREGORY BLDG:227 LAB
+Iain Neill
+Class	Section	Status
+17505
+Lecture LC01-LEC S2
+Open
+
+Dates	Days & Times	Room	Instructor
+17/01/2017 - 14/03/2017
+Tu  09:00 - 10:00
+CTT GREGORY BLDG:109 MAIN LT
+Daniel Koehn, Nicholas Kamenos, Maggie Cusack, Gordon Curry
+12/01/2017 - 16/03/2017
+Th  09:00 - 10:00
+CTT GREGORY BLDG:109 MAIN LT
+Vernon Phoenix, Daniel Koehn, Nicholas Kamenos, Maggie Cusack, Gordon Curry
+13/01/2017 - 10/03/2017
+Fr  09:00 - 10:00
+CTT GREGORY BLDG:109 MAIN LT
+Tim Dempster, Maggie Cusack, Brian Bell, Gordon Curry
+Collapse section EARTH 2001 - Earth Science 2P: Solid Earth EARTH 2001 - Earth Science 2P: Solid Earth
+Class	Section	Status
+17567
+Admin AD01-ADM S1
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+17210
+Laboratory LB01-LAB S1
+Open
+
+Dates	Days & Times	Room	Instructor
+26/09/2016 - 03/10/2016
+Mo  14:00 - 16:00
+GREGORY BLDG:229 LAB
+Tim Dempster, Roderick Brown, Vernon Phoenix
+05/10/2016 - 05/10/2016
+We  14:00 - 16:00
+GREGORY BLDG:229 LAB
+Vernon Phoenix, Roderick Brown
+17/10/2016 - 21/11/2016
+Mo  14:00 - 16:00
+GREGORY BLDG:229 LAB
+Tim Dempster
+Class	Section	Status
+17209
+Laboratory LB02-LAB S1
+Open
+
+Dates	Days & Times	Room	Instructor
+28/09/2016 - 28/09/2016
+We  14:00 - 16:00
+GREGORY BLDG:229 LAB
+Tim Dempster
+19/10/2016 - 23/11/2016
+We  14:00 - 16:00
+GREGORY BLDG:229 LAB
+Tim Dempster
+Class	Section	Status
+17211
+Lecture LC01-LEC S1
+Open
+
+Dates	Days & Times	Room	Instructor
+24/10/2016 - 24/10/2016
+Mo  09:00 - 10:00
+CTT SIR CHARLES WILSON:201 LT
+Tim Dempster
+21/09/2016 - 23/11/2016
+We  09:00 - 10:00
+CTT WILT:105 LECT
+Vernon Phoenix, Tim Dempster, Roderick Brown, David Brown
+21/10/2016 - 21/10/2016
+Fr  09:00 - 10:00
+CTT ADAM SMITH:1115
+David Brown
+21/11/2016 - 21/11/2016
+Mo  09:00 - 10:00
+CTT SIR CHARLES WILSON:201 LT
+Tim Dempster
+14/11/2016 - 14/11/2016
+Mo  09:00 - 10:00
+CTT SIR CHARLES WILSON:201 LT
+Tim Dempster
+10/10/2016 - 10/10/2016
+Mo  09:00 - 10:00
+CTT SIR CHARLES WILSON:201 LT
+Tim Dempster
+17/10/2016 - 17/10/2016
+Mo  09:00 - 10:00
+CTT SIR CHARLES WILSON:201 LT
+Tim Dempster
+28/11/2016 - 28/11/2016
+Mo  09:00 - 10:00
+CTT SIR CHARLES WILSON:201 LT
+Tim Dempster
+31/10/2016 - 31/10/2016
+Mo  09:00 - 10:00
+CTT SIR CHARLES WILSON:201 LT
+Tim Dempster
+07/11/2016 - 07/11/2016
+Mo  09:00 - 10:00
+CTT SIR CHARLES WILSON:201 LT
+Tim Dempster
+03/10/2016 - 03/10/2016
+Mo  09:00 - 10:00
+CTT WILT:105 LECT
+Vernon Phoenix
+26/09/2016 - 26/09/2016
+Mo  09:00 - 10:00
+CTT WILT:105 LECT
+Roderick Brown
+19/09/2016 - 19/09/2016
+Mo  09:00 - 10:00
+CTT WILT:105 LECT
+Roderick Brown
+18/11/2016 - 18/11/2016
+Fr  09:00 - 10:00
+CTT ADAM SMITH:1115
+Tim Dempster
+11/11/2016 - 11/11/2016
+Fr  09:00 - 10:00
+CTT ADAM SMITH:1115
+Tim Dempster
+14/10/2016 - 14/10/2016
+Fr  09:00 - 10:00
+CTT ADAM SMITH:1115
+David Brown
+25/11/2016 - 25/11/2016
+Fr  09:00 - 10:00
+CTT ADAM SMITH:1115
+Tim Dempster
+28/10/2016 - 28/10/2016
+Fr  09:00 - 10:00
+CTT ADAM SMITH:1115
+David Brown
+04/11/2016 - 04/11/2016
+Fr  09:00 - 10:00
+CTT ADAM SMITH:1115
+David Brown
+30/09/2016 - 30/09/2016
+Fr  09:00 - 10:00
+CTT WILT:105 LECT
+Roderick Brown
+07/10/2016 - 07/10/2016
+Fr  09:00 - 10:00
+CTT WILT:105 LECT
+Vernon Phoenix
+23/09/2016 - 23/09/2016
+Fr  09:00 - 10:00
+CTT WILT:105 LECT
+Vernon Phoenix
+Class	Section	Status
+17213
+Workshop WK01-WKS S1
+Open
+
+Dates	Days & Times	Room	Instructor
+30/09/2016 - 07/10/2016
+Fr  10:00 - 12:00
+GREGORY BLDG:229 LAB
+Gordon Curry
+21/10/2016 - 25/11/2016
+Fr  10:00 - 12:00
+GREGORY BLDG:229 LAB
+David Brown
+Class	Section	Status
+17212
+Workshop WK02-WKS S1
+Open
+
+Dates	Days & Times	Room	Instructor
+30/09/2016 - 07/10/2016
+Fr  14:00 - 16:00
+GREGORY BLDG:229 LAB
+Gordon Curry
+21/10/2016 - 25/11/2016
+Fr  14:00 - 16:00
+GREGORY BLDG:229 LAB
+David Brown
+Collapse section EARTH 2002 - Earth Science 2Q: Palaeobiology EARTH 2002 - Earth Science 2Q: Palaeobiology
+Class	Section	Status
+17649
+Admin AD01-ADM S2
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+17519
+Laboratory LB01-LAB S2
+Open
+
+Dates	Days & Times	Room	Instructor
+09/01/2017 - 06/03/2017
+Mo  14:00 - 16:00
+GREGORY BLDG:229 LAB
+Nicholas Kamenos, Maggie Cusack
+20/03/2017 - 20/03/2017
+Mo  14:00 - 16:00
+GREGORY BLDG:229 LAB
+Nicholas Kamenos
+Class	Section	Status
+17518
+Laboratory LB02-LAB S2
+Open
+
+Dates	Days & Times	Room	Instructor
+11/01/2017 - 08/03/2017
+We  14:00 - 16:00
+GREGORY BLDG:229 LAB
+Nicholas Kamenos, Maggie Cusack
+22/03/2017 - 22/03/2017
+We  14:00 - 16:00
+GREGORY BLDG:229 LAB
+Nicholas Kamenos
+Class	Section	Status
+17520
+Lecture LC01-LEC S2
+Open
+
+Dates	Days & Times	Room	Instructor
+09/01/2017 - 06/03/2017
+Mo  09:00 - 10:00
+CTT WILT:105 LECT
+Nicholas Kamenos, Maggie Cusack
+11/01/2017 - 01/03/2017
+We  09:00 - 10:00
+CTT WILT:105 LECT
+Nicholas Kamenos, Maggie Cusack
+Collapse section EARTH 2003 - Earth Science 2R: Sediments And Stratigraphy EARTH 2003 - Earth Science 2R: Sediments And Stratigraphy
+Class	Section	Status
+17652
+Admin AD01-ADM S1
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+17524
+Laboratory LB01-LAB S1
+Open
+
+Dates	Days & Times	Room	Instructor
+27/09/2016 - 15/11/2016
+Tu  14:00 - 16:00
+GREGORY BLDG:229 LAB
+John MacDonald, Gordon Curry
+Class	Section	Status
+17523
+Laboratory LB02-LAB S1
+Open
+
+Dates	Days & Times	Room	Instructor
+28/09/2016 - 16/11/2016
+We  11:00 - 13:00
+GREGORY BLDG:229 LAB
+John MacDonald, Gordon Curry
+Class	Section	Status
+17525
+Lecture LC01-LEC S1
+Open
+
+Dates	Days & Times	Room	Instructor
+20/09/2016 - 22/11/2016
+Tu  09:00 - 10:00
+CTT ADAM SMITH:1115
+John MacDonald
+06/10/2016 - 06/10/2016
+Th  09:00 - 10:00
+CTT MAIN BLD:255 HUMANITY LT
+Staff
+27/10/2016 - 27/10/2016
+Th  09:00 - 10:00
+CTT MAIN BLD:255 HUMANITY LT
+Jaime Toney
+03/11/2016 - 03/11/2016
+Th  09:00 - 10:00
+CTT MAIN BLD:255 HUMANITY LT
+Jaime Toney
+10/11/2016 - 10/11/2016
+Th  09:00 - 10:00
+CTT MAIN BLD:255 HUMANITY LT
+Jaime Toney
+13/10/2016 - 13/10/2016
+Th  09:00 - 10:00
+CTT MAIN BLD:255 HUMANITY LT
+Staff
+20/10/2016 - 20/10/2016
+Th  09:00 - 10:00
+CTT MAIN BLD:255 HUMANITY LT
+Staff
+22/09/2016 - 22/09/2016
+Th  09:00 - 10:00
+CTT MAIN BLD:255 HUMANITY LT
+Staff
+29/09/2016 - 29/09/2016
+Th  09:00 - 10:00
+CTT MAIN BLD:255 HUMANITY LT
+Staff
+24/11/2016 - 24/11/2016
+Th  09:00 - 10:00
+CTT ADAM SMITH:1115
+John MacDonald
+17/11/2016 - 17/11/2016
+Th  09:00 - 10:00
+CTT ADAM SMITH:1115
+John MacDonald
+Collapse section EARTH 2004 - Earth Science 2U - Structure, Maps And Exploration EARTH 2004 - Earth Science 2U - Structure, Maps And Exploration
+Class	Section	Status
+17648
+Admin AD01-ADM S2
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+17514
+Laboratory LB01-LAB S2
+Open
+
+Dates	Days & Times	Room	Instructor
+07/03/2017 - 14/03/2017
+Tu  09:00 - 10:00
+GREGORY BLDG:229 LAB
+Staff
+31/01/2017 - 31/01/2017
+Tu  14:00 - 16:00
+GREGORY BLDG:227 LAB
+Gordon Curry
+16/03/2017 - 16/03/2017
+Th  09:00 - 10:00
+GREGORY BLDG:229 LAB
+Staff
+21/02/2017 - 21/02/2017
+Tu  14:00 - 16:00
+GREGORY BLDG:227 LAB
+Tim Dempster, Gordon Curry
+14/02/2017 - 14/02/2017
+Tu  14:00 - 16:00
+GREGORY BLDG:227 LAB
+Gordon Curry
+28/02/2017 - 28/02/2017
+Tu  14:00 - 16:00
+GREGORY BLDG:227 LAB
+Tim Dempster, Gordon Curry
+07/02/2017 - 07/02/2017
+Tu  14:00 - 16:00
+GREGORY BLDG:227 LAB
+Gordon Curry
+24/01/2017 - 24/01/2017
+Tu  14:00 - 16:00
+GREGORY BLDG:229 LAB
+Daniel Koehn
+17/01/2017 - 17/01/2017
+Tu  14:00 - 16:00
+GREGORY BLDG:229 LAB
+Daniel Koehn
+10/01/2017 - 10/01/2017
+Tu  14:00 - 16:00
+GREGORY BLDG:229 LAB
+Daniel Koehn
+Class	Section	Status
+17513
+Laboratory LB02-LAB S2
+Open
+
+Dates	Days & Times	Room	Instructor
+01/02/2017 - 01/02/2017
+We  11:00 - 13:00
+GREGORY BLDG:227 LAB
+Gordon Curry
+22/02/2017 - 22/02/2017
+We  11:00 - 13:00
+GREGORY BLDG:227 LAB
+Tim Dempster, Gordon Curry
+15/02/2017 - 15/02/2017
+We  11:00 - 13:00
+GREGORY BLDG:227 LAB
+Gordon Curry
+01/03/2017 - 01/03/2017
+We  11:00 - 13:00
+GREGORY BLDG:227 LAB
+Tim Dempster, Gordon Curry
+08/02/2017 - 08/02/2017
+We  11:00 - 13:00
+GREGORY BLDG:227 LAB
+Gordon Curry
+25/01/2017 - 25/01/2017
+We  11:00 - 13:00
+GREGORY BLDG:229 LAB
+Daniel Koehn
+18/01/2017 - 18/01/2017
+We  11:00 - 13:00
+GREGORY BLDG:229 LAB
+Daniel Koehn
+11/01/2017 - 11/01/2017
+We  11:00 - 13:00
+GREGORY BLDG:229 LAB
+Daniel Koehn
+Class	Section	Status
+17515
+Lecture LC01-LEC S2
+Open
+
+Dates	Days & Times	Room	Instructor
+10/01/2017 - 31/01/2017
+Tu  09:00 - 10:00
+CTT MAIN BLD:226 EAST QUAD LT
+Daniel Koehn
+19/01/2017 - 19/01/2017
+Th  09:00 - 10:00
+CTT MAIN BLD:226 EAST QUAD LT
+Daniel Koehn
+13/01/2017 - 24/02/2017
+Fr  09:00 - 10:00
+CTT MAIN BLD:226 EAST QUAD LT
+David Brown, Gordon Curry
+14/02/2017 - 14/02/2017
+Tu  09:00 - 10:00
+CTT MAIN BLD:226 EAST QUAD LT
+Tim Dempster
+12/01/2017 - 12/01/2017
+Th  09:00 - 10:00
+CTT MAIN BLD:226 EAST QUAD LT
+Daniel Koehn
+26/01/2017 - 26/01/2017
+Th  09:00 - 10:00
+CTT MAIN BLD:226 EAST QUAD LT
+Daniel Koehn
+16/02/2017 - 16/02/2017
+Th  09:00 - 10:00
+CTT WILT:105 LECT
+Cristina Persano
+09/02/2017 - 09/02/2017
+Th  09:00 - 10:00
+CTT WILT:105 LECT
+Cristina Persano
+02/02/2017 - 02/02/2017
+Th  09:00 - 10:00
+CTT WILT:105 LECT
+Cristina Persano
+23/02/2017 - 23/02/2017
+Th  09:00 - 10:00
+CTT WILT:105 LECT
+Cristina Persano
+21/02/2017 - 21/02/2017
+Tu  09:00 - 10:00
+CTT WILT:105 LECT
+David Brown
+Class	Section	Status
+17517
+Workshop WK01-WKS S2
+Open
+
+Dates	Days & Times	Room	Instructor
+13/01/2017 - 10/03/2017
+Fr  10:00 - 12:00
+GREGORY BLDG:229 LAB
+Gordon Curry, David Brown, Gordon Curry, Tim Dempster
+Class	Section	Status
+17516
+Workshop WK02-WKS S2
+Open
+
+Dates	Days & Times	Room	Instructor
+13/01/2017 - 10/03/2017
+Fr  14:00 - 16:00
+GREGORY BLDG:229 LAB
+Gordon Curry, Gordon Curry, Tim Dempster, Tim Dempster, David Brown
 Collapse section EARTH 3006 - Earth Sciences Study Abroad 3 EARTH 3006 - Earth Sciences Study Abroad 3
 Class	Section	Status
 13140
@@ -33,6 +755,912 @@ TBA
 TBA
 TBA
 Staff
+Collapse section EARTH 4001 - Advanced Sequence Stratigraphy EARTH 4001 - Advanced Sequence Stratigraphy
+Class	Section	Status
+17615
+Admin AD01-ADM S1
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+17348
+Lecture LC01-LEC S1
+Open
+
+Dates	Days & Times	Room	Instructor
+05/12/2016 - 05/12/2016
+Mo  09:00 - 12:00
+GREGORY BLDG:306 EARTH SCI LAB
+Staff
+28/11/2016 - 28/11/2016
+Mo  09:00 - 17:00
+GREGORY BLDG:306 EARTH SCI LAB
+Staff
+29/11/2016 - 29/11/2016
+Tu  09:00 - 17:00
+GREGORY BLDG:306 EARTH SCI LAB
+Staff
+30/11/2016 - 30/11/2016
+We  09:00 - 17:00
+GREGORY BLDG:306 EARTH SCI LAB
+Staff
+01/12/2016 - 01/12/2016
+Th  09:00 - 17:00
+GREGORY BLDG:306 EARTH SCI LAB
+Staff
+02/12/2016 - 02/12/2016
+Fr  09:00 - 17:00
+GREGORY BLDG:306 EARTH SCI LAB
+Staff
+Collapse section EARTH 4002 - Earth Science Skills Portfolio A EARTH 4002 - Earth Science Skills Portfolio A
+Class	Section	Status
+17589
+Admin AD01-ADM S12
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+17288
+Field Wk FW01-FLD S12
+Open
+
+Dates	Days & Times	Room	Instructor
+03/10/2016 - 03/10/2016
+Mo  09:00 - 16:00
+TBA
+Brian Bell, Tim Dempster, Cristina Persano
+20/03/2017 - 20/03/2017
+Mo  09:00 - 17:00
+TBA
+Staff
+21/03/2017 - 21/03/2017
+Tu  09:00 - 17:00
+TBA
+Staff
+22/03/2017 - 22/03/2017
+We  09:00 - 17:00
+TBA
+Staff
+23/03/2017 - 23/03/2017
+Th  09:00 - 17:00
+TBA
+Staff
+30/09/2016 - 30/09/2016
+Fr  09:00 - 16:00
+TBA
+Brian Bell, Tim Dempster, Cristina Persano
+24/03/2017 - 24/03/2017
+Fr  09:00 - 17:00
+TBA
+Staff
+01/10/2016 - 01/10/2016
+St  09:00 - 16:00
+TBA
+Cristina Persano, Tim Dempster, Brian Bell
+18/03/2017 - 25/03/2017
+St  09:00 - 17:00
+TBA
+Staff
+02/10/2016 - 02/10/2016
+Su  09:00 - 16:00
+TBA
+Cristina Persano, Brian Bell, Tim Dempster
+19/03/2017 - 19/03/2017
+Su  09:00 - 17:00
+TBA
+Staff
+10/04/2017 - 10/04/2017
+Mo  09:00 - 17:00
+TBA
+Staff
+11/04/2017 - 11/04/2017
+Tu  09:00 - 17:00
+TBA
+Staff
+12/04/2017 - 12/04/2017
+We  09:00 - 17:00
+TBA
+Staff
+13/04/2017 - 13/04/2017
+Th  09:00 - 17:00
+TBA
+Staff
+14/04/2017 - 14/04/2017
+Fr  09:00 - 17:00
+TBA
+Staff
+08/04/2017 - 15/04/2017
+St  09:00 - 17:00
+TBA
+Staff
+09/04/2017 - 09/04/2017
+Su  09:00 - 17:00
+TBA
+Staff
+Class	Section	Status
+17764
+Field Wk FW02-FLD S12
+Open
+
+Dates	Days & Times	Room	Instructor
+03/10/2016 - 03/10/2016
+Mo  09:00 - 16:00
+TBA
+Cristina Persano, Tim Dempster, Brian Bell
+20/03/2017 - 20/03/2017
+Mo  09:00 - 17:00
+TBA
+Staff
+04/10/2016 - 04/10/2016
+Tu  09:00 - 16:00
+TBA
+Cristina Persano, Brian Bell, Tim Dempster
+21/03/2017 - 21/03/2017
+Tu  09:00 - 17:00
+TBA
+Staff
+05/10/2016 - 05/10/2016
+We  09:00 - 16:00
+TBA
+Cristina Persano, Tim Dempster, Brian Bell
+22/03/2017 - 22/03/2017
+We  09:00 - 17:00
+TBA
+Staff
+06/10/2016 - 06/10/2016
+Th  09:00 - 16:00
+TBA
+Cristina Persano, Brian Bell, Tim Dempster
+23/03/2017 - 23/03/2017
+Th  09:00 - 17:00
+TBA
+Staff
+24/03/2017 - 24/03/2017
+Fr  09:00 - 17:00
+TBA
+Staff
+18/03/2017 - 25/03/2017
+St  09:00 - 17:00
+TBA
+Staff
+19/03/2017 - 19/03/2017
+Su  09:00 - 17:00
+TBA
+Staff
+10/04/2017 - 10/04/2017
+Mo  09:00 - 17:00
+TBA
+Staff
+11/04/2017 - 11/04/2017
+Tu  09:00 - 17:00
+TBA
+Staff
+12/04/2017 - 12/04/2017
+We  09:00 - 17:00
+TBA
+Staff
+13/04/2017 - 13/04/2017
+Th  09:00 - 17:00
+TBA
+Staff
+14/04/2017 - 14/04/2017
+Fr  09:00 - 17:00
+TBA
+Staff
+08/04/2017 - 15/04/2017
+St  09:00 - 17:00
+TBA
+Staff
+09/04/2017 - 09/04/2017
+Su  09:00 - 17:00
+TBA
+Staff
+Class	Section	Status
+17763
+Field Wk FW03-FLD S12
+Open
+
+Dates	Days & Times	Room	Instructor
+20/03/2017 - 20/03/2017
+Mo  09:00 - 17:00
+TBA
+Staff
+21/03/2017 - 21/03/2017
+Tu  09:00 - 17:00
+TBA
+Staff
+22/03/2017 - 22/03/2017
+We  09:00 - 17:00
+TBA
+Staff
+06/10/2016 - 06/10/2016
+Th  09:00 - 16:00
+TBA
+Brian Bell, Cristina Persano, Tim Dempster
+23/03/2017 - 23/03/2017
+Th  09:00 - 17:00
+TBA
+Staff
+07/10/2016 - 07/10/2016
+Fr  09:00 - 16:00
+TBA
+Tim Dempster, Cristina Persano, Brian Bell
+24/03/2017 - 24/03/2017
+Fr  09:00 - 17:00
+TBA
+Staff
+08/10/2016 - 08/10/2016
+St  09:00 - 16:00
+TBA
+Brian Bell, Tim Dempster, Cristina Persano
+18/03/2017 - 25/03/2017
+St  09:00 - 17:00
+TBA
+Staff
+09/10/2016 - 09/10/2016
+Su  09:00 - 16:00
+TBA
+Tim Dempster, Brian Bell, Cristina Persano
+19/03/2017 - 19/03/2017
+Su  09:00 - 17:00
+TBA
+Staff
+10/04/2017 - 10/04/2017
+Mo  09:00 - 17:00
+TBA
+Staff
+11/04/2017 - 11/04/2017
+Tu  09:00 - 17:00
+TBA
+Staff
+12/04/2017 - 12/04/2017
+We  09:00 - 17:00
+TBA
+Staff
+13/04/2017 - 13/04/2017
+Th  09:00 - 17:00
+TBA
+Staff
+14/04/2017 - 14/04/2017
+Fr  09:00 - 17:00
+TBA
+Staff
+08/04/2017 - 15/04/2017
+St  09:00 - 17:00
+TBA
+Staff
+09/04/2017 - 09/04/2017
+Su  09:00 - 17:00
+TBA
+Staff
+Class	Section	Status
+17290
+Laboratory LB01-LAB S12
+Open
+
+Dates	Days & Times	Room	Instructor
+22/02/2017 - 22/02/2017
+We  10:00 - 13:00
+GREGORY BLDG:308 EARTH SCI LAB
+David Brown
+25/01/2017 - 08/02/2017
+We  11:00 - 13:00
+MAIN BLD:233 LAB (202)
+Roderick Brown, David Brown
+10/11/2016 - 24/11/2016
+Th  11:00 - 14:00
+GREGORY BLDG:308 EARTH SCI LAB
+Brian Bell
+Class	Section	Status
+17289
+Laboratory LB02-LAB S12
+Open
+
+Dates	Days & Times	Room	Instructor
+25/01/2017 - 08/02/2017
+We  14:00 - 16:00
+MAIN BLD:233 LAB (202)
+Roderick Brown, David Brown
+22/02/2017 - 22/02/2017
+We  14:00 - 17:00
+GREGORY BLDG:306 EARTH SCI LAB
+David Brown
+10/11/2016 - 24/11/2016
+Th  14:00 - 17:00
+GREGORY BLDG:308 EARTH SCI LAB
+Brian Bell
+Class	Section	Status
+17291
+Lecture LC01-LEC S12
+Open
+
+Dates	Days & Times	Room	Instructor
+21/11/2016 - 21/11/2016
+Mo  10:00 - 11:00
+GREGORY BLDG:308 EARTH SCI LAB
+Gordon Curry
+01/11/2016 - 15/11/2016
+Tu  16:00 - 17:00
+GREGORY BLDG:308 EARTH SCI LAB
+Gordon Curry
+18/01/2017 - 18/01/2017
+We  09:00 - 11:00
+GREGORY BLDG:308 EARTH SCI LAB
+Gordon Curry
+08/02/2017 - 08/02/2017
+We  10:00 - 11:00
+GREGORY BLDG:308 EARTH SCI LAB
+David Brown
+11/01/2017 - 11/01/2017
+We  10:00 - 12:00
+GREGORY BLDG:308 EARTH SCI LAB
+Gordon Curry
+18/01/2017 - 18/01/2017
+We  11:00 - 12:00
+GREGORY BLDG:308 EARTH SCI LAB
+Staff
+18/01/2017 - 18/01/2017
+We  14:00 - 16:00
+GREGORY BLDG:306 EARTH SCI LAB
+Roderick Brown
+11/01/2017 - 11/01/2017
+We  15:00 - 16:00
+GREGORY BLDG:306 EARTH SCI LAB
+Trevor Hoey
+Class	Section	Status
+17294
+Seminar SM01-SEM S12
+Open
+
+Dates	Days & Times	Room	Instructor
+08/03/2017 - 08/03/2017
+We  09:00 - 13:00
+GREGORY BLDG:308 EARTH SCI LAB
+Staff
+08/03/2017 - 08/03/2017
+We  14:00 - 17:00
+GREGORY BLDG:308 EARTH SCI LAB
+Staff
+Class	Section	Status
+17293
+Seminar SM02-SEM S12
+Open
+
+Dates	Days & Times	Room	Instructor
+09/03/2017 - 09/03/2017
+Th  09:00 - 13:00
+GREGORY BLDG:308 EARTH SCI LAB
+Jaime Toney
+09/03/2017 - 09/03/2017
+Th  14:00 - 17:00
+GREGORY BLDG:308 EARTH SCI LAB
+Jaime Toney
+Class	Section	Status
+17292
+Seminar SM03-SEM S12
+Open
+
+Dates	Days & Times	Room	Instructor
+10/03/2017 - 10/03/2017
+Fr  09:00 - 13:00
+GREGORY BLDG:308 EARTH SCI LAB
+Daniel Koehn
+10/03/2017 - 10/03/2017
+Fr  14:00 - 17:00
+GREGORY BLDG:308 EARTH SCI LAB
+Daniel Koehn
+Collapse section EARTH 4003 - Earth Science Skills Portfolio B EARTH 4003 - Earth Science Skills Portfolio B
+Class	Section	Status
+17640
+Admin AD01-ADM S12
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+17488
+Laboratory LB01-LAB S12
+Open
+
+Dates	Days & Times	Room	Instructor
+17/10/2016 - 14/11/2016
+Mo  10:00 - 13:00
+GREGORY BLDG:227 LAB
+Brian Bell
+09/01/2017 - 16/01/2017
+Mo  10:00 - 13:00
+GREGORY BLDG:306 EARTH SCI LAB
+Brian Bell
+Class	Section	Status
+17487
+Laboratory LB02-LAB S12
+Open
+
+Dates	Days & Times	Room	Instructor
+18/10/2016 - 15/11/2016
+Tu  10:00 - 13:00
+GREGORY BLDG:227 LAB
+Brian Bell
+Class	Section	Status
+17489
+Lecture LC01-LEC S12
+Open
+
+Dates	Days & Times	Room	Instructor
+19/09/2016 - 19/09/2016
+Mo  10:00 - 11:00
+GREGORY BLDG:306 EARTH SCI LAB
+Cristina Persano
+19/09/2016 - 19/09/2016
+Mo  14:00 - 17:00
+GREGORY BLDG:308 EARTH SCI LAB
+David Brown
+23/02/2017 - 02/03/2017
+Th  10:00 - 12:00
+GREGORY BLDG:229 LAB
+David Brown
+Class	Section	Status
+17493
+Seminar SM01-SEM S12
+Open
+
+Dates	Days & Times	Room	Instructor
+10/10/2016 - 10/10/2016
+Mo  10:00 - 17:00
+GREGORY BLDG:306 EARTH SCI LAB
+Roderick Brown
+Class	Section	Status
+17492
+Seminar SM02-SEM S12
+Open
+
+Dates	Days & Times	Room	Instructor
+11/10/2016 - 11/10/2016
+Tu  10:00 - 17:00
+GREGORY BLDG:306 EARTH SCI LAB
+Roderick Brown
+Class	Section	Status
+17491
+Seminar SM03-SEM S12
+Open
+
+Dates	Days & Times	Room	Instructor
+12/10/2016 - 12/10/2016
+We  10:00 - 17:00
+GREGORY BLDG:306 EARTH SCI LAB
+Daniel Koehn
+Class	Section	Status
+17490
+Seminar SM04-SEM S12
+Open
+
+Dates	Days & Times	Room	Instructor
+13/10/2016 - 13/10/2016
+Th  10:00 - 17:00
+GREGORY BLDG:306 EARTH SCI LAB
+Daniel Koehn
+Collapse section EARTH 4004 - Earth Science Skills Portfolio C EARTH 4004 - Earth Science Skills Portfolio C
+Class	Section	Status
+17637
+Admin AD01-ADM S12
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+17460
+Laboratory LB01-LAB S12
+Open
+
+Dates	Days & Times	Room	Instructor
+30/01/2017 - 30/01/2017
+Mo  10:00 - 13:00
+GREGORY BLDG:306 EARTH SCI LAB
+Roderick Brown
+19/09/2016 - 19/09/2016
+Mo  11:00 - 12:00
+GREGORY BLDG:306 EARTH SCI LAB
+Brian Bell
+26/09/2016 - 26/09/2016
+Mo  14:00 - 16:00
+GREGORY BLDG:306 EARTH SCI LAB
+Gordon Curry
+Class	Section	Status
+17461
+Lecture LC01-LEC S12
+Open
+
+Dates	Days & Times	Room	Instructor
+21/11/2016 - 21/11/2016
+Mo  09:00 - 17:00
+GREGORY BLDG:306 EARTH SCI LAB
+Staff
+22/11/2016 - 22/11/2016
+Tu  09:00 - 17:00
+GREGORY BLDG:306 EARTH SCI LAB
+Nicholas Kamenos
+21/09/2016 - 21/09/2016
+We  09:00 - 11:00
+GREGORY BLDG:308 EARTH SCI LAB
+Staff
+23/11/2016 - 23/11/2016
+We  09:00 - 17:00
+GREGORY BLDG:306 EARTH SCI LAB
+Cristina Persano
+24/11/2016 - 24/11/2016
+Th  09:00 - 17:00
+GREGORY BLDG:306 EARTH SCI LAB
+Tim Dempster
+27/01/2017 - 27/01/2017
+Fr  09:00 - 17:00
+GREGORY BLDG:306 EARTH SCI LAB
+Staff
+Collapse section EARTH 4005 - Economic Minerals EARTH 4005 - Economic Minerals
+Class	Section	Status
+17571
+Admin AD01-ADM S1
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+17222
+Lecture LC01-LEC S1
+Open
+
+Dates	Days & Times	Room	Instructor
+11/11/2016 - 25/11/2016
+Fr  09:00 - 17:00
+CTT MAIN BLD:466 LECTURE TH
+Brian Bell
+Collapse section EARTH 4006 - Engineering Earth Science EARTH 4006 - Engineering Earth Science
+Class	Section	Status
+17565
+Admin AD01-ADM S2
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+17205
+Laboratory LB01-LAB S2
+Open
+
+Dates	Days & Times	Room	Instructor
+26/01/2017 - 26/01/2017
+Th  09:00 - 10:30
+GREGORY BLDG:308 EARTH SCI LAB
+David Brown
+09/02/2017 - 16/02/2017
+Th  09:00 - 10:30
+GREGORY BLDG:308 EARTH SCI LAB
+David Brown
+Class	Section	Status
+17204
+Laboratory LB02-LAB S2
+Open
+
+Dates	Days & Times	Room	Instructor
+26/01/2017 - 26/01/2017
+Th  10:30 - 12:00
+GREGORY BLDG:308 EARTH SCI LAB
+Staff
+09/02/2017 - 16/02/2017
+Th  10:30 - 12:00
+GREGORY BLDG:308 EARTH SCI LAB
+Staff
+Class	Section	Status
+17206
+Lecture LC01-LEC S2
+Open
+
+Dates	Days & Times	Room	Instructor
+12/01/2017 - 19/01/2017
+Th  09:00 - 12:00
+GREGORY BLDG:308 EARTH SCI LAB
+David Brown
+02/02/2017 - 02/02/2017
+Th  09:00 - 12:00
+TBA
+Staff
+Collapse section EARTH 4009 - Geophysics EARTH 4009 - Geophysics
+Class	Section	Status
+17638
+Admin AD01-ADM S1
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+17463
+Laboratory LB01-LAB S1
+Open
+
+Dates	Days & Times	Room	Instructor
+17/10/2016 - 14/11/2016
+Mo  10:00 - 13:00
+MAIN BLD:231 LAB (204)
+Roderick Brown
+Class	Section	Status
+17462
+Laboratory LB02-LAB S1
+Open
+
+Dates	Days & Times	Room	Instructor
+18/10/2016 - 15/11/2016
+Tu  10:00 - 13:00
+MAIN BLD:231 LAB (204)
+Roderick Brown
+Class	Section	Status
+17464
+Lecture LC01-LEC S1
+Open
+
+Dates	Days & Times	Room	Instructor
+18/10/2016 - 15/11/2016
+Tu  09:00 - 10:00
+GREGORY BLDG:308 EARTH SCI LAB
+Roderick Brown
+04/10/2016 - 04/10/2016
+Tu  10:00 - 13:00
+GREGORY BLDG:308 EARTH SCI LAB
+Roderick Brown
+Collapse section EARTH 4013 - Igneous Petrology & Geochemistry EARTH 4013 - Igneous Petrology & Geochemistry
+Class	Section	Status
+17627
+Admin AD01-ADM S1
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+17441
+Field Wk FW01-FLD S1
+Open
+
+Dates	Days & Times	Room	Instructor
+09/11/2016 - 09/11/2016
+We  09:00 - 17:00
+TBA
+Brian Bell, David Brown
+Class	Section	Status
+17442
+Lecture LC01-LEC S1
+Open
+
+Dates	Days & Times	Room	Instructor
+16/11/2016 - 16/11/2016
+We  10:00 - 11:00
+GREGORY BLDG:229 LAB
+Brian Bell
+12/10/2016 - 26/10/2016
+We  10:00 - 13:00
+GREGORY BLDG:308 EARTH SCI LAB
+Brian Bell, David Brown
+02/11/2016 - 02/11/2016
+We  10:00 - 14:00
+GREGORY BLDG:308 EARTH SCI LAB
+David Brown
+14/10/2016 - 21/10/2016
+Fr  10:00 - 13:00
+GREGORY BLDG:308 EARTH SCI LAB
+Brian Bell
+Collapse section EARTH 4014 - Isotope Geology EARTH 4014 - Isotope Geology
+Class	Section	Status
+17564
+Admin AD01-ADM S1
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+17202
+Laboratory LB01-LAB S1
+Open
+
+Dates	Days & Times	Room	Instructor
+28/09/2016 - 28/09/2016
+We  09:00 - 11:00
+MAIN BLD:233 LAB (202)
+Cristina Persano
+Class	Section	Status
+17201
+Laboratory LB02-LAB S1
+Open
+
+Dates	Days & Times	Room	Instructor
+28/09/2016 - 28/09/2016
+We  11:00 - 13:00
+MAIN BLD:233 LAB (202)
+Cristina Persano
+Class	Section	Status
+17203
+Lecture LC01-LEC S1
+Open
+
+Dates	Days & Times	Room	Instructor
+26/09/2016 - 26/09/2016
+Mo  14:00 - 17:00
+GREGORY BLDG:308 EARTH SCI LAB
+Cristina Persano
+17/10/2016 - 21/11/2016
+Mo  14:00 - 17:00
+GREGORY BLDG:308 EARTH SCI LAB
+Cristina Persano
+Collapse section EARTH 4016 - Major Earth Processes EARTH 4016 - Major Earth Processes
+Class	Section	Status
+17599
+Admin AD01-ADM S2
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+17309
+Lecture LC01-LEC S2
+Open
+
+Dates	Days & Times	Room	Instructor
+10/01/2017 - 07/03/2017
+Tu  09:00 - 11:00
+GREGORY BLDG:306 EARTH SCI LAB
+Tim Dempster, Maggie Cusack
+11/01/2017 - 01/03/2017
+We  09:00 - 11:00
+GREGORY BLDG:306 EARTH SCI LAB
+Tim Dempster, Maggie Cusack
+Class	Section	Status
+17308
+Lecture LC02-LEC S2
+Open
+
+Dates	Days & Times	Room	Instructor
+10/01/2017 - 07/03/2017
+Tu  11:00 - 13:00
+GREGORY BLDG:306 EARTH SCI LAB
+Tim Dempster, Maggie Cusack
+11/01/2017 - 01/03/2017
+We  11:00 - 13:00
+GREGORY BLDG:306 EARTH SCI LAB
+Tim Dempster, Maggie Cusack
+Collapse section EARTH 4017 - Metamorphic Petrology EARTH 4017 - Metamorphic Petrology
+Class	Section	Status
+17602
+Admin AD01-ADM S1
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+17317
+Field Wk FW01-FLD S1
+Open
+
+Dates	Days & Times	Room	Instructor
+20/09/2016 - 20/09/2016
+Tu  07:00 - 19:00
+TBA
+Staff
+Class	Section	Status
+17319
+Laboratory LB01-LAB S1
+Open
+
+Dates	Days & Times	Room	Instructor
+22/09/2016 - 29/09/2016
+Th  10:00 - 11:00
+GREGORY BLDG:308 EARTH SCI LAB
+Tim Dempster
+22/09/2016 - 29/09/2016
+Th  11:00 - 13:00
+GREGORY BLDG:229 LAB
+Tim Dempster
+13/10/2016 - 10/11/2016
+Th  10:00 - 11:00
+GREGORY BLDG:308 EARTH SCI LAB
+Tim Dempster
+13/10/2016 - 03/11/2016
+Th  11:00 - 13:00
+GREGORY BLDG:229 LAB
+Tim Dempster
+Class	Section	Status
+17318
+Laboratory LB02-LAB S1
+Open
+
+Dates	Days & Times	Room	Instructor
+22/09/2016 - 29/09/2016
+Th  14:00 - 16:00
+GREGORY BLDG:229 LAB
+Tim Dempster
+13/10/2016 - 03/11/2016
+Th  14:00 - 16:00
+GREGORY BLDG:229 LAB
+Tim Dempster
+Class	Section	Status
+17320
+Lecture LC01-LEC S1
+Open
+
+Dates	Days & Times	Room	Instructor
+19/09/2016 - 19/09/2016
+Mo  09:00 - 10:00
+GREGORY BLDG:308 EARTH SCI LAB
+Cristina Persano
+21/09/2016 - 21/09/2016
+We  11:00 - 13:00
+GREGORY BLDG:306 EARTH SCI LAB
+Alan Owen
+Collapse section EARTH 4018 - Micropalaeontology EARTH 4018 - Micropalaeontology
+Class	Section	Status
+17568
+Admin AD01-ADM S2
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+17214
+Laboratory LB01-LAB S2
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+17215
+Lecture LC01-LEC S2
+Open
+
+Dates	Days & Times	Room	Instructor
+01/03/2017 - 01/03/2017
+We  14:00 - 15:00
+GREGORY BLDG:308 EARTH SCI LAB
+Nicholas Kamenos
+12/01/2017 - 16/02/2017
+Th  14:00 - 16:00
+GREGORY BLDG:308 EARTH SCI LAB
+Nicholas Kamenos
 Collapse section EARTH 4020 - Orogens And Basins EARTH 4020 - Orogens And Basins
 Class	Section	Status
 15105
@@ -54,6 +1682,325 @@ Dates	Days & Times	Room	Instructor
 We  14:00 - 15:00
 GREGORY BLDG:306 EARTH SCI LAB
 Tim Dempster
+Collapse section EARTH 4022 - Petroleum Geology EARTH 4022 - Petroleum Geology
+Class	Section	Status
+17625
+Admin AD01-ADM S1
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+17438
+Field Wk FW01-FLD S1
+Open
+
+Dates	Days & Times	Room	Instructor
+12/09/2016 - 12/09/2016
+Mo  09:00 - 17:00
+TBA
+Jaime Toney, Alan Owen
+13/09/2016 - 13/09/2016
+Tu  09:00 - 17:00
+TBA
+Alan Owen, Jaime Toney
+14/09/2016 - 14/09/2016
+We  09:00 - 17:00
+TBA
+Jaime Toney, Alan Owen
+15/09/2016 - 15/09/2016
+Th  09:00 - 17:00
+TBA
+Alan Owen, Jaime Toney
+16/09/2016 - 16/09/2016
+Fr  09:00 - 17:00
+TBA
+Jaime Toney, Alan Owen
+Class	Section	Status
+17439
+Lecture LC01-LEC S1
+Open
+
+Dates	Days & Times	Room	Instructor
+17/10/2016 - 07/11/2016
+Mo  14:00 - 16:00
+GREGORY BLDG:306 EARTH SCI LAB
+Brian Bell
+Collapse section EARTH 4023 - Sedimentary Geology EARTH 4023 - Sedimentary Geology
+Class	Section	Status
+17608
+Admin AD01-ADM S1
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+17331
+Field Wk FW01-FLD S1
+Open
+
+Dates	Days & Times	Room	Instructor
+11/10/2016 - 11/10/2016
+Tu  09:00 - 17:00
+TBA
+Staff
+Class	Section	Status
+17333
+Laboratory LB01-LAB S1
+Open
+
+Dates	Days & Times	Room	Instructor
+17/10/2016 - 21/11/2016
+Mo  11:00 - 13:00
+GREGORY BLDG:229 LAB
+Martin Lee
+18/10/2016 - 22/11/2016
+Tu  11:00 - 13:00
+GREGORY BLDG:308 EARTH SCI LAB
+Richard Williams
+Class	Section	Status
+17332
+Laboratory LB02-LAB S1
+Open
+
+Dates	Days & Times	Room	Instructor
+17/10/2016 - 21/11/2016
+Mo  11:00 - 13:00
+GREGORY BLDG:308 EARTH SCI LAB
+Richard Williams
+18/10/2016 - 22/11/2016
+Tu  11:00 - 13:00
+GREGORY BLDG:229 LAB
+Martin Lee
+Class	Section	Status
+17334
+Lecture LC01-LEC S1
+Open
+
+Dates	Days & Times	Room	Instructor
+17/10/2016 - 14/11/2016
+Mo  10:00 - 11:00
+GREGORY BLDG:308 EARTH SCI LAB
+John MacDonald
+18/10/2016 - 22/11/2016
+Tu  14:00 - 16:00
+GREGORY BLDG:308 EARTH SCI LAB
+Martin Lee, Richard Williams
+Collapse section EARTH 4024 - Stratigraphy EARTH 4024 - Stratigraphy
+Class	Section	Status
+17622
+Admin AD01-ADM S12
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+17434
+Laboratory LB01-LAB S12
+Open
+
+Dates	Days & Times	Room	Instructor
+03/02/2017 - 03/02/2017
+Fr  11:00 - 13:00
+GREGORY BLDG:308 EARTH SCI LAB
+Staff
+17/02/2017 - 03/03/2017
+Fr  11:00 - 13:00
+GREGORY BLDG:308 EARTH SCI LAB
+Jaime Toney
+17/03/2017 - 17/03/2017
+Fr  11:00 - 13:00
+GREGORY BLDG:308 EARTH SCI LAB
+Staff
+Class	Section	Status
+17433
+Laboratory LB02-LAB S12
+Open
+
+Dates	Days & Times	Room	Instructor
+17/03/2017 - 17/03/2017
+Fr  11:00 - 13:00
+GREGORY BLDG:306 EARTH SCI LAB
+Staff
+03/02/2017 - 03/03/2017
+Fr  14:00 - 16:00
+GREGORY BLDG:308 EARTH SCI LAB
+Jaime Toney
+Class	Section	Status
+17435
+Lecture LC01-LEC S12
+Open
+
+Dates	Days & Times	Room	Instructor
+19/09/2016 - 19/09/2016
+Mo  10:00 - 13:00
+GREGORY BLDG:308 EARTH SCI LAB
+Tim Dempster
+20/01/2017 - 27/01/2017
+Fr  14:00 - 16:00
+GREGORY BLDG:308 EARTH SCI LAB
+Tim Dempster, David Brown
+28/10/2016 - 18/11/2016
+Fr  14:00 - 17:00
+GREGORY BLDG:308 EARTH SCI LAB
+Tim Dempster
+Collapse section EARTH 4025 - Structural Geology EARTH 4025 - Structural Geology
+Class	Section	Status
+17580
+Admin AD01-ADM S2
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+17267
+Field Wk FW01-FLD S2
+Open
+
+Dates	Days & Times	Room	Instructor
+02/03/2017 - 02/03/2017
+Th  09:00 - 17:00
+TBA
+Staff
+Class	Section	Status
+17269
+Laboratory LB01-LAB S2
+Open
+
+Dates	Days & Times	Room	Instructor
+09/01/2017 - 09/01/2017
+Mo  11:00 - 13:00
+GREGORY BLDG:229 LAB
+Daniel Koehn
+16/01/2017 - 16/01/2017
+Mo  11:00 - 13:00
+GREGORY BLDG:229 LAB
+Daniel Koehn
+23/01/2017 - 23/01/2017
+Mo  11:00 - 13:00
+GREGORY BLDG:229 LAB
+Daniel Koehn
+20/02/2017 - 20/02/2017
+Mo  11:00 - 13:00
+GREGORY BLDG:229 LAB
+Daniel Koehn
+27/02/2017 - 27/02/2017
+Mo  11:00 - 13:00
+GREGORY BLDG:229 LAB
+Daniel Koehn
+13/03/2017 - 13/03/2017
+Mo  11:00 - 13:00
+GREGORY BLDG:229 LAB
+Daniel Koehn
+06/03/2017 - 06/03/2017
+Mo  11:00 - 13:00
+GREGORY BLDG:229 LAB
+Daniel Koehn
+06/02/2017 - 06/02/2017
+Mo  11:00 - 13:00
+GREGORY BLDG:308 EARTH SCI LAB
+Roderick Brown
+30/01/2017 - 30/01/2017
+Mo  11:00 - 13:00
+GREGORY BLDG:308 EARTH SCI LAB
+Roderick Brown
+13/02/2017 - 13/02/2017
+Mo  11:00 - 13:00
+GREGORY BLDG:308 EARTH SCI LAB
+Roderick Brown
+Class	Section	Status
+17268
+Laboratory LB02-LAB S2
+Open
+
+Dates	Days & Times	Room	Instructor
+07/03/2017 - 07/03/2017
+Tu  11:00 - 13:00
+GREGORY BLDG:229 LAB
+Daniel Koehn
+28/02/2017 - 28/02/2017
+Tu  11:00 - 13:00
+GREGORY BLDG:229 LAB
+Daniel Koehn
+24/01/2017 - 24/01/2017
+Tu  11:00 - 13:00
+GREGORY BLDG:229 LAB
+Daniel Koehn
+10/01/2017 - 10/01/2017
+Tu  11:00 - 13:00
+GREGORY BLDG:229 LAB
+Daniel Koehn
+14/03/2017 - 14/03/2017
+Tu  11:00 - 13:00
+GREGORY BLDG:229 LAB
+Daniel Koehn
+17/01/2017 - 17/01/2017
+Tu  11:00 - 13:00
+GREGORY BLDG:229 LAB
+Daniel Koehn
+21/02/2017 - 21/02/2017
+Tu  11:00 - 13:00
+GREGORY BLDG:229 LAB
+Daniel Koehn
+14/02/2017 - 14/02/2017
+Tu  11:00 - 13:00
+GREGORY BLDG:308 EARTH SCI LAB
+Roderick Brown
+31/01/2017 - 31/01/2017
+Tu  11:00 - 13:00
+GREGORY BLDG:308 EARTH SCI LAB
+Roderick Brown
+07/02/2017 - 07/02/2017
+Tu  11:00 - 13:00
+GREGORY BLDG:308 EARTH SCI LAB
+Roderick Brown
+Class	Section	Status
+17270
+Lecture LC01-LEC S2
+Open
+
+Dates	Days & Times	Room	Instructor
+09/01/2017 - 13/03/2017
+Mo  10:00 - 11:00
+GREGORY BLDG:308 EARTH SCI LAB
+Daniel Koehn, Roderick Brown
+Collapse section EARTH 4026 - Tectonic Geomorphology EARTH 4026 - Tectonic Geomorphology
+Class	Section	Status
+17646
+Admin AD01-ADM S2
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+17508
+Lecture LC01-LEC S2
+Open
+
+Dates	Days & Times	Room	Instructor
+10/01/2017 - 07/02/2017
+Tu  09:00 - 10:00
+GREGORY BLDG:308 EARTH SCI LAB
+Cristina Persano
+13/01/2017 - 10/02/2017
+Fr  09:00 - 11:00
+GREGORY BLDG:308 EARTH SCI LAB
+Cristina Persano
 Collapse section EARTH 4040 - Earth Sciences Study Abroad 4 EARTH 4040 - Earth Sciences Study Abroad 4
 Class	Section	Status
 14077
@@ -75,6 +2022,72 @@ TBA
 TBA
 TBA
 Staff
+Collapse section EARTH 4050 - Digital Geoscience EARTH 4050 - Digital Geoscience
+Class	Section	Status
+17593
+Admin AD01-ADM S2
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+17301
+Laboratory LB01-LAB S2
+Open
+
+Dates	Days & Times	Room	Instructor
+10/01/2017 - 28/02/2017
+Tu  15:00 - 17:00
+MAIN BLD:233 LAB (202)
+Roderick Brown
+Class	Section	Status
+17302
+Lecture LC01-LEC S2
+Open
+
+Dates	Days & Times	Room	Instructor
+10/01/2017 - 28/02/2017
+Tu  14:00 - 15:00
+MAIN BLD:233 LAB (202)
+Roderick Brown
+Collapse section EARTH 4069 - Geo-Problem Solving EARTH 4069 - Geo-Problem Solving
+Class	Section	Status
+17628
+Admin AD01-ADM S1
+Open
+
+Dates	Days & Times	Room	Instructor
+TBA
+TBA
+TBA
+Staff
+Class	Section	Status
+17443
+Lecture LC01-LEC S1
+Open
+
+Dates	Days & Times	Room	Instructor
+22/09/2016 - 22/09/2016
+Th  09:00 - 10:00
+GREGORY BLDG:306 EARTH SCI LAB
+Gordon Curry
+Class	Section	Status
+17444
+Workshop WK01-WKS S1
+Open
+
+Dates	Days & Times	Room	Instructor
+29/09/2016 - 29/09/2016
+Th  09:00 - 11:00
+GREGORY BLDG:306 EARTH SCI LAB
+Gordon Curry
+03/11/2016 - 03/11/2016
+Th  14:00 - 16:00
+GREGORY BLDG:306 EARTH SCI LAB
+Cristina Persano
 New Search
 Modify Search
  	Enrollment	 	 	 	My Classes	 	 	 	My Academic Record	 	 	 	My Absence	 	 	 	My Good Cause	 	 	 	My Results

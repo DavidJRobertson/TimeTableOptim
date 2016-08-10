@@ -32,11 +32,11 @@ Dates	Days & Times	Room	Instructor
 19/09/2016 - 28/11/2016
 Mo  10:00 - 11:00
 CTT HUNTERIAN ART GALLRY:103 L
-Kin Hing Lo, Matteo Ceriotti, Richard Green
+Kin Hing Lo, Richard Green, Matteo Ceriotti
 20/09/2016 - 29/11/2016
 Tu  09:00 - 10:00
 CTT DAVIDSON:208 MAIN LT
-Matteo Ceriotti, Kin Hing Lo, Richard Green
+Kin Hing Lo, Richard Green, Matteo Ceriotti
 Collapse section ENG 1003 - Analogue Electronics 1 ENG 1003 - Analogue Electronics 1
 Class	Section	Status
 14909
@@ -385,7 +385,7 @@ Dates	Days & Times	Room	Instructor
 03/10/2016 - 28/11/2016
 Mo  14:00 - 17:00
 RANKINE:709 LAB
-Edward Wasige, Scott Roy
+Scott Roy, Edward Wasige
 Class	Section	Status
 5779
 Laboratory LB02-LAB S1
@@ -395,7 +395,7 @@ Dates	Days & Times	Room	Instructor
 04/10/2016 - 29/11/2016
 Tu  14:00 - 17:00
 RANKINE:709 LAB
-Edward Wasige, Scott Roy
+Scott Roy, Edward Wasige
 Class	Section	Status
 5780
 Laboratory LB03-LAB S1
@@ -405,7 +405,7 @@ Dates	Days & Times	Room	Instructor
 06/10/2016 - 01/12/2016
 Th  14:00 - 17:00
 RANKINE:709 LAB
-Scott Roy, Edward Wasige
+Edward Wasige, Scott Roy
 Class	Section	Status
 5781
 Lecture LC01-LEC S1
@@ -448,15 +448,15 @@ Dates	Days & Times	Room	Instructor
 16/01/2017 - 06/03/2017
 Mo  14:00 - 17:00
 RANKINE:709 LAB
-David Childs, Jonathan Weaver
+Jonathan Weaver, David Childs
 15/03/2017 - 15/03/2017
 We  14:00 - 17:00
 RANKINE:709 LAB
-Jonathan Weaver, David Childs
+David Childs, Jonathan Weaver
 20/03/2017 - 20/03/2017
 Mo  14:00 - 17:00
 RANKINE:709 LAB
-David Childs, Jonathan Weaver
+Jonathan Weaver, David Childs
 Class	Section	Status
 6575
 Laboratory LB02-LAB S2
@@ -486,11 +486,11 @@ Dates	Days & Times	Room	Instructor
 09/01/2017 - 20/03/2017
 Mo  10:00 - 11:00
 CTT BOYD ORR:412 (LT B)
-David Childs, Jonathan Weaver
+Jonathan Weaver, David Childs
 10/01/2017 - 21/03/2017
 Tu  10:00 - 11:00
 CTT BOYD ORR:203 LEC THEATRE 1
-Jonathan Weaver, David Childs
+David Childs, Jonathan Weaver
 11/01/2017 - 22/03/2017
 We  10:00 - 11:00
 CTT BOYD ORR:412 (LT B)
@@ -498,7 +498,7 @@ David Childs, Jonathan Weaver
 13/01/2017 - 24/03/2017
 Fr  10:00 - 11:00
 CTT KELVIN:257 MAIN LT
-David Childs, Jonathan Weaver
+Jonathan Weaver, David Childs
 Collapse section ENG 1026 - Engineering Skills 1 ENG 1026 - Engineering Skills 1
 Class	Section	Status
 13424
@@ -523,7 +523,7 @@ Linda Brown
 12/10/2016 - 12/10/2016
 We  14:00 - 17:00
 JAMES WATT SOUTH:433 TUCK LAB
-Donald Ballance, Aleksandra Vuckovic
+Aleksandra Vuckovic, Donald Ballance
 23/09/2016 - 23/09/2016
 Fr  14:00 - 16:00
 JAMES WATT SOUTH:644 SEMINAR
@@ -573,7 +573,7 @@ Dates	Days & Times	Room	Instructor
 03/10/2016 - 03/10/2016
 Mo  14:00 - 17:00
 JAMES WATT SOUTH:433 TUCK LAB
-Donald Ballance, Aleksandra Vuckovic
+Aleksandra Vuckovic, Donald Ballance
 21/09/2016 - 30/11/2016
 We  12:00 - 13:00
 RANKINE:605 LAB
@@ -613,7 +613,7 @@ Dates	Days & Times	Room	Instructor
 26/09/2016 - 26/09/2016
 Mo  14:00 - 16:00
 JAMES WATT SOUTH:644 SEMINAR
-Donald Ballance, Aleksandra Vuckovic
+Aleksandra Vuckovic, Donald Ballance
 10/10/2016 - 10/10/2016
 Mo  14:00 - 17:00
 JAMES WATT SOUTH:433 TUCK LAB
@@ -697,7 +697,7 @@ Donald Ballance
 29/09/2016 - 29/09/2016
 Th  09:00 - 12:00
 JAMES WATT SOUTH:433 TUCK LAB
-Donald Ballance, Aleksandra Vuckovic
+Aleksandra Vuckovic, Donald Ballance
 06/02/2017 - 06/02/2017
 Mo  10:00 - 12:00
 JAMES WATT SOUTH:433 TUCK LAB
@@ -737,7 +737,7 @@ Catriona Kerr
 28/09/2016 - 28/09/2016
 We  09:00 - 11:00
 JAMES WATT SOUTH:433 TUCK LAB
-Aleksandra Vuckovic, Donald Ballance
+Donald Ballance, Aleksandra Vuckovic
 21/10/2016 - 21/10/2016
 Fr  09:00 - 12:00
 JAMES WATT SOUTH:433 TUCK LAB
@@ -781,7 +781,7 @@ Catriona Kerr
 22/09/2016 - 22/09/2016
 Th  09:00 - 11:00
 JAMES WATT SOUTH:644 SEMINAR
-Aleksandra Vuckovic, Donald Ballance
+Donald Ballance, Aleksandra Vuckovic
 25/11/2016 - 25/11/2016
 Fr  09:00 - 11:00
 JAMES WATT SOUTH:433 TUCK LAB
@@ -799,7 +799,7 @@ Dates	Days & Times	Room	Instructor
 04/10/2016 - 04/10/2016
 Tu  09:00 - 11:00
 JAMES WATT SOUTH:644 SEMINAR
-Aleksandra Vuckovic, Donald Ballance
+Donald Ballance, Aleksandra Vuckovic
 30/11/2016 - 30/11/2016
 We  09:00 - 11:00
 JAMES WATT SOUTH:433 TUCK LAB
@@ -843,7 +843,7 @@ Dates	Days & Times	Room	Instructor
 03/10/2016 - 03/10/2016
 Mo  09:00 - 11:00
 JAMES WATT SOUTH:644 SEMINAR
-Aleksandra Vuckovic, Donald Ballance
+Donald Ballance, Aleksandra Vuckovic
 14/02/2017 - 14/02/2017
 Tu  09:00 - 11:00
 JAMES WATT SOUTH:433 TUCK LAB
@@ -887,7 +887,7 @@ Dates	Days & Times	Room	Instructor
 22/09/2016 - 22/09/2016
 Th  09:00 - 11:00
 JAMES WATT SOUTH:644 SEMINAR
-Aleksandra Vuckovic, Donald Ballance
+Donald Ballance, Aleksandra Vuckovic
 25/11/2016 - 25/11/2016
 Fr  09:00 - 11:00
 JAMES WATT SOUTH:433 TUCK LAB
@@ -921,7 +921,7 @@ Donald Ballance
 11/11/2016 - 11/11/2016
 Fr  09:00 - 11:00
 JAMES WATT SOUTH:644 SEMINAR
-Donald Ballance, Aleksandra Vuckovic
+Aleksandra Vuckovic, Donald Ballance
 Class	Section	Status
 4884
 Laboratory LB21-LAB S1
@@ -945,7 +945,7 @@ Dates	Days & Times	Room	Instructor
 18/10/2016 - 18/10/2016
 Tu  14:00 - 16:00
 JAMES WATT SOUTH:643 CONTROL
-Donald Ballance, Aleksandra Vuckovic
+Aleksandra Vuckovic, Donald Ballance
 22/09/2016 - 01/12/2016
 Th  09:00 - 11:00
 RANKINE:605 LAB
@@ -975,7 +975,7 @@ Catriona Kerr
 11/11/2016 - 11/11/2016
 Fr  14:00 - 17:00
 JAMES WATT SOUTH:433 TUCK LAB
-Donald Ballance, Aleksandra Vuckovic
+Aleksandra Vuckovic, Donald Ballance
 Class	Section	Status
 4887
 Laboratory LB24-LAB S1
@@ -1021,11 +1021,11 @@ Dates	Days & Times	Room	Instructor
 19/09/2016 - 17/10/2016
 Mo  15:00 - 16:00
 CTT ADAM SMITH:1115
-Aleksandra Vuckovic, Donald Ballance
+Donald Ballance, Aleksandra Vuckovic
 21/09/2016 - 19/10/2016
 We  11:00 - 12:00
 CTT SIR CHARLES WILSON:201 LT
-Aleksandra Vuckovic, Donald Ballance
+Donald Ballance, Aleksandra Vuckovic
 05/10/2016 - 12/10/2016
 We  14:00 - 16:00
 CTT GREGORY BLDG:109 MAIN LT
@@ -1050,7 +1050,7 @@ Dates	Days & Times	Room	Instructor
 18/01/2017 - 22/03/2017
 We  14:00 - 17:00
 RANKINE:601 DRWG OFFICE
-William Sloan, Caroline Gauchotte-Lindsay
+Caroline Gauchotte-Lindsay, William Sloan
 Class	Section	Status
 8810
 Laboratory LB02-LAB S2
@@ -1060,7 +1060,7 @@ Dates	Days & Times	Room	Instructor
 18/01/2017 - 22/03/2017
 We  14:00 - 17:00
 RANKINE:601 DRWG OFFICE
-William Sloan, Caroline Gauchotte-Lindsay
+Caroline Gauchotte-Lindsay, William Sloan
 Class	Section	Status
 8808
 Lecture LC01-LEC S2
@@ -1070,11 +1070,11 @@ Dates	Days & Times	Room	Instructor
 10/01/2017 - 21/03/2017
 Tu  10:00 - 11:00
 RANKINE:629 DRWG OFFICE
-William Sloan, Caroline Gauchotte-Lindsay
+Caroline Gauchotte-Lindsay, William Sloan
 13/01/2017 - 24/03/2017
 Fr  10:00 - 11:00
 JAMES WATT SOUTH:334 STUDIO
-Caroline Gauchotte-Lindsay, William Sloan
+William Sloan, Caroline Gauchotte-Lindsay
 Collapse section ENG 1031 - Introduction To Biomedical Engineering 1 ENG 1031 - Introduction To Biomedical Engineering 1
 Class	Section	Status
 13759
@@ -1121,7 +1121,7 @@ Dates	Days & Times	Room	Instructor
 19/09/2016 - 28/11/2016
 Mo  09:00 - 10:00
 JAMES WATT SOUTH:427A STUDIO
-Helen Mulvana, Julien Reboud, Thomas Franke
+Thomas Franke, Julien Reboud, Helen Mulvana
 20/09/2016 - 29/11/2016
 Tu  09:00 - 10:00
 JAMES WATT SOUTH:427A STUDIO
@@ -1135,19 +1135,19 @@ Dates	Days & Times	Room	Instructor
 26/09/2016 - 26/09/2016
 Mo  13:00 - 14:00
 CTT ADAM SMITH:916
-Helen Mulvana, Thomas Franke, Julien Reboud
+Julien Reboud, Helen Mulvana, Thomas Franke
 10/10/2016 - 10/10/2016
 Mo  13:00 - 14:00
 CTT ADAM SMITH:916
-Julien Reboud, Thomas Franke, Helen Mulvana
+Julien Reboud, Helen Mulvana, Thomas Franke
 24/10/2016 - 24/10/2016
 Mo  13:00 - 14:00
 CTT ADAM SMITH:916
-Helen Mulvana, Julien Reboud, Thomas Franke
+Julien Reboud, Helen Mulvana, Thomas Franke
 07/11/2016 - 07/11/2016
 Mo  13:00 - 14:00
 CTT ADAM SMITH:916
-Helen Mulvana, Thomas Franke, Julien Reboud
+Helen Mulvana, Julien Reboud, Thomas Franke
 21/11/2016 - 28/11/2016
 Mo  13:00 - 14:00
 CTT ADAM SMITH:916
@@ -1340,11 +1340,11 @@ Dates	Days & Times	Room	Instructor
 21/09/2016 - 30/11/2016
 We  09:00 - 10:00
 CTT THOMSON BLDG:236 ANATOMY
-K Tanner, Vihar Petkov Georgiev
+Vihar Petkov Georgiev, K Tanner
 23/09/2016 - 02/12/2016
 Fr  09:00 - 10:00
 CTT MAIN BLD:255 HUMANITY LT
-Vihar Petkov Georgiev, K Tanner
+K Tanner, Vihar Petkov Georgiev
 Class	Section	Status
 3357
 Lecture LC02-LEC S1
@@ -1368,11 +1368,11 @@ Dates	Days & Times	Room	Instructor
 05/10/2016 - 05/10/2016
 We  12:00 - 13:00
 JAMES WATT SOUTH:334 STUDIO
-K Tanner, Vihar Petkov Georgiev
+Vihar Petkov Georgiev, K Tanner
 26/10/2016 - 26/10/2016
 We  12:00 - 13:00
 JAMES WATT SOUTH:334 STUDIO
-K Tanner, Vihar Petkov Georgiev
+Vihar Petkov Georgiev, K Tanner
 16/11/2016 - 16/11/2016
 We  12:00 - 13:00
 JAMES WATT SOUTH:334 STUDIO
@@ -1390,7 +1390,7 @@ Vihar Petkov Georgiev, K Tanner
 02/11/2016 - 02/11/2016
 We  12:00 - 13:00
 JAMES WATT SOUTH:334 STUDIO
-Vihar Petkov Georgiev, K Tanner
+K Tanner, Vihar Petkov Georgiev
 23/11/2016 - 23/11/2016
 We  12:00 - 13:00
 JAMES WATT SOUTH:334 STUDIO
@@ -1422,7 +1422,7 @@ Dates	Days & Times	Room	Instructor
 13/10/2016 - 13/10/2016
 Th  12:00 - 13:00
 JAMES WATT SOUTH:334 STUDIO
-K Tanner, Vihar Petkov Georgiev
+Vihar Petkov Georgiev, K Tanner
 03/11/2016 - 03/11/2016
 Th  12:00 - 13:00
 JAMES WATT SOUTH:334 STUDIO
@@ -1430,7 +1430,7 @@ Vihar Petkov Georgiev, K Tanner
 24/11/2016 - 24/11/2016
 Th  12:00 - 13:00
 JAMES WATT SOUTH:334 STUDIO
-Vihar Petkov Georgiev, K Tanner
+K Tanner, Vihar Petkov Georgiev
 Class	Section	Status
 3362
 Tutorial TU05-TUT S1
@@ -1448,7 +1448,7 @@ K Tanner, Vihar Petkov Georgiev
 14/11/2016 - 14/11/2016
 Mo  13:00 - 14:00
 JAMES WATT SOUTH:427A STUDIO
-K Tanner, Vihar Petkov Georgiev
+Vihar Petkov Georgiev, K Tanner
 Class	Section	Status
 3363
 Tutorial TU06-TUT S1
@@ -1480,11 +1480,11 @@ Vihar Petkov Georgiev, K Tanner
 27/10/2016 - 27/10/2016
 Th  13:00 - 14:00
 JAMES WATT SOUTH:427A STUDIO
-K Tanner, Vihar Petkov Georgiev
+Vihar Petkov Georgiev, K Tanner
 17/11/2016 - 17/11/2016
 Th  13:00 - 14:00
 JAMES WATT SOUTH:427A STUDIO
-K Tanner, Vihar Petkov Georgiev
+Vihar Petkov Georgiev, K Tanner
 Class	Section	Status
 3365
 Tutorial TU08-TUT S1
@@ -1498,11 +1498,11 @@ Vihar Petkov Georgiev, K Tanner
 03/11/2016 - 03/11/2016
 Th  13:00 - 14:00
 JAMES WATT SOUTH:427A STUDIO
-K Tanner, Vihar Petkov Georgiev
+Vihar Petkov Georgiev, K Tanner
 24/11/2016 - 24/11/2016
 Th  13:00 - 14:00
 JAMES WATT SOUTH:427A STUDIO
-Vihar Petkov Georgiev, K Tanner
+K Tanner, Vihar Petkov Georgiev
 Collapse section ENG 1061 - Civil Engineering 1 ENG 1061 - Civil Engineering 1
 Class	Section	Status
 13520
@@ -1624,7 +1624,7 @@ Dates	Days & Times	Room	Instructor
 31/01/2017 - 31/01/2017
 Tu  14:00 - 15:30
 JAMES WATT SOUTH:438 TUCK LAB
-Michea Giuni, Trevor Davies
+Trevor Davies, Michea Giuni
 Class	Section	Status
 3431
 Laboratory LB02-LAB S2
@@ -1674,7 +1674,7 @@ Dates	Days & Times	Room	Instructor
 02/03/2017 - 02/03/2017
 Th  14:00 - 15:30
 JAMES WATT SOUTH:438 TUCK LAB
-Trevor Davies, Michea Giuni
+Michea Giuni, Trevor Davies
 Class	Section	Status
 3436
 Laboratory LB07-LAB S2
@@ -1684,7 +1684,7 @@ Dates	Days & Times	Room	Instructor
 07/02/2017 - 07/02/2017
 Tu  09:00 - 10:30
 JAMES WATT SOUTH:438 TUCK LAB
-Trevor Davies, Michea Giuni
+Michea Giuni, Trevor Davies
 Class	Section	Status
 3437
 Laboratory LB08-LAB S2
@@ -1694,7 +1694,7 @@ Dates	Days & Times	Room	Instructor
 26/01/2017 - 26/01/2017
 Th  09:00 - 10:30
 JAMES WATT SOUTH:438 TUCK LAB
-Trevor Davies, Michea Giuni
+Michea Giuni, Trevor Davies
 Class	Section	Status
 3438
 Laboratory LB09-LAB S2
@@ -1704,7 +1704,7 @@ Dates	Days & Times	Room	Instructor
 23/02/2017 - 23/02/2017
 Th  09:00 - 10:30
 JAMES WATT SOUTH:438 TUCK LAB
-Trevor Davies, Michea Giuni
+Michea Giuni, Trevor Davies
 Class	Section	Status
 3439
 Laboratory LB10-LAB S2
@@ -1714,7 +1714,7 @@ Dates	Days & Times	Room	Instructor
 23/02/2017 - 23/02/2017
 Th  10:30 - 12:00
 JAMES WATT SOUTH:438 TUCK LAB
-Trevor Davies, Michea Giuni
+Michea Giuni, Trevor Davies
 Class	Section	Status
 3440
 Laboratory LB11-LAB S2
@@ -1724,7 +1724,7 @@ Dates	Days & Times	Room	Instructor
 07/02/2017 - 07/02/2017
 Tu  10:30 - 12:00
 JAMES WATT SOUTH:438 TUCK LAB
-Michea Giuni, Trevor Davies
+Trevor Davies, Michea Giuni
 Class	Section	Status
 3441
 Laboratory LB12-LAB S2
@@ -1734,7 +1734,7 @@ Dates	Days & Times	Room	Instructor
 26/01/2017 - 26/01/2017
 Th  10:30 - 12:00
 JAMES WATT SOUTH:438 TUCK LAB
-Trevor Davies, Michea Giuni
+Michea Giuni, Trevor Davies
 Class	Section	Status
 3442
 Laboratory LB13-LAB S2
@@ -1784,7 +1784,7 @@ Dates	Days & Times	Room	Instructor
 01/03/2017 - 01/03/2017
 We  15:30 - 17:00
 JAMES WATT SOUTH:438 TUCK LAB
-Michea Giuni, Trevor Davies
+Trevor Davies, Michea Giuni
 Class	Section	Status
 3420
 Lecture LC01-LEC S2
@@ -1856,7 +1856,7 @@ Trevor Davies, Michea Giuni
 15/03/2017 - 15/03/2017
 We  12:00 - 13:00
 JAMES WATT SOUTH:427A STUDIO
-Trevor Davies, Michea Giuni
+Michea Giuni, Trevor Davies
 Class	Section	Status
 3424
 Tutorial TU03-TUT S2
@@ -1866,11 +1866,11 @@ Dates	Days & Times	Room	Instructor
 26/01/2017 - 26/01/2017
 Th  12:00 - 13:00
 JAMES WATT SOUTH:427A STUDIO
-Trevor Davies, Michea Giuni
+Michea Giuni, Trevor Davies
 09/02/2017 - 09/02/2017
 Th  12:00 - 13:00
 JAMES WATT SOUTH:427A STUDIO
-Michea Giuni, Trevor Davies
+Trevor Davies, Michea Giuni
 23/02/2017 - 23/02/2017
 Th  12:00 - 13:00
 JAMES WATT SOUTH:427A STUDIO
@@ -1878,7 +1878,7 @@ Michea Giuni, Trevor Davies
 09/03/2017 - 09/03/2017
 Th  12:00 - 13:00
 JAMES WATT SOUTH:427A STUDIO
-Michea Giuni, Trevor Davies
+Trevor Davies, Michea Giuni
 Class	Section	Status
 3425
 Tutorial TU04-TUT S2
@@ -1888,15 +1888,15 @@ Dates	Days & Times	Room	Instructor
 02/02/2017 - 02/02/2017
 Th  12:00 - 13:00
 JAMES WATT SOUTH:427A STUDIO
-Michea Giuni, Trevor Davies
+Trevor Davies, Michea Giuni
 16/02/2017 - 16/02/2017
 Th  12:00 - 13:00
 JAMES WATT SOUTH:427A STUDIO
-Trevor Davies, Michea Giuni
+Michea Giuni, Trevor Davies
 02/03/2017 - 02/03/2017
 Th  12:00 - 13:00
 JAMES WATT SOUTH:427A STUDIO
-Trevor Davies, Michea Giuni
+Michea Giuni, Trevor Davies
 16/03/2017 - 16/03/2017
 Th  12:00 - 13:00
 JAMES WATT SOUTH:427A STUDIO
@@ -1922,7 +1922,7 @@ Trevor Davies, Michea Giuni
 06/03/2017 - 06/03/2017
 Mo  14:00 - 15:00
 JAMES WATT SOUTH:427B STUDIO
-Trevor Davies, Michea Giuni
+Michea Giuni, Trevor Davies
 Class	Section	Status
 3427
 Tutorial TU06-TUT S2
@@ -1932,7 +1932,7 @@ Dates	Days & Times	Room	Instructor
 25/01/2017 - 25/01/2017
 We  10:00 - 11:00
 JAMES WATT SOUTH:427A STUDIO
-Trevor Davies, Michea Giuni
+Michea Giuni, Trevor Davies
 08/02/2017 - 08/02/2017
 We  10:00 - 11:00
 JAMES WATT SOUTH:427A STUDIO
@@ -1940,7 +1940,7 @@ Michea Giuni, Trevor Davies
 22/02/2017 - 22/02/2017
 We  10:00 - 11:00
 JAMES WATT SOUTH:427A STUDIO
-Michea Giuni, Trevor Davies
+Trevor Davies, Michea Giuni
 08/03/2017 - 08/03/2017
 We  10:00 - 11:00
 JAMES WATT SOUTH:427A STUDIO
@@ -1954,19 +1954,19 @@ Dates	Days & Times	Room	Instructor
 26/01/2017 - 26/01/2017
 Th  13:00 - 14:00
 JAMES WATT SOUTH:427A STUDIO
-Michea Giuni, Trevor Davies
+Trevor Davies, Michea Giuni
 09/02/2017 - 09/02/2017
 Th  13:00 - 14:00
 JAMES WATT SOUTH:427A STUDIO
-Michea Giuni, Trevor Davies
+Trevor Davies, Michea Giuni
 23/02/2017 - 23/02/2017
 Th  13:00 - 14:00
 JAMES WATT SOUTH:427A STUDIO
-Michea Giuni, Trevor Davies
+Trevor Davies, Michea Giuni
 09/03/2017 - 09/03/2017
 Th  13:00 - 14:00
 JAMES WATT SOUTH:427A STUDIO
-Michea Giuni, Trevor Davies
+Trevor Davies, Michea Giuni
 Class	Section	Status
 3429
 Tutorial TU08-TUT S2
@@ -1976,19 +1976,19 @@ Dates	Days & Times	Room	Instructor
 02/02/2017 - 02/02/2017
 Th  13:00 - 14:00
 JAMES WATT SOUTH:427A STUDIO
-Michea Giuni, Trevor Davies
+Trevor Davies, Michea Giuni
 16/02/2017 - 16/02/2017
 Th  13:00 - 14:00
 JAMES WATT SOUTH:427A STUDIO
-Michea Giuni, Trevor Davies
+Trevor Davies, Michea Giuni
 02/03/2017 - 02/03/2017
 Th  13:00 - 14:00
 JAMES WATT SOUTH:427A STUDIO
-Michea Giuni, Trevor Davies
+Trevor Davies, Michea Giuni
 16/03/2017 - 16/03/2017
 Th  13:00 - 14:00
 JAMES WATT SOUTH:427A STUDIO
-Trevor Davies, Michea Giuni
+Michea Giuni, Trevor Davies
 Collapse section ENG 1063 - Engineering Mathematics 1 ENG 1063 - Engineering Mathematics 1
 Class	Section	Status
 15685
@@ -2009,7 +2009,7 @@ Dates	Days & Times	Room	Instructor
 20/09/2016 - 29/11/2016
 Tu  11:00 - 12:00
 CTT SIR ALEXANDER STONE:208 LT
-John Williamson, Swee Keow Goo, David Hutchings
+David Hutchings, John Williamson, Swee Keow Goo
 31/01/2017 - 31/01/2017
 Tu  17:00 - 18:00
 CTT JAMES WATT STH:354 STEVESN
@@ -2017,7 +2017,7 @@ Donald Ballance
 21/09/2016 - 30/11/2016
 We  11:00 - 12:00
 CTT ADAM SMITH:1115
-David Hutchings, John Williamson, Swee Keow Goo
+John Williamson, Swee Keow Goo, David Hutchings
 22/09/2016 - 01/12/2016
 Th  11:00 - 12:00
 CTT JAMES WATT STH:354 STEVESN
@@ -2025,7 +2025,7 @@ David Hutchings, Swee Keow Goo, John Williamson
 23/09/2016 - 02/12/2016
 Fr  11:00 - 12:00
 CTT JAMES WATT STH:354 STEVESN
-Swee Keow Goo, John Williamson, David Hutchings
+John Williamson, Swee Keow Goo, David Hutchings
 03/02/2017 - 03/02/2017
 Fr  17:00 - 18:00
 CTT MAIN BLD:220 HUNTER WEST
@@ -2033,15 +2033,15 @@ John Williamson
 10/01/2017 - 21/03/2017
 Tu  11:00 - 12:00
 CTT SIR ALEXANDER STONE:208 LT
-David Hutchings, John Williamson, Swee Keow Goo
+David Hutchings, Swee Keow Goo, John Williamson
 11/01/2017 - 22/03/2017
 We  11:00 - 12:00
 CTT ADAM SMITH:1115
-Swee Keow Goo, John Williamson, David Hutchings
+John Williamson, Swee Keow Goo, David Hutchings
 12/01/2017 - 23/03/2017
 Th  11:00 - 12:00
 CTT JAMES WATT STH:354 STEVESN
-David Hutchings, Swee Keow Goo, John Williamson
+John Williamson, Swee Keow Goo, David Hutchings
 13/01/2017 - 24/03/2017
 Fr  11:00 - 12:00
 CTT JAMES WATT STH:354 STEVESN
@@ -2083,11 +2083,11 @@ Dates	Days & Times	Room	Instructor
 20/09/2016 - 29/11/2016
 Tu  15:00 - 16:00
 CTT JAMES WATT STH:354 STEVESN
-Swee Keow Goo, David Hutchings, John Williamson
+Swee Keow Goo, John Williamson, David Hutchings
 21/09/2016 - 30/11/2016
 We  12:00 - 13:00
 CTT SIR ALEXANDER STONE:208 LT
-Swee Keow Goo, John Williamson
+John Williamson, Swee Keow Goo
 22/09/2016 - 01/12/2016
 Th  15:00 - 16:00
 CTT JAMES WATT STH:354 STEVESN
@@ -2095,7 +2095,7 @@ John Williamson, Swee Keow Goo, David Hutchings
 23/09/2016 - 02/12/2016
 Fr  15:00 - 16:00
 CTT ADAM SMITH:1115
-John Williamson, David Hutchings, Swee Keow Goo
+Swee Keow Goo, John Williamson, David Hutchings
 03/02/2017 - 03/02/2017
 Fr  17:00 - 18:00
 CTT MAIN BLD:220 HUNTER WEST
@@ -2103,19 +2103,19 @@ John Williamson
 10/01/2017 - 21/03/2017
 Tu  15:00 - 16:00
 CTT JAMES WATT STH:354 STEVESN
-David Hutchings, Swee Keow Goo, John Williamson
+Swee Keow Goo, David Hutchings, John Williamson
 11/01/2017 - 22/03/2017
 We  12:00 - 13:00
 CTT SIR ALEXANDER STONE:208 LT
-Swee Keow Goo, John Williamson
+John Williamson, Swee Keow Goo
 12/01/2017 - 23/03/2017
 Th  15:00 - 16:00
 CTT JAMES WATT STH:354 STEVESN
-Swee Keow Goo, David Hutchings, John Williamson
+Swee Keow Goo, John Williamson, David Hutchings
 13/01/2017 - 24/03/2017
 Fr  15:00 - 16:00
 CTT ADAM SMITH:1115
-Swee Keow Goo, John Williamson, David Hutchings
+Swee Keow Goo, David Hutchings, John Williamson
 Class	Section	Status
 11762
 Tutorial TU01-TUT S12
@@ -2396,7 +2396,7 @@ Jonathan Weaver, David Childs
 06/03/2017 - 06/03/2017
 Mo  14:00 - 17:00
 RANKINE:709 LAB
-David Childs, Jonathan Weaver
+Jonathan Weaver, David Childs
 Class	Section	Status
 6424
 Lecture LC01-LEC S2
@@ -2431,11 +2431,11 @@ Dates	Days & Times	Room	Instructor
 04/10/2016 - 04/10/2016
 Tu  14:00 - 16:00
 JAMES WATT SOUTH:438 TUCK LAB
-Christopher Pearce, Margaret Lucas
+Margaret Lucas, Christopher Pearce
 01/11/2016 - 01/11/2016
 Tu  14:00 - 16:00
 JAMES WATT SOUTH:438 TUCK LAB
-Margaret Lucas, Christopher Pearce
+Christopher Pearce, Margaret Lucas
 Class	Section	Status
 9177
 Laboratory LB02-LAB S1
@@ -2449,7 +2449,7 @@ Margaret Lucas, Christopher Pearce
 03/11/2016 - 03/11/2016
 Th  14:00 - 16:00
 JAMES WATT SOUTH:438 TUCK LAB
-Margaret Lucas, Christopher Pearce
+Christopher Pearce, Margaret Lucas
 Class	Section	Status
 9178
 Laboratory LB03-LAB S1
@@ -2487,7 +2487,7 @@ Dates	Days & Times	Room	Instructor
 13/10/2016 - 13/10/2016
 Th  10:00 - 12:00
 JAMES WATT SOUTH:438 TUCK LAB
-Margaret Lucas, Christopher Pearce
+Christopher Pearce, Margaret Lucas
 10/11/2016 - 10/11/2016
 Th  10:00 - 12:00
 JAMES WATT SOUTH:438 TUCK LAB
@@ -2505,7 +2505,7 @@ Margaret Lucas, Christopher Pearce
 14/11/2016 - 14/11/2016
 Mo  11:00 - 13:00
 JAMES WATT SOUTH:438 TUCK LAB
-Margaret Lucas, Christopher Pearce
+Christopher Pearce, Margaret Lucas
 Class	Section	Status
 9182
 Laboratory LB07-LAB S1
@@ -2515,11 +2515,11 @@ Dates	Days & Times	Room	Instructor
 27/10/2016 - 27/10/2016
 Th  10:00 - 12:00
 JAMES WATT SOUTH:438 TUCK LAB
-Margaret Lucas, Christopher Pearce
+Christopher Pearce, Margaret Lucas
 17/11/2016 - 17/11/2016
 Th  10:00 - 12:00
 JAMES WATT SOUTH:438 TUCK LAB
-Margaret Lucas, Christopher Pearce
+Christopher Pearce, Margaret Lucas
 Class	Section	Status
 9189
 Laboratory LB08-LAB S1
@@ -2571,7 +2571,7 @@ Dates	Days & Times	Room	Instructor
 12/10/2016 - 12/10/2016
 We  12:00 - 13:00
 JAMES WATT SOUTH:427B STUDIO
-Margaret Lucas, Christopher Pearce
+Christopher Pearce, Margaret Lucas
 02/11/2016 - 02/11/2016
 We  12:00 - 13:00
 JAMES WATT SOUTH:427B STUDIO
@@ -2593,11 +2593,11 @@ Margaret Lucas, Christopher Pearce
 09/11/2016 - 09/11/2016
 We  12:00 - 13:00
 JAMES WATT SOUTH:427B STUDIO
-Margaret Lucas, Christopher Pearce
+Christopher Pearce, Margaret Lucas
 30/11/2016 - 30/11/2016
 We  12:00 - 13:00
 JAMES WATT SOUTH:427B STUDIO
-Margaret Lucas, Christopher Pearce
+Christopher Pearce, Margaret Lucas
 Class	Section	Status
 9185
 Tutorial TU03-TUT S1
@@ -2611,11 +2611,11 @@ Margaret Lucas, Christopher Pearce
 10/11/2016 - 10/11/2016
 Th  12:00 - 13:00
 JAMES WATT SOUTH:427A STUDIO
-Margaret Lucas, Christopher Pearce
+Christopher Pearce, Margaret Lucas
 01/12/2016 - 01/12/2016
 Th  12:00 - 13:00
 JAMES WATT SOUTH:427A STUDIO
-Christopher Pearce, Margaret Lucas
+Margaret Lucas, Christopher Pearce
 Class	Section	Status
 9186
 Tutorial TU04-TUT S1
@@ -2625,7 +2625,7 @@ Dates	Days & Times	Room	Instructor
 17/10/2016 - 17/10/2016
 Mo  13:00 - 14:00
 JAMES WATT SOUTH:427B STUDIO
-Christopher Pearce, Margaret Lucas
+Margaret Lucas, Christopher Pearce
 31/10/2016 - 31/10/2016
 Mo  13:00 - 14:00
 JAMES WATT SOUTH:427B STUDIO
@@ -2643,15 +2643,15 @@ Dates	Days & Times	Room	Instructor
 20/10/2016 - 20/10/2016
 Th  13:00 - 14:00
 JAMES WATT SOUTH:427B STUDIO
-Margaret Lucas, Christopher Pearce
+Christopher Pearce, Margaret Lucas
 10/11/2016 - 10/11/2016
 Th  13:00 - 14:00
 JAMES WATT SOUTH:427B STUDIO
-Margaret Lucas, Christopher Pearce
+Christopher Pearce, Margaret Lucas
 01/12/2016 - 01/12/2016
 Th  13:00 - 14:00
 JAMES WATT SOUTH:427B STUDIO
-Margaret Lucas, Christopher Pearce
+Christopher Pearce, Margaret Lucas
 Class	Section	Status
 9188
 Tutorial TU06-TUT S1
@@ -2661,11 +2661,11 @@ Dates	Days & Times	Room	Instructor
 06/10/2016 - 06/10/2016
 Th  13:00 - 14:00
 JAMES WATT SOUTH:427B STUDIO
-Margaret Lucas, Christopher Pearce
+Christopher Pearce, Margaret Lucas
 27/10/2016 - 27/10/2016
 Th  13:00 - 14:00
 JAMES WATT SOUTH:427B STUDIO
-Margaret Lucas, Christopher Pearce
+Christopher Pearce, Margaret Lucas
 17/11/2016 - 17/11/2016
 Th  13:00 - 14:00
 JAMES WATT SOUTH:427B STUDIO
@@ -2690,7 +2690,7 @@ Dates	Days & Times	Room	Instructor
 24/01/2017 - 24/01/2017
 Tu  14:00 - 16:00
 JAMES WATT SOUTH:438 TUCK LAB
-Manosh Paul, Nader Karimi
+Nader Karimi, Manosh Paul
 21/02/2017 - 21/02/2017
 Tu  14:00 - 16:00
 JAMES WATT SOUTH:438 TUCK LAB
@@ -2708,7 +2708,7 @@ Manosh Paul, Nader Karimi
 23/02/2017 - 23/02/2017
 Th  14:00 - 16:00
 JAMES WATT SOUTH:438 TUCK LAB
-Manosh Paul, Nader Karimi
+Nader Karimi, Manosh Paul
 Class	Section	Status
 11425
 Laboratory LB03-LAB S2
@@ -2718,11 +2718,11 @@ Dates	Days & Times	Room	Instructor
 20/01/2017 - 20/01/2017
 Fr  14:00 - 16:00
 JAMES WATT SOUTH:438 TUCK LAB
-Manosh Paul, Nader Karimi
+Nader Karimi, Manosh Paul
 24/02/2017 - 24/02/2017
 Fr  14:00 - 16:00
 JAMES WATT SOUTH:438 TUCK LAB
-Manosh Paul, Nader Karimi
+Nader Karimi, Manosh Paul
 Class	Section	Status
 11426
 Laboratory LB04-LAB S2
@@ -2732,7 +2732,7 @@ Dates	Days & Times	Room	Instructor
 07/02/2017 - 07/02/2017
 Tu  14:00 - 16:00
 JAMES WATT SOUTH:438 TUCK LAB
-Manosh Paul, Nader Karimi
+Nader Karimi, Manosh Paul
 07/03/2017 - 07/03/2017
 Tu  14:00 - 16:00
 JAMES WATT SOUTH:438 TUCK LAB
@@ -2746,7 +2746,7 @@ Dates	Days & Times	Room	Instructor
 09/02/2017 - 09/02/2017
 Th  14:00 - 16:00
 JAMES WATT SOUTH:438 TUCK LAB
-Manosh Paul, Nader Karimi
+Nader Karimi, Manosh Paul
 09/03/2017 - 09/03/2017
 Th  14:00 - 16:00
 JAMES WATT SOUTH:438 TUCK LAB
@@ -2760,7 +2760,7 @@ Dates	Days & Times	Room	Instructor
 10/02/2017 - 10/02/2017
 Fr  14:00 - 16:00
 JAMES WATT SOUTH:438 TUCK LAB
-Nader Karimi, Manosh Paul
+Manosh Paul, Nader Karimi
 10/03/2017 - 10/03/2017
 Fr  14:00 - 16:00
 JAMES WATT SOUTH:438 TUCK LAB
@@ -2774,7 +2774,7 @@ Dates	Days & Times	Room	Instructor
 31/01/2017 - 31/01/2017
 Tu  10:00 - 12:00
 JAMES WATT SOUTH:438 TUCK LAB
-Manosh Paul, Nader Karimi
+Nader Karimi, Manosh Paul
 28/02/2017 - 28/02/2017
 Tu  10:00 - 12:00
 JAMES WATT SOUTH:438 TUCK LAB
@@ -2792,7 +2792,7 @@ Manosh Paul, Nader Karimi
 02/03/2017 - 02/03/2017
 Th  10:00 - 12:00
 JAMES WATT SOUTH:438 TUCK LAB
-Nader Karimi, Manosh Paul
+Manosh Paul, Nader Karimi
 Class	Section	Status
 11431
 Laboratory LB09-LAB S2
@@ -2802,7 +2802,7 @@ Dates	Days & Times	Room	Instructor
 03/02/2017 - 03/02/2017
 Fr  11:00 - 13:00
 JAMES WATT SOUTH:438 TUCK LAB
-Manosh Paul, Nader Karimi
+Nader Karimi, Manosh Paul
 03/03/2017 - 03/03/2017
 Fr  11:00 - 13:00
 JAMES WATT SOUTH:438 TUCK LAB
@@ -2830,11 +2830,11 @@ Dates	Days & Times	Room	Instructor
 16/02/2017 - 16/02/2017
 Th  10:00 - 12:00
 JAMES WATT SOUTH:438 TUCK LAB
-Nader Karimi, Manosh Paul
+Manosh Paul, Nader Karimi
 16/03/2017 - 16/03/2017
 Th  10:00 - 12:00
 JAMES WATT SOUTH:438 TUCK LAB
-Nader Karimi, Manosh Paul
+Manosh Paul, Nader Karimi
 Class	Section	Status
 11434
 Laboratory LB12-LAB S2
@@ -2844,7 +2844,7 @@ Dates	Days & Times	Room	Instructor
 17/02/2017 - 17/02/2017
 Fr  11:00 - 13:00
 JAMES WATT SOUTH:438 TUCK LAB
-Manosh Paul, Nader Karimi
+Nader Karimi, Manosh Paul
 17/03/2017 - 17/03/2017
 Fr  11:00 - 13:00
 JAMES WATT SOUTH:438 TUCK LAB
@@ -2858,11 +2858,11 @@ Dates	Days & Times	Room	Instructor
 07/02/2017 - 07/02/2017
 Tu  09:00 - 11:00
 JAMES WATT SOUTH:438 TUCK LAB
-Manosh Paul, Nader Karimi
+Nader Karimi, Manosh Paul
 07/03/2017 - 07/03/2017
 Tu  09:00 - 11:00
 JAMES WATT SOUTH:438 TUCK LAB
-Manosh Paul, Nader Karimi
+Nader Karimi, Manosh Paul
 Class	Section	Status
 11436
 Laboratory LB14-LAB S2
@@ -2872,7 +2872,7 @@ Dates	Days & Times	Room	Instructor
 16/02/2017 - 16/02/2017
 Th  14:00 - 16:00
 JAMES WATT SOUTH:438 TUCK LAB
-Manosh Paul, Nader Karimi
+Nader Karimi, Manosh Paul
 16/03/2017 - 16/03/2017
 Th  14:00 - 16:00
 JAMES WATT SOUTH:438 TUCK LAB
@@ -2886,7 +2886,7 @@ Dates	Days & Times	Room	Instructor
 09/03/2017 - 09/03/2017
 Th  10:00 - 12:00
 JAMES WATT SOUTH:438 TUCK LAB
-Manosh Paul, Nader Karimi
+Nader Karimi, Manosh Paul
 10/02/2017 - 10/02/2017
 Fr  11:00 - 13:00
 JAMES WATT SOUTH:438 TUCK LAB
@@ -2914,7 +2914,7 @@ Dates	Days & Times	Room	Instructor
 10/01/2017 - 21/03/2017
 Tu  14:00 - 15:00
 CTT JAMES WATT STH:354 STEVESN
-Nader Karimi, Manosh Paul
+Manosh Paul, Nader Karimi
 12/01/2017 - 23/03/2017
 Th  14:00 - 15:00
 CTT JAMES WATT STH:354 STEVESN
@@ -2932,7 +2932,7 @@ Nader Karimi, Manosh Paul
 08/02/2017 - 08/02/2017
 We  12:00 - 13:00
 JAMES WATT SOUTH:427B STUDIO
-Manosh Paul, Nader Karimi
+Nader Karimi, Manosh Paul
 08/03/2017 - 08/03/2017
 We  12:00 - 13:00
 JAMES WATT SOUTH:427B STUDIO
@@ -2946,15 +2946,15 @@ Dates	Days & Times	Room	Instructor
 01/02/2017 - 01/02/2017
 We  12:00 - 13:00
 JAMES WATT SOUTH:427B STUDIO
-Nader Karimi, Manosh Paul
+Manosh Paul, Nader Karimi
 15/02/2017 - 15/02/2017
 We  12:00 - 13:00
 JAMES WATT SOUTH:427B STUDIO
-Nader Karimi, Manosh Paul
+Manosh Paul, Nader Karimi
 15/03/2017 - 15/03/2017
 We  12:00 - 13:00
 JAMES WATT SOUTH:427B STUDIO
-Nader Karimi, Manosh Paul
+Manosh Paul, Nader Karimi
 Class	Section	Status
 11417
 Tutorial TU03-TUT S2
@@ -2964,7 +2964,7 @@ Dates	Days & Times	Room	Instructor
 26/01/2017 - 26/01/2017
 Th  12:00 - 13:00
 JAMES WATT SOUTH:334 STUDIO
-Nader Karimi, Manosh Paul
+Manosh Paul, Nader Karimi
 09/02/2017 - 09/02/2017
 Th  12:00 - 13:00
 JAMES WATT SOUTH:334 STUDIO
@@ -2986,11 +2986,11 @@ Manosh Paul, Nader Karimi
 23/02/2017 - 23/02/2017
 Th  12:00 - 13:00
 JAMES WATT SOUTH:427B STUDIO
-Nader Karimi, Manosh Paul
+Manosh Paul, Nader Karimi
 16/03/2017 - 16/03/2017
 Th  12:00 - 13:00
 JAMES WATT SOUTH:427B STUDIO
-Manosh Paul, Nader Karimi
+Nader Karimi, Manosh Paul
 Class	Section	Status
 11419
 Tutorial TU05-TUT S2
@@ -3000,15 +3000,15 @@ Dates	Days & Times	Room	Instructor
 01/02/2017 - 01/02/2017
 We  10:00 - 11:00
 JAMES WATT SOUTH:427A STUDIO
-Nader Karimi, Manosh Paul
+Manosh Paul, Nader Karimi
 15/02/2017 - 15/02/2017
 We  10:00 - 11:00
 JAMES WATT SOUTH:427A STUDIO
-Manosh Paul, Nader Karimi
+Nader Karimi, Manosh Paul
 15/03/2017 - 15/03/2017
 We  10:00 - 11:00
 JAMES WATT SOUTH:427A STUDIO
-Nader Karimi, Manosh Paul
+Manosh Paul, Nader Karimi
 Class	Section	Status
 11420
 Tutorial TU06-TUT S2
@@ -3018,15 +3018,15 @@ Dates	Days & Times	Room	Instructor
 30/01/2017 - 30/01/2017
 Mo  14:00 - 15:00
 JAMES WATT SOUTH:427B STUDIO
-Manosh Paul, Nader Karimi
+Nader Karimi, Manosh Paul
 13/02/2017 - 13/02/2017
 Mo  14:00 - 15:00
 JAMES WATT SOUTH:427B STUDIO
-Nader Karimi, Manosh Paul
+Manosh Paul, Nader Karimi
 13/03/2017 - 13/03/2017
 Mo  14:00 - 15:00
 JAMES WATT SOUTH:427B STUDIO
-Manosh Paul, Nader Karimi
+Nader Karimi, Manosh Paul
 Class	Section	Status
 11421
 Tutorial TU07-TUT S2
@@ -3036,7 +3036,7 @@ Dates	Days & Times	Room	Instructor
 26/01/2017 - 26/01/2017
 Th  13:00 - 14:00
 JAMES WATT SOUTH:427B STUDIO
-Manosh Paul, Nader Karimi
+Nader Karimi, Manosh Paul
 09/02/2017 - 09/02/2017
 Th  13:00 - 14:00
 JAMES WATT SOUTH:427B STUDIO
@@ -3044,7 +3044,7 @@ Manosh Paul, Nader Karimi
 09/03/2017 - 09/03/2017
 Th  13:00 - 14:00
 JAMES WATT SOUTH:427B STUDIO
-Nader Karimi, Manosh Paul
+Manosh Paul, Nader Karimi
 Class	Section	Status
 11422
 Tutorial TU08-TUT S2
@@ -3054,11 +3054,11 @@ Dates	Days & Times	Room	Instructor
 02/02/2017 - 02/02/2017
 Th  13:00 - 14:00
 JAMES WATT SOUTH:427B STUDIO
-Manosh Paul, Nader Karimi
+Nader Karimi, Manosh Paul
 16/02/2017 - 16/02/2017
 Th  13:00 - 14:00
 JAMES WATT SOUTH:427B STUDIO
-Nader Karimi, Manosh Paul
+Manosh Paul, Nader Karimi
 16/03/2017 - 16/03/2017
 Th  13:00 - 14:00
 JAMES WATT SOUTH:427B STUDIO
@@ -3264,7 +3264,7 @@ Dates	Days & Times	Room	Instructor
 01/02/2017 - 01/02/2017
 We  14:00 - 16:00
 JAMES WATT SOUTH:438 TUCK LAB
-Manuel Salmeron-Sanchez, K Tanner
+K Tanner, Cristina Gonzalez Garcia
 Class	Section	Status
 2315
 Laboratory LB02-LAB S2
@@ -3274,7 +3274,7 @@ Dates	Days & Times	Room	Instructor
 27/02/2017 - 27/02/2017
 Mo  14:00 - 16:00
 JAMES WATT SOUTH:438 TUCK LAB
-Manuel Salmeron-Sanchez, K Tanner
+Cristina Gonzalez Garcia, K Tanner
 Class	Section	Status
 2313
 Lecture LC01-LEC S2
@@ -3284,11 +3284,11 @@ Dates	Days & Times	Room	Instructor
 09/01/2017 - 20/03/2017
 Mo  11:00 - 12:00
 CTT JAMES WATT SOUTH:355 (J10)
-Manuel Salmeron-Sanchez, K Tanner
+Cristina Gonzalez Garcia, K Tanner
 11/01/2017 - 22/03/2017
 We  11:00 - 12:00
 CTT JAMES WATT SOUTH:355 (J10)
-Manuel Salmeron-Sanchez, K Tanner
+Cristina Gonzalez Garcia, K Tanner
 Collapse section ENG 2012 - Biomedical Engineering Skills 2 ENG 2012 - Biomedical Engineering Skills 2
 Class	Section	Status
 13664
@@ -3797,11 +3797,11 @@ Dates	Days & Times	Room	Instructor
 21/09/2016 - 30/11/2016
 We  11:00 - 12:00
 JAMES WATT SOUTH:334 STUDIO
-Steven Neale, Huabing Yin
+Huabing Yin, Steven Neale
 22/09/2016 - 01/12/2016
 Th  11:00 - 12:00
-CTT WILT:112A SEM
-Steven Neale, Huabing Yin
+CTT WILT:112A/B SEM
+Huabing Yin, Steven Neale
 Collapse section ENG 2029 - Embedded Processors 2 ENG 2029 - Embedded Processors 2
 Class	Section	Status
 13099
@@ -4232,7 +4232,7 @@ Dates	Days & Times	Room	Instructor
 09/01/2017 - 20/03/2017
 Mo  11:00 - 12:00
 CTT ST ANDREWS:213
-Craig White, Hossein Zare-Behtash
+Hossein Zare-Behtash, Craig White
 10/01/2017 - 21/03/2017
 Tu  09:00 - 10:00
 CTT KELVIN: 222 LT
@@ -4271,7 +4271,7 @@ Dates	Days & Times	Room	Instructor
 16/11/2016 - 16/11/2016
 We  14:00 - 17:00
 JAMES WATT SOUTH:438 TUCK LAB
-Trevor Hodgkiess, Philip Harrison
+Philip Harrison, Trevor Hodgkiess
 21/10/2016 - 21/10/2016
 Fr  14:00 - 17:00
 JAMES WATT SOUTH:438 TUCK LAB
@@ -4285,11 +4285,11 @@ Dates	Days & Times	Room	Instructor
 27/10/2016 - 27/10/2016
 Th  14:00 - 17:00
 JAMES WATT SOUTH:438 TUCK LAB
-Philip Harrison, Trevor Hodgkiess
+Trevor Hodgkiess, Philip Harrison
 18/11/2016 - 18/11/2016
 Fr  14:00 - 17:00
 JAMES WATT SOUTH:438 TUCK LAB
-Trevor Hodgkiess, Philip Harrison
+Philip Harrison, Trevor Hodgkiess
 Class	Section	Status
 10627
 Laboratory LB04-LAB S1
@@ -4331,7 +4331,7 @@ Philip Harrison, Trevor Hodgkiess
 18/11/2016 - 18/11/2016
 Fr  12:00 - 13:00
 JAMES WATT SOUTH:334 STUDIO
-Trevor Hodgkiess, Philip Harrison
+Philip Harrison, Trevor Hodgkiess
 Class	Section	Status
 10626
 Tutorial TU02-TUT S1
@@ -4345,7 +4345,7 @@ Philip Harrison, Trevor Hodgkiess
 14/11/2016 - 14/11/2016
 Mo  12:00 - 13:00
 JAMES WATT SOUTH:334 STUDIO
-Trevor Hodgkiess, Philip Harrison
+Philip Harrison, Trevor Hodgkiess
 Class	Section	Status
 16150
 Tutorial TU03-TUT S1
@@ -4355,11 +4355,11 @@ Dates	Days & Times	Room	Instructor
 31/10/2016 - 31/10/2016
 Mo  12:00 - 13:00
 JAMES WATT SOUTH:334 STUDIO
-Philip Harrison, Trevor Hodgkiess
+Trevor Hodgkiess, Philip Harrison
 28/11/2016 - 28/11/2016
 Mo  12:00 - 13:00
 JAMES WATT SOUTH:334 STUDIO
-Trevor Hodgkiess, Philip Harrison
+Philip Harrison, Trevor Hodgkiess
 Collapse section ENG 2042 - Mathematics AE2X ENG 2042 - Mathematics AE2X
 Class	Section	Status
 14496
@@ -5018,11 +5018,11 @@ Dates	Days & Times	Room	Instructor
 11/01/2017 - 22/03/2017
 We  12:00 - 13:00
 CTT KELVIN: 222 LT
-ZZZ ZZZDUPE2059903, Craig White, Zhibin Yu
+Craig White, Zhibin Yu, ZZZ ZZZDUPE2059903
 12/01/2017 - 23/03/2017
 Th  09:00 - 10:00
 CTT JAMES WATT SOUTH:375 (J15)
-Craig White, ZZZ ZZZDUPE2059903, Zhibin Yu
+Craig White, Zhibin Yu, ZZZ ZZZDUPE2059903
 Class	Section	Status
 3163
 Lecture LC02-LEC S2
@@ -5032,11 +5032,11 @@ Dates	Days & Times	Room	Instructor
 09/01/2017 - 20/03/2017
 Mo  16:00 - 17:00
 CTT JAMES WATT SOUTH:375 (J15)
-ZZZ ZZZDUPE2059903, Craig White, Zhibin Yu
+Zhibin Yu, Craig White, ZZZ ZZZDUPE2059903
 12/01/2017 - 23/03/2017
 Th  16:00 - 17:00
 CTT JAMES WATT SOUTH:375 (J15)
-Craig White, Zhibin Yu, ZZZ ZZZDUPE2059903
+ZZZ ZZZDUPE2059903, Zhibin Yu, Craig White
 Class	Section	Status
 3145
 Tutorial TU01-TUT S2
@@ -5046,19 +5046,19 @@ Dates	Days & Times	Room	Instructor
 26/01/2017 - 26/01/2017
 Th  11:00 - 12:00
 JAMES WATT SOUTH:427A STUDIO
-Craig White, ZZZ ZZZDUPE2059903, Zhibin Yu
+Zhibin Yu, ZZZ ZZZDUPE2059903, Craig White
 09/02/2017 - 09/02/2017
 Th  11:00 - 12:00
 JAMES WATT SOUTH:427A STUDIO
-Craig White, ZZZ ZZZDUPE2059903, Zhibin Yu
+Zhibin Yu, ZZZ ZZZDUPE2059903, Craig White
 23/02/2017 - 23/02/2017
 Th  11:00 - 12:00
 JAMES WATT SOUTH:427A STUDIO
-Craig White, ZZZ ZZZDUPE2059903, Zhibin Yu
+ZZZ ZZZDUPE2059903, Zhibin Yu, Craig White
 09/03/2017 - 09/03/2017
 Th  11:00 - 12:00
 JAMES WATT SOUTH:427A STUDIO
-Craig White, ZZZ ZZZDUPE2059903, Zhibin Yu
+ZZZ ZZZDUPE2059903, Zhibin Yu, Craig White
 Class	Section	Status
 3146
 Tutorial TU02-TUT S2
@@ -5068,19 +5068,19 @@ Dates	Days & Times	Room	Instructor
 30/01/2017 - 30/01/2017
 Mo  12:00 - 13:00
 JAMES WATT SOUTH:427A STUDIO
-Craig White, Zhibin Yu, ZZZ ZZZDUPE2059903
+Zhibin Yu, ZZZ ZZZDUPE2059903, Craig White
 13/02/2017 - 13/02/2017
 Mo  12:00 - 13:00
 JAMES WATT SOUTH:427A STUDIO
-Zhibin Yu, Craig White, ZZZ ZZZDUPE2059903
+ZZZ ZZZDUPE2059903, Zhibin Yu, Craig White
 27/02/2017 - 27/02/2017
 Mo  12:00 - 13:00
 JAMES WATT SOUTH:427A STUDIO
-ZZZ ZZZDUPE2059903, Craig White, Zhibin Yu
+ZZZ ZZZDUPE2059903, Zhibin Yu, Craig White
 13/03/2017 - 13/03/2017
 Mo  12:00 - 13:00
 JAMES WATT SOUTH:427A STUDIO
-Zhibin Yu, ZZZ ZZZDUPE2059903, Craig White
+Craig White, ZZZ ZZZDUPE2059903, Zhibin Yu
 Class	Section	Status
 3147
 Tutorial TU03-TUT S2
@@ -5090,15 +5090,15 @@ Dates	Days & Times	Room	Instructor
 03/02/2017 - 03/02/2017
 Fr  12:00 - 13:00
 JAMES WATT SOUTH:334 STUDIO
-ZZZ ZZZDUPE2059903, Zhibin Yu, Craig White
+Craig White, Zhibin Yu, ZZZ ZZZDUPE2059903
 17/02/2017 - 17/02/2017
 Fr  12:00 - 13:00
 JAMES WATT SOUTH:334 STUDIO
-Craig White, Zhibin Yu, ZZZ ZZZDUPE2059903
+ZZZ ZZZDUPE2059903, Zhibin Yu, Craig White
 03/03/2017 - 03/03/2017
 Fr  12:00 - 13:00
 JAMES WATT SOUTH:334 STUDIO
-Zhibin Yu, ZZZ ZZZDUPE2059903, Craig White
+ZZZ ZZZDUPE2059903, Zhibin Yu, Craig White
 17/03/2017 - 17/03/2017
 Fr  12:00 - 13:00
 JAMES WATT SOUTH:334 STUDIO
@@ -5112,19 +5112,19 @@ Dates	Days & Times	Room	Instructor
 02/02/2017 - 02/02/2017
 Th  11:00 - 12:00
 JAMES WATT SOUTH:427A STUDIO
-ZZZ ZZZDUPE2059903, Zhibin Yu, Craig White
+Zhibin Yu, ZZZ ZZZDUPE2059903, Craig White
 16/02/2017 - 16/02/2017
 Th  11:00 - 12:00
 JAMES WATT SOUTH:427A STUDIO
-Zhibin Yu, ZZZ ZZZDUPE2059903, Craig White
+Craig White, Zhibin Yu, ZZZ ZZZDUPE2059903
 02/03/2017 - 02/03/2017
 Th  11:00 - 12:00
 JAMES WATT SOUTH:427A STUDIO
-Craig White, Zhibin Yu, ZZZ ZZZDUPE2059903
+Craig White, ZZZ ZZZDUPE2059903, Zhibin Yu
 16/03/2017 - 16/03/2017
 Th  11:00 - 12:00
 JAMES WATT SOUTH:427A STUDIO
-Craig White, ZZZ ZZZDUPE2059903, Zhibin Yu
+ZZZ ZZZDUPE2059903, Craig White, Zhibin Yu
 Class	Section	Status
 3164
 Tutorial TU05-TUT S2
@@ -5134,19 +5134,19 @@ Dates	Days & Times	Room	Instructor
 24/01/2017 - 24/01/2017
 Tu  12:00 - 13:00
 JAMES WATT SOUTH:427B STUDIO
-Zhibin Yu, Craig White, ZZZ ZZZDUPE2059903
+Craig White, Zhibin Yu, ZZZ ZZZDUPE2059903
 07/02/2017 - 07/02/2017
 Tu  12:00 - 13:00
 JAMES WATT SOUTH:427B STUDIO
-Zhibin Yu, Craig White, ZZZ ZZZDUPE2059903
+Zhibin Yu, ZZZ ZZZDUPE2059903, Craig White
 21/02/2017 - 21/02/2017
 Tu  12:00 - 13:00
 JAMES WATT SOUTH:427B STUDIO
-Craig White, Zhibin Yu, ZZZ ZZZDUPE2059903
+Zhibin Yu, Craig White, ZZZ ZZZDUPE2059903
 07/03/2017 - 07/03/2017
 Tu  12:00 - 13:00
 JAMES WATT SOUTH:427B STUDIO
-Zhibin Yu, ZZZ ZZZDUPE2059903, Craig White
+Craig White, Zhibin Yu, ZZZ ZZZDUPE2059903
 Collapse section ENG 2071 - Structural Design Project 2 ENG 2071 - Structural Design Project 2
 Class	Section	Status
 12805
@@ -5171,7 +5171,7 @@ Fiona Foyer Bradley, Robert Simpson
 09/01/2017 - 09/01/2017
 Mo  11:00 - 17:00
 RANKINE:630 DRWG OFFICE
-Robert Simpson, Fiona Foyer Bradley
+Fiona Foyer Bradley, Robert Simpson
 Class	Section	Status
 2985
 Project PJ01-PRJ S2
@@ -5181,15 +5181,15 @@ Dates	Days & Times	Room	Instructor
 16/01/2017 - 23/01/2017
 Mo  09:00 - 17:00
 RANKINE:630 DRWG OFFICE
-Fiona Foyer Bradley, Robert Simpson
+Robert Simpson, Fiona Foyer Bradley
 10/01/2017 - 24/01/2017
 Tu  09:00 - 17:00
 RANKINE:630 DRWG OFFICE
-Fiona Foyer Bradley, Robert Simpson
+Robert Simpson, Fiona Foyer Bradley
 11/01/2017 - 25/01/2017
 We  09:00 - 17:00
 RANKINE:630 DRWG OFFICE
-Fiona Foyer Bradley, Robert Simpson
+Robert Simpson, Fiona Foyer Bradley
 12/01/2017 - 26/01/2017
 Th  09:00 - 17:00
 RANKINE:630 DRWG OFFICE
@@ -5197,11 +5197,11 @@ Robert Simpson, Fiona Foyer Bradley
 20/01/2017 - 20/01/2017
 Fr  09:00 - 13:00
 RANKINE:630 DRWG OFFICE
-Fiona Foyer Bradley, Robert Simpson
+Robert Simpson, Fiona Foyer Bradley
 13/01/2017 - 13/01/2017
 Fr  09:00 - 17:00
 RANKINE:630 DRWG OFFICE
-Fiona Foyer Bradley, Robert Simpson
+Robert Simpson, Fiona Foyer Bradley
 20/01/2017 - 20/01/2017
 Fr  13:00 - 15:00
 RANKINE:630 DRWG OFFICE
@@ -5209,7 +5209,7 @@ Fiona Foyer Bradley, Robert Simpson
 20/01/2017 - 20/01/2017
 Fr  15:00 - 17:00
 RANKINE:630 DRWG OFFICE
-Fiona Foyer Bradley, Robert Simpson
+Robert Simpson, Fiona Foyer Bradley
 27/01/2017 - 27/01/2017
 Fr  09:00 - 17:00
 RANKINE:630 DRWG OFFICE
@@ -5969,7 +5969,7 @@ Dates	Days & Times	Room	Instructor
 16/03/2017 - 16/03/2017
 Th  14:00 - 17:00
 RANKINE:317 LAB
-Christopher Pearce, Lukasz Kaczmarczyk
+Lukasz Kaczmarczyk, Christopher Pearce
 Class	Section	Status
 8392
 Laboratory LB02-LAB S2
@@ -6021,7 +6021,7 @@ Dates	Days & Times	Room	Instructor
 10/03/2017 - 10/03/2017
 Fr  14:00 - 16:00
 RANKINE:630 DRWG OFFICE
-Christopher Pearce, Lukasz Kaczmarczyk
+Lukasz Kaczmarczyk, Christopher Pearce
 Class	Section	Status
 8389
 Tutorial TU01-TUT S2
@@ -6155,7 +6155,7 @@ Dates	Days & Times	Room	Instructor
 23/02/2017 - 23/02/2017
 Th  14:00 - 17:00
 JAMES WATT SOUTH:544 LAB
-Kiran Ramesh, Donald Ballance
+Donald Ballance, Kiran Ramesh
 Class	Section	Status
 2374
 Laboratory LB07-LAB S2
@@ -6165,7 +6165,7 @@ Dates	Days & Times	Room	Instructor
 27/02/2017 - 27/02/2017
 Mo  14:00 - 17:00
 JAMES WATT SOUTH:544 LAB
-Donald Ballance, Kiran Ramesh
+Kiran Ramesh, Donald Ballance
 Class	Section	Status
 2375
 Laboratory LB08-LAB S2
@@ -6175,7 +6175,7 @@ Dates	Days & Times	Room	Instructor
 10/03/2017 - 10/03/2017
 Fr  14:00 - 17:00
 JAMES WATT SOUTH:544 LAB
-Donald Ballance, Kiran Ramesh
+Kiran Ramesh, Donald Ballance
 Class	Section	Status
 2376
 Laboratory LB09-LAB S2
@@ -6215,7 +6215,7 @@ Dates	Days & Times	Room	Instructor
 17/02/2017 - 17/02/2017
 Fr  14:00 - 17:00
 JAMES WATT SOUTH:544 LAB
-Donald Ballance, Kiran Ramesh
+Kiran Ramesh, Donald Ballance
 Class	Section	Status
 2360
 Laboratory LB13-LAB S2
@@ -6225,7 +6225,7 @@ Dates	Days & Times	Room	Instructor
 08/03/2017 - 08/03/2017
 We  14:00 - 17:00
 JAMES WATT SOUTH:544 LAB
-Donald Ballance, Kiran Ramesh
+Kiran Ramesh, Donald Ballance
 Class	Section	Status
 2372
 Lecture LC01-LEC S2
@@ -6249,11 +6249,11 @@ Dates	Days & Times	Room	Instructor
 09/01/2017 - 20/03/2017
 Mo  14:00 - 15:00
 CTT JAMES WATT STH:354 STEVESN
-Donald Ballance, Kiran Ramesh
+Kiran Ramesh, Donald Ballance
 12/01/2017 - 23/03/2017
 Th  14:00 - 15:00
 CTT THOMSON BLDG:236 ANATOMY
-Donald Ballance, Kiran Ramesh
+Kiran Ramesh, Donald Ballance
 Class	Section	Status
 2373
 Tutorial TU01-TUT S2
@@ -6263,11 +6263,11 @@ Dates	Days & Times	Room	Instructor
 06/02/2017 - 06/02/2017
 Mo  11:00 - 12:00
 RANKINE:629 DRWG OFFICE
-Kiran Ramesh, Donald Ballance
+Donald Ballance, Kiran Ramesh
 27/02/2017 - 27/02/2017
 Mo  11:00 - 12:00
 RANKINE:629 DRWG OFFICE
-Kiran Ramesh, Donald Ballance
+Donald Ballance, Kiran Ramesh
 20/03/2017 - 20/03/2017
 Mo  11:00 - 12:00
 RANKINE:629 DRWG OFFICE
@@ -6289,7 +6289,7 @@ Donald Ballance, Kiran Ramesh
 13/03/2017 - 13/03/2017
 Mo  12:00 - 13:00
 JAMES WATT SOUTH:427B STUDIO
-Donald Ballance, Kiran Ramesh
+Kiran Ramesh, Donald Ballance
 Class	Section	Status
 2363
 Tutorial TU03-TUT S2
@@ -6317,15 +6317,15 @@ Dates	Days & Times	Room	Instructor
 02/02/2017 - 02/02/2017
 Th  10:00 - 11:00
 JAMES WATT SOUTH:427B STUDIO
-Donald Ballance, Kiran Ramesh
+Kiran Ramesh, Donald Ballance
 23/02/2017 - 23/02/2017
 Th  10:00 - 11:00
 JAMES WATT SOUTH:427B STUDIO
-Donald Ballance, Kiran Ramesh
+Kiran Ramesh, Donald Ballance
 16/03/2017 - 16/03/2017
 Th  10:00 - 11:00
 JAMES WATT SOUTH:427B STUDIO
-Donald Ballance, Kiran Ramesh
+Kiran Ramesh, Donald Ballance
 Class	Section	Status
 2365
 Tutorial TU05-TUT S2
@@ -6335,11 +6335,11 @@ Dates	Days & Times	Room	Instructor
 27/01/2017 - 27/01/2017
 Fr  12:00 - 13:00
 JAMES WATT SOUTH:334 STUDIO
-Donald Ballance, Kiran Ramesh
+Kiran Ramesh, Donald Ballance
 10/02/2017 - 10/02/2017
 Fr  12:00 - 13:00
 JAMES WATT SOUTH:334 STUDIO
-Donald Ballance, Kiran Ramesh
+Kiran Ramesh, Donald Ballance
 10/03/2017 - 10/03/2017
 Fr  12:00 - 13:00
 JAMES WATT SOUTH:334 STUDIO
@@ -6353,15 +6353,15 @@ Dates	Days & Times	Room	Instructor
 30/01/2017 - 30/01/2017
 Mo  11:00 - 12:00
 RANKINE:629 DRWG OFFICE
-Kiran Ramesh, Donald Ballance
+Donald Ballance, Kiran Ramesh
 20/02/2017 - 20/02/2017
 Mo  11:00 - 12:00
 RANKINE:629 DRWG OFFICE
-Kiran Ramesh, Donald Ballance
+Donald Ballance, Kiran Ramesh
 13/03/2017 - 13/03/2017
 Mo  11:00 - 12:00
 RANKINE:629 DRWG OFFICE
-Kiran Ramesh, Donald Ballance
+Donald Ballance, Kiran Ramesh
 Collapse section ENG 2085 - Fluid Mechanics 2 ENG 2085 - Fluid Mechanics 2
 Class	Section	Status
 13015
@@ -6582,7 +6582,7 @@ Marco Vezza, William Sloan
 22/09/2016 - 01/12/2016
 Th  10:00 - 11:00
 CTT ST ANDREWS:213
-William Sloan, Marco Vezza
+Marco Vezza, William Sloan
 Class	Section	Status
 3721
 Lecture LC02-LEC S1
@@ -6596,7 +6596,7 @@ Marco Vezza, William Sloan
 22/09/2016 - 01/12/2016
 Th  14:00 - 15:00
 CTT GRAHAM KERR:224 MAIN LT
-William Sloan, Marco Vezza
+Marco Vezza, William Sloan
 Class	Section	Status
 3700
 Tutorial TU01-TUT S1
@@ -6797,7 +6797,7 @@ Dates	Days & Times	Room	Instructor
 26/09/2016 - 21/11/2016
 Mo  12:00 - 13:00
 JAMES WATT SOUTH:427B STUDIO
-Ian Watson, James Sharp, Marc Sorel
+James Sharp, Ian Watson, Marc Sorel
 Class	Section	Status
 3228
 Tutorial TU03-TUT S1
@@ -6827,7 +6827,7 @@ Dates	Days & Times	Room	Instructor
 29/09/2016 - 24/11/2016
 Th  11:00 - 12:00
 JAMES WATT SOUTH:427B STUDIO
-Ian Watson, Marc Sorel, James Sharp
+Marc Sorel, Ian Watson, James Sharp
 Collapse section ENG 3001 - Aerodynamics and Fluid Mechanics 3 ENG 3001 - Aerodynamics and Fluid Mechanics 3
 Class	Section	Status
 15097
@@ -6960,7 +6960,7 @@ Dates	Days & Times	Room	Instructor
 19/09/2016 - 28/11/2016
 Mo  11:00 - 12:00
 CTT HUNTERIAN ART GALLRY:103 L
-Craig White, Richard Green
+Richard Green, Craig White
 10/01/2017 - 21/03/2017
 Tu  09:00 - 10:00
 CTT BOYD ORR:507 (LT C)
@@ -6968,7 +6968,7 @@ Richard Green
 21/09/2016 - 30/11/2016
 We  11:00 - 12:00
 CTT BOYD ORR:611 (LT E)
-Richard Green, Craig White
+Craig White, Richard Green
 13/01/2017 - 24/03/2017
 Fr  09:00 - 10:00
 CTT BOYD ORR:507 (LT C)
@@ -7274,7 +7274,7 @@ Kiran Ramesh
 12/01/2017 - 23/03/2017
 Th  09:00 - 10:00
 CTT SIR CHARLES WILSON:201 LT
-Kiran Ramesh, Henrik Gollee
+Henrik Gollee, Kiran Ramesh
 Class	Section	Status
 11444
 Tutorial TU01-TUT S2
@@ -7284,19 +7284,19 @@ Dates	Days & Times	Room	Instructor
 23/01/2017 - 23/01/2017
 Mo  13:00 - 14:00
 JAMES WATT SOUTH:427B STUDIO
-Murray Ireland, Henrik Gollee
+Henrik Gollee, Murray Ireland
 06/02/2017 - 06/02/2017
 Mo  13:00 - 14:00
 JAMES WATT SOUTH:427B STUDIO
-Murray Ireland, Henrik Gollee
+Henrik Gollee, Murray Ireland
 20/02/2017 - 20/02/2017
 Mo  13:00 - 14:00
 JAMES WATT SOUTH:427B STUDIO
-Murray Ireland, Henrik Gollee
+Henrik Gollee, Murray Ireland
 06/03/2017 - 06/03/2017
 Mo  13:00 - 14:00
 JAMES WATT SOUTH:427B STUDIO
-Henrik Gollee, Murray Ireland
+Murray Ireland, Henrik Gollee
 Collapse section ENG 3016 - Data Acquisition For Music Processing 3 ENG 3016 - Data Acquisition For Music Processing 3
 Class	Section	Status
 13333
@@ -7317,51 +7317,51 @@ Dates	Days & Times	Room	Instructor
 09/01/2017 - 20/03/2017
 Mo  10:00 - 12:00
 RANKINE:514
-Bernd Porr, Nicholas Bailey
+Nicholas Bailey, Bernd Porr
 26/10/2016 - 26/10/2016
 We  10:00 - 12:00
 RANKINE:514
-Bernd Porr, Nicholas Bailey
+Nicholas Bailey, Bernd Porr
 28/09/2016 - 28/09/2016
 We  10:00 - 12:00
 RANKINE:630 DRWG OFFICE
-Nicholas Bailey, Bernd Porr
+Bernd Porr, Nicholas Bailey
 05/10/2016 - 05/10/2016
 We  10:00 - 12:00
 RANKINE:630 DRWG OFFICE
-Nicholas Bailey, Bernd Porr
+Bernd Porr, Nicholas Bailey
 12/10/2016 - 12/10/2016
 We  10:00 - 12:00
 RANKINE:630 DRWG OFFICE
-Bernd Porr, Nicholas Bailey
+Nicholas Bailey, Bernd Porr
 19/10/2016 - 19/10/2016
 We  10:00 - 12:00
 RANKINE:630 DRWG OFFICE
-Bernd Porr, Nicholas Bailey
+Nicholas Bailey, Bernd Porr
 09/11/2016 - 09/11/2016
 We  10:00 - 12:00
 RANKINE:630 DRWG OFFICE
-Nicholas Bailey, Bernd Porr
+Bernd Porr, Nicholas Bailey
 16/11/2016 - 16/11/2016
 We  10:00 - 12:00
 RANKINE:630 DRWG OFFICE
-Nicholas Bailey, Bernd Porr
+Bernd Porr, Nicholas Bailey
 23/11/2016 - 23/11/2016
 We  10:00 - 12:00
 RANKINE:630 DRWG OFFICE
-Nicholas Bailey, Bernd Porr
+Bernd Porr, Nicholas Bailey
 30/11/2016 - 30/11/2016
 We  10:00 - 12:00
 RANKINE:630 DRWG OFFICE
-Nicholas Bailey, Bernd Porr
+Bernd Porr, Nicholas Bailey
 21/09/2016 - 21/09/2016
 We  10:00 - 12:00
 RANKINE:630 DRWG OFFICE
-Nicholas Bailey, Bernd Porr
+Bernd Porr, Nicholas Bailey
 02/11/2016 - 02/11/2016
 We  10:00 - 12:00
 RANKINE:630 DRWG OFFICE
-Bernd Porr, Nicholas Bailey
+Nicholas Bailey, Bernd Porr
 Collapse section ENG 3017 - Design And Manufacture 3 ENG 3017 - Design And Manufacture 3
 Class	Section	Status
 15107
@@ -7576,7 +7576,7 @@ Kiran Ramesh
 12/01/2017 - 23/03/2017
 Th  09:00 - 10:00
 CTT SIR CHARLES WILSON:201 LT
-Kiran Ramesh, Henrik Gollee
+Henrik Gollee, Kiran Ramesh
 22/09/2016 - 01/12/2016
 Th  11:00 - 12:00
 CTT JOSEPH BLACK:C305 CARNEGIE
@@ -7590,19 +7590,19 @@ Dates	Days & Times	Room	Instructor
 30/01/2017 - 30/01/2017
 Mo  13:00 - 14:00
 JAMES WATT SOUTH:427A STUDIO
-Henrik Gollee, Kiran Ramesh, Patrick Harkness
+Patrick Harkness, Kiran Ramesh, Henrik Gollee
 13/02/2017 - 13/02/2017
 Mo  13:00 - 14:00
 JAMES WATT SOUTH:427A STUDIO
-Patrick Harkness, Henrik Gollee, Kiran Ramesh
+Kiran Ramesh, Henrik Gollee, Patrick Harkness
 27/02/2017 - 27/02/2017
 Mo  13:00 - 14:00
 JAMES WATT SOUTH:427A STUDIO
-Kiran Ramesh, Henrik Gollee, Patrick Harkness
+Henrik Gollee, Patrick Harkness, Kiran Ramesh
 13/03/2017 - 13/03/2017
 Mo  13:00 - 14:00
 JAMES WATT SOUTH:427A STUDIO
-Henrik Gollee, Kiran Ramesh, Patrick Harkness
+Henrik Gollee, Patrick Harkness, Kiran Ramesh
 Collapse section ENG 3022 - Dynamics and Control M3 ENG 3022 - Dynamics and Control M3
 Class	Section	Status
 12348
@@ -7627,7 +7627,7 @@ Henrik Gollee
 14/02/2017 - 14/02/2017
 Tu  14:00 - 17:00
 JAMES WATT SOUTH:611 LAB
-Patrick Harkness, Henrik Gollee
+Henrik Gollee, Patrick Harkness
 Class	Section	Status
 1439
 Laboratory LB02-LAB S2
@@ -7707,7 +7707,7 @@ Dates	Days & Times	Room	Instructor
 09/01/2017 - 20/03/2017
 Mo  12:00 - 13:00
 CTT KELVIN: 222 LT
-Henrik Gollee, Patrick Harkness
+Patrick Harkness, Henrik Gollee
 10/01/2017 - 21/03/2017
 Tu  12:00 - 13:00
 CTT SIR CHARLES WILSON:201 LT
@@ -7715,11 +7715,11 @@ Kiran Ramesh
 11/01/2017 - 22/03/2017
 We  09:00 - 10:00
 CTT KELVIN: 222 LT
-Patrick Harkness, Henrik Gollee
+Henrik Gollee, Patrick Harkness
 12/01/2017 - 23/03/2017
 Th  09:00 - 10:00
 CTT SIR CHARLES WILSON:201 LT
-Henrik Gollee, Kiran Ramesh
+Kiran Ramesh, Henrik Gollee
 Class	Section	Status
 1437
 Tutorial TU01-TUT S2
@@ -7868,7 +7868,7 @@ CTT MAIN BLD:466 LECTURE TH
 Alessandro Casaburi
 12/01/2017 - 23/03/2017
 Th  11:00 - 12:00
-TBA
+CTT ST ANDREWS:227
 Alessandro Casaburi
 Collapse section ENG 3025 - Electronic Devices 3 ENG 3025 - Electronic Devices 3
 Class	Section	Status
@@ -7894,11 +7894,11 @@ Iain Thayne, Asen Asenov
 21/10/2016 - 21/10/2016
 Fr  14:00 - 17:00
 RANKINE:611 LAB
-Asen Asenov, Iain Thayne
+Iain Thayne, Asen Asenov
 04/11/2016 - 04/11/2016
 Fr  14:00 - 17:00
 RANKINE:611 LAB
-Asen Asenov, Iain Thayne
+Iain Thayne, Asen Asenov
 Class	Section	Status
 1838
 Laboratory LB02-LAB S1
@@ -7908,15 +7908,15 @@ Dates	Days & Times	Room	Instructor
 10/10/2016 - 10/10/2016
 Mo  13:30 - 17:00
 RANKINE:611 LAB
-Asen Asenov, Iain Thayne
+Iain Thayne, Asen Asenov
 24/10/2016 - 24/10/2016
 Mo  14:00 - 17:00
 RANKINE:611 LAB
-Asen Asenov, Iain Thayne
+Iain Thayne, Asen Asenov
 21/11/2016 - 21/11/2016
 Mo  14:00 - 17:00
 RANKINE:611 LAB
-Asen Asenov, Iain Thayne
+Iain Thayne, Asen Asenov
 Class	Section	Status
 1839
 Laboratory LB03-LAB S1
@@ -7926,15 +7926,15 @@ Dates	Days & Times	Room	Instructor
 07/11/2016 - 07/11/2016
 Mo  14:00 - 17:00
 RANKINE:611 LAB
-Asen Asenov, Iain Thayne
+Iain Thayne, Asen Asenov
 04/10/2016 - 04/10/2016
 Tu  13:30 - 17:00
 RANKINE:611 LAB
-Asen Asenov, Iain Thayne
+Iain Thayne, Asen Asenov
 25/10/2016 - 25/10/2016
 Tu  14:00 - 17:00
 RANKINE:611 LAB
-Asen Asenov, Iain Thayne
+Iain Thayne, Asen Asenov
 Class	Section	Status
 1840
 Laboratory LB04-LAB S1
@@ -7948,7 +7948,7 @@ Iain Thayne, Asen Asenov
 31/10/2016 - 31/10/2016
 Mo  14:00 - 17:00
 RANKINE:611 LAB
-Asen Asenov, Iain Thayne
+Iain Thayne, Asen Asenov
 14/11/2016 - 14/11/2016
 Mo  14:00 - 17:00
 RANKINE:611 LAB
@@ -7966,7 +7966,7 @@ Asen Asenov, Iain Thayne, Fikru Adamu-Lema
 22/09/2016 - 01/12/2016
 Th  09:00 - 10:00
 CTT WOLFSON MED:253 SEM 1-YUDO
-Fikru Adamu-Lema, Asen Asenov, Iain Thayne
+Fikru Adamu-Lema, Iain Thayne, Asen Asenov
 Collapse section ENG 3026 - Electronic System Design 3 ENG 3026 - Electronic System Design 3
 Class	Section	Status
 12333
@@ -8249,7 +8249,7 @@ Dates	Days & Times	Room	Instructor
 10/02/2017 - 10/02/2017
 Fr  17:00 - 19:00
 JAMES WATT SOUTH:438 TUCK LAB
-Phil Dobson, Nader Karimi
+Nader Karimi, Phil Dobson
 Class	Section	Status
 10610
 Laboratory LB06-LAB S2
@@ -8299,7 +8299,7 @@ Dates	Days & Times	Room	Instructor
 03/03/2017 - 03/03/2017
 Fr  14:00 - 16:00
 JAMES WATT SOUTH:438 TUCK LAB
-Phil Dobson, Nader Karimi
+Nader Karimi, Phil Dobson
 Class	Section	Status
 10608
 Lecture LC01-LEC S2
@@ -8309,7 +8309,7 @@ Dates	Days & Times	Room	Instructor
 11/01/2017 - 22/03/2017
 We  10:00 - 11:00
 CTT GREGORY BLDG:109 MAIN LT
-Phil Dobson, Nader Karimi
+Nader Karimi, Phil Dobson
 12/01/2017 - 23/03/2017
 Th  10:00 - 11:00
 CTT HUNTERIAN ART GALLRY:103 L
@@ -8349,7 +8349,7 @@ Dates	Days & Times	Room	Instructor
 27/01/2017 - 27/01/2017
 Fr  12:00 - 13:00
 JAMES WATT SOUTH:427B STUDIO
-Phil Dobson, Nader Karimi
+Nader Karimi, Phil Dobson
 10/02/2017 - 10/02/2017
 Fr  12:00 - 13:00
 JAMES WATT SOUTH:427B STUDIO
@@ -8361,11 +8361,11 @@ Phil Dobson, Nader Karimi
 10/03/2017 - 10/03/2017
 Fr  12:00 - 13:00
 JAMES WATT SOUTH:427B STUDIO
-Nader Karimi, Phil Dobson
+Phil Dobson, Nader Karimi
 24/03/2017 - 24/03/2017
 Fr  12:00 - 13:00
 JAMES WATT SOUTH:427B STUDIO
-Nader Karimi, Phil Dobson
+Phil Dobson, Nader Karimi
 Collapse section ENG 3034 - Instrumentation and Data Systems 3 ENG 3034 - Instrumentation and Data Systems 3
 Class	Section	Status
 13129
@@ -8386,7 +8386,7 @@ Dates	Days & Times	Room	Instructor
 07/02/2017 - 07/02/2017
 Tu  14:00 - 17:00
 RANKINE:317 LAB
-Phil Dobson, James Sharp
+James Sharp, Phil Dobson
 Class	Section	Status
 4079
 Laboratory LB02-LAB S2
@@ -8396,7 +8396,7 @@ Dates	Days & Times	Room	Instructor
 08/02/2017 - 08/02/2017
 We  14:00 - 17:00
 RANKINE:317 LAB
-James Sharp, Phil Dobson
+Phil Dobson, James Sharp
 Class	Section	Status
 4080
 Laboratory LB03-LAB S2
@@ -8406,7 +8406,7 @@ Dates	Days & Times	Room	Instructor
 17/02/2017 - 17/02/2017
 Fr  14:00 - 17:00
 RANKINE:317 LAB
-Phil Dobson, James Sharp
+James Sharp, Phil Dobson
 Class	Section	Status
 4081
 Laboratory LB04-LAB S2
@@ -8416,7 +8416,7 @@ Dates	Days & Times	Room	Instructor
 23/02/2017 - 23/02/2017
 Th  14:00 - 17:00
 RANKINE:317 LAB
-Phil Dobson, James Sharp
+James Sharp, Phil Dobson
 Class	Section	Status
 4084
 Laboratory LB05-LAB S2
@@ -8426,7 +8426,7 @@ Dates	Days & Times	Room	Instructor
 27/02/2017 - 27/02/2017
 Mo  14:00 - 17:00
 RANKINE:317 LAB
-Phil Dobson, James Sharp
+James Sharp, Phil Dobson
 Class	Section	Status
 4083
 Lecture LC01-LEC S2
@@ -8436,11 +8436,11 @@ Dates	Days & Times	Room	Instructor
 09/01/2017 - 20/03/2017
 Mo  10:00 - 11:00
 CTT KELVIN:257 MAIN LT
-James Sharp, Phil Dobson
+Phil Dobson, James Sharp
 10/01/2017 - 21/03/2017
 Tu  10:00 - 11:00
 CTT GREGORY BLDG:109 MAIN LT
-James Sharp, Phil Dobson
+Phil Dobson, James Sharp
 Class	Section	Status
 4082
 Tutorial TU01-TUT S2
@@ -8450,15 +8450,15 @@ Dates	Days & Times	Room	Instructor
 03/02/2017 - 03/02/2017
 Fr  12:00 - 13:00
 CTT GREGORY BLDG:109 MAIN LT
-James Sharp, Phil Dobson
+Phil Dobson, James Sharp
 17/02/2017 - 17/02/2017
 Fr  12:00 - 13:00
 CTT GREGORY BLDG:109 MAIN LT
-Phil Dobson, James Sharp
+James Sharp, Phil Dobson
 03/03/2017 - 03/03/2017
 Fr  12:00 - 13:00
 CTT GREGORY BLDG:109 MAIN LT
-Phil Dobson, James Sharp
+James Sharp, Phil Dobson
 17/03/2017 - 17/03/2017
 Fr  12:00 - 13:00
 CTT GREGORY BLDG:109 MAIN LT
@@ -8660,7 +8660,7 @@ Donald Ballance, Euan McGookin
 28/10/2016 - 28/10/2016
 Fr  14:00 - 17:00
 JAMES WATT SOUTH:544 LAB
-Donald Ballance, Euan McGookin
+Euan McGookin, Donald Ballance
 11/11/2016 - 11/11/2016
 Fr  14:00 - 17:00
 JAMES WATT SOUTH:544 LAB
@@ -8704,7 +8704,7 @@ Euan McGookin
 21/09/2016 - 30/11/2016
 We  12:00 - 13:00
 CTT SIR CHARLES WILSON:201 LT
-Donald Ballance, Euan McGookin
+Euan McGookin, Donald Ballance
 Class	Section	Status
 5453
 Tutorial TU01-TUT S1
@@ -8819,19 +8819,19 @@ Dates	Days & Times	Room	Instructor
 19/09/2016 - 28/11/2016
 Mo  12:00 - 13:00
 CTT MAIN BLD:466 LECTURE TH
-Euan Wielewski, Daniel Martin Mulvihill
+Daniel Martin Mulvihill, Euan Wielewski
 20/09/2016 - 29/11/2016
 Tu  11:00 - 12:00
 CTT MAIN BLD:466 LECTURE TH
-Euan Wielewski, Daniel Martin Mulvihill
+Daniel Martin Mulvihill, Euan Wielewski
 21/09/2016 - 30/11/2016
 We  10:00 - 11:00
 CTT MAIN BLD:466 LECTURE TH
 Euan Wielewski, Daniel Martin Mulvihill
-22/09/2016 - 01/12/2016
-Th  10:00 - 11:00
-CTT MAIN BLD:466 LECTURE TH
-Daniel Martin Mulvihill, Euan Wielewski
+20/10/2016 - 01/12/2016
+Th  09:00 - 11:00
+CTT JAMES WATT STH:354 STEVESN
+Andrew McBride
 Class	Section	Status
 3807
 Tutorial TU01-TUT S1
@@ -8878,7 +8878,7 @@ Dates	Days & Times	Room	Instructor
 04/10/2016 - 18/10/2016
 Tu  14:00 - 17:00
 RANKINE:605 LAB
-Steven Neale, Huabing Yin
+Huabing Yin, Steven Neale
 Class	Section	Status
 8969
 Laboratory LB02-LAB S1
@@ -8888,7 +8888,7 @@ Dates	Days & Times	Room	Instructor
 06/10/2016 - 20/10/2016
 Th  14:00 - 17:00
 RANKINE:605 LAB
-Steven Neale, Huabing Yin
+Huabing Yin, Steven Neale
 Class	Section	Status
 8968
 Lecture LC01-LEC S1
@@ -8898,11 +8898,11 @@ Dates	Days & Times	Room	Instructor
 19/09/2016 - 28/11/2016
 Mo  12:00 - 13:00
 CTT 5 THE SQUARE:330 GLOAG RM
-Huabing Yin, Steven Neale
+Steven Neale, Huabing Yin
 22/09/2016 - 01/12/2016
 Th  12:00 - 13:00
 CTT RANKINE:106 LT
-Steven Neale, Huabing Yin
+Huabing Yin, Steven Neale
 Collapse section ENG 3041 - Power Engineering 3 ENG 3041 - Power Engineering 3
 Class	Section	Status
 14640
@@ -9299,7 +9299,7 @@ Peter Grassl, Robert Simpson
 22/09/2016 - 01/12/2016
 Th  11:00 - 12:00
 RANKINE:629 DRWG OFFICE
-Robert Simpson, Peter Grassl
+Peter Grassl, Robert Simpson
 23/09/2016 - 02/12/2016
 Fr  10:00 - 11:00
 RANKINE:629 DRWG OFFICE
@@ -9378,11 +9378,11 @@ Douglas Macintyre, Nigel Johnson
 30/11/2016 - 30/11/2016
 We  14:00 - 17:00
 RANKINE:630 DRWG OFFICE
-Nigel Johnson, Douglas Macintyre
+Douglas Macintyre, Nigel Johnson
 01/02/2017 - 01/02/2017
 We  14:00 - 17:00
 RANKINE:630 DRWG OFFICE
-Nigel Johnson, Douglas Macintyre
+Douglas Macintyre, Nigel Johnson
 Class	Section	Status
 7062
 Lecture LC01-LEC S12
@@ -9396,7 +9396,7 @@ Nigel Johnson
 21/09/2016 - 30/11/2016
 We  13:30 - 14:00
 CTT MAIN BLD:356 GILBERT SCOTT
-Douglas Macintyre, Nigel Johnson
+Nigel Johnson, Douglas Macintyre
 23/03/2017 - 23/03/2017
 Th  09:00 - 17:00
 RANKINE:630 DRWG OFFICE
@@ -10206,11 +10206,11 @@ Dates	Days & Times	Room	Instructor
 22/09/2016 - 01/12/2016
 Th  10:00 - 11:00
 CTT 5 THE SQUARE:330 GLOAG RM
-Manuel Salmeron-Sanchez, K Tanner
+K Tanner, Manuel Salmeron-Sanchez
 23/09/2016 - 02/12/2016
 Fr  12:00 - 13:00
 CTT 5 THE SQUARE:330 GLOAG RM
-K Tanner, Manuel Salmeron-Sanchez
+Manuel Salmeron-Sanchez, K Tanner
 Collapse section ENG 3085 - Engineering Hydraulics 3 ENG 3085 - Engineering Hydraulics 3
 Class	Section	Status
 15526
@@ -10534,7 +10534,7 @@ Konstantinos Kontis
 11/01/2017 - 11/01/2017
 We  12:00 - 13:00
 JAMES WATT SOUTH:427A STUDIO
-Konstantinos Kontis, Hossein Zare-Behtash
+Hossein Zare-Behtash, Konstantinos Kontis
 19/01/2017 - 26/01/2017
 Th  14:00 - 15:00
 JAMES WATT SOUTH:427B STUDIO
@@ -10542,7 +10542,7 @@ Staff
 13/01/2017 - 13/01/2017
 Fr  12:00 - 13:00
 CTT JAMES WATT SOUTH:361 (J7)
-Konstantinos Kontis, Hossein Zare-Behtash
+Hossein Zare-Behtash, Konstantinos Kontis
 Class	Section	Status
 6836
 Project PJ01-PRJ S2
@@ -10552,11 +10552,11 @@ Dates	Days & Times	Room	Instructor
 02/02/2017 - 23/03/2017
 Th  14:00 - 17:00
 JAMES WATT SOUTH:712 LAB
-Hossein Zare-Behtash, Konstantinos Kontis
+Konstantinos Kontis, Hossein Zare-Behtash
 19/01/2017 - 26/01/2017
 Th  15:00 - 17:00
 JAMES WATT SOUTH:712 LAB
-Hossein Zare-Behtash, Konstantinos Kontis
+Konstantinos Kontis, Hossein Zare-Behtash
 Collapse section ENG 4014 - Aerospace Design Project 4M ENG 4014 - Aerospace Design Project 4M
 Class	Section	Status
 13228
@@ -10713,7 +10713,47 @@ Lecture LC01-LEC S1
 Open
 
 Dates	Days & Times	Room	Instructor
-22/09/2016 - 01/12/2016
+27/10/2016 - 27/10/2016
+Th  09:00 - 11:00
+CTT JAMES WATT STH:354 STEVESN
+Andrew McBride
+24/11/2016 - 24/11/2016
+Th  09:00 - 11:00
+CTT JAMES WATT STH:354 STEVESN
+Andrew McBride
+17/11/2016 - 17/11/2016
+Th  09:00 - 11:00
+CTT JAMES WATT STH:354 STEVESN
+Andrew McBride
+10/11/2016 - 10/11/2016
+Th  09:00 - 11:00
+CTT JAMES WATT STH:354 STEVESN
+Andrew McBride
+20/10/2016 - 20/10/2016
+Th  09:00 - 11:00
+CTT JAMES WATT STH:354 STEVESN
+Andrew McBride
+01/12/2016 - 01/12/2016
+Th  09:00 - 11:00
+CTT JAMES WATT STH:354 STEVESN
+Andrew McBride
+03/11/2016 - 03/11/2016
+Th  09:00 - 11:00
+CTT JAMES WATT STH:354 STEVESN
+Andrew McBride
+13/10/2016 - 13/10/2016
+Th  09:00 - 11:00
+CTT JOSEPH BLACK:C305 CARNEGIE
+Andrew McBride
+06/10/2016 - 06/10/2016
+Th  09:00 - 11:00
+CTT JOSEPH BLACK:C305 CARNEGIE
+Andrew McBride
+29/09/2016 - 29/09/2016
+Th  09:00 - 11:00
+CTT JOSEPH BLACK:C305 CARNEGIE
+Andrew McBride
+22/09/2016 - 22/09/2016
 Th  09:00 - 11:00
 CTT JOSEPH BLACK:C305 CARNEGIE
 Andrew McBride
@@ -10819,7 +10859,7 @@ Nikolaj Gadegaard, Julien Reboud
 13/01/2017 - 24/03/2017
 Fr  11:00 - 12:00
 CTT RANKINE:108 LT
-Nikolaj Gadegaard, Julien Reboud
+Julien Reboud, Nikolaj Gadegaard
 Collapse section ENG 4037 - Computational Fluid Dynamics 4 ENG 4037 - Computational Fluid Dynamics 4
 Class	Section	Status
 13995
@@ -10903,7 +10943,7 @@ Martin Macauley, David Muir
 10/01/2017 - 21/03/2017
 Tu  09:00 - 11:00
 CTT BOYD ORR:407 (LT A)
-David Muir, Martin Macauley
+Martin Macauley, David Muir
 Collapse section ENG 4042 - Control 4 ENG 4042 - Control 4
 Class	Section	Status
 12833
@@ -10924,15 +10964,15 @@ Dates	Days & Times	Room	Instructor
 19/09/2016 - 28/11/2016
 Mo  11:00 - 12:00
 CTT DAVIDSON:208 MAIN LT
-Henrik Gollee, Matteo Ceriotti
+Matteo Ceriotti, Henrik Gollee
 20/09/2016 - 29/11/2016
 Tu  13:00 - 14:00
 CTT JAMES WATT SOUTH:375 (J15)
-Henrik Gollee, Matteo Ceriotti
+Matteo Ceriotti, Henrik Gollee
 21/09/2016 - 30/11/2016
 We  11:00 - 12:00
 CTT JAMES WATT SOUTH:375 (J15)
-Henrik Gollee, Matteo Ceriotti
+Matteo Ceriotti, Henrik Gollee
 22/09/2016 - 01/12/2016
 Th  13:00 - 14:00
 CTT DAVIDSON:208 MAIN LT
@@ -11291,7 +11331,7 @@ Dates	Days & Times	Room	Instructor
 21/09/2016 - 30/11/2016
 We  09:00 - 10:00
 CTT RANKINE:107 LT
-James Sharp, Ian Watson
+Ian Watson, James Sharp
 21/09/2016 - 30/11/2016
 We  13:00 - 14:00
 CTT RANKINE:108 LT
@@ -11299,7 +11339,7 @@ Ian Watson, James Sharp
 22/09/2016 - 01/12/2016
 Th  10:00 - 12:00
 CTT JAMES WATT SOUTH:355 (J10)
-Ian Watson, James Sharp
+James Sharp, Ian Watson
 Collapse section ENG 4091 - Materials Engineering M4 ENG 4091 - Materials Engineering M4
 Class	Section	Status
 13136
@@ -11584,7 +11624,7 @@ John Marsh, Anthony Kelly
 11/01/2017 - 22/03/2017
 We  09:00 - 10:00
 JAMES WATT SOUTH:427A STUDIO
-Anthony Kelly, John Marsh
+John Marsh, Anthony Kelly
 13/01/2017 - 24/03/2017
 Fr  10:00 - 11:00
 RANKINE:601 DRWG OFFICE
@@ -11783,11 +11823,11 @@ Henrik Gollee, Catriona Kerr
 11/01/2017 - 22/03/2017
 We  11:00 - 12:00
 CTT ADAM SMITH:916
-Catriona Kerr, Henrik Gollee
+Henrik Gollee, Catriona Kerr
 12/01/2017 - 23/03/2017
 Th  14:00 - 15:00
 CTT JOSEPH BLACK:B408 PHYS
-Catriona Kerr, Henrik Gollee
+Henrik Gollee, Catriona Kerr
 Collapse section ENG 4116P - Research Project M5 ENG 4116P - Research Project M5
 Class	Section	Status
 14617
@@ -11983,7 +12023,7 @@ Dates	Days & Times	Room	Instructor
 08/03/2017 - 08/03/2017
 We  14:00 - 17:00
 JAMES WATT SOUTH:611 LAB
-Margaret Lucas, Patrick Harkness
+Patrick Harkness, Margaret Lucas
 Class	Section	Status
 11296
 Laboratory LB02-LAB S2
@@ -11996,7 +12036,7 @@ JAMES WATT SOUTH:611 LAB
 Patrick Harkness, Margaret Lucas
 Class	Section	Status
 16799
-Laboratory LB03-LAB Full Year
+Laboratory LB03-LAB S2
 Open
 
 Dates	Days & Times	Room	Instructor
@@ -12025,7 +12065,7 @@ Patrick Harkness, Margaret Lucas
 20/02/2017 - 20/02/2017
 Mo  14:00 - 16:00
 CTT RANKINE:106 LT
-Patrick Harkness, Margaret Lucas
+Margaret Lucas, Patrick Harkness
 27/02/2017 - 27/02/2017
 Mo  14:00 - 16:00
 CTT RANKINE:106 LT
@@ -12033,7 +12073,7 @@ Margaret Lucas, Patrick Harkness
 06/03/2017 - 06/03/2017
 Mo  14:00 - 16:00
 CTT RANKINE:106 LT
-Margaret Lucas, Patrick Harkness
+Patrick Harkness, Margaret Lucas
 13/03/2017 - 13/03/2017
 Mo  14:00 - 16:00
 CTT RANKINE:106 LT
@@ -12041,11 +12081,11 @@ Margaret Lucas, Patrick Harkness
 20/03/2017 - 20/03/2017
 Mo  14:00 - 16:00
 CTT RANKINE:106 LT
-Patrick Harkness, Margaret Lucas
+Margaret Lucas, Patrick Harkness
 09/01/2017 - 09/01/2017
 Mo  14:00 - 16:00
 CTT BOYD ORR:506
-Margaret Lucas, Patrick Harkness
+Patrick Harkness, Margaret Lucas
 16/01/2017 - 16/01/2017
 Mo  14:00 - 16:00
 CTT BOYD ORR:506
@@ -12061,7 +12101,7 @@ Patrick Harkness, Margaret Lucas
 06/02/2017 - 06/02/2017
 Mo  14:00 - 16:00
 CTT BOYD ORR:506
-Margaret Lucas, Patrick Harkness
+Patrick Harkness, Margaret Lucas
 Collapse section ENG 4138 - VLSI Design 4 ENG 4138 - VLSI Design 4
 Class	Section	Status
 13890
@@ -12311,19 +12351,19 @@ Dates	Days & Times	Room	Instructor
 19/09/2016 - 28/11/2016
 Mo  12:00 - 13:00
 CTT KELVIN: 222 LT
-Manosh Paul, Zhibin Yu, ZZZ ZZZDUPE2059903, Nader Karimi
+Manosh Paul, Zhibin Yu, Nader Karimi, ZZZ ZZZDUPE2059903
 20/09/2016 - 29/11/2016
 Tu  12:00 - 13:00
 CTT BOYD ORR:513 (LT D)
-Manosh Paul, Nader Karimi, ZZZ ZZZDUPE2059903, Zhibin Yu
+Zhibin Yu, ZZZ ZZZDUPE2059903, Manosh Paul, Nader Karimi
 21/09/2016 - 30/11/2016
 We  12:00 - 13:00
 CTT BOYD ORR:513 (LT D)
-ZZZ ZZZDUPE2059903, Zhibin Yu, Manosh Paul, Nader Karimi
+Nader Karimi, Manosh Paul, ZZZ ZZZDUPE2059903, Zhibin Yu
 22/09/2016 - 01/12/2016
 Th  12:00 - 13:00
 CTT BOYD ORR:513 (LT D)
-Manosh Paul, Nader Karimi, Zhibin Yu, ZZZ ZZZDUPE2059903
+Manosh Paul, ZZZ ZZZDUPE2059903, Zhibin Yu, Nader Karimi
 Class	Section	Status
 2383
 Tutorial TU01-TUT S1
@@ -12333,7 +12373,7 @@ Dates	Days & Times	Room	Instructor
 14/10/2016 - 02/12/2016
 Fr  12:00 - 13:00
 CTT JAMES WATT SOUTH:375 (J15)
-Manosh Paul, Zhibin Yu, ZZZ ZZZDUPE2059903, Nader Karimi
+Nader Karimi, Zhibin Yu, ZZZ ZZZDUPE2059903, Manosh Paul
 Collapse section ENG 4181 - Biophysics of Cells and Systems 4 ENG 4181 - Biophysics of Cells and Systems 4
 Class	Section	Status
 14831
@@ -12364,11 +12404,11 @@ Dates	Days & Times	Room	Instructor
 19/09/2016 - 28/11/2016
 Mo  10:00 - 11:00
 JAMES WATT SOUTH:427A STUDIO
-Thomas Franke, Helen Mulvana, Julien Reboud
+Julien Reboud, Thomas Franke, Helen Mulvana
 20/09/2016 - 29/11/2016
 Tu  10:00 - 11:00
 JAMES WATT SOUTH:427A STUDIO
-Julien Reboud, Thomas Franke, Helen Mulvana
+Thomas Franke, Helen Mulvana, Julien Reboud
 Class	Section	Status
 9142
 Seminar SM01-SEM S1
@@ -12378,11 +12418,11 @@ Dates	Days & Times	Room	Instructor
 26/09/2016 - 26/09/2016
 Mo  13:00 - 14:00
 CTT ADAM SMITH:916
-Helen Mulvana, Thomas Franke, Julien Reboud
+Helen Mulvana, Julien Reboud, Thomas Franke
 10/10/2016 - 10/10/2016
 Mo  13:00 - 14:00
 CTT ADAM SMITH:916
-Julien Reboud, Helen Mulvana, Thomas Franke
+Helen Mulvana, Thomas Franke, Julien Reboud
 24/10/2016 - 24/10/2016
 Mo  13:00 - 14:00
 CTT ADAM SMITH:916
@@ -12390,11 +12430,11 @@ Helen Mulvana, Julien Reboud, Thomas Franke
 07/11/2016 - 07/11/2016
 Mo  13:00 - 14:00
 CTT ADAM SMITH:916
-Julien Reboud, Helen Mulvana, Thomas Franke
+Thomas Franke, Helen Mulvana, Julien Reboud
 21/11/2016 - 28/11/2016
 Mo  13:00 - 14:00
 CTT ADAM SMITH:916
-Helen Mulvana, Julien Reboud, Thomas Franke
+Thomas Franke, Julien Reboud, Helen Mulvana
 Collapse section ENG 4183 - Transportation Systems Engineering 4 ENG 4183 - Transportation Systems Engineering 4
 Class	Section	Status
 12947
@@ -12743,7 +12783,7 @@ Dates	Days & Times	Room	Instructor
 06/02/2017 - 06/02/2017
 Mo  14:00 - 15:30
 RANKINE:205 WATER ENG LAB
-Manousos Valyrakis, William Sloan
+William Sloan, Manousos Valyrakis
 Class	Section	Status
 8308
 Laboratory LB02-LAB S2
@@ -12763,7 +12803,7 @@ Dates	Days & Times	Room	Instructor
 10/02/2017 - 10/02/2017
 Fr  14:00 - 15:30
 RANKINE:205 WATER ENG LAB
-William Sloan, Manousos Valyrakis
+Manousos Valyrakis, William Sloan
 Class	Section	Status
 8310
 Laboratory LB04-LAB S2
@@ -12773,7 +12813,7 @@ Dates	Days & Times	Room	Instructor
 10/02/2017 - 10/02/2017
 Fr  15:30 - 17:00
 RANKINE:205 WATER ENG LAB
-William Sloan, Manousos Valyrakis
+Manousos Valyrakis, William Sloan
 Class	Section	Status
 8311
 Laboratory LB05-LAB S2
@@ -12793,7 +12833,7 @@ Dates	Days & Times	Room	Instructor
 17/02/2017 - 17/02/2017
 Fr  15:30 - 17:00
 RANKINE:205 WATER ENG LAB
-William Sloan, Manousos Valyrakis
+Manousos Valyrakis, William Sloan
 Class	Section	Status
 8305
 Lecture LC01-LEC S2
@@ -12803,7 +12843,7 @@ Dates	Days & Times	Room	Instructor
 09/01/2017 - 20/03/2017
 Mo  11:00 - 12:00
 CTT 10 UNIVERSITY GDN:203
-Manousos Valyrakis, William Sloan
+William Sloan, Manousos Valyrakis
 12/01/2017 - 23/03/2017
 Th  11:00 - 12:00
 CTT ADAM SMITH:711
@@ -12817,15 +12857,15 @@ Dates	Days & Times	Room	Instructor
 08/02/2017 - 08/02/2017
 We  13:00 - 14:00
 RANKINE:629 DRWG OFFICE
-Manousos Valyrakis, William Sloan
+William Sloan, Manousos Valyrakis
 01/03/2017 - 01/03/2017
 We  13:00 - 14:00
 RANKINE:629 DRWG OFFICE
-Manousos Valyrakis, William Sloan
+William Sloan, Manousos Valyrakis
 15/03/2017 - 15/03/2017
 We  13:00 - 14:00
 RANKINE:629 DRWG OFFICE
-William Sloan, Manousos Valyrakis
+Manousos Valyrakis, William Sloan
 Collapse section ENG 5026 - Design Special Topic 5 ENG 5026 - Design Special Topic 5
 Class	Section	Status
 13820

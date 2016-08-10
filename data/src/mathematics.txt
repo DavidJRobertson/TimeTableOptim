@@ -304,7 +304,7 @@ Andrew Wand
 15/09/2016 - 01/12/2016
 Th  10:00 - 11:00
 CTT KELVIN: 222 LT
-Joachim Zacharias, Andrew Wand, Joachim Zacharias
+Joachim Zacharias, Joachim Zacharias, Andrew Wand
 23/09/2016 - 02/12/2016
 Fr  10:00 - 11:00
 CTT KELVIN: 222 LT
@@ -386,7 +386,7 @@ Richard Steiner
 15/09/2016 - 22/09/2016
 Th  16:00 - 17:00
 CTT BOYD ORR:507 (LT C)
-Luigi Vergori, Luigi Vergori, Richard Steiner
+Luigi Vergori, Richard Steiner, Luigi Vergori
 23/09/2016 - 02/12/2016
 Fr  16:00 - 17:00
 CTT BOYD ORR:507 (LT C)
@@ -477,8 +477,8 @@ Tutorial TU09-TUT S1
 Open
 
 Dates	Days & Times	Room	Instructor
-TBA
-TBA
+28/09/2016 - 30/11/2016
+We  10:00 - 11:00
 TBA
 Staff
 Class	Section	Status
@@ -487,8 +487,8 @@ Tutorial TU10-TUT S1
 Open
 
 Dates	Days & Times	Room	Instructor
-TBA
-TBA
+28/09/2016 - 30/11/2016
+We  10:00 - 11:00
 TBA
 Staff
 Class	Section	Status
@@ -687,8 +687,8 @@ Tutorial TU30-TUT S1
 Open
 
 Dates	Days & Times	Room	Instructor
-TBA
-TBA
+29/09/2016 - 01/12/2016
+Th  10:00 - 11:00
 TBA
 Staff
 Class	Section	Status
@@ -1030,8 +1030,8 @@ Tutorial TU04-TUT S2
 Open
 
 Dates	Days & Times	Room	Instructor
-TBA
-TBA
+18/01/2017 - 22/03/2017
+We  10:00 - 11:00
 TBA
 Staff
 Class	Section	Status
@@ -1060,8 +1060,8 @@ Tutorial TU07-TUT S2
 Open
 
 Dates	Days & Times	Room	Instructor
-TBA
-TBA
+18/01/2017 - 22/03/2017
+We  10:00 - 11:00
 TBA
 Staff
 Class	Section	Status
@@ -1070,8 +1070,8 @@ Tutorial TU08-TUT S2
 Open
 
 Dates	Days & Times	Room	Instructor
-TBA
-TBA
+18/01/2017 - 22/03/2017
+We  10:00 - 11:00
 TBA
 Staff
 Class	Section	Status
@@ -1080,8 +1080,8 @@ Tutorial TU09-TUT S2
 Open
 
 Dates	Days & Times	Room	Instructor
-TBA
-TBA
+18/01/2017 - 22/03/2017
+We  10:00 - 11:00
 TBA
 Staff
 Class	Section	Status
@@ -1090,8 +1090,8 @@ Tutorial TU10-TUT S2
 Open
 
 Dates	Days & Times	Room	Instructor
-TBA
-TBA
+18/01/2017 - 22/03/2017
+We  10:00 - 11:00
 TBA
 Staff
 Class	Section	Status
@@ -1190,8 +1190,8 @@ Tutorial TU20-TUT S2
 Open
 
 Dates	Days & Times	Room	Instructor
-TBA
-TBA
+18/01/2017 - 22/03/2017
+We  11:00 - 12:00
 TBA
 Staff
 Class	Section	Status
@@ -1280,8 +1280,8 @@ Tutorial TU29-TUT S2
 Open
 
 Dates	Days & Times	Room	Instructor
-TBA
-TBA
+19/01/2017 - 23/03/2017
+Th  10:00 - 11:00
 TBA
 Staff
 Class	Section	Status
@@ -1340,8 +1340,8 @@ Tutorial TU35-TUT S2
 Open
 
 Dates	Days & Times	Room	Instructor
-TBA
-TBA
+19/01/2017 - 23/03/2017
+Th  11:00 - 12:00
 TBA
 Staff
 Class	Section	Status
@@ -1447,9 +1447,25 @@ Laboratory LB02-LAB S1
 Open
 
 Dates	Days & Times	Room	Instructor
-TBA
-TBA
-TBA
+26/09/2016 - 26/09/2016
+Mo  14:00 - 15:00
+BOYD ORR:418 LAB
+Staff
+10/10/2016 - 10/10/2016
+Mo  14:00 - 15:00
+BOYD ORR:418 LAB
+Staff
+24/10/2016 - 24/10/2016
+Mo  14:00 - 15:00
+BOYD ORR:418 LAB
+Staff
+07/11/2016 - 07/11/2016
+Mo  14:00 - 15:00
+BOYD ORR:418 LAB
+Staff
+21/11/2016 - 21/11/2016
+Mo  14:00 - 15:00
+BOYD ORR:418 LAB
 Staff
 Class	Section	Status
 7817
@@ -1587,9 +1603,25 @@ Laboratory LB08-LAB S1
 Open
 
 Dates	Days & Times	Room	Instructor
-TBA
-TBA
-TBA
+29/09/2016 - 29/09/2016
+Th  14:00 - 15:00
+BOYD ORR:418 LAB
+Staff
+13/10/2016 - 13/10/2016
+Th  14:00 - 15:00
+BOYD ORR:418 LAB
+Staff
+27/10/2016 - 27/10/2016
+Th  14:00 - 15:00
+BOYD ORR:418 LAB
+Staff
+10/11/2016 - 10/11/2016
+Th  14:00 - 15:00
+BOYD ORR:418 LAB
+Staff
+24/11/2016 - 24/11/2016
+Th  14:00 - 15:00
+BOYD ORR:418 LAB
 Staff
 Class	Section	Status
 7824
@@ -1597,9 +1629,25 @@ Laboratory LB09-LAB S1
 Open
 
 Dates	Days & Times	Room	Instructor
-TBA
-TBA
-TBA
+30/09/2016 - 30/09/2016
+Fr  14:00 - 15:00
+BOYD ORR:418 LAB
+Staff
+14/10/2016 - 14/10/2016
+Fr  14:00 - 15:00
+BOYD ORR:418 LAB
+Staff
+28/10/2016 - 28/10/2016
+Fr  14:00 - 15:00
+BOYD ORR:418 LAB
+Staff
+11/11/2016 - 11/11/2016
+Fr  14:00 - 15:00
+BOYD ORR:418 LAB
+Staff
+25/11/2016 - 25/11/2016
+Fr  14:00 - 15:00
+BOYD ORR:418 LAB
 Staff
 Class	Section	Status
 7825
@@ -1607,9 +1655,25 @@ Laboratory LB10-LAB S1
 Open
 
 Dates	Days & Times	Room	Instructor
-TBA
-TBA
-TBA
+30/09/2016 - 30/09/2016
+Fr  15:00 - 16:00
+BOYD ORR:418 LAB
+Staff
+14/10/2016 - 14/10/2016
+Fr  15:00 - 16:00
+BOYD ORR:418 LAB
+Staff
+28/10/2016 - 28/10/2016
+Fr  15:00 - 16:00
+BOYD ORR:418 LAB
+Staff
+11/11/2016 - 11/11/2016
+Fr  15:00 - 16:00
+BOYD ORR:418 LAB
+Staff
+25/11/2016 - 25/11/2016
+Fr  15:00 - 16:00
+BOYD ORR:418 LAB
 Staff
 Class	Section	Status
 7826
@@ -1904,11 +1968,11 @@ Dates	Days & Times	Room	Instructor
 20/09/2016 - 29/11/2016
 Tu  09:00 - 10:00
 CTT BOYD ORR:513 (LT D)
-Radostin Simitev
+Steven Roper
 22/09/2016 - 01/12/2016
 Th  09:00 - 10:00
 CTT BOYD ORR:513 (LT D)
-Radostin Simitev
+Steven Roper
 Class	Section	Status
 2104
 Lecture LC02-LEC S1
@@ -1932,11 +1996,11 @@ Dates	Days & Times	Room	Instructor
 20/09/2016 - 29/11/2016
 Tu  11:00 - 12:00
 CTT KELVIN: 222 LT
-Steven Roper
+Radostin Simitev
 22/09/2016 - 01/12/2016
 Th  11:00 - 12:00
 CTT KELVIN:312 LT
-Steven Roper
+Radostin Simitev
 Class	Section	Status
 2105
 Tutorial TU01-TUT S1
@@ -1955,7 +2019,7 @@ Open
 Dates	Days & Times	Room	Instructor
 26/09/2016 - 28/11/2016
 Mo  09:00 - 10:00
-TBA
+CTT ST ANDREWS:227
 Steven Roper
 Class	Section	Status
 2107
@@ -1973,10 +2037,10 @@ Tutorial TU04-TUT S1
 Open
 
 Dates	Days & Times	Room	Instructor
+26/09/2016 - 28/11/2016
+Mo  10:00 - 11:00
 TBA
-TBA
-TBA
-Staff
+Ghislain Fourier
 Class	Section	Status
 2109
 Tutorial TU05-TUT S1
@@ -2027,15 +2091,15 @@ Dates	Days & Times	Room	Instructor
 19/09/2016 - 19/09/2016
 Mo  09:00 - 10:00
 CTT GRAHAM KERR:224 MAIN LT
-Ghislain Fourier
+Peter Samuel Stewart
 21/09/2016 - 30/11/2016
 We  09:00 - 10:00
 CTT GRAHAM KERR:224 MAIN LT
-Ghislain Fourier
+Peter Samuel Stewart
 23/09/2016 - 02/12/2016
 Fr  09:00 - 10:00
 CTT BOYD ORR:513 (LT D)
-Ghislain Fourier
+Peter Samuel Stewart
 Class	Section	Status
 8015
 Lecture LC02-LEC S1
@@ -2045,15 +2109,15 @@ Dates	Days & Times	Room	Instructor
 19/09/2016 - 19/09/2016
 Mo  10:00 - 11:00
 CTT THOMSON BLDG:236 ANATOMY
-Ghislain Fourier
+Ulrich Kraehmer
 21/09/2016 - 30/11/2016
 We  10:00 - 11:00
 CTT THOMSON BLDG:236 ANATOMY
-Christina Cobbold
+Ulrich Kraehmer
 23/09/2016 - 02/12/2016
 Fr  10:00 - 11:00
 CTT THOMSON BLDG:236 ANATOMY
-Christina Cobbold
+Ulrich Kraehmer
 Class	Section	Status
 8016
 Lecture LC03-LEC S1
@@ -2063,15 +2127,15 @@ Dates	Days & Times	Room	Instructor
 19/09/2016 - 19/09/2016
 Mo  11:00 - 12:00
 CTT KELVIN: 222 LT
-Christina Cobbold
+Spiros Adams-Florou
 21/09/2016 - 30/11/2016
 We  11:00 - 12:00
 CTT KELVIN: 222 LT
-Ghislain Fourier
+Spiros Adams-Florou
 23/09/2016 - 02/12/2016
 Fr  11:00 - 12:00
 CTT KELVIN:312 LT
-Ghislain Fourier
+Spiros Adams-Florou
 Collapse section MATHS 2005 - Mathematics 2C: Topics In Applied Mathematics MATHS 2005 - Mathematics 2C: Topics In Applied Mathematics
 Class	Section	Status
 14874
@@ -2140,11 +2204,11 @@ Claire Gilson, Nicholas Hill
 27/02/2017 - 27/02/2017
 Mo  10:00 - 11:00
 CTT ADAM SMITH:915
-Claire Gilson, Nicholas Hill
+Nicholas Hill, Claire Gilson
 13/03/2017 - 13/03/2017
 Mo  10:00 - 11:00
 CTT ADAM SMITH:915
-Claire Gilson, Nicholas Hill
+Nicholas Hill, Claire Gilson
 Class	Section	Status
 9280
 Tutorial TU02-TUT S2
@@ -2158,19 +2222,19 @@ Claire Gilson, Nicholas Hill
 30/01/2017 - 30/01/2017
 Mo  12:00 - 13:00
 CTT ADAM SMITH:915
-Claire Gilson, Nicholas Hill
+Nicholas Hill, Claire Gilson
 13/02/2017 - 13/02/2017
 Mo  12:00 - 13:00
 CTT ADAM SMITH:915
-Nicholas Hill, Claire Gilson
+Claire Gilson, Nicholas Hill
 27/02/2017 - 27/02/2017
 Mo  12:00 - 13:00
 CTT ADAM SMITH:915
-Nicholas Hill, Claire Gilson
+Claire Gilson, Nicholas Hill
 13/03/2017 - 13/03/2017
 Mo  12:00 - 13:00
 CTT ADAM SMITH:915
-Claire Gilson, Nicholas Hill
+Nicholas Hill, Claire Gilson
 Class	Section	Status
 9282
 Tutorial TU03-TUT S2
@@ -2180,23 +2244,23 @@ Dates	Days & Times	Room	Instructor
 23/01/2017 - 23/01/2017
 Mo  10:00 - 11:00
 CTT ADAM SMITH:915
-Nicholas Hill, Claire Gilson
+Claire Gilson, Nicholas Hill
 06/02/2017 - 06/02/2017
 Mo  10:00 - 11:00
 CTT ADAM SMITH:915
-Nicholas Hill, Claire Gilson
+Claire Gilson, Nicholas Hill
 20/02/2017 - 20/02/2017
 Mo  10:00 - 11:00
 CTT ADAM SMITH:915
-Nicholas Hill, Claire Gilson
+Claire Gilson, Nicholas Hill
 06/03/2017 - 06/03/2017
 Mo  10:00 - 11:00
 CTT ADAM SMITH:915
-Claire Gilson, Nicholas Hill
+Nicholas Hill, Claire Gilson
 20/03/2017 - 20/03/2017
 Mo  10:00 - 11:00
 CTT ADAM SMITH:915
-Claire Gilson, Nicholas Hill
+Nicholas Hill, Claire Gilson
 Class	Section	Status
 9283
 Tutorial TU04-TUT S2
@@ -2206,23 +2270,23 @@ Dates	Days & Times	Room	Instructor
 23/01/2017 - 23/01/2017
 Mo  12:00 - 13:00
 CTT ADAM SMITH:915
-Nicholas Hill, Claire Gilson
+Claire Gilson, Nicholas Hill
 06/02/2017 - 06/02/2017
 Mo  12:00 - 13:00
 CTT ADAM SMITH:915
-Nicholas Hill, Claire Gilson
+Claire Gilson, Nicholas Hill
 20/02/2017 - 20/02/2017
 Mo  12:00 - 13:00
 CTT ADAM SMITH:915
-Nicholas Hill, Claire Gilson
+Claire Gilson, Nicholas Hill
 06/03/2017 - 06/03/2017
 Mo  12:00 - 13:00
 CTT ADAM SMITH:915
-Nicholas Hill, Claire Gilson
+Claire Gilson, Nicholas Hill
 20/03/2017 - 20/03/2017
 Mo  12:00 - 13:00
 CTT ADAM SMITH:915
-Claire Gilson, Nicholas Hill
+Nicholas Hill, Claire Gilson
 Class	Section	Status
 9284
 Tutorial TU05-TUT S2
@@ -2295,15 +2359,15 @@ Dates	Days & Times	Room	Instructor
 09/01/2017 - 09/01/2017
 Mo  09:00 - 10:00
 CTT GRAHAM KERR:224 MAIN LT
-Ghislain Fourier
+Joachim Zacharias
 11/01/2017 - 22/03/2017
 We  09:00 - 10:00
 CTT GRAHAM KERR:224 MAIN LT
-Ghislain Fourier
+Joachim Zacharias
 13/01/2017 - 24/03/2017
 Fr  09:00 - 10:00
 CTT KELVIN: 222 LT
-Ghislain Fourier
+Joachim Zacharias
 Class	Section	Status
 10829
 Lecture LC02-LEC S2
@@ -2313,15 +2377,15 @@ Dates	Days & Times	Room	Instructor
 09/01/2017 - 09/01/2017
 Mo  10:00 - 11:00
 CTT RANKINE:408  LT
-Liam Watson
+Andrew Baker
 11/01/2017 - 22/03/2017
 We  10:00 - 11:00
 CTT KELVIN: 222 LT
-Liam Watson
+Andrew Baker
 13/01/2017 - 24/03/2017
 Fr  10:00 - 11:00
 CTT KELVIN: 222 LT
-Liam Watson
+Andrew Baker
 Class	Section	Status
 10833
 Lecture LC03-LEC S2
@@ -3018,11 +3082,11 @@ Dates	Days & Times	Room	Instructor
 10/01/2017 - 21/03/2017
 Tu  09:00 - 10:00
 CTT ADAM SMITH:915
-David McConnell
+Stephen Watson
 13/01/2017 - 24/03/2017
 Fr  09:00 - 10:00
 CTT ADAM SMITH:915
-David McConnell
+Stephen Watson
 Collapse section MATHS 2025 - Mathematics 2T: Topics in Discrete Mathematics MATHS 2025 - Mathematics 2T: Topics in Discrete Mathematics
 Class	Section	Status
 12602
@@ -3069,7 +3133,7 @@ Richard Steiner, Kitty Meeks
 27/02/2017 - 27/02/2017
 Mo  13:00 - 14:00
 CTT WILT:114A/B SEM
-Kitty Meeks, Richard Steiner
+Richard Steiner, Kitty Meeks
 13/03/2017 - 13/03/2017
 Mo  13:00 - 14:00
 CTT WILT:114A/B SEM
@@ -3087,11 +3151,11 @@ Kitty Meeks, Richard Steiner
 06/02/2017 - 06/02/2017
 Mo  13:00 - 14:00
 CTT WILT:114A/B SEM
-Richard Steiner, Kitty Meeks
+Kitty Meeks, Richard Steiner
 20/02/2017 - 20/02/2017
 Mo  13:00 - 14:00
 CTT WILT:114A/B SEM
-Richard Steiner, Kitty Meeks
+Kitty Meeks, Richard Steiner
 06/03/2017 - 06/03/2017
 Mo  13:00 - 14:00
 CTT WILT:114A/B SEM
@@ -3099,7 +3163,7 @@ Kitty Meeks, Richard Steiner
 20/03/2017 - 20/03/2017
 Mo  13:00 - 14:00
 CTT WILT:114A/B SEM
-Kitty Meeks, Richard Steiner
+Richard Steiner, Kitty Meeks
 Collapse section MATHS 2027 - MATHEMATICS 2P: GRAPHS AND NETWORKS MATHS 2027 - MATHEMATICS 2P: GRAPHS AND NETWORKS
 Class	Section	Status
 14080
@@ -3515,7 +3579,7 @@ Staff
 22/09/2016 - 22/09/2016
 Th  10:00 - 12:00
 BOYD ORR:418 LAB
-David McConnell, Jonathan Nimmo
+Jonathan Nimmo, David McConnell
 30/09/2016 - 30/09/2016
 Fr  10:00 - 12:00
 BOYD ORR:418 LAB
@@ -3533,7 +3597,7 @@ Staff
 28/09/2016 - 28/09/2016
 We  12:00 - 14:00
 BOYD ORR:418 LAB
-Jonathan Nimmo, David McConnell, Christina Cobbold
+Christina Cobbold, Jonathan Nimmo, David McConnell
 22/09/2016 - 22/09/2016
 Th  14:00 - 16:00
 BOYD ORR:418 LAB
@@ -3734,10 +3798,10 @@ Tutorial TU05-TUT S2
 Open
 
 Dates	Days & Times	Room	Instructor
+13/01/2017 - 24/03/2017
+Fr  15:00 - 16:00
 TBA
-TBA
-TBA
-Staff
+David Mactaggart
 Collapse section MATHS 3021 - Mathematics 3R: Algebra MATHS 3021 - Mathematics 3R: Algebra
 Class	Section	Status
 14112
@@ -4035,9 +4099,9 @@ Tutorial TU05-TUT S1
 Open
 
 Dates	Days & Times	Room	Instructor
-TBA
-TBA
-TBA
+20/09/2016 - 29/11/2016
+Tu  12:00 - 13:00
+CTT GILMOREHILL HALLS:217B
 Staff
 Class	Section	Status
 3126
@@ -4045,9 +4109,9 @@ Tutorial TU06-TUT S1
 Open
 
 Dates	Days & Times	Room	Instructor
-06/10/2016 - 01/12/2016
+22/09/2016 - 01/12/2016
 Th  14:00 - 15:00
-CTT RANKINE:108 LT
+MATHS BLDG:104 VIDEO CONF
 Spiros Adams-Florou
 Collapse section MATHS 4073 - 3H: Analysis of Differentiation and Integration MATHS 4073 - 3H: Analysis of Differentiation and Integration
 Class	Section	Status
@@ -4616,10 +4680,10 @@ Tutorial TU01-TUT S2
 Open
 
 Dates	Days & Times	Room	Instructor
+10/01/2017 - 21/03/2017
+Tu  15:00 - 16:00
 TBA
-TBA
-TBA
-Staff
+Brendan Owens
 Class	Section	Status
 1228
 Tutorial TU02-TUT S2
@@ -4646,20 +4710,20 @@ Tutorial TU04-TUT S2
 Open
 
 Dates	Days & Times	Room	Instructor
+10/01/2017 - 21/03/2017
+Tu  15:00 - 16:00
 TBA
-TBA
-TBA
-Staff
+Spiros Adams-Florou
 Class	Section	Status
 1231
 Tutorial TU05-TUT S2
 Open
 
 Dates	Days & Times	Room	Instructor
+12/01/2017 - 23/03/2017
+Th  10:00 - 11:00
 TBA
-TBA
-TBA
-Staff
+Spiros Adams-Florou
 Collapse section MATHS 4078 - 3H: Mechanics of Rigid and Deformable Bodies MATHS 4078 - 3H: Mechanics of Rigid and Deformable Bodies
 Class	Section	Status
 13789
@@ -4735,10 +4799,10 @@ Tutorial TU05-TUT S2
 Open
 
 Dates	Days & Times	Room	Instructor
+13/01/2017 - 24/03/2017
+Fr  15:00 - 16:00
 TBA
-TBA
-TBA
-Staff
+David Mactaggart
 Collapse section MATHS 4079 - 3H: Writing and Presenting Mathematics MATHS 4079 - 3H: Writing and Presenting Mathematics
 Class	Section	Status
 15547
@@ -4756,6 +4820,10 @@ Laboratory LB01-LAB S1
 Open
 
 Dates	Days & Times	Room	Instructor
+20/09/2016 - 20/09/2016
+Tu  10:00 - 12:00
+BOYD ORR:417 LAB
+Staff
 28/09/2016 - 28/09/2016
 We  10:00 - 12:00
 BOYD ORR:417 LAB
@@ -4849,6 +4917,10 @@ Lecture LC01-LEC S2
 Open
 
 Dates	Days & Times	Room	Instructor
+09/01/2017 - 20/03/2017
+Mo  10:00 - 11:00
+TBA
+Luigi Vergori
 11/01/2017 - 22/03/2017
 We  10:00 - 11:00
 CTT ADAM SMITH:718 LECTURE
@@ -4983,10 +5055,14 @@ Lecture LC01-LEC S1
 Open
 
 Dates	Days & Times	Room	Instructor
+27/09/2016 - 22/11/2016
+Tu  11:00 - 12:00
 TBA
+Peter Samuel Stewart
+29/09/2016 - 24/11/2016
+Th  11:00 - 12:00
 TBA
-TBA
-Staff
+Peter Samuel Stewart
 Class	Section	Status
 10983
 Tutorial TU01-TUT S1
@@ -5076,6 +5152,10 @@ Dates	Days & Times	Room	Instructor
 17/01/2017 - 14/03/2017
 Tu  11:00 - 12:00
 CTT BOYD ORR:412 (LT B)
+Michael Whittaker
+19/01/2017 - 16/03/2017
+Th  11:00 - 12:00
+TBA
 Michael Whittaker
 Class	Section	Status
 10466
@@ -5191,6 +5271,10 @@ Lecture LC01-LEC S2
 Open
 
 Dates	Days & Times	Room	Instructor
+09/01/2017 - 20/03/2017
+Mo  09:00 - 10:00
+TBA
+Colin Torney
 11/01/2017 - 22/03/2017
 We  09:00 - 10:00
 CTT BOYD ORR:507 (LT C)

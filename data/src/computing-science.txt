@@ -204,19 +204,19 @@ Dates	Days & Times	Room	Instructor
 21/09/2016 - 30/11/2016
 We  12:00 - 13:00
 CTT GREGORY BLDG:109 MAIN LT
-John Williamson, Dimitrios Pezaros
+Dimitrios Pezaros, John Williamson
 23/09/2016 - 02/12/2016
 Fr  12:00 - 13:00
 CTT SIR ALEXANDER STONE:208 LT
-Dimitrios Pezaros, John Williamson
+John Williamson, Dimitrios Pezaros
 11/01/2017 - 22/03/2017
 We  12:00 - 13:00
 CTT WILT:105 LECT
-John Williamson, Dimitrios Pezaros
+Dimitrios Pezaros, John Williamson
 13/01/2017 - 24/03/2017
 Fr  12:00 - 13:00
 CTT WILT:105 LECT
-John Williamson, Dimitrios Pezaros
+Dimitrios Pezaros, John Williamson
 Collapse section COMPSCI 1002 - Computing Science - 1Q COMPSCI 1002 - Computing Science - 1Q
 Class	Section	Status
 15779
@@ -627,11 +627,11 @@ Dates	Days & Times	Room	Instructor
 20/09/2016 - 29/11/2016
 Tu  12:00 - 13:00
 CTT BOYD ORR:222 LEC THEATRE 2
-Craig Macdonald, Julie Ann Williamson
+Julie Ann Williamson, Craig Macdonald
 22/09/2016 - 01/12/2016
 Th  12:00 - 13:00
 CTT WILT:105 LECT
-Craig Macdonald, Julie Ann Williamson
+Julie Ann Williamson, Craig Macdonald
 10/01/2017 - 21/03/2017
 Tu  12:00 - 13:00
 CTT BOYD ORR:222 LEC THEATRE 2
@@ -648,7 +648,7 @@ Open
 Dates	Days & Times	Room	Instructor
 28/09/2016 - 30/11/2016
 We  14:00 - 15:00
-CTT ST ANDREWS:433A
+CTT ST ANDREWS:433A/B
 Staff
 11/01/2017 - 22/03/2017
 We  14:00 - 15:00
@@ -730,6 +730,10 @@ Tutorial TU07-TUT S12
 Open
 
 Dates	Days & Times	Room	Instructor
+29/09/2016 - 01/12/2016
+Th  14:00 - 15:00
+TBA
+Staff
 12/01/2017 - 23/03/2017
 Th  14:00 - 15:00
 CTT SIR ALEXANDER STONE:327
@@ -740,6 +744,10 @@ Tutorial TU08-TUT S12
 Open
 
 Dates	Days & Times	Room	Instructor
+29/09/2016 - 01/12/2016
+Th  14:00 - 15:00
+TBA
+Staff
 12/01/2017 - 23/03/2017
 Th  14:00 - 15:00
 CTT SIR ALEXANDER STONE:328
@@ -798,7 +806,7 @@ CTT ADAM SMITH:1101
 Staff
 13/01/2017 - 24/03/2017
 Fr  14:00 - 15:00
-SIR ALEXANDER STONE:329
+CTT SIR ALEXANDER STONE:329
 Staff
 Class	Section	Status
 12075
@@ -1137,7 +1145,7 @@ Dates	Days & Times	Room	Instructor
 11/01/2017 - 22/03/2017
 We  12:00 - 13:00
 CTT WILT:105 LECT
-Dimitrios Pezaros, John Williamson
+John Williamson, Dimitrios Pezaros
 13/01/2017 - 24/03/2017
 Fr  12:00 - 13:00
 CTT WILT:105 LECT
@@ -1400,8 +1408,8 @@ Tutorial TU03-TUT S2
 Open
 
 Dates	Days & Times	Room	Instructor
-TBA
-TBA
+12/01/2017 - 23/03/2017
+Th  14:00 - 15:00
 TBA
 Staff
 Class	Section	Status
@@ -1712,7 +1720,7 @@ Dates	Days & Times	Room	Instructor
 20/09/2016 - 29/11/2016
 Tu  12:00 - 13:00
 CTT BOYD ORR:222 LEC THEATRE 2
-Craig Macdonald, Julie Ann Williamson
+Julie Ann Williamson, Craig Macdonald
 22/09/2016 - 01/12/2016
 Th  12:00 - 13:00
 CTT WILT:105 LECT
@@ -1725,7 +1733,7 @@ Open
 Dates	Days & Times	Room	Instructor
 28/09/2016 - 30/11/2016
 We  14:00 - 15:00
-CTT ST ANDREWS:433A
+CTT ST ANDREWS:433A/B
 Staff
 Class	Section	Status
 9003
@@ -1783,8 +1791,8 @@ Tutorial TU07-TUT S1
 Open
 
 Dates	Days & Times	Room	Instructor
-TBA
-TBA
+29/09/2016 - 01/12/2016
+Th  14:00 - 15:00
 TBA
 Staff
 Class	Section	Status
@@ -1793,8 +1801,8 @@ Tutorial TU08-TUT S1
 Open
 
 Dates	Days & Times	Room	Instructor
-TBA
-TBA
+29/09/2016 - 01/12/2016
+Th  14:00 - 15:00
 TBA
 Staff
 Class	Section	Status
@@ -1870,7 +1878,7 @@ Open
 Dates	Days & Times	Room	Instructor
 30/09/2016 - 02/12/2016
 Fr  14:00 - 15:00
-TBA
+CTT ST ANDREWS:227
 Staff
 Class	Section	Status
 1234
@@ -1880,7 +1888,7 @@ Open
 Dates	Days & Times	Room	Instructor
 30/09/2016 - 02/12/2016
 Fr  14:00 - 15:00
-TBA
+CTT ST ANDREWS:227
 Staff
 Class	Section	Status
 1235
@@ -1890,7 +1898,7 @@ Open
 Dates	Days & Times	Room	Instructor
 30/09/2016 - 02/12/2016
 Fr  14:00 - 15:00
-TBA
+CTT ST ANDREWS:227
 Staff
 Class	Section	Status
 1236
@@ -1900,7 +1908,7 @@ Open
 Dates	Days & Times	Room	Instructor
 30/09/2016 - 02/12/2016
 Fr  15:00 - 16:00
-TBA
+CTT ST ANDREWS:227
 Staff
 Class	Section	Status
 1237
@@ -1910,7 +1918,7 @@ Open
 Dates	Days & Times	Room	Instructor
 30/09/2016 - 02/12/2016
 Fr  15:00 - 16:00
-TBA
+CTT ST ANDREWS:227
 Staff
 Class	Section	Status
 1238
@@ -1920,7 +1928,7 @@ Open
 Dates	Days & Times	Room	Instructor
 30/09/2016 - 02/12/2016
 Fr  15:00 - 16:00
-TBA
+CTT ST ANDREWS:227
 Staff
 Class	Section	Status
 1239
@@ -1930,7 +1938,7 @@ Open
 Dates	Days & Times	Room	Instructor
 30/09/2016 - 02/12/2016
 Fr  16:00 - 17:00
-TBA
+CTT ST ANDREWS:227
 Staff
 Class	Section	Status
 1240
@@ -1940,7 +1948,7 @@ Open
 Dates	Days & Times	Room	Instructor
 30/09/2016 - 02/12/2016
 Fr  16:00 - 17:00
-TBA
+CTT ST ANDREWS:227
 Staff
 Class	Section	Status
 1241
@@ -1950,7 +1958,7 @@ Open
 Dates	Days & Times	Room	Instructor
 30/09/2016 - 02/12/2016
 Fr  16:00 - 17:00
-TBA
+CTT ST ANDREWS:227
 Staff
 Collapse section COMPSCI 2005 - Computing Science 2T: Computer Systems 2 COMPSCI 2005 - Computing Science 2T: Computer Systems 2
 Class	Section	Status
@@ -2190,17 +2198,13 @@ Lecture LC01-LEC S1
 Open
 
 Dates	Days & Times	Room	Instructor
-25/10/2016 - 25/10/2016
+27/09/2016 - 27/09/2016
 Tu  11:00 - 12:00
 CTT MAIN BLD:255 HUMANITY LT
 Nikolaos Ntarmos
 22/09/2016 - 01/12/2016
 Th  11:00 - 12:00
 CTT JOHN MCINTYRE:201 FLAT
-Nikolaos Ntarmos
-27/09/2016 - 27/09/2016
-Tu  11:00 - 12:00
-CTT MAIN BLD:255 HUMANITY LT
 Nikolaos Ntarmos
 04/10/2016 - 04/10/2016
 Tu  11:00 - 12:00
@@ -2214,7 +2218,7 @@ Nikolaos Ntarmos
 Tu  11:00 - 12:00
 CTT MAIN BLD:255 HUMANITY LT
 Nikolaos Ntarmos
-29/11/2016 - 29/11/2016
+25/10/2016 - 25/10/2016
 Tu  11:00 - 12:00
 CTT MAIN BLD:255 HUMANITY LT
 Nikolaos Ntarmos
@@ -2231,6 +2235,10 @@ Tu  11:00 - 12:00
 CTT MAIN BLD:255 HUMANITY LT
 Nikolaos Ntarmos
 22/11/2016 - 22/11/2016
+Tu  11:00 - 12:00
+CTT MAIN BLD:255 HUMANITY LT
+Nikolaos Ntarmos
+29/11/2016 - 29/11/2016
 Tu  11:00 - 12:00
 CTT MAIN BLD:255 HUMANITY LT
 Nikolaos Ntarmos
@@ -2759,11 +2767,11 @@ Dates	Days & Times	Room	Instructor
 19/09/2016 - 28/11/2016
 Mo  11:00 - 12:00
 CTT ADAM SMITH:1115
-Mary Ellen Foster, Inah Omoronyia
+Inah Omoronyia, Mary Ellen Foster
 21/09/2016 - 30/11/2016
 We  13:00 - 14:00
 CTT ADAM SMITH:1115
-Inah Omoronyia, Mary Ellen Foster
+Mary Ellen Foster, Inah Omoronyia
 09/01/2017 - 20/03/2017
 Mo  11:00 - 12:00
 CTT ADAM SMITH:1115
@@ -2781,11 +2789,11 @@ Dates	Days & Times	Room	Instructor
 30/09/2016 - 02/12/2016
 Fr  13:00 - 14:00
 CTT ADAM SMITH:1115
-Mary Ellen Foster, Inah Omoronyia
+Inah Omoronyia, Mary Ellen Foster
 13/01/2017 - 24/03/2017
 Fr  13:00 - 14:00
 CTT ADAM SMITH:1115
-Mary Ellen Foster, Inah Omoronyia
+Inah Omoronyia, Mary Ellen Foster
 Collapse section COMPSCI 2021 - Computing Science 2U: Web Application Development 2 COMPSCI 2021 - Computing Science 2U: Web Application Development 2
 Class	Section	Status
 14015
@@ -2914,11 +2922,11 @@ David Manlove, Gerardo Aragon Camarasa
 27/01/2017 - 27/01/2017
 Fr  14:00 - 15:00
 CTT MAIN BLD:255 HUMANITY LT
-David Manlove, Gerardo Aragon Camarasa
+Gerardo Aragon Camarasa, David Manlove
 10/02/2017 - 10/02/2017
 Fr  14:00 - 15:00
 CTT MAIN BLD:255 HUMANITY LT
-David Manlove, Gerardo Aragon Camarasa
+Gerardo Aragon Camarasa, David Manlove
 24/02/2017 - 24/02/2017
 Fr  14:00 - 15:00
 CTT MAIN BLD:255 HUMANITY LT
@@ -2972,7 +2980,7 @@ Joemon Jose, Inah Omoronyia
 22/09/2016 - 22/09/2016
 Th  11:00 - 12:00
 CTT KELVIN: 222 LT
-Inah Omoronyia, Joemon Jose
+Joemon Jose, Inah Omoronyia
 Collapse section COMPSCI 3005 - Software Engineering M3 COMPSCI 3005 - Software Engineering M3
 Class	Section	Status
 13416
@@ -3072,11 +3080,11 @@ David Manlove, Felix Fischer
 29/09/2016 - 01/12/2016
 Th  14:00 - 15:00
 CTT RANKINE:107 LT
-Felix Fischer, David Manlove
+David Manlove, Felix Fischer
 30/09/2016 - 02/12/2016
 Fr  11:00 - 12:00
 CTT RANKINE:107 LT
-Felix Fischer, David Manlove
+David Manlove, Felix Fischer
 Collapse section COMPSCI 4004 - Artificial Intelligence (H) COMPSCI 4004 - Artificial Intelligence (H)
 Class	Section	Status
 13502
@@ -3125,7 +3133,7 @@ Open
 Dates	Days & Times	Room	Instructor
 26/09/2016 - 28/11/2016
 Mo  10:00 - 11:00
-TBA
+CTT ST ANDREWS:227
 John O'Donnell
 27/09/2016 - 29/11/2016
 Tu  13:00 - 14:00
@@ -3216,7 +3224,7 @@ Open
 Dates	Days & Times	Room	Instructor
 26/09/2016 - 28/11/2016
 Mo  15:00 - 17:00
-CTT KELVIN: 222 LT
+CTT DAVIDSON:208 MAIN LT
 Phil Trinder
 Class	Section	Status
 16852
@@ -3258,7 +3266,7 @@ Dates	Days & Times	Room	Instructor
 09/01/2017 - 13/03/2017
 Mo  14:00 - 16:00
 CTT DAVIDSON:208 MAIN LT
-Jeremy Singer, Christos Anagnostopoulos
+Christos Anagnostopoulos, Jeremy Singer
 Class	Section	Status
 11317
 Lecture LC01-LEC S2
@@ -3268,7 +3276,7 @@ Dates	Days & Times	Room	Instructor
 09/01/2017 - 13/03/2017
 Mo  10:00 - 12:00
 CTT JOHN MCINTYRE:201 FLAT
-Christos Anagnostopoulos, Jeremy Singer
+Jeremy Singer, Christos Anagnostopoulos
 Collapse section COMPSCI 4012 - Networked Systems (H) COMPSCI 4012 - Networked Systems (H)
 Class	Section	Status
 15215
@@ -3374,7 +3382,11 @@ Open
 Dates	Days & Times	Room	Instructor
 30/09/2016 - 02/12/2016
 Fr  14:00 - 15:00
-TBA
+CTT DAVIDSON:208 MAIN LT
+Helen Purchase
+30/09/2016 - 02/12/2016
+Fr  15:00 - 16:00
+BOYD ORR:720 LAB
 Helen Purchase
 Class	Section	Status
 3478
@@ -3416,7 +3428,7 @@ Dates	Days & Times	Room	Instructor
 28/09/2016 - 30/11/2016
 We  10:00 - 17:00
 BOYD ORR:720 LAB
-Jeremy Singer, Timothy Storer
+Timothy Storer, Jeremy Singer
 19/10/2016 - 19/10/2016
 We  12:00 - 13:30
 CTT KELVIN: 222 LT
@@ -3709,7 +3721,7 @@ Alessandro Vinciarelli, Ronald Poet
 22/09/2016 - 22/09/2016
 Th  11:00 - 13:00
 BOYD ORR:1028 LAB
-Alessandro Vinciarelli, Ronald Poet
+Ronald Poet, Alessandro Vinciarelli
 23/09/2016 - 23/09/2016
 Fr  11:00 - 13:00
 BOYD ORR:1028 LAB
@@ -3727,7 +3739,7 @@ Alessandro Vinciarelli, Ronald Poet
 20/09/2016 - 20/09/2016
 Tu  14:00 - 16:00
 BOYD ORR:1028 LAB
-Ronald Poet, Alessandro Vinciarelli
+Alessandro Vinciarelli, Ronald Poet
 27/09/2016 - 13/12/2016
 Tu  15:00 - 17:00
 BOYD ORR:1028 LAB
@@ -3758,10 +3770,14 @@ Alessandro Vinciarelli, Ronald Poet
 Tu  09:00 - 11:00
 CTT MAIN BLD:466 LECTURE TH
 Alessandro Vinciarelli, Ronald Poet
+18/10/2016 - 18/10/2016
+Tu  10:00 - 12:00
+TBA
+Alessandro Vinciarelli, Ronald Poet
 21/09/2016 - 21/09/2016
 We  09:00 - 11:00
 CTT ADAM SMITH:718 LECTURE
-Ronald Poet, Alessandro Vinciarelli
+Alessandro Vinciarelli, Ronald Poet
 22/09/2016 - 22/09/2016
 Th  09:00 - 11:00
 CTT ADAM SMITH:718 LECTURE
@@ -3769,15 +3785,59 @@ Alessandro Vinciarelli, Ronald Poet
 29/09/2016 - 15/12/2016
 Th  11:00 - 12:00
 CTT BOYD ORR:412 (LT B)
-Ronald Poet, Alessandro Vinciarelli
+Alessandro Vinciarelli, Ronald Poet
 29/09/2016 - 15/12/2016
 Th  13:00 - 14:00
 CTT ADAM SMITH:1115
-Alessandro Vinciarelli, Ronald Poet
+Ronald Poet, Alessandro Vinciarelli
 23/09/2016 - 23/09/2016
 Fr  09:00 - 11:00
 CTT ADAM SMITH:718 LECTURE
+Ronald Poet, Alessandro Vinciarelli
+08/11/2016 - 08/11/2016
+Tu  10:00 - 12:00
+TBA
 Alessandro Vinciarelli, Ronald Poet
+15/11/2016 - 15/11/2016
+Tu  10:00 - 12:00
+TBA
+Alessandro Vinciarelli, Ronald Poet
+22/11/2016 - 22/11/2016
+Tu  10:00 - 12:00
+TBA
+Alessandro Vinciarelli, Ronald Poet
+11/10/2016 - 11/10/2016
+Tu  10:00 - 12:00
+TBA
+Ronald Poet, Alessandro Vinciarelli
+25/10/2016 - 25/10/2016
+Tu  10:00 - 12:00
+TBA
+Alessandro Vinciarelli, Ronald Poet
+01/11/2016 - 01/11/2016
+Tu  10:00 - 12:00
+TBA
+Alessandro Vinciarelli, Ronald Poet
+27/09/2016 - 27/09/2016
+Tu  10:00 - 12:00
+TBA
+Ronald Poet, Alessandro Vinciarelli
+04/10/2016 - 04/10/2016
+Tu  10:00 - 12:00
+TBA
+Alessandro Vinciarelli, Ronald Poet
+29/11/2016 - 29/11/2016
+Tu  10:00 - 12:00
+TBA
+Alessandro Vinciarelli, Ronald Poet
+13/12/2016 - 13/12/2016
+Tu  10:00 - 12:00
+CTT ADAM SMITH:718 LECTURE
+Alessandro Vinciarelli, Ronald Poet
+06/12/2016 - 06/12/2016
+Tu  10:00 - 12:00
+CTT ADAM SMITH:718 LECTURE
+Ronald Poet, Alessandro Vinciarelli
 Class	Section	Status
 4752
 Tutorial TU01-TUT S1
@@ -3865,11 +3925,11 @@ Dates	Days & Times	Room	Instructor
 20/09/2016 - 20/09/2016
 Tu  11:00 - 12:00
 CTT RANKINE:408  LT
-Joemon Jose, Inah Omoronyia
+Inah Omoronyia, Joemon Jose
 22/09/2016 - 22/09/2016
 Th  11:00 - 12:00
 CTT KELVIN: 222 LT
-Joemon Jose, Inah Omoronyia
+Inah Omoronyia, Joemon Jose
 Collapse section COMPSCI 4045 - Safety-Critical Systems Development (H) COMPSCI 4045 - Safety-Critical Systems Development (H)
 Class	Section	Status
 14875
@@ -3940,7 +4000,7 @@ Dates	Days & Times	Room	Instructor
 20/09/2016 - 20/09/2016
 Tu  11:00 - 12:00
 CTT RANKINE:408  LT
-Inah Omoronyia, Joemon Jose
+Joemon Jose, Inah Omoronyia
 22/09/2016 - 22/09/2016
 Th  11:00 - 12:00
 CTT KELVIN: 222 LT
@@ -4191,11 +4251,11 @@ Dates	Days & Times	Room	Instructor
 20/09/2016 - 20/09/2016
 Tu  11:00 - 12:00
 CTT RANKINE:408  LT
-Inah Omoronyia, Joemon Jose
+Joemon Jose, Inah Omoronyia
 22/09/2016 - 22/09/2016
 Th  11:00 - 12:00
 CTT KELVIN: 222 LT
-Joemon Jose, Inah Omoronyia
+Inah Omoronyia, Joemon Jose
 Collapse section COMPSCI 4071 - Advanced Software Engineering Practices (H) COMPSCI 4071 - Advanced Software Engineering Practices (H)
 Class	Section	Status
 16790
@@ -4213,6 +4273,14 @@ Lecture LC01-LEC S2
 Open
 
 Dates	Days & Times	Room	Instructor
+18/10/2016 - 18/10/2016
+Tu  14:00 - 17:00
+CTT KELVIN:312 LT
+Timothy Storer
+29/09/2016 - 01/12/2016
+Th  14:00 - 15:00
+CTT RANKINE:108 LT
+Timothy Storer
 10/01/2017 - 14/03/2017
 Tu  14:00 - 17:00
 CTT WOLFSON MED:257 SEM 2-HUGH
@@ -4220,6 +4288,42 @@ Timothy Storer
 26/01/2017 - 26/01/2017
 Th  14:00 - 15:00
 CTT JOSEPH BLACK:A504 THEORETI
+Timothy Storer
+11/10/2016 - 11/10/2016
+Tu  14:00 - 17:00
+CTT KELVIN:312 LT
+Timothy Storer
+25/10/2016 - 25/10/2016
+Tu  14:00 - 17:00
+CTT BOYD ORR:412 (LT B)
+Timothy Storer
+22/11/2016 - 22/11/2016
+Tu  14:00 - 17:00
+CTT BOYD ORR:412 (LT B)
+Timothy Storer
+29/11/2016 - 29/11/2016
+Tu  14:00 - 17:00
+CTT BOYD ORR:412 (LT B)
+Timothy Storer
+01/11/2016 - 01/11/2016
+Tu  14:00 - 17:00
+CTT BOYD ORR:412 (LT B)
+Timothy Storer
+08/11/2016 - 08/11/2016
+Tu  14:00 - 17:00
+CTT BOYD ORR:412 (LT B)
+Timothy Storer
+15/11/2016 - 15/11/2016
+Tu  14:00 - 17:00
+CTT BOYD ORR:412 (LT B)
+Timothy Storer
+27/09/2016 - 27/09/2016
+Tu  14:00 - 17:00
+CTT SIR ALEXANDER STONE:204
+Timothy Storer
+04/10/2016 - 04/10/2016
+Tu  14:00 - 17:00
+CTT SIR ALEXANDER STONE:204
 Timothy Storer
 19/01/2017 - 19/01/2017
 Th  14:00 - 15:00
@@ -4229,7 +4333,11 @@ Timothy Storer
 Th  14:00 - 15:00
 CTT SIR ALEXANDER STONE:204
 Timothy Storer
-09/02/2017 - 09/02/2017
+16/03/2017 - 16/03/2017
+Th  14:00 - 15:00
+CTT SIR ALEXANDER STONE:204
+Timothy Storer
+16/02/2017 - 16/02/2017
 Th  14:00 - 15:00
 CTT SIR ALEXANDER STONE:204
 Timothy Storer
@@ -4245,15 +4353,11 @@ Timothy Storer
 Th  14:00 - 15:00
 CTT SIR ALEXANDER STONE:204
 Timothy Storer
-16/03/2017 - 16/03/2017
-Th  14:00 - 15:00
-CTT SIR ALEXANDER STONE:204
-Timothy Storer
 12/01/2017 - 12/01/2017
 Th  14:00 - 15:00
 CTT SIR ALEXANDER STONE:204
 Timothy Storer
-16/02/2017 - 16/02/2017
+09/02/2017 - 09/02/2017
 Th  14:00 - 15:00
 CTT SIR ALEXANDER STONE:204
 Timothy Storer
