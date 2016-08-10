@@ -47,12 +47,14 @@ $(function() {
     $(".tt-cell").removeClass("tt-event");
 
     // now insert the new data
+    var weekStart = (weekCode-1)*7;
+    var weekEnd   = weekStart + 6;
+
     var weekIndex = new Date(data["start_dates"]["semester_1"] + "T13:00:00");
-    var weekStart = addDays(weekIndex, ((weekCode-1)*7));
-    var weekEnd = addDays(weekStart, 7);
+    var weekStartDate = addDays(weekIndex, weekStart);
 
     $("#tt-week-code").html(weekCode);
-    $("#tt-week-start").html(weekStart.toISOString().slice(0, 10));
+    $("#tt-week-start").html(weekStartDate.toISOString().slice(0, 10));
 
     var weekEvents = [
       // 9   10   11   12   13   14   15   16   17
@@ -68,9 +70,9 @@ $(function() {
     var sections = data["sections"];
     $.each(sections, function(sectionIndex, section) {
       $.each(section["dates"], function(dateIndex, secDate) {
-        var d = new Date(secDate[0] + "T13:00:00");
+        var d = secDate[0];
         if (d >= weekStart && d < weekEnd) {
-          var day  = (d - weekStart)/(1000*60*60*24); // day of week
+          var day  = d - weekStart; // day of week
           var time = secDate[1];
           var val = {"course": section["course"], "section": section["name"], "type": section["type"]};
           weekEvents[day][time-9] = val;

@@ -4,6 +4,9 @@ require 'date'
 require 'json'
 require_relative 'csp'
 
+SEM1_START = Date.parse("2016-09-19")
+SEM2_START = Date.parse("2017-01-09")
+
 class Section
   def initialize(data, course)
     @course = course
@@ -31,8 +34,15 @@ class Section
     (@dates & other.dates).length > 0
   end
 
+  def ndates
+    sem1_start = Date.parse("2016-09-19")
+    @dates.map do |d|
+      [(d[0]-sem1_start).to_i, d[1]]
+    end
+  end
+
   def to_json(options=nil)
-    {'course' => @course, 'type' => @type, 'name' => @name, 'status' => @status, 'dates' => @dates}.to_json
+    {'course' => @course, 'type' => @type, 'name' => @name, 'status' => @status, 'dates' => ndates}.to_json
   end
 end
 

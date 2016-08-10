@@ -52,8 +52,8 @@ class TimetableOptim < Sinatra::Base
 
     json({
       "start_dates" => {
-        "semester_1": "2016-09-19",
-        "semester_2": "2017-01-09"
+        "semester_1": SEM1_START,
+        "semester_2": SEM2_START
       },
       "courses"  => @courses.map{|c| {c.code => c.title} }.inject(:merge),
       "sections" => (@solution ? @solution.values : nil),
